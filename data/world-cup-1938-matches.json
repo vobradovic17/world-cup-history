@@ -1,0 +1,1249 @@
+{
+  "tournament": "FIFA World Cup 1938",
+  "host_country": "France",
+  "matches_played": 18,
+  "substitution_policy": "No in-match substitutions were permitted in the 1938 FIFA World Cup, so every match has an empty substitutions array.",
+  "cancelled_fixtures": [
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "home_team": "Austria",
+      "away_team": "Sweden",
+      "reason": "Austria withdrew after the Anschluss and the match was not played."
+    }
+  ],
+  "sources": [
+    "https://www.rsssf.org/tables/38full.html",
+    "https://fbref.com/en/comps/1/1938/schedule/1938-World-Cup-Scores-and-Fixtures",
+    "https://github.com/openfootball/worldcup.json/blob/master/1938/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1938-06-04",
+      "stage": "Round of 16",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Switzerland",
+      "away_team": "Germany",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Willy HUBER",
+          "August LEHMANN",
+          "Severino MINELLI",
+          "Ernst LOERTSCHER",
+          "Hermann SPRINGER",
+          "Sirio VERNATI",
+          "Andre ABEGGLEN",
+          "Georges AEBY",
+          "Lauro AMADO",
+          "Fredy BICKEL",
+          "Eugen WALASCHEK"
+        ],
+        "away": [
+          "Rudolf RAFTL",
+          "Paul JANES",
+          "Willibald SCHMAUS",
+          "Albin KITZINGER",
+          "Andreas KUPFER",
+          "Hans MOCK",
+          "Josef GAUCHEL",
+          "Rudolf GELLESCH",
+          "Wilhelm HAHNEMANN",
+          "Ernest LEHNER",
+          "Hans PESSER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Josef GAUCHEL",
+          "minute": "29"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Andre ABEGGLEN",
+          "minute": "43"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Germany's Pesser was sent off in the 96th minute.",
+        "The match was replayed."
+      ]
+    },
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "venue": "Stade Chapou",
+      "city": "Toulouse",
+      "home_team": "Cuba",
+      "away_team": "Romania",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Benito CARVAJALES",
+          "Jacinto BARQUIN",
+          "Manuel CHORENS",
+          "Joaquin ARIAS",
+          "Pedro BERGES",
+          "Tomas FERNANDEZ",
+          "Jose RODRIGUEZ",
+          "Hector SOCORRO",
+          "Mario SOSA",
+          "Juan TUNAS",
+          "Jose MAGRINA"
+        ],
+        "away": [
+          "Dumitru PAVLOVICI",
+          "Rudolf BUERGER",
+          "Vasile CHIROIU",
+          "Vintila COSSINI",
+          "Gheorghe RASINARU",
+          "Ladislau RAFFINSKY",
+          "Iuliu BARATKY",
+          "Silviu BINDEA",
+          "Iuliu BODOLA",
+          "Stefan DOBAY",
+          "Nicolae KOVACS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Silviu BINDEA",
+          "minute": "35"
+        },
+        {
+          "team": "Cuba",
+          "player": "Hector SOCORRO",
+          "minute": "44"
+        },
+        {
+          "team": "Cuba",
+          "player": "Jose MAGRINA",
+          "minute": "69"
+        },
+        {
+          "team": "Romania",
+          "player": "Iuliu BARATKY",
+          "minute": "88"
+        },
+        {
+          "team": "Cuba",
+          "player": "Hector SOCORRO",
+          "minute": "103"
+        },
+        {
+          "team": "Romania",
+          "player": "Stefan DOBAY",
+          "minute": "105"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The match was replayed."
+      ]
+    },
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "venue": "Stade de la Cavée Verte",
+      "city": "Le Havre",
+      "home_team": "Czechoslovakia",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Frantisek PLANICKA",
+          "Jaroslav BURGR",
+          "Ferdinand DAUCIK",
+          "Jaroslav BOUCEK",
+          "Vlastimil KOPECKY",
+          "Josef KOSTALEK",
+          "Oldrich NEJEDLY",
+          "Jan RIHA",
+          "Oldrich RULC",
+          "Ladislav SIMUNEK",
+          "Josef ZEMAN"
+        ],
+        "away": [
+          "Adriaan VAN MALE",
+          "Bertus CALDENHOVE",
+          "Mauk WEBER",
+          "Puck VAN HEEL",
+          "Willem ANDERIESEN",
+          "Bas PAAUWE",
+          "Kick SMIT",
+          "Bertus DE HARDER",
+          "Frans VAN DER VEEN",
+          "Leen VENTE",
+          "Frank WELS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Josef KOSTALEK",
+          "minute": "93"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Josef ZEMAN",
+          "minute": "111"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "118"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "venue": "Stade Olympique de Colombes",
+      "city": "Paris",
+      "home_team": "France",
+      "away_team": "Belgium",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Laurent DI LORTO",
+          "Hector CAZENAVE",
+          "Raoul DIAGNE",
+          "Etienne MATTLER",
+          "Auguste JORDAN",
+          "Jean BASTIEN",
+          "Edmond DELFOUR",
+          "Oscar HEISSERER",
+          "Emile VEINANTE",
+          "Alfred ASTON",
+          "Jean NICOLAS"
+        ],
+        "away": [
+          "Arnold BADJOU",
+          "Robert PAVERICK",
+          "Corneel SEYS",
+          "Alphonse DE WINTER",
+          "Emile STIJNEN",
+          "John VAN ALPHEN",
+          "Raymond BRAINE",
+          "Fernand BUYLE",
+          "Henri ISEMBORGHS",
+          "Charles VANDEWOUWER",
+          "Bernard VOORHOOF"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Emile VEINANTE",
+          "minute": "1"
+        },
+        {
+          "team": "France",
+          "player": "Jean NICOLAS",
+          "minute": "16"
+        },
+        {
+          "team": "Belgium",
+          "player": "Henri ISEMBORGHS",
+          "minute": "38"
+        },
+        {
+          "team": "France",
+          "player": "Jean NICOLAS",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "venue": "Stade Vélodrome Municipal",
+      "city": "Reims",
+      "home_team": "Hungary",
+      "away_team": "Dutch East Indies",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jozsef HADA",
+          "Sandor BIRO",
+          "Lajos KORANYI",
+          "Gyula LAZAR",
+          "Istvan BALOGH",
+          "Jozsef TURAY",
+          "Gyorgy SAROSI",
+          "Gyula ZSENGELLER",
+          "Vilmos KOHUT",
+          "Ferenc SAS",
+          "Geza TOLDI"
+        ],
+        "away": [
+          "Mo Heng TAN",
+          "Frans HUKON",
+          "Tjaak PATTIWAEL",
+          "Jack SAMUELS",
+          "Anwar SUTAN",
+          "Frans MEENG",
+          "Achmad NAWIR",
+          "Hans TAIHUTTU",
+          "Hong Djien TAN",
+          "Suvarte SOEDARMADJI",
+          "Henk SOMMERS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Vilmos KOHUT",
+          "minute": "13"
+        },
+        {
+          "team": "Hungary",
+          "player": "Geza TOLDI",
+          "minute": "15"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyorgy SAROSI",
+          "minute": "28"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyula ZSENGELLER",
+          "minute": "35"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyula ZSENGELLER",
+          "minute": "76"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyorgy SAROSI",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Italy",
+      "away_team": "Norway",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Aldo OLIVIERI",
+          "Eraldo MONZEGLIO",
+          "Pietro RAVA",
+          "Michele ANDREOLO",
+          "Giovanni FERRARI",
+          "Ugo LOCATELLI",
+          "Pietro SERANTONI",
+          "Pietro FERRARIS",
+          "Giuseppe MEAZZA",
+          "Silvio PIOLA",
+          "Piero PASINATI"
+        ],
+        "away": [
+          "Henry JOHANSEN",
+          "Oivind HOLMSEN",
+          "Rolf JOHANNESEN",
+          "Nils ERIKSEN",
+          "Kristian HENRIKSEN",
+          "Rolf HOLMBERG",
+          "Arne BRUSTAD",
+          "Knut BRYNILDSEN",
+          "Odd FRANTZEN",
+          "Magnar ISAKSEN",
+          "Reidar KVAMMEN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Pietro FERRARIS",
+          "minute": "2"
+        },
+        {
+          "team": "Norway",
+          "player": "Arne BRUSTAD",
+          "minute": "83"
+        },
+        {
+          "team": "Italy",
+          "player": "Silvio PIOLA",
+          "minute": "94"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-05",
+      "stage": "Round of 16",
+      "venue": "Stade de la Meinau",
+      "city": "Strasbourg",
+      "home_team": "Brazil",
+      "away_team": "Poland",
+      "score": {
+        "home": 6,
+        "away": 5
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "BATATAIS",
+          "DOMINGOS DA GUIA",
+          "MACHADO",
+          "MARTIM",
+          "AFONSINHO",
+          "ZEZE PROCOPIO",
+          "HERCULES",
+          "LOPES",
+          "PERACIO",
+          "LEONIDAS",
+          "ROMEU"
+        ],
+        "away": [
+          "Edward MADEJSKI",
+          "Antoni GALECKI",
+          "Wladyslaw SZSZEPANIAK",
+          "Ewald DYTKO",
+          "Wilhelm GORA",
+          "Erwin NYC",
+          "Ernest WILIMOWSKI",
+          "Ryszard PIEC",
+          "Leonard PIONTEK",
+          "Fryedryk SZERFKE",
+          "Gerard WODARZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "18"
+        },
+        {
+          "team": "Poland",
+          "player": "Fryedryk SZERFKE",
+          "minute": "23",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "ROMEU",
+          "minute": "25"
+        },
+        {
+          "team": "Brazil",
+          "player": "PERACIO",
+          "minute": "44"
+        },
+        {
+          "team": "Poland",
+          "player": "Ernest WILIMOWSKI",
+          "minute": "53"
+        },
+        {
+          "team": "Poland",
+          "player": "Ernest WILIMOWSKI",
+          "minute": "59"
+        },
+        {
+          "team": "Brazil",
+          "player": "PERACIO",
+          "minute": "71"
+        },
+        {
+          "team": "Poland",
+          "player": "Ernest WILIMOWSKI",
+          "minute": "89"
+        },
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "93"
+        },
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "104"
+        },
+        {
+          "team": "Poland",
+          "player": "Ernest WILIMOWSKI",
+          "minute": "118"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-09",
+      "stage": "Round of 16 replay",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Switzerland",
+      "away_team": "Germany",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Willy HUBER",
+          "August LEHMANN",
+          "Severino MINELLI",
+          "Ernst LOERTSCHER",
+          "Hermann SPRINGER",
+          "Sirio VERNATI",
+          "Andre ABEGGLEN",
+          "Georges AEBY",
+          "Lauro AMADO",
+          "Fredy BICKEL",
+          "Eugen WALASCHEK"
+        ],
+        "away": [
+          "Rudolf RAFTL",
+          "Paul JANES",
+          "Jakob STREITLE",
+          "Ludwig GOLDBRUNNER",
+          "Andreas KUPFER",
+          "Stefan SKOUMAL",
+          "Wilhelm HAHNEMANN",
+          "Ernest LEHNER",
+          "Leopold NEUMER",
+          "Josef STROH",
+          "Fritz SZEPAN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Wilhelm HAHNEMANN",
+          "minute": "8"
+        },
+        {
+          "team": "Germany",
+          "player": "Ernst LOERTSCHER",
+          "minute": "22",
+          "own_goal": true
+        },
+        {
+          "team": "Switzerland",
+          "player": "Eugen WALASCHEK",
+          "minute": "42"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Fredy BICKEL",
+          "minute": "64"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Andre ABEGGLEN",
+          "minute": "75"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Andre ABEGGLEN",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some sources award the own goal to Germany's Ernst Lehner instead."
+      ]
+    },
+    {
+      "date": "1938-06-09",
+      "stage": "Round of 16 replay",
+      "venue": "Stade Chapou",
+      "city": "Toulouse",
+      "home_team": "Cuba",
+      "away_team": "Romania",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Juan AYRA",
+          "Jacinto BARQUIN",
+          "Manuel CHORENS",
+          "Joaquin ARIAS",
+          "Pedro BERGES",
+          "Tomas FERNANDEZ",
+          "Jose RODRIGUEZ",
+          "Hector SOCORRO",
+          "Mario SOSA",
+          "Juan TUNAS",
+          "Jose MAGRINA"
+        ],
+        "away": [
+          "Robert SADOWSKY",
+          "Rudolf BUERGER",
+          "Iacob FELECAN",
+          "Andrei BARBULESCU",
+          "Gheorghe RASINARU",
+          "Ladislau RAFFINSKY",
+          "Iuliu BARATKY",
+          "Ionica BOGDAN",
+          "Stefan DOBAY",
+          "Ioachim MOLDOVEANU",
+          "Iuliu PRASSLER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Stefan DOBAY",
+          "minute": "35"
+        },
+        {
+          "team": "Cuba",
+          "player": "Hector SOCORRO",
+          "minute": "51"
+        },
+        {
+          "team": "Cuba",
+          "player": "Tomas FERNANDEZ",
+          "minute": "57"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-12",
+      "stage": "Quarter-final",
+      "venue": "Stade Olympique de Colombes",
+      "city": "Paris",
+      "home_team": "Italy",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Aldo OLIVIERI",
+          "Pietro RAVA",
+          "Alfredo FONI",
+          "Michele ANDREOLO",
+          "Giovanni FERRARI",
+          "Ugo LOCATELLI",
+          "Pietro SERANTONI",
+          "Amedeo BIAVATI",
+          "Gino COLAUSSI",
+          "Giuseppe MEAZZA",
+          "Silvio PIOLA"
+        ],
+        "away": [
+          "Laurent DI LORTO",
+          "Hector CAZENAVE",
+          "Raoul DIAGNE",
+          "Etienne MATTLER",
+          "Auguste JORDAN",
+          "Jean BASTIEN",
+          "Edmond DELFOUR",
+          "Oscar HEISSERER",
+          "Emile VEINANTE",
+          "Alfred ASTON",
+          "Jean NICOLAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Gino COLAUSSI",
+          "minute": "9"
+        },
+        {
+          "team": "France",
+          "player": "Oscar HEISSERER",
+          "minute": "10"
+        },
+        {
+          "team": "Italy",
+          "player": "Silvio PIOLA",
+          "minute": "51"
+        },
+        {
+          "team": "Italy",
+          "player": "Silvio PIOLA",
+          "minute": "72"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-12",
+      "stage": "Quarter-final",
+      "venue": "Stade du Fort Carré",
+      "city": "Antibes",
+      "home_team": "Sweden",
+      "away_team": "Cuba",
+      "score": {
+        "home": 8,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Henock ABRAHAMSSON",
+          "Ivar ERIKSSON",
+          "Olle KALLGREN",
+          "Erik ALMGREN",
+          "Sven JACOBSSON",
+          "Kurt SVANSTROM",
+          "Harry ANDERSSON",
+          "Sven JONASSON",
+          "Tore KELLER",
+          "Arne NYBERG",
+          "Gustav WETTERSTROM"
+        ],
+        "away": [
+          "Benito CARVAJALES",
+          "Jacinto BARQUIN",
+          "Manuel CHORENS",
+          "Joaquin ARIAS",
+          "Pedro BERGES",
+          "Tomas FERNANDEZ",
+          "Jose RODRIGUEZ",
+          "Juan ALONSO",
+          "Pedro FERRER",
+          "Hector SOCORRO",
+          "Juan TUNAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Harry ANDERSSON",
+          "minute": "9"
+        },
+        {
+          "team": "Sweden",
+          "player": "Gustav WETTERSTROM",
+          "minute": "22"
+        },
+        {
+          "team": "Sweden",
+          "player": "Gustav WETTERSTROM",
+          "minute": "37"
+        },
+        {
+          "team": "Sweden",
+          "player": "Gustav WETTERSTROM",
+          "minute": "44"
+        },
+        {
+          "team": "Sweden",
+          "player": "Tore KELLER",
+          "minute": "80"
+        },
+        {
+          "team": "Sweden",
+          "player": "Harry ANDERSSON",
+          "minute": "81"
+        },
+        {
+          "team": "Sweden",
+          "player": "Arne NYBERG",
+          "minute": "84"
+        },
+        {
+          "team": "Sweden",
+          "player": "Harry ANDERSSON",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Cuba's Fernández missed a penalty in the 42nd minute."
+      ]
+    },
+    {
+      "date": "1938-06-12",
+      "stage": "Quarter-final",
+      "venue": "Stade Victor Boucquey",
+      "city": "Lille",
+      "home_team": "Hungary",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Antal SZABO",
+          "Sandor BIRO",
+          "Lajos KORANYI",
+          "Gyula LAZAR",
+          "Antal SZALAY",
+          "Jozsef TURAY",
+          "Gyorgy SAROSI",
+          "Gyula ZSENGELLER",
+          "Vilmos KOHUT",
+          "Ferenc SAS",
+          "Jeno VINCZE"
+        ],
+        "away": [
+          "Willy HUBER",
+          "August LEHMANN",
+          "Adolf STELZER",
+          "Ernst LOERTSCHER",
+          "Hermann SPRINGER",
+          "Sirio VERNATI",
+          "Andre ABEGGLEN",
+          "Lauro AMADO",
+          "Fredy BICKEL",
+          "Tullio GRASSI",
+          "Eugen WALASCHEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Gyorgy SAROSI",
+          "minute": "40"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyula ZSENGELLER",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-12",
+      "stage": "Quarter-final",
+      "venue": "Parc de Lescure",
+      "city": "Bordeaux",
+      "home_team": "Brazil",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "WALTER GOULART",
+          "DOMINGOS DA GUIA",
+          "MACHADO",
+          "MARTIM",
+          "AFONSINHO",
+          "ZEZE PROCOPIO",
+          "HERCULES",
+          "LOPES",
+          "PERACIO",
+          "LEONIDAS",
+          "ROMEU"
+        ],
+        "away": [
+          "Frantisek PLANICKA",
+          "Jaroslav BURGR",
+          "Ferdinand DAUCIK",
+          "Jaroslav BOUCEK",
+          "Josef KOSTALEK",
+          "Vlastimil KOPECKY",
+          "Oldrich NEJEDLY",
+          "Antonin PUC",
+          "Josef LUDL",
+          "Jan RIHA",
+          "Ladislav SIMUNEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "30"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "65",
+          "penalty": true
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Brazil's Zezé and Machado and Czechoslovakia's Říha were sent off. The match was replayed."
+      ]
+    },
+    {
+      "date": "1938-06-14",
+      "stage": "Quarter-final replay",
+      "venue": "Parc de Lescure",
+      "city": "Bordeaux",
+      "home_team": "Brazil",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "WALTER GOULART",
+          "JAU",
+          "NARIZ",
+          "BRANDAO",
+          "BRITTO",
+          "ARGEMIRO",
+          "ROBERTO",
+          "PATESKO",
+          "LEONIDAS",
+          "LUISINHO",
+          "TIM"
+        ],
+        "away": [
+          "Karel BURKERT",
+          "Jaroslav BURGR",
+          "Ferdinand DAUCIK",
+          "Jaroslav BOUCEK",
+          "Vlastimil KOPECKY",
+          "Josef KOSTALEK",
+          "Vaclav HORAK",
+          "Arnost KREUZ",
+          "Josef LUDL",
+          "Karel SENECKY",
+          "Oldrich RULC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Vlastimil KOPECKY",
+          "minute": "25"
+        },
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "57"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROBERTO",
+          "minute": "63"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-16",
+      "stage": "Semi-final",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Hungary",
+      "away_team": "Sweden",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Antal SZABO",
+          "Sandor BIRO",
+          "Lajos KORANYI",
+          "Gyula LAZAR",
+          "Antal SZALAY",
+          "Jozsef TURAY",
+          "Gyorgy SAROSI",
+          "Pal TITKOS",
+          "Gyula ZSENGELLER",
+          "Ferenc SAS",
+          "Geza TOLDI"
+        ],
+        "away": [
+          "Henock ABRAHAMSSON",
+          "Ivar ERIKSSON",
+          "Olle KALLGREN",
+          "Erik ALMGREN",
+          "Sven JACOBSSON",
+          "Kurt SVANSTROM",
+          "Harry ANDERSSON",
+          "Sven JONASSON",
+          "Tore KELLER",
+          "Arne NYBERG",
+          "Gustav WETTERSTROM"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Arne NYBERG",
+          "minute": "1"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sven JACOBSSON",
+          "minute": "19",
+          "own_goal": true
+        },
+        {
+          "team": "Hungary",
+          "player": "Pal TITKOS",
+          "minute": "37"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyula ZSENGELLER",
+          "minute": "39"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyorgy SAROSI",
+          "minute": "65"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyula ZSENGELLER",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some sources credit Sweden's own goal to Gyula Zsengellér instead."
+      ]
+    },
+    {
+      "date": "1938-06-16",
+      "stage": "Semi-final",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Italy",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Aldo OLIVIERI",
+          "Pietro RAVA",
+          "Alfredo FONI",
+          "Michele ANDREOLO",
+          "Giovanni FERRARI",
+          "Ugo LOCATELLI",
+          "Pietro SERANTONI",
+          "Amedeo BIAVATI",
+          "Gino COLAUSSI",
+          "Giuseppe MEAZZA",
+          "Silvio PIOLA"
+        ],
+        "away": [
+          "WALTER GOULART",
+          "DOMINGOS DA GUIA",
+          "MACHADO",
+          "MARTIM",
+          "AFONSINHO",
+          "ZEZE PROCOPIO",
+          "LOPES",
+          "PERACIO",
+          "PATESKO",
+          "LUISINHO",
+          "ROMEU"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Gino COLAUSSI",
+          "minute": "51"
+        },
+        {
+          "team": "Italy",
+          "player": "Giuseppe MEAZZA",
+          "minute": "60",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "ROMEU",
+          "minute": "87"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1938-06-19",
+      "stage": "Third-place match",
+      "venue": "Parc de Lescure",
+      "city": "Bordeaux",
+      "home_team": "Brazil",
+      "away_team": "Sweden",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "BATATAIS",
+          "DOMINGOS DA GUIA",
+          "MACHADO",
+          "AFONSINHO",
+          "ZEZE PROCOPIO",
+          "BRANDAO",
+          "PERACIO",
+          "PATESKO",
+          "LEONIDAS",
+          "ROMEU",
+          "ROBERTO"
+        ],
+        "away": [
+          "Henock ABRAHAMSSON",
+          "Ivar ERIKSSON",
+          "Erik NILSSON",
+          "Erik ALMGREN",
+          "Arne LINDERHOLM",
+          "Kurt SVANSTROM",
+          "Ake ANDERSSON",
+          "Harry ANDERSSON",
+          "Sven JONASSON",
+          "Arne NYBERG",
+          "Erik PERSSON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Sven JONASSON",
+          "minute": "28"
+        },
+        {
+          "team": "Sweden",
+          "player": "Arne NYBERG",
+          "minute": "38"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROMEU",
+          "minute": "44"
+        },
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "63"
+        },
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "74"
+        },
+        {
+          "team": "Brazil",
+          "player": "PERACIO",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Brazil's Patesko missed a penalty in the 78th minute."
+      ]
+    },
+    {
+      "date": "1938-06-19",
+      "stage": "Final",
+      "venue": "Stade Olympique de Colombes",
+      "city": "Paris",
+      "home_team": "Italy",
+      "away_team": "Hungary",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Aldo OLIVIERI",
+          "Pietro RAVA",
+          "Alfredo FONI",
+          "Michele ANDREOLO",
+          "Giovanni FERRARI",
+          "Ugo LOCATELLI",
+          "Pietro SERANTONI",
+          "Amedeo BIAVATI",
+          "Gino COLAUSSI",
+          "Giuseppe MEAZZA",
+          "Silvio PIOLA"
+        ],
+        "away": [
+          "Antal SZABO",
+          "Sandor BIRO",
+          "Gyula POLGAR",
+          "Gyula LAZAR",
+          "Antal SZALAY",
+          "Gyorgy SZUCS",
+          "Gyorgy SAROSI",
+          "Pal TITKOS",
+          "Gyula ZSENGELLER",
+          "Ferenc SAS",
+          "Jeno VINCZE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Gino COLAUSSI",
+          "minute": "6"
+        },
+        {
+          "team": "Hungary",
+          "player": "Pal TITKOS",
+          "minute": "8"
+        },
+        {
+          "team": "Italy",
+          "player": "Silvio PIOLA",
+          "minute": "16"
+        },
+        {
+          "team": "Italy",
+          "player": "Gino COLAUSSI",
+          "minute": "35"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyorgy SAROSI",
+          "minute": "70"
+        },
+        {
+          "team": "Italy",
+          "player": "Silvio PIOLA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": []
+    }
+  ]
+}

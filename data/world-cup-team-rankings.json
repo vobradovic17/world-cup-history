@@ -1,0 +1,3375 @@
+[
+  {
+    "rank": 1,
+    "name": "Brazil",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 5,
+      "years": [
+        1958,
+        1962,
+        1970,
+        1994,
+        2002
+      ],
+      "first_year": 1958
+    },
+    "tournaments_played": 23,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 5,
+        "years": [
+          1958,
+          1962,
+          1970,
+          1994,
+          2002
+        ]
+      },
+      {
+        "placement": "Runner-up",
+        "count": 2,
+        "years": [
+          1950,
+          1998
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 2,
+        "years": [
+          1938,
+          1978
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 2,
+        "years": [
+          1974,
+          2014
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 6,
+        "years": [
+          1954,
+          1986,
+          2006,
+          2010,
+          2018,
+          2022
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1934,
+          1990,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1930,
+          1966
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 2,
+    "name": "Germany",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 4,
+      "years": [
+        1954,
+        1974,
+        1990,
+        2014
+      ],
+      "first_year": 1954
+    },
+    "tournaments_played": 21,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 4,
+        "years": [
+          1954,
+          1974,
+          1990,
+          2014
+        ]
+      },
+      {
+        "placement": "Runner-up",
+        "count": 4,
+        "years": [
+          1966,
+          1982,
+          1986,
+          2002
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 4,
+        "years": [
+          1934,
+          1970,
+          2006,
+          2010
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1958
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 3,
+        "years": [
+          1962,
+          1994,
+          1998
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1978
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1938
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2018,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "name": "Italy",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 4,
+      "years": [
+        1934,
+        1938,
+        1982,
+        2006
+      ],
+      "first_year": 1934
+    },
+    "tournaments_played": 18,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 4,
+        "years": [
+          1934,
+          1938,
+          1982,
+          2006
+        ]
+      },
+      {
+        "placement": "Runner-up",
+        "count": 2,
+        "years": [
+          1970,
+          1994
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          1990
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1978
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1998
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          1986,
+          2002
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 7,
+        "years": [
+          1950,
+          1954,
+          1962,
+          1966,
+          1974,
+          2010,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "name": "Argentina",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 3,
+      "years": [
+        1978,
+        1986,
+        2022
+      ],
+      "first_year": 1978
+    },
+    "tournaments_played": 19,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 3,
+        "years": [
+          1978,
+          1986,
+          2022
+        ]
+      },
+      {
+        "placement": "Runner-up",
+        "count": 4,
+        "years": [
+          1930,
+          1990,
+          2014,
+          2026
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 4,
+        "years": [
+          1966,
+          1998,
+          2006,
+          2010
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 2,
+        "years": [
+          1974,
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1934,
+          1994,
+          2018
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1958,
+          1962,
+          2002
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "name": "France",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 2,
+      "years": [
+        1998,
+        2018
+      ],
+      "first_year": 1998
+    },
+    "tournaments_played": 17,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 2,
+        "years": [
+          1998,
+          2018
+        ]
+      },
+      {
+        "placement": "Runner-up",
+        "count": 2,
+        "years": [
+          2006,
+          2022
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 2,
+        "years": [
+          1958,
+          1986
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 2,
+        "years": [
+          1982,
+          2026
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          1938,
+          2014
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1934
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 6,
+        "years": [
+          1930,
+          1954,
+          1966,
+          1978,
+          2002,
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "name": "Uruguay",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 2,
+      "years": [
+        1930,
+        1950
+      ],
+      "first_year": 1930
+    },
+    "tournaments_played": 15,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 2,
+        "years": [
+          1930,
+          1950
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 3,
+        "years": [
+          1954,
+          1970,
+          2010
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          1966,
+          2018
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1986,
+          1990,
+          2014
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 5,
+        "years": [
+          1962,
+          1974,
+          2002,
+          2022,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 7,
+    "name": "Spain",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 2,
+      "years": [
+        2010,
+        2026
+      ],
+      "first_year": 2010
+    },
+    "tournaments_played": 17,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 2,
+        "years": [
+          2010,
+          2026
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1950
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 4,
+        "years": [
+          1934,
+          1986,
+          1994,
+          2002
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 4,
+        "years": [
+          1990,
+          2006,
+          2018,
+          2022
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 5,
+        "years": [
+          1962,
+          1966,
+          1978,
+          1998,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 8,
+    "name": "England",
+    "best_placement": {
+      "placement": "Champion",
+      "count": 1,
+      "years": [
+        1966
+      ],
+      "first_year": 1966
+    },
+    "tournaments_played": 17,
+    "placements": [
+      {
+        "placement": "Champion",
+        "count": 1,
+        "years": [
+          1966
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 2,
+        "years": [
+          1990,
+          2018
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 7,
+        "years": [
+          1954,
+          1962,
+          1970,
+          1986,
+          2002,
+          2006,
+          2022
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          1998,
+          2010
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1950,
+          1958,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 9,
+    "name": "Netherlands",
+    "best_placement": {
+      "placement": "Runner-up",
+      "count": 3,
+      "years": [
+        1974,
+        1978,
+        2010
+      ],
+      "first_year": 1974
+    },
+    "tournaments_played": 12,
+    "placements": [
+      {
+        "placement": "Runner-up",
+        "count": 3,
+        "years": [
+          1974,
+          1978,
+          2010
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          2014
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1998
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          1994,
+          2022
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 4,
+        "years": [
+          1934,
+          1938,
+          1990,
+          2006
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 10,
+    "name": "Hungary",
+    "best_placement": {
+      "placement": "Runner-up",
+      "count": 2,
+      "years": [
+        1938,
+        1954
+      ],
+      "first_year": 1938
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Runner-up",
+        "count": 2,
+        "years": [
+          1938,
+          1954
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 3,
+        "years": [
+          1934,
+          1962,
+          1966
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1958,
+          1978,
+          1982,
+          1986
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 11,
+    "name": "Czechoslovakia",
+    "best_placement": {
+      "placement": "Runner-up",
+      "count": 2,
+      "years": [
+        1934,
+        1962
+      ],
+      "first_year": 1934
+    },
+    "tournaments_played": 8,
+    "placements": [
+      {
+        "placement": "Runner-up",
+        "count": 2,
+        "years": [
+          1934,
+          1962
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          1938,
+          1990
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1954,
+          1958,
+          1970,
+          1982
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 12,
+    "name": "Sweden",
+    "best_placement": {
+      "placement": "Runner-up",
+      "count": 1,
+      "years": [
+        1958
+      ],
+      "first_year": 1958
+    },
+    "tournaments_played": 13,
+    "placements": [
+      {
+        "placement": "Runner-up",
+        "count": 1,
+        "years": [
+          1958
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 2,
+        "years": [
+          1950,
+          1994
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1938
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          1934,
+          2018
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1974
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          2002,
+          2006
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1970,
+          1978,
+          1990
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 13,
+    "name": "Croatia",
+    "best_placement": {
+      "placement": "Runner-up",
+      "count": 1,
+      "years": [
+        2018
+      ],
+      "first_year": 2018
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Runner-up",
+        "count": 1,
+        "years": [
+          2018
+        ]
+      },
+      {
+        "placement": "Third place",
+        "count": 2,
+        "years": [
+          1998,
+          2022
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          2002,
+          2006,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "name": "Poland",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 2,
+      "years": [
+        1974,
+        1982
+      ],
+      "first_year": 1974
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 2,
+        "years": [
+          1974,
+          1982
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1978
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1938,
+          1986,
+          2022
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          2002,
+          2006,
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "name": "Austria",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 1,
+      "years": [
+        1954
+      ],
+      "first_year": 1954
+    },
+    "tournaments_played": 8,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          1954
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1934
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 2,
+        "years": [
+          1978,
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1958,
+          1990,
+          1998
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "name": "Portugal",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 1,
+      "years": [
+        1966
+      ],
+      "first_year": 1966
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          1966
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2022
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          2010,
+          2018,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1986,
+          2002,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "name": "Belgium",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 1,
+      "years": [
+        2018
+      ],
+      "first_year": 2018
+    },
+    "tournaments_played": 15,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          2018
+        ]
+      },
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1986
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          2014,
+          2026
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 5,
+        "years": [
+          1934,
+          1938,
+          1990,
+          1994,
+          2002
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 5,
+        "years": [
+          1930,
+          1954,
+          1970,
+          1998,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "name": "United States",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 1,
+      "years": [
+        1930
+      ],
+      "first_year": 1930
+    },
+    "tournaments_played": 12,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          1930
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2002
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 6,
+        "years": [
+          1934,
+          1994,
+          2010,
+          2014,
+          2022,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1950,
+          1990,
+          1998,
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "name": "Chile",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 1,
+      "years": [
+        1962
+      ],
+      "first_year": 1962
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          1962
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1998,
+          2010,
+          2014
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 5,
+        "years": [
+          1930,
+          1950,
+          1966,
+          1974,
+          1982
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "name": "Turkey",
+    "best_placement": {
+      "placement": "Third place",
+      "count": 1,
+      "years": [
+        2002
+      ],
+      "first_year": 2002
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Third place",
+        "count": 1,
+        "years": [
+          2002
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1954,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "name": "Yugoslavia",
+    "best_placement": {
+      "placement": "Fourth place",
+      "count": 2,
+      "years": [
+        1930,
+        1962
+      ],
+      "first_year": 1930
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Fourth place",
+        "count": 2,
+        "years": [
+          1930,
+          1962
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 3,
+        "years": [
+          1954,
+          1958,
+          1990
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1974
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1998
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1950,
+          1982
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "name": "Soviet Union",
+    "best_placement": {
+      "placement": "Fourth place",
+      "count": 1,
+      "years": [
+        1966
+      ],
+      "first_year": 1966
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1966
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 3,
+        "years": [
+          1958,
+          1962,
+          1970
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1986
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1990
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "name": "Bulgaria",
+    "best_placement": {
+      "placement": "Fourth place",
+      "count": 1,
+      "years": [
+        1994
+      ],
+      "first_year": 1994
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          1994
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1986
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 5,
+        "years": [
+          1962,
+          1966,
+          1970,
+          1974,
+          1998
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "name": "South Korea",
+    "best_placement": {
+      "placement": "Fourth place",
+      "count": 1,
+      "years": [
+        2002
+      ],
+      "first_year": 2002
+    },
+    "tournaments_played": 12,
+    "placements": [
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          2002
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          2010,
+          2022
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 9,
+        "years": [
+          1954,
+          1986,
+          1990,
+          1994,
+          1998,
+          2006,
+          2014,
+          2018,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "name": "Morocco",
+    "best_placement": {
+      "placement": "Fourth place",
+      "count": 1,
+      "years": [
+        2022
+      ],
+      "first_year": 2022
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Fourth place",
+        "count": 1,
+        "years": [
+          2022
+        ]
+      },
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1986
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1970,
+          1994,
+          1998,
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 26,
+    "name": "Switzerland",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 4,
+      "years": [
+        1934,
+        1938,
+        1954,
+        2026
+      ],
+      "first_year": 1934
+    },
+    "tournaments_played": 13,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 4,
+        "years": [
+          1934,
+          1938,
+          1954,
+          2026
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 5,
+        "years": [
+          1994,
+          2006,
+          2014,
+          2018,
+          2022
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1950,
+          1962,
+          1966,
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 27,
+    "name": "Mexico",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 2,
+      "years": [
+        1970,
+        1986
+      ],
+      "first_year": 1970
+    },
+    "tournaments_played": 18,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 2,
+        "years": [
+          1970,
+          1986
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 8,
+        "years": [
+          1994,
+          1998,
+          2002,
+          2006,
+          2010,
+          2014,
+          2018,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 8,
+        "years": [
+          1930,
+          1950,
+          1954,
+          1958,
+          1962,
+          1966,
+          1978,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 28,
+    "name": "Cuba",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1938
+      ],
+      "first_year": 1938
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1938
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 29,
+    "name": "Northern Ireland",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1958
+      ],
+      "first_year": 1958
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1958
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1986
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 30,
+    "name": "Wales",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1958
+      ],
+      "first_year": 1958
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1958
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 31,
+    "name": "North Korea",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1966
+      ],
+      "first_year": 1966
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1966
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 32,
+    "name": "Peru",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1970
+      ],
+      "first_year": 1970
+    },
+    "tournaments_played": 5,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1970
+        ]
+      },
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1978
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1930,
+          1982,
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 33,
+    "name": "Republic of Ireland",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1990
+      ],
+      "first_year": 1990
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1990
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          1994,
+          2002
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 34,
+    "name": "Cameroon",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1990
+      ],
+      "first_year": 1990
+    },
+    "tournaments_played": 8,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1990
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 7,
+        "years": [
+          1982,
+          1994,
+          1998,
+          2002,
+          2010,
+          2014,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 35,
+    "name": "Romania",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1994
+      ],
+      "first_year": 1994
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1994
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 4,
+        "years": [
+          1934,
+          1938,
+          1990,
+          1998
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1930,
+          1970
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 36,
+    "name": "Denmark",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        1998
+      ],
+      "first_year": 1998
+    },
+    "tournaments_played": 6,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          1998
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1986,
+          2002,
+          2018
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2010,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 37,
+    "name": "Senegal",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2002
+      ],
+      "first_year": 2002
+    },
+    "tournaments_played": 4,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2002
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2022
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 38,
+    "name": "Ukraine",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2006
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 39,
+    "name": "Paraguay",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2010
+      ],
+      "first_year": 2010
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2010
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 4,
+        "years": [
+          1986,
+          1998,
+          2002,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1930,
+          1950,
+          1958,
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 40,
+    "name": "Ghana",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2010
+      ],
+      "first_year": 2010
+    },
+    "tournaments_played": 5,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2010
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2014,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 41,
+    "name": "Colombia",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2014
+      ],
+      "first_year": 2014
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2014
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1990,
+          2018,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1962,
+          1994,
+          1998
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 42,
+    "name": "Costa Rica",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2014
+      ],
+      "first_year": 2014
+    },
+    "tournaments_played": 6,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2014
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1990
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          2002,
+          2006,
+          2018,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 43,
+    "name": "Russia",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2018
+      ],
+      "first_year": 2018
+    },
+    "tournaments_played": 4,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2018
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1994,
+          2002,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 44,
+    "name": "Norway",
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 4,
+    "placements": [
+      {
+        "placement": "Quarter-finals",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          1938,
+          1998
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1994
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 45,
+    "name": "East Germany",
+    "best_placement": {
+      "placement": "Second round",
+      "count": 1,
+      "years": [
+        1974
+      ],
+      "first_year": 1974
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Second round",
+        "count": 1,
+        "years": [
+          1974
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 46,
+    "name": "Japan",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 4,
+      "years": [
+        2002,
+        2010,
+        2018,
+        2022
+      ],
+      "first_year": 2002
+    },
+    "tournaments_played": 8,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 4,
+        "years": [
+          2002,
+          2010,
+          2018,
+          2022
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1998,
+          2006,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 47,
+    "name": "Nigeria",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 3,
+      "years": [
+        1994,
+        1998,
+        2014
+      ],
+      "first_year": 1994
+    },
+    "tournaments_played": 6,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 3,
+        "years": [
+          1994,
+          1998,
+          2014
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          2002,
+          2010,
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 48,
+    "name": "Australia",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 2,
+      "years": [
+        2006,
+        2022
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          2006,
+          2022
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 4,
+        "years": [
+          1974,
+          2010,
+          2014,
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 49,
+    "name": "Egypt",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 2,
+      "years": [
+        1934,
+        2026
+      ],
+      "first_year": 1934
+    },
+    "tournaments_played": 4,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 2,
+        "years": [
+          1934,
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1990,
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 50,
+    "name": "Dutch East Indies",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        1938
+      ],
+      "first_year": 1938
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1938
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 51,
+    "name": "Saudi Arabia",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        1994
+      ],
+      "first_year": 1994
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          1994
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 6,
+        "years": [
+          1998,
+          2002,
+          2006,
+          2018,
+          2022,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 52,
+    "name": "Ecuador",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        2006
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 5,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          2002,
+          2014,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 53,
+    "name": "Slovakia",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        2010
+      ],
+      "first_year": 2010
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 54,
+    "name": "Algeria",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        2014
+      ],
+      "first_year": 2014
+    },
+    "tournaments_played": 5,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2014
+        ]
+      },
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1982,
+          1986,
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 55,
+    "name": "Greece",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        2014
+      ],
+      "first_year": 2014
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2014
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1994,
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 56,
+    "name": "Canada",
+    "best_placement": {
+      "placement": "Round of 16",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Round of 16",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1986,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 57,
+    "name": "South Africa",
+    "best_placement": {
+      "placement": "Round of 32",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 4,
+    "placements": [
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1998,
+          2002,
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 58,
+    "name": "Ivory Coast",
+    "best_placement": {
+      "placement": "Round of 32",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 4,
+    "placements": [
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          2006,
+          2010,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 59,
+    "name": "Bosnia and Herzegovina",
+    "best_placement": {
+      "placement": "Round of 32",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      },
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 60,
+    "name": "DR Congo",
+    "best_placement": {
+      "placement": "Round of 32",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 61,
+    "name": "Cape Verde",
+    "best_placement": {
+      "placement": "Round of 32",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Round of 32",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 62,
+    "name": "Scotland",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 9,
+      "years": [
+        1954,
+        1958,
+        1974,
+        1978,
+        1982,
+        1986,
+        1990,
+        1998,
+        2026
+      ],
+      "first_year": 1954
+    },
+    "tournaments_played": 9,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 9,
+        "years": [
+          1954,
+          1958,
+          1974,
+          1978,
+          1982,
+          1986,
+          1990,
+          1998,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 63,
+    "name": "Iran",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 7,
+      "years": [
+        1978,
+        1998,
+        2006,
+        2014,
+        2018,
+        2022,
+        2026
+      ],
+      "first_year": 1978
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 7,
+        "years": [
+          1978,
+          1998,
+          2006,
+          2014,
+          2018,
+          2022,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 64,
+    "name": "Tunisia",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 7,
+      "years": [
+        1978,
+        1998,
+        2002,
+        2006,
+        2018,
+        2022,
+        2026
+      ],
+      "first_year": 1978
+    },
+    "tournaments_played": 7,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 7,
+        "years": [
+          1978,
+          1998,
+          2002,
+          2006,
+          2018,
+          2022,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 65,
+    "name": "Bolivia",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 3,
+      "years": [
+        1930,
+        1950,
+        1994
+      ],
+      "first_year": 1930
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1930,
+          1950,
+          1994
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 66,
+    "name": "Honduras",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 3,
+      "years": [
+        1982,
+        2010,
+        2014
+      ],
+      "first_year": 1982
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1982,
+          2010,
+          2014
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 67,
+    "name": "Serbia",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 3,
+      "years": [
+        2010,
+        2018,
+        2022
+      ],
+      "first_year": 2010
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          2010,
+          2018,
+          2022
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 68,
+    "name": "New Zealand",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 3,
+      "years": [
+        1982,
+        2010,
+        2026
+      ],
+      "first_year": 1982
+    },
+    "tournaments_played": 3,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 3,
+        "years": [
+          1982,
+          2010,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 69,
+    "name": "El Salvador",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        1970,
+        1982
+      ],
+      "first_year": 1970
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1970,
+          1982
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 70,
+    "name": "Slovenia",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        2002,
+        2010
+      ],
+      "first_year": 2002
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2002,
+          2010
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 71,
+    "name": "Czech Republic",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        2006,
+        2026
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2006,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 72,
+    "name": "Qatar",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        2022,
+        2026
+      ],
+      "first_year": 2022
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2022,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 73,
+    "name": "Panama",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        2018,
+        2026
+      ],
+      "first_year": 2018
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          2018,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 74,
+    "name": "Iraq",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        1986,
+        2026
+      ],
+      "first_year": 1986
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1986,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 75,
+    "name": "Haiti",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 2,
+      "years": [
+        1974,
+        2026
+      ],
+      "first_year": 1974
+    },
+    "tournaments_played": 2,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 2,
+        "years": [
+          1974,
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 76,
+    "name": "Israel",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        1970
+      ],
+      "first_year": 1970
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1970
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 77,
+    "name": "Zaire",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        1974
+      ],
+      "first_year": 1974
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1974
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 78,
+    "name": "Kuwait",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        1982
+      ],
+      "first_year": 1982
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1982
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 79,
+    "name": "United Arab Emirates",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        1990
+      ],
+      "first_year": 1990
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1990
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 80,
+    "name": "Jamaica",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        1998
+      ],
+      "first_year": 1998
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          1998
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 81,
+    "name": "China",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2002
+      ],
+      "first_year": 2002
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2002
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 82,
+    "name": "Angola",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2006
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 83,
+    "name": "Trinidad and Tobago",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2006
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 84,
+    "name": "Togo",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2006
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 85,
+    "name": "Serbia and Montenegro",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2006
+      ],
+      "first_year": 2006
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2006
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 86,
+    "name": "Iceland",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2018
+      ],
+      "first_year": 2018
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2018
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 87,
+    "name": "Curaçao",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 88,
+    "name": "Jordan",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  },
+  {
+    "rank": 89,
+    "name": "Uzbekistan",
+    "best_placement": {
+      "placement": "Group stage",
+      "count": 1,
+      "years": [
+        2026
+      ],
+      "first_year": 2026
+    },
+    "tournaments_played": 1,
+    "placements": [
+      {
+        "placement": "Group stage",
+        "count": 1,
+        "years": [
+          2026
+        ]
+      }
+    ]
+  }
+]

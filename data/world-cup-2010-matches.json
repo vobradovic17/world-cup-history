@@ -1,0 +1,5698 @@
+{
+  "tournament": "FIFA World Cup 2010",
+  "host_country": "South Africa",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/2010full.html",
+    "https://www.rsssf.org/tables/2010f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/2010/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "2010-06-11",
+      "stage": "Group A",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "South Africa",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "South Africa",
+          "player": "Siphiwe TSHABALALA",
+          "minute": "54"
+        },
+        {
+          "team": "Mexico",
+          "player": "Rafael MARQUEZ",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Africa",
+          "player_on": "Tsepo MASILELA",
+          "player_off": "Lucas THWALA",
+          "minute": "45"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Andres GUARDADO",
+          "player_off": "Paul AGUILAR",
+          "minute": "54"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Cuauhtemoc BLANCO",
+          "player_off": "Carlos VELA",
+          "minute": "68"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Guillermo FRANCO",
+          "minute": "72"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Bernard PARKER",
+          "player_off": "Steven PIENAAR",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Itumeleng KHUNE",
+          "Siboniso GAXA",
+          "Aaron MOKOENA",
+          "Lucas THWALA",
+          "Bongani KHUMALO",
+          "Siphiwe TSHABALALA",
+          "Steven PIENAAR",
+          "Teko MODISE",
+          "Reneilwe LETSHOLONYANE",
+          "Kagisho DIKGACOI",
+          "Katlego MPHELA"
+        ],
+        "away": [
+          "Oscar PEREZ",
+          "Francisco RODRIGUEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Paul AGUILAR",
+          "Efrain JUAREZ",
+          "Gerardo TORRADO",
+          "Guillermo FRANCO",
+          "Carlos VELA",
+          "Giovani DOS SANTOS"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-11",
+      "stage": "Group A",
+      "venue": "Cape Town Stadium",
+      "city": "Cape Town",
+      "home_team": "Uruguay",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Nicolas LODEIRO",
+          "player_off": "Ignacio González",
+          "minute": "62"
+        },
+        {
+          "team": "France",
+          "player_on": "Thierry HENRY",
+          "player_off": "Nicolas ANELKA",
+          "minute": "71"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastian ABREU",
+          "player_off": "Luis SUAREZ",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Florent MALOUDA",
+          "player_off": "Yoann GOURCUFF",
+          "minute": "74"
+        },
+        {
+          "team": "France",
+          "player_on": "GIGNAC Andre Pierre",
+          "player_off": "Sidney GOVOU",
+          "minute": "84"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastian EGUREN",
+          "player_off": "Diego PEREZ",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Diego GODIN",
+          "Mauricio VICTORINO",
+          "Maximiliano PEREIRA",
+          "Alvaro PEREIRA",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Ignacio González",
+          "Luis SUAREZ",
+          "Diego FORLAN"
+        ],
+        "away": [
+          "Hugo Lloris",
+          "Bacary SAGNA",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Patrice EVRA",
+          "Yoann GOURCUFF",
+          "Jeremy TOULALAN",
+          "Abou DIABY",
+          "Franck RIBÉRY",
+          "Sidney GOVOU",
+          "Nicolas ANELKA"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-16",
+      "stage": "Group A",
+      "venue": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "home_team": "South Africa",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Diego FORLAN",
+          "minute": "23"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Diego FORLAN",
+          "minute": "79",
+          "penalty": true
+        },
+        {
+          "team": "Uruguay",
+          "player": "Alvaro PEREIRA",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Africa",
+          "player_on": "Surprise MORIRI",
+          "player_off": "Reneilwe LETSHOLONYANE",
+          "minute": "56"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Álvaro FERNÁNDEZ",
+          "player_off": "Jorge FUCILE",
+          "minute": "70"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Moneeb JOSEPHS",
+          "player_off": "Steven PIENAAR",
+          "minute": "78"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastián FERNÁNDEZ",
+          "player_off": "Edinson CAVANI",
+          "minute": "88"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Walter GARGANO",
+          "player_off": "Diego PEREZ",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Itumeleng KHUNE",
+          "Siboniso GAXA",
+          "Tsepo MASILELA",
+          "Aaron MOKOENA",
+          "Bongani KHUMALO",
+          "Siphiwe TSHABALALA",
+          "Steven PIENAAR",
+          "Teko MODISE",
+          "Reneilwe LETSHOLONYANE",
+          "Kagisho DIKGACOI",
+          "Katlego MPHELA"
+        ],
+        "away": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Diego GODIN",
+          "Jorge FUCILE",
+          "Maximiliano PEREIRA",
+          "Alvaro PEREIRA",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Edinson CAVANI",
+          "Luis SUAREZ",
+          "Diego FORLAN"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-17",
+      "stage": "Group A",
+      "venue": "Peter Mokaba Stadium",
+      "city": "Polokwane",
+      "home_team": "France",
+      "away_team": "Mexico",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Javier HERNANDEZ",
+          "minute": "63"
+        },
+        {
+          "team": "Mexico",
+          "player": "Cuauhtemoc BLANCO",
+          "minute": "78",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Pablo BARRERA",
+          "player_off": "Carlos VELA",
+          "minute": "31"
+        },
+        {
+          "team": "France",
+          "player_on": "GIGNAC Andre Pierre",
+          "player_off": "Nicolas ANELKA",
+          "minute": "45"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Efrain JUAREZ",
+          "minute": "54"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Cuauhtemoc BLANCO",
+          "player_off": "Guillermo FRANCO",
+          "minute": "61"
+        },
+        {
+          "team": "France",
+          "player_on": "Mathieu Valbuena",
+          "player_off": "Sidney GOVOU",
+          "minute": "68"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo Lloris",
+          "Bacary SAGNA",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Patrice EVRA",
+          "Jeremy TOULALAN",
+          "Florent MALOUDA",
+          "Abou DIABY",
+          "Franck RIBÉRY",
+          "Sidney GOVOU",
+          "Nicolas ANELKA"
+        ],
+        "away": [
+          "Oscar PEREZ",
+          "Francisco RODRIGUEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Hector MORENO",
+          "Efrain JUAREZ",
+          "Gerardo TORRADO",
+          "Guillermo FRANCO",
+          "Carlos VELA",
+          "Giovani DOS SANTOS"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-22",
+      "stage": "Group A",
+      "venue": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "home_team": "Mexico",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "42"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Pablo BARRERA",
+          "player_off": "Andres GUARDADO",
+          "minute": "45"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Israel CASTRO",
+          "player_off": "Hector MORENO",
+          "minute": "56"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Cuauhtemoc BLANCO",
+          "minute": "62"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Andres SCOTTI",
+          "player_off": "Alvaro PEREIRA",
+          "minute": "76"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Álvaro FERNÁNDEZ",
+          "player_off": "Luis SUAREZ",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oscar PEREZ",
+          "Francisco RODRIGUEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Hector MORENO",
+          "Gerardo TORRADO",
+          "Andres GUARDADO",
+          "Guillermo FRANCO",
+          "Cuauhtemoc BLANCO",
+          "Giovani DOS SANTOS"
+        ],
+        "away": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Jorge FUCILE",
+          "Mauricio VICTORINO",
+          "Maximiliano PEREIRA",
+          "Alvaro PEREIRA",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Edinson CAVANI",
+          "Luis SUAREZ",
+          "Diego FORLAN"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-22",
+      "stage": "Group A",
+      "venue": "Free State Stadium",
+      "city": "Bloemfontein",
+      "home_team": "France",
+      "away_team": "South Africa",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "South Africa",
+          "player": "Bongani KHUMALO",
+          "minute": "19"
+        },
+        {
+          "team": "South Africa",
+          "player": "Katlego MPHELA",
+          "minute": "36"
+        },
+        {
+          "team": "France",
+          "player": "Florent MALOUDA",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Florent MALOUDA",
+          "player_off": "GIGNAC Andre Pierre",
+          "minute": "45"
+        },
+        {
+          "team": "France",
+          "player_on": "Thierry HENRY",
+          "player_off": "Djibril CISSE",
+          "minute": "54"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Siboniso GAXA",
+          "player_off": "Anele NGCONGCA",
+          "minute": "54"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Siyabonga NOMVETHE",
+          "player_off": "Bernard PARKER",
+          "minute": "67"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Teko MODISE",
+          "player_off": "Thanduyise KHUBONI",
+          "minute": "77"
+        },
+        {
+          "team": "France",
+          "player_on": "Sidney GOVOU",
+          "player_off": "Alou DIARRA",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo Lloris",
+          "Bacary SAGNA",
+          "William GALLAS",
+          "Sebastien SQUILLACI",
+          "Gaël CLICHY",
+          "Yoann GOURCUFF",
+          "Alou DIARRA",
+          "Abou DIABY",
+          "Franck RIBÉRY",
+          "Djibril CISSE",
+          "GIGNAC Andre Pierre"
+        ],
+        "away": [
+          "Moneeb JOSEPHS",
+          "Tsepo MASILELA",
+          "Aaron MOKOENA",
+          "Anele NGCONGCA",
+          "Bongani KHUMALO",
+          "MacBeth SIBAYA",
+          "Siphiwe TSHABALALA",
+          "Steven PIENAAR",
+          "Thanduyise KHUBONI",
+          "Katlego MPHELA",
+          "Bernard PARKER"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-12",
+      "stage": "Group B",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "South Korea",
+      "away_team": "Greece",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "South Korea",
+          "player": "LEE Jung Soo",
+          "minute": "6"
+        },
+        {
+          "team": "South Korea",
+          "player": "PARK Jisung",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Christos PATSATZOGLOU",
+          "player_off": "Georgios KARAGOUNIS",
+          "minute": "45"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Dimitrios SALPINGIDIS",
+          "player_off": "Georgios SAMARAS",
+          "minute": "58"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Pantelis KAPETANOS",
+          "player_off": "Angelos CHARISTEAS",
+          "minute": "60"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Namil",
+          "player_off": "KI Sungyueng",
+          "minute": "73"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Seung Yeoul",
+          "player_off": "PARK Chuyoung",
+          "minute": "86"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Jae Sung",
+          "player_off": "LEE Chungyong",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JUNG Sungryong",
+          "CHO Yong Hyung",
+          "LEE Youngpyo",
+          "LEE Jung Soo",
+          "CHA Duri",
+          "PARK Jisung",
+          "KIM Jung Woo",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "YEOM Ki Hun",
+          "PARK Chuyoung"
+        ],
+        "away": [
+          "Alexandros TZORVAS",
+          "Giourkas SEITARIDIS",
+          "Avraam PAPADOPOULOS",
+          "Loukas VYNTRA",
+          "Vasileios TOROSIDIS",
+          "Alexandros TZIOLIS",
+          "Georgios KARAGOUNIS",
+          "Konstantinos KATSOURANIS",
+          "Georgios SAMARAS",
+          "Angelos CHARISTEAS",
+          "Theofanis GEKAS"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-12",
+      "stage": "Group B",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Argentina",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Gabriel HEINZE",
+          "minute": "5"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Obafemi MARTINS",
+          "player_off": "Victor OBINNA",
+          "minute": "51"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Peter ODEMWINGIE",
+          "player_off": "Chinedu OGBUKE OBASI",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Maxi RODRIGUEZ",
+          "player_off": "Juan VERON",
+          "minute": "73"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Kalu UCHE",
+          "player_off": "Taye Ismaila Taïwo",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Diego MILITO",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Nicolas BURDISSO",
+          "player_off": "Angel DI MARIA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Martin DEMICHELIS",
+          "Gabriel HEINZE",
+          "Walter SAMUEL",
+          "Angel DI MARIA",
+          "Juan VERON",
+          "Javier MASCHERANO",
+          "Jonas GUTIERREZ",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Carlos TEVEZ"
+        ],
+        "away": [
+          "Vincent ENYEAMA",
+          "Joseph YOBO",
+          "Taye Ismaila Taïwo",
+          "Danny SHITTU",
+          "Chidi ODIAH",
+          "Sani KAITA",
+          "Lukman HARUNA",
+          "Dickson ETUHU",
+          "Yakubu AYEGBENI",
+          "Victor OBINNA",
+          "Chinedu OGBUKE OBASI"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-17",
+      "stage": "Group B",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Argentina",
+      "away_team": "South Korea",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "PARK Chuyoung",
+          "minute": "16",
+          "own_goal": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Gonzalo HIGUAIN",
+          "minute": "32"
+        },
+        {
+          "team": "South Korea",
+          "player": "LEE Chungyong",
+          "minute": "45"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gonzalo HIGUAIN",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gonzalo HIGUAIN",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Nicolas BURDISSO",
+          "player_off": "Walter SAMUEL",
+          "minute": "22"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Namil",
+          "player_off": "KI Sungyueng",
+          "minute": "45"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio AGUERO",
+          "player_off": "Carlos TEVEZ",
+          "minute": "74"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Donggook",
+          "player_off": "PARK Chuyoung",
+          "minute": "80"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Mario BOLATTI",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Martin DEMICHELIS",
+          "Gabriel HEINZE",
+          "Walter SAMUEL",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Jonas GUTIERREZ",
+          "Maxi RODRIGUEZ",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Carlos TEVEZ"
+        ],
+        "away": [
+          "JUNG Sungryong",
+          "OH Beom Seok",
+          "CHO Yong Hyung",
+          "LEE Youngpyo",
+          "LEE Jung Soo",
+          "PARK Jisung",
+          "KIM Jung Woo",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "YEOM Ki Hun",
+          "PARK Chuyoung"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-17",
+      "stage": "Group B",
+      "venue": "Free State Stadium",
+      "city": "Bloemfontein",
+      "home_team": "Greece",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Kalu UCHE",
+          "minute": "15"
+        },
+        {
+          "team": "Greece",
+          "player": "Dimitrios SALPINGIDIS",
+          "minute": "43"
+        },
+        {
+          "team": "Greece",
+          "player": "Vasileios TOROSIDIS",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Georgios SAMARAS",
+          "player_off": "Sokratis Papastathopoulos",
+          "minute": "36"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Chinedu OGBUKE OBASI",
+          "player_off": "Peter ODEMWINGIE",
+          "minute": "45"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Elderson ECHIEJILE",
+          "player_off": "Taye Ismaila Taïwo",
+          "minute": "54"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Rabiu AFOLABI",
+          "player_off": "Elderson ECHIEJILE",
+          "minute": "76"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Sotiris NINIS",
+          "player_off": "Theofanis GEKAS",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alexandros TZORVAS",
+          "Avraam PAPADOPOULOS",
+          "Loukas VYNTRA",
+          "Vasileios TOROSIDIS",
+          "Sotirios KYRGIAKOS",
+          "Sokratis Papastathopoulos",
+          "Alexandros TZIOLIS",
+          "Georgios KARAGOUNIS",
+          "Konstantinos KATSOURANIS",
+          "Dimitrios SALPINGIDIS",
+          "Theofanis GEKAS"
+        ],
+        "away": [
+          "Vincent ENYEAMA",
+          "Joseph YOBO",
+          "Taye Ismaila Taïwo",
+          "Danny SHITTU",
+          "Chidi ODIAH",
+          "Kalu UCHE",
+          "Sani KAITA",
+          "Lukman HARUNA",
+          "Dickson ETUHU",
+          "Yakubu AYEGBENI",
+          "Peter ODEMWINGIE"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-22",
+      "stage": "Group B",
+      "venue": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "home_team": "Nigeria",
+      "away_team": "South Korea",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Kalu UCHE",
+          "minute": "11"
+        },
+        {
+          "team": "South Korea",
+          "player": "LEE Jung Soo",
+          "minute": "37"
+        },
+        {
+          "team": "South Korea",
+          "player": "PARK Chuyoung",
+          "minute": "48"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Yakubu AYEGBENI",
+          "minute": "68",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Elderson ECHIEJILE",
+          "player_off": "Joseph YOBO",
+          "minute": "45"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Obafemi MARTINS",
+          "player_off": "Nwankwo KANU",
+          "minute": "56"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Namil",
+          "player_off": "YEOM Ki Hun",
+          "minute": "63"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Victor OBINNA",
+          "player_off": "Yakubu AYEGBENI",
+          "minute": "69"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Jae Sung",
+          "player_off": "KI Sungyueng",
+          "minute": "86"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Dong Jin",
+          "player_off": "PARK Chuyoung",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vincent ENYEAMA",
+          "Joseph YOBO",
+          "Rabiu AFOLABI",
+          "Danny SHITTU",
+          "Chidi ODIAH",
+          "Nwankwo KANU",
+          "Kalu UCHE",
+          "Yussuf AYILA",
+          "Dickson ETUHU",
+          "Yakubu AYEGBENI",
+          "Chinedu OGBUKE OBASI"
+        ],
+        "away": [
+          "JUNG Sungryong",
+          "CHO Yong Hyung",
+          "LEE Youngpyo",
+          "LEE Jung Soo",
+          "CHA Duri",
+          "PARK Jisung",
+          "KIM Jung Woo",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "YEOM Ki Hun",
+          "PARK Chuyoung"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-22",
+      "stage": "Group B",
+      "venue": "Peter Mokaba Stadium",
+      "city": "Polokwane",
+      "home_team": "Greece",
+      "away_team": "Argentina",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Martin DEMICHELIS",
+          "minute": "76"
+        },
+        {
+          "team": "Argentina",
+          "player": "Martin PALERMO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Nikos SPIROPOULOS",
+          "player_off": "Georgios KARAGOUNIS",
+          "minute": "45"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Sotiris NINIS",
+          "player_off": "Konstantinos KATSOURANIS",
+          "minute": "53"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Christos PATSATZOGLOU",
+          "player_off": "Vasileios TOROSIDIS",
+          "minute": "54"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Angel DI MARIA",
+          "player_off": "Maxi RODRIGUEZ",
+          "minute": "62"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Javier PASTORE",
+          "player_off": "Sergio AGUERO",
+          "minute": "76"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Martin PALERMO",
+          "player_off": "Diego MILITO",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alexandros TZORVAS",
+          "Vangelis MORAS",
+          "Avraam PAPADOPOULOS",
+          "Loukas VYNTRA",
+          "Vasileios TOROSIDIS",
+          "Sotirios KYRGIAKOS",
+          "Sokratis Papastathopoulos",
+          "Alexandros TZIOLIS",
+          "Georgios KARAGOUNIS",
+          "Konstantinos KATSOURANIS",
+          "Georgios SAMARAS"
+        ],
+        "away": [
+          "Sergio ROMERO",
+          "Martin DEMICHELIS",
+          "Clemente RODRIGUEZ",
+          "Nicolas BURDISSO",
+          "Nicolas OTAMENDI",
+          "Mario BOLATTI",
+          "Juan VERON",
+          "Maxi RODRIGUEZ",
+          "Lionel MESSI",
+          "Sergio AGUERO",
+          "Diego MILITO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-12",
+      "stage": "Group C",
+      "venue": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "home_team": "England",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Steven GERRARD",
+          "minute": "3"
+        },
+        {
+          "team": "United States",
+          "player": "Clint DEMPSEY",
+          "minute": "39"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Shaun WRIGHT-PHILLIPS",
+          "player_off": "James MILNER",
+          "minute": "30"
+        },
+        {
+          "team": "England",
+          "player_on": "Jamie CARRAGHER",
+          "player_off": "Ledley KING",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Edson BUDDLE",
+          "player_off": "Robbie FINDLEY",
+          "minute": "76"
+        },
+        {
+          "team": "England",
+          "player_on": "Peter CROUCH",
+          "player_off": "Emile HESKEY",
+          "minute": "78"
+        },
+        {
+          "team": "United States",
+          "player_on": "Stuart HOLDEN",
+          "player_off": "Jozy Altidore",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Robert GREEN",
+          "Glen JOHNSON",
+          "Ashley COLE",
+          "John TERRY",
+          "Ledley KING",
+          "Steven GERRARD",
+          "Aaron LENNON",
+          "Frank LAMPARD",
+          "James MILNER",
+          "Wayne ROONEY",
+          "Emile HESKEY"
+        ],
+        "away": [
+          "Tim HOWARD",
+          "Carlos BOCANEGRA",
+          "Oguchi ONYEWU",
+          "Steve CHERUNDOLO",
+          "Jay DeMERIT",
+          "Michael BRADLEY",
+          "Clint DEMPSEY",
+          "Landon DONOVAN",
+          "Ricardo CLARK",
+          "Jozy Altidore",
+          "Robbie FINDLEY"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-13",
+      "stage": "Group C",
+      "venue": "Peter Mokaba Stadium",
+      "city": "Polokwane",
+      "home_team": "Algeria",
+      "away_team": "Slovenia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Slovenia",
+          "player": "Robert KOREN",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Slovenia",
+          "player_on": "Zlatan LJUBIJANKIC",
+          "player_off": "Zlatko DEDIC",
+          "minute": "52"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Abdelkader GHEZZAL",
+          "player_off": "Rafik DJEBBOUR",
+          "minute": "57"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Rafik SAIFI",
+          "player_off": "Karim MATMOUR",
+          "minute": "80"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Adlane GUEDIOURA",
+          "player_off": "Foued KADIR",
+          "minute": "81"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Nejc PECNIK",
+          "player_off": "Valter BIRSA",
+          "minute": "83"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Andrej KOMAC",
+          "player_off": "Aleksandar RADOSAVLJEVIC",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Faouzi CHAOUCHI",
+          "Madjid BOUGUERRA",
+          "Nadir BELHADJ",
+          "Anther YAHIA",
+          "Rafik HALLICHE",
+          "Medhi LACEN",
+          "Karim MATMOUR",
+          "Karim ZIANI",
+          "Hassan YEBDA",
+          "Foued KADIR",
+          "Rafik DJEBBOUR"
+        ],
+        "away": [
+          "Samir HANDANOVIC",
+          "Miso BRECKO",
+          "Marko SULER",
+          "Bostjan CESAR",
+          "Bojan JOKIC",
+          "Robert KOREN",
+          "Valter BIRSA",
+          "Andraz KIRM",
+          "Aleksandar RADOSAVLJEVIC",
+          "Milivoje NOVAKOVIC",
+          "Zlatko DEDIC"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-18",
+      "stage": "Group C",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Slovenia",
+      "away_team": "United States",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Slovenia",
+          "player": "Valter BIRSA",
+          "minute": "12"
+        },
+        {
+          "team": "Slovenia",
+          "player": "Zlatan LJUBIJANKIC",
+          "minute": "41"
+        },
+        {
+          "team": "United States",
+          "player": "Landon DONOVAN",
+          "minute": "47"
+        },
+        {
+          "team": "United States",
+          "player": "Michael BRADLEY",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Maurice EDU",
+          "player_off": "José TORRES",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Benny FEILHABER",
+          "player_off": "Robbie FINDLEY",
+          "minute": "45"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Nejc PECNIK",
+          "player_off": "Zlatan LJUBIJANKIC",
+          "minute": "73"
+        },
+        {
+          "team": "United States",
+          "player_on": "Herculez GOMEZ",
+          "player_off": "Oguchi ONYEWU",
+          "minute": "79"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Zlatko DEDIC",
+          "player_off": "Valter BIRSA",
+          "minute": "86"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Andrej KOMAC",
+          "player_off": "Nejc PECNIK",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Samir HANDANOVIC",
+          "Miso BRECKO",
+          "Marko SULER",
+          "Bostjan CESAR",
+          "Bojan JOKIC",
+          "Robert KOREN",
+          "Valter BIRSA",
+          "Andraz KIRM",
+          "Aleksandar RADOSAVLJEVIC",
+          "Zlatan LJUBIJANKIC",
+          "Milivoje NOVAKOVIC"
+        ],
+        "away": [
+          "Tim HOWARD",
+          "Carlos BOCANEGRA",
+          "Oguchi ONYEWU",
+          "Steve CHERUNDOLO",
+          "Jay DeMERIT",
+          "Michael BRADLEY",
+          "Clint DEMPSEY",
+          "Landon DONOVAN",
+          "José TORRES",
+          "Jozy Altidore",
+          "Robbie FINDLEY"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-18",
+      "stage": "Group C",
+      "venue": "Cape Town Stadium",
+      "city": "Cape Town",
+      "home_team": "England",
+      "away_team": "Algeria",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Shaun WRIGHT-PHILLIPS",
+          "player_off": "Aaron LENNON",
+          "minute": "62"
+        },
+        {
+          "team": "England",
+          "player_on": "Jermain DEFOE",
+          "player_off": "Emile HESKEY",
+          "minute": "73"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Djamal ABDOUN",
+          "player_off": "Ryad BOUDEBOUZ",
+          "minute": "73"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Adlane GUEDIOURA",
+          "player_off": "Karim ZIANI",
+          "minute": "80"
+        },
+        {
+          "team": "England",
+          "player_on": "Peter CROUCH",
+          "player_off": "Gareth BARRY",
+          "minute": "83"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Djamel MESBAH",
+          "player_off": "Hassan YEBDA",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David JAMES",
+          "Glen JOHNSON",
+          "Ashley COLE",
+          "John TERRY",
+          "Jamie CARRAGHER",
+          "Steven GERRARD",
+          "Aaron LENNON",
+          "Frank LAMPARD",
+          "Gareth BARRY",
+          "Wayne ROONEY",
+          "Emile HESKEY"
+        ],
+        "away": [
+          "MBOLHI Rais",
+          "Madjid BOUGUERRA",
+          "Nadir BELHADJ",
+          "Anther YAHIA",
+          "Rafik HALLICHE",
+          "Ryad BOUDEBOUZ",
+          "Medhi LACEN",
+          "Karim MATMOUR",
+          "Karim ZIANI",
+          "Hassan YEBDA",
+          "Foued KADIR"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-23",
+      "stage": "Group C",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Slovenia",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Jermain DEFOE",
+          "minute": "22"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Slovenia",
+          "player_on": "Zlatko DEDIC",
+          "player_off": "Zlatan LJUBIJANKIC",
+          "minute": "61"
+        },
+        {
+          "team": "England",
+          "player_on": "Joe COLE",
+          "player_off": "Wayne ROONEY",
+          "minute": "71"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Tim MATAVZ",
+          "player_off": "Andraz KIRM",
+          "minute": "78"
+        },
+        {
+          "team": "England",
+          "player_on": "Emile HESKEY",
+          "player_off": "Jermain DEFOE",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Samir HANDANOVIC",
+          "Miso BRECKO",
+          "Marko SULER",
+          "Bostjan CESAR",
+          "Bojan JOKIC",
+          "Robert KOREN",
+          "Valter BIRSA",
+          "Andraz KIRM",
+          "Aleksandar RADOSAVLJEVIC",
+          "Zlatan LJUBIJANKIC",
+          "Milivoje NOVAKOVIC"
+        ],
+        "away": [
+          "David JAMES",
+          "Glen JOHNSON",
+          "Ashley COLE",
+          "John TERRY",
+          "Matt UPSON",
+          "Steven GERRARD",
+          "Frank LAMPARD",
+          "Gareth BARRY",
+          "James MILNER",
+          "Wayne ROONEY",
+          "Jermain DEFOE"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-23",
+      "stage": "Group C",
+      "venue": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "home_team": "United States",
+      "away_team": "Algeria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Landon DONOVAN",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Benny FEILHABER",
+          "player_off": "Herculez GOMEZ",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Edson BUDDLE",
+          "player_off": "Maurice EDU",
+          "minute": "63"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Abdelkader GHEZZAL",
+          "player_off": "Rafik DJEBBOUR",
+          "minute": "64"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Adlane GUEDIOURA",
+          "player_off": "Karim ZIANI",
+          "minute": "68"
+        },
+        {
+          "team": "United States",
+          "player_on": "DaMarcus BEASLEY",
+          "player_off": "Jonathan BORNSTEIN",
+          "minute": "79"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Rafik SAIFI",
+          "player_off": "Karim MATMOUR",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tim HOWARD",
+          "Carlos BOCANEGRA",
+          "Steve CHERUNDOLO",
+          "Jonathan BORNSTEIN",
+          "Jay DeMERIT",
+          "Michael BRADLEY",
+          "Clint DEMPSEY",
+          "Landon DONOVAN",
+          "Maurice EDU",
+          "Herculez GOMEZ",
+          "Jozy Altidore"
+        ],
+        "away": [
+          "MBOLHI Rais",
+          "Madjid BOUGUERRA",
+          "Nadir BELHADJ",
+          "Anther YAHIA",
+          "Rafik HALLICHE",
+          "Medhi LACEN",
+          "Karim MATMOUR",
+          "Karim ZIANI",
+          "Hassan YEBDA",
+          "Foued KADIR",
+          "Rafik DJEBBOUR"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-13",
+      "stage": "Group D",
+      "venue": "Durban Stadium",
+      "city": "Durban",
+      "home_team": "Germany",
+      "away_team": "Australia",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Lukas PODOLSKI",
+          "minute": "7"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "25"
+        },
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "67"
+        },
+        {
+          "team": "Germany",
+          "player": "CACAU",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Brett HOLMAN",
+          "player_off": "Vince GRELLA",
+          "minute": "45"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Nikita Rukavytsya",
+          "player_off": "Richard GARCIA",
+          "minute": "63"
+        },
+        {
+          "team": "Germany",
+          "player_on": "CACAU",
+          "player_off": "Miroslav KLOSE",
+          "minute": "67"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Mesut OEZIL",
+          "minute": "73"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Mile JEDINAK",
+          "player_off": "Brett EMERTON",
+          "minute": "73"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marko MARIN",
+          "player_off": "Lukas PODOLSKI",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Arne FRIEDRICH",
+          "Holger BADSTUBER",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "MUELLER Thomas",
+          "Lukas PODOLSKI",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Mark SCHWARZER",
+          "Lucas NEILL",
+          "Craig MOORE",
+          "Luke WILKSHIRE",
+          "Scott CHIPPERFIELD",
+          "Jason CULINA",
+          "Brett EMERTON",
+          "Vince GRELLA",
+          "Carl VALERI",
+          "Tim CAHILL",
+          "Richard GARCIA"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-13",
+      "stage": "Group D",
+      "venue": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "home_team": "Serbia",
+      "away_team": "Ghana",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Ghana",
+          "player": "Asamoah GYAN",
+          "minute": "84",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Serbia",
+          "player_on": "Zdravko KUZMANOVIC",
+          "player_off": "Nenad MILIJAS",
+          "minute": "61"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Danko LAZOVIC",
+          "player_off": "Nikola ZIGIC",
+          "minute": "68"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Stephen APPIAH",
+          "player_off": "Kwadwo ASAMOAH",
+          "minute": "72"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Neven SUBOTIC",
+          "player_off": "Milan JOVANOVIC",
+          "minute": "75"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Lee ADDY",
+          "player_off": "Kevin-Prince Boateng",
+          "minute": "90"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Quincy OWUSU-ABEYIE",
+          "player_off": "Asamoah GYAN",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vladimir STOJKOVIC",
+          "Aleksandar KOLAROV",
+          "Nemanja VIDIC",
+          "Branislav IVANOVIC",
+          "Aleksandar LUKOVIC",
+          "Dejan STANKOVIC",
+          "Nenad MILIJAS",
+          "Milan JOVANOVIC",
+          "Milos KRASIC",
+          "Marko PANTELIC",
+          "Nikola ZIGIC"
+        ],
+        "away": [
+          "Richard KINGSON",
+          "Hans SARPEI",
+          "John PANTSIL",
+          "John MENSAH",
+          "Isaac VORSAH",
+          "Anthony ANNAN",
+          "Andre AYEW",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Prince TAGOE",
+          "Kevin-Prince Boateng"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-18",
+      "stage": "Group D",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Germany",
+      "away_team": "Serbia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Serbia",
+          "player": "Milan JOVANOVIC",
+          "minute": "37"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "CACAU",
+          "player_off": "Mesut OEZIL",
+          "minute": "69"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marko MARIN",
+          "player_off": "MUELLER Thomas",
+          "minute": "69"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Gojko KACAR",
+          "player_off": "Miloš Ninkovic",
+          "minute": "69"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Radosav PETROVIC",
+          "player_off": "Zdravko KUZMANOVIC",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Holger BADSTUBER",
+          "minute": "76"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Danko LAZOVIC",
+          "player_off": "Milan JOVANOVIC",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Arne FRIEDRICH",
+          "Holger BADSTUBER",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "MUELLER Thomas",
+          "Lukas PODOLSKI",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Vladimir STOJKOVIC",
+          "Aleksandar KOLAROV",
+          "Nemanja VIDIC",
+          "Branislav IVANOVIC",
+          "Neven SUBOTIC",
+          "Dejan STANKOVIC",
+          "Milan JOVANOVIC",
+          "Milos KRASIC",
+          "Miloš Ninkovic",
+          "Zdravko KUZMANOVIC",
+          "Nikola ZIGIC"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-19",
+      "stage": "Group D",
+      "venue": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "home_team": "Ghana",
+      "away_team": "Australia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Australia",
+          "player": "Brett HOLMAN",
+          "minute": "10"
+        },
+        {
+          "team": "Ghana",
+          "player": "Asamoah GYAN",
+          "minute": "25",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ghana",
+          "player_on": "Quincy OWUSU-ABEYIE",
+          "player_off": "Prince TAGOE",
+          "minute": "55"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Scott CHIPPERFIELD",
+          "player_off": "Mark BRESCIANO",
+          "minute": "65"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Joshua KENNEDY",
+          "player_off": "Brett HOLMAN",
+          "minute": "67"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Sulley MUNTARI",
+          "player_off": "Kwadwo ASAMOAH",
+          "minute": "76"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Nikita Rukavytsya",
+          "player_off": "Luke WILKSHIRE",
+          "minute": "84"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Matthew AMOAH",
+          "player_off": "Kevin-Prince Boateng",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Richard KINGSON",
+          "Hans SARPEI",
+          "John PANTSIL",
+          "Jonathan Mensah",
+          "Lee ADDY",
+          "Anthony ANNAN",
+          "Andre AYEW",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Prince TAGOE",
+          "Kevin-Prince Boateng"
+        ],
+        "away": [
+          "Mark SCHWARZER",
+          "Lucas NEILL",
+          "Craig MOORE",
+          "Luke WILKSHIRE",
+          "David CARNEY",
+          "Jason CULINA",
+          "Brett EMERTON",
+          "Carl VALERI",
+          "Harry KEWELL",
+          "Brett HOLMAN",
+          "Mark BRESCIANO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-23",
+      "stage": "Group D",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Ghana",
+      "away_team": "Germany",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Mesut OEZIL",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ghana",
+          "player_on": "Sulley MUNTARI",
+          "player_off": "Prince TAGOE",
+          "minute": "63"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Piotr TROCHOWSKI",
+          "player_off": "MUELLER Thomas",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marcell JANSEN",
+          "player_off": "BOATENG Jerome",
+          "minute": "72"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Toni Kroos",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "80"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Matthew AMOAH",
+          "player_off": "Asamoah GYAN",
+          "minute": "81"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Dominic ADIYIAH",
+          "player_off": "Andre AYEW",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Richard KINGSON",
+          "Hans SARPEI",
+          "John PANTSIL",
+          "John MENSAH",
+          "Jonathan Mensah",
+          "Anthony ANNAN",
+          "Andre AYEW",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Prince TAGOE",
+          "Kevin-Prince Boateng"
+        ],
+        "away": [
+          "NEUER Manuel",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "MUELLER Thomas",
+          "Lukas PODOLSKI",
+          "CACAU"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-23",
+      "stage": "Group D",
+      "venue": "Mbombela Stadium",
+      "city": "Nelspruit",
+      "home_team": "Australia",
+      "away_team": "Serbia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Australia",
+          "player": "Tim CAHILL",
+          "minute": "68"
+        },
+        {
+          "team": "Australia",
+          "player": "Brett HOLMAN",
+          "minute": "72"
+        },
+        {
+          "team": "Serbia",
+          "player": "Marko PANTELIC",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Serbia",
+          "player_on": "Zoran TOSIC",
+          "player_off": "Milos KRASIC",
+          "minute": "61"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Brett HOLMAN",
+          "player_off": "Carl VALERI",
+          "minute": "65"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Scott CHIPPERFIELD",
+          "player_off": "Mark BRESCIANO",
+          "minute": "65"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Marko PANTELIC",
+          "player_off": "Nikola ZIGIC",
+          "minute": "66"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Danko LAZOVIC",
+          "player_off": "Zdravko KUZMANOVIC",
+          "minute": "76"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Richard GARCIA",
+          "player_off": "Luke WILKSHIRE",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mark SCHWARZER",
+          "Lucas NEILL",
+          "Michael BEAUCHAMP",
+          "Luke WILKSHIRE",
+          "David CARNEY",
+          "Jason CULINA",
+          "Brett EMERTON",
+          "Carl VALERI",
+          "Tim CAHILL",
+          "Joshua KENNEDY",
+          "Mark BRESCIANO"
+        ],
+        "away": [
+          "Vladimir STOJKOVIC",
+          "Nemanja VIDIC",
+          "Branislav IVANOVIC",
+          "Aleksandar LUKOVIC",
+          "Ivan OBRADOVIC",
+          "Dejan STANKOVIC",
+          "Milan JOVANOVIC",
+          "Milos KRASIC",
+          "Miloš Ninkovic",
+          "Zdravko KUZMANOVIC",
+          "Nikola ZIGIC"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-14",
+      "stage": "Group E",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Netherlands",
+      "away_team": "Denmark",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Daniel AGGER",
+          "minute": "45",
+          "own_goal": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Dirk KUYT",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Jesper GRONKJAER",
+          "player_off": "Thomas ENEVOLDSEN",
+          "minute": "55"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Mikkel BECKMANN",
+          "player_off": "Nicklas BENDTNER",
+          "minute": "61"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Eljero ELIA",
+          "player_off": "Rafael VAN DER VAART",
+          "minute": "66"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Christian ERIKSEN",
+          "player_off": "Thomas KAHLENBERG",
+          "minute": "72"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Ibrahim AFELLAY",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "76"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Demy DE ZEEUW",
+          "player_off": "Nigel DE JONG",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Maarten Stekelenburg",
+          "Gregory VAN DER WIEL",
+          "John HEITINGA",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Mark VAN BOMMEL",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Rafael VAN DER VAART",
+          "Dirk KUYT",
+          "Robin VAN PERSIE"
+        ],
+        "away": [
+          "Thomas SORENSEN",
+          "Simon KJAER",
+          "Daniel AGGER",
+          "Lars JACOBSEN",
+          "Simon POULSEN",
+          "Christian POULSEN",
+          "Martin JORGENSEN",
+          "Thomas KAHLENBERG",
+          "Thomas ENEVOLDSEN",
+          "Nicklas BENDTNER",
+          "Dennis ROMMEDAHL"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-14",
+      "stage": "Group E",
+      "venue": "Free State Stadium",
+      "city": "Bloemfontein",
+      "home_team": "Japan",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Keisuke HONDA",
+          "minute": "38"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Achille EMANA",
+          "player_off": "Joel MATIP",
+          "minute": "62"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji OKAZAKI",
+          "player_off": "Daisuke MATSUI",
+          "minute": "68"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Mohamadou IDRISSOU",
+          "player_off": "CHOUPO-MOTING Eric Maxim",
+          "minute": "74"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "GEREMI",
+          "player_off": "Jean MAKOUN",
+          "minute": "74"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Kisho YANO",
+          "player_off": "Yoshito OKUBO",
+          "minute": "81"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Junichi INAMOTO",
+          "player_off": "Makoto Hasebe",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Eiji Kawashima",
+          "Yuichi KOMANO",
+          "Marcus Tulio TANAKA",
+          "Yuto Nagatomo",
+          "Yuji NAKAZAWA",
+          "Yuki ABE",
+          "Yasuhito ENDO",
+          "Daisuke MATSUI",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Yoshito OKUBO"
+        ],
+        "away": [
+          "Hamidou SOULEYMANOU",
+          "Benoit ASSOU-EKOTTO",
+          "Nicolas NKOULOU",
+          "Sebastien BASSONG",
+          "Stephane MBIA",
+          "Jean MAKOUN",
+          "Eyong ENOH",
+          "Joel MATIP",
+          "Samuel ETOO",
+          "CHOUPO-MOTING Eric Maxim",
+          "Pierre Webó"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-19",
+      "stage": "Group E",
+      "venue": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "home_team": "Netherlands",
+      "away_team": "Japan",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Wesley SNEIJDER",
+          "minute": "52"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Shunsuke NAKAMURA",
+          "player_off": "Daisuke MATSUI",
+          "minute": "63"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Eljero ELIA",
+          "player_off": "Rafael VAN DER VAART",
+          "minute": "71"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Keiji TAMADA",
+          "player_off": "Yoshito OKUBO",
+          "minute": "76"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji OKAZAKI",
+          "player_off": "Makoto Hasebe",
+          "minute": "76"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Ibrahim AFELLAY",
+          "player_off": "Wesley SNEIJDER",
+          "minute": "82"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Maarten Stekelenburg",
+          "Gregory VAN DER WIEL",
+          "John HEITINGA",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Mark VAN BOMMEL",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Rafael VAN DER VAART",
+          "Dirk KUYT",
+          "Robin VAN PERSIE"
+        ],
+        "away": [
+          "Eiji Kawashima",
+          "Yuichi KOMANO",
+          "Marcus Tulio TANAKA",
+          "Yuto Nagatomo",
+          "Yuji NAKAZAWA",
+          "Yuki ABE",
+          "Yasuhito ENDO",
+          "Daisuke MATSUI",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Yoshito OKUBO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-19",
+      "stage": "Group E",
+      "venue": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "home_team": "Cameroon",
+      "away_team": "Denmark",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Samuel ETOO",
+          "minute": "9"
+        },
+        {
+          "team": "Denmark",
+          "player": "Nicklas BENDTNER",
+          "minute": "32"
+        },
+        {
+          "team": "Denmark",
+          "player": "Dennis ROMMEDAHL",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Jean MAKOUN",
+          "player_off": "Eyong ENOH",
+          "minute": "45"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Daniel JENSEN",
+          "player_off": "Martin JORGENSEN",
+          "minute": "45"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Thomas KAHLENBERG",
+          "player_off": "Jesper GRONKJAER",
+          "minute": "66"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Mohamadou IDRISSOU",
+          "player_off": "Sebastien BASSONG",
+          "minute": "72"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Vincent ABOUBAKAR",
+          "player_off": "Pierre Webó",
+          "minute": "78"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jakob POULSEN",
+          "player_off": "Jon Dahl TOMASSON",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hamidou SOULEYMANOU",
+          "Benoit ASSOU-EKOTTO",
+          "Nicolas NKOULOU",
+          "Sebastien BASSONG",
+          "GEREMI",
+          "Stephane MBIA",
+          "Alexandre SONG",
+          "Eyong ENOH",
+          "Samuel ETOO",
+          "Achille EMANA",
+          "Pierre Webó"
+        ],
+        "away": [
+          "Thomas SORENSEN",
+          "Simon KJAER",
+          "Daniel AGGER",
+          "Lars JACOBSEN",
+          "Simon POULSEN",
+          "Christian POULSEN",
+          "Martin JORGENSEN",
+          "Jesper GRONKJAER",
+          "Jon Dahl TOMASSON",
+          "Nicklas BENDTNER",
+          "Dennis ROMMEDAHL"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-24",
+      "stage": "Group E",
+      "venue": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "home_team": "Denmark",
+      "away_team": "Japan",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Keisuke HONDA",
+          "minute": "16"
+        },
+        {
+          "team": "Japan",
+          "player": "Yasuhito ENDO",
+          "minute": "29"
+        },
+        {
+          "team": "Denmark",
+          "player": "Jon Dahl TOMASSON",
+          "minute": "80"
+        },
+        {
+          "team": "Japan",
+          "player": "Shinji OKAZAKI",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Jakob POULSEN",
+          "player_off": "Martin JORGENSEN",
+          "minute": "33"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Soren LARSEN",
+          "player_off": "Per KROLDRUP",
+          "minute": "55"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Christian ERIKSEN",
+          "player_off": "Thomas KAHLENBERG",
+          "minute": "62"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji OKAZAKI",
+          "player_off": "Daisuke MATSUI",
+          "minute": "73"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Yasuyuki KONNO",
+          "player_off": "Yoshito OKUBO",
+          "minute": "87"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Junichi INAMOTO",
+          "player_off": "Yasuhito ENDO",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas SORENSEN",
+          "Daniel AGGER",
+          "Lars JACOBSEN",
+          "Per KROLDRUP",
+          "Simon POULSEN",
+          "Christian POULSEN",
+          "Martin JORGENSEN",
+          "Thomas KAHLENBERG",
+          "Jon Dahl TOMASSON",
+          "Nicklas BENDTNER",
+          "Dennis ROMMEDAHL"
+        ],
+        "away": [
+          "Eiji Kawashima",
+          "Yuichi KOMANO",
+          "Marcus Tulio TANAKA",
+          "Yuto Nagatomo",
+          "Yuji NAKAZAWA",
+          "Yuki ABE",
+          "Yasuhito ENDO",
+          "Daisuke MATSUI",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Yoshito OKUBO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-24",
+      "stage": "Group E",
+      "venue": "Green Point Stadium",
+      "city": "Cape Town",
+      "home_team": "Cameroon",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Robin VAN PERSIE",
+          "minute": "35"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Samuel ETOO",
+          "minute": "64",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Klaas Jan HUNTELAAR",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Vincent ABOUBAKAR",
+          "player_off": "Gaetan BONG",
+          "minute": "55"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "58"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Eljero ELIA",
+          "player_off": "Dirk KUYT",
+          "minute": "65"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Mohamadou IDRISSOU",
+          "player_off": "CHOUPO-MOTING Eric Maxim",
+          "minute": "71"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Rigobert SONG",
+          "player_off": "Nicolas NKOULOU",
+          "minute": "72"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Arjen ROBBEN",
+          "player_off": "Rafael VAN DER VAART",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hamidou SOULEYMANOU",
+          "Benoit ASSOU-EKOTTO",
+          "Nicolas NKOULOU",
+          "GEREMI",
+          "Gaetan BONG",
+          "Aurelien CHEDJOU",
+          "Stephane MBIA",
+          "Landry NGUEMO",
+          "Jean MAKOUN",
+          "Samuel ETOO",
+          "CHOUPO-MOTING Eric Maxim"
+        ],
+        "away": [
+          "Maarten Stekelenburg",
+          "John HEITINGA",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Khalid BOULAHROUZ",
+          "Mark VAN BOMMEL",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Rafael VAN DER VAART",
+          "Dirk KUYT",
+          "Robin VAN PERSIE"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-14",
+      "stage": "Group F",
+      "venue": "Green Point Stadium",
+      "city": "Cape Town",
+      "home_team": "Italy",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Antolín ALCARAZ",
+          "minute": "38"
+        },
+        {
+          "team": "Italy",
+          "player": "Daniele DE ROSSI",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Federico MARCHETTI",
+          "player_off": "Gianluigi BUFFON",
+          "minute": "45"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Mauro CAMORANESI",
+          "player_off": "Claudio MARCHISIO",
+          "minute": "58"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jonathan SANTANA",
+          "player_off": "Aureliano TORRES",
+          "minute": "59"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Roque SANTA CRUZ",
+          "player_off": "Nelson VALDEZ",
+          "minute": "67"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Antonio DI NATALE",
+          "player_off": "Alberto GILARDINO",
+          "minute": "71"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Oscar CARDOZO",
+          "player_off": "Lucas BARRIOS",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Domenico Criscito",
+          "Giorgio Chiellini",
+          "Fabio CANNAVARO",
+          "Gianluca ZAMBROTTA",
+          "Daniele DE ROSSI",
+          "Simone PEPE",
+          "Claudio MARCHISIO",
+          "Riccardo MONTOLIVO",
+          "Vincenzo IAQUINTA",
+          "Alberto GILARDINO"
+        ],
+        "away": [
+          "Justo VILLAR",
+          "Claudio MOREL",
+          "Paulo DA SILVA",
+          "Aureliano TORRES",
+          "Antolín ALCARAZ",
+          "Carlos BONET",
+          "Enrique VERA",
+          "Victor CACERES",
+          "Cristian RIVEROS",
+          "Nelson VALDEZ",
+          "Lucas BARRIOS"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-15",
+      "stage": "Group F",
+      "venue": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "home_team": "New Zealand",
+      "away_team": "Slovakia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Slovakia",
+          "player": "Robert VITTEK",
+          "minute": "49"
+        },
+        {
+          "team": "New Zealand",
+          "player": "Winston REID",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "New Zealand",
+          "player_on": "Chris WOOD",
+          "player_off": "Chris KILLEN",
+          "minute": "71"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Jeremy CHRISTIE",
+          "player_off": "Ivan VICELICH",
+          "minute": "77"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Filip HOLOSKO",
+          "player_off": "Stanislav SESTAK",
+          "minute": "80"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Miroslav STOCH",
+          "player_off": "Robert VITTEK",
+          "minute": "83"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Juraj Kucka",
+          "player_off": "Vladimir WEISS",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mark PASTON",
+          "Tony LOCHHEAD",
+          "Winston REID",
+          "Ivan VICELICH",
+          "Ryan NELSEN",
+          "Tommy SMITH",
+          "Simon ELLIOTT",
+          "Leo BERTOS",
+          "Shane Smeltz",
+          "Chris KILLEN",
+          "Rory FALLON"
+        ],
+        "away": [
+          "Jan MUCHA",
+          "Martin SKRTEL",
+          "Marek CECH",
+          "Radoslav ZABAVNIK",
+          "Jan DURICA",
+          "Zdenko STRBA",
+          "Vladimir WEISS",
+          "Marek HAMSIK",
+          "Stanislav SESTAK",
+          "Robert VITTEK",
+          "Erik Jendrišek"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-20",
+      "stage": "Group F",
+      "venue": "Mangaung Oval",
+      "city": "Bloemfontein",
+      "home_team": "Slovakia",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Enrique VERA",
+          "minute": "26"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Cristian RIVEROS",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Aureliano TORRES",
+          "player_off": "Nelson VALDEZ",
+          "minute": "67"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Filip HOLOSKO",
+          "player_off": "Stanislav SESTAK",
+          "minute": "69"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Oscar CARDOZO",
+          "player_off": "Lucas BARRIOS",
+          "minute": "81"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Miroslav STOCH",
+          "player_off": "Kornel SALATA",
+          "minute": "82"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Edgar BARRETO",
+          "player_off": "Enrique VERA",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jan MUCHA",
+          "Peter PEKARIK",
+          "Martin SKRTEL",
+          "Jan DURICA",
+          "Kornel SALATA",
+          "Zdenko STRBA",
+          "Vladimir WEISS",
+          "Jan KOZAK",
+          "Marek HAMSIK",
+          "Stanislav SESTAK",
+          "Robert VITTEK"
+        ],
+        "away": [
+          "Justo VILLAR",
+          "Claudio MOREL",
+          "Paulo DA SILVA",
+          "Antolín ALCARAZ",
+          "Carlos BONET",
+          "Enrique VERA",
+          "Victor CACERES",
+          "Cristian RIVEROS",
+          "Roque SANTA CRUZ",
+          "Nelson VALDEZ",
+          "Lucas BARRIOS"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-20",
+      "stage": "Group F",
+      "venue": "Mbombela Stadium",
+      "city": "Nelspruit",
+      "home_team": "Italy",
+      "away_team": "New Zealand",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "New Zealand",
+          "player": "Shane Smeltz",
+          "minute": "6"
+        },
+        {
+          "team": "Italy",
+          "player": "Vincenzo IAQUINTA",
+          "minute": "28",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonio DI NATALE",
+          "player_off": "Alberto GILARDINO",
+          "minute": "45"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Mauro CAMORANESI",
+          "player_off": "Simone PEPE",
+          "minute": "45"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giampaolo PAZZINI",
+          "player_off": "Claudio MARCHISIO",
+          "minute": "60"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Chris WOOD",
+          "player_off": "Rory FALLON",
+          "minute": "62"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Jeremy CHRISTIE",
+          "player_off": "Ivan VICELICH",
+          "minute": "80"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Andy BARRON",
+          "player_off": "Chris KILLEN",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Federico MARCHETTI",
+          "Domenico Criscito",
+          "Giorgio Chiellini",
+          "Fabio CANNAVARO",
+          "Gianluca ZAMBROTTA",
+          "Daniele DE ROSSI",
+          "Simone PEPE",
+          "Claudio MARCHISIO",
+          "Riccardo MONTOLIVO",
+          "Vincenzo IAQUINTA",
+          "Alberto GILARDINO"
+        ],
+        "away": [
+          "Mark PASTON",
+          "Tony LOCHHEAD",
+          "Winston REID",
+          "Ivan VICELICH",
+          "Ryan NELSEN",
+          "Tommy SMITH",
+          "Simon ELLIOTT",
+          "Leo BERTOS",
+          "Shane Smeltz",
+          "Chris KILLEN",
+          "Rory FALLON"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-24",
+      "stage": "Group F",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Slovakia",
+      "away_team": "Italy",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Slovakia",
+          "player": "Robert VITTEK",
+          "minute": "24"
+        },
+        {
+          "team": "Slovakia",
+          "player": "Robert VITTEK",
+          "minute": "72"
+        },
+        {
+          "team": "Italy",
+          "player": "Antonio DI NATALE",
+          "minute": "80"
+        },
+        {
+          "team": "Slovakia",
+          "player": "Kamil KOPUNEK",
+          "minute": "88"
+        },
+        {
+          "team": "Italy",
+          "player": "Fabio QUAGLIARELLA",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Fabio QUAGLIARELLA",
+          "player_off": "Gennaro GATTUSO",
+          "minute": "45"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Christian MAGGIO",
+          "player_off": "Domenico Criscito",
+          "minute": "45"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Andrea PIRLO",
+          "player_off": "Riccardo MONTOLIVO",
+          "minute": "55"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Kamil KOPUNEK",
+          "player_off": "Zdenko STRBA",
+          "minute": "86"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Stanislav SESTAK",
+          "player_off": "Robert VITTEK",
+          "minute": "90+1"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Martin PETRAS",
+          "player_off": "Erik Jendrišek",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jan MUCHA",
+          "Peter PEKARIK",
+          "Martin SKRTEL",
+          "Radoslav ZABAVNIK",
+          "Jan DURICA",
+          "Zdenko STRBA",
+          "Miroslav STOCH",
+          "Marek HAMSIK",
+          "Juraj Kucka",
+          "Robert VITTEK",
+          "Erik Jendrišek"
+        ],
+        "away": [
+          "Federico MARCHETTI",
+          "Domenico Criscito",
+          "Giorgio Chiellini",
+          "Fabio CANNAVARO",
+          "Gianluca ZAMBROTTA",
+          "Daniele DE ROSSI",
+          "Simone PEPE",
+          "Gennaro GATTUSO",
+          "Riccardo MONTOLIVO",
+          "Vincenzo IAQUINTA",
+          "Antonio DI NATALE"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-24",
+      "stage": "Group F",
+      "venue": "Peter Mokaba Stadium",
+      "city": "Polokwane",
+      "home_team": "Paraguay",
+      "away_team": "New Zealand",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Lucas BARRIOS",
+          "player_off": "Oscar CARDOZO",
+          "minute": "65"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Edgar BENITEZ",
+          "player_off": "Nelson VALDEZ",
+          "minute": "66"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Chris WOOD",
+          "player_off": "Rory FALLON",
+          "minute": "68"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Jeremy BROCKIE",
+          "player_off": "Chris KILLEN",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Justo VILLAR",
+          "Claudio MOREL",
+          "Denis CANIZA",
+          "Julio Cesar CACERES",
+          "Paulo DA SILVA",
+          "Enrique VERA",
+          "Victor CACERES",
+          "Cristian RIVEROS",
+          "Oscar CARDOZO",
+          "Roque SANTA CRUZ",
+          "Nelson VALDEZ"
+        ],
+        "away": [
+          "Mark PASTON",
+          "Tony LOCHHEAD",
+          "Winston REID",
+          "Ivan VICELICH",
+          "Ryan NELSEN",
+          "Tommy SMITH",
+          "Simon ELLIOTT",
+          "Leo BERTOS",
+          "Shane Smeltz",
+          "Chris KILLEN",
+          "Rory FALLON"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-15",
+      "stage": "Group G",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Ivory Coast",
+      "away_team": "Portugal",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "SIMAO",
+          "player_off": "DANNY",
+          "minute": "54"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "TIAGO",
+          "player_off": "DECO",
+          "minute": "61"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Didier DROGBA",
+          "player_off": "Salomon KALOU",
+          "minute": "65"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Kader KEITA",
+          "player_off": "GERVINHO",
+          "minute": "81"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RUBEN AMORIM",
+          "player_off": "RAUL MEIRELES",
+          "minute": "84"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "ROMARIC",
+          "player_off": "Emmanuel EBOUE",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Boubacar BARRY",
+          "Kolo TOURÉ",
+          "Siaka TIENE",
+          "Guy DEMEL",
+          "Emmanuel EBOUE",
+          "Didier ZOKORA",
+          "Cheick TIOTÉ",
+          "Yaya TOURE",
+          "Salomon KALOU",
+          "GERVINHO",
+          "Aruna DINDANE"
+        ],
+        "away": [
+          "EDUARDO",
+          "BRUNO ALVES",
+          "PAULO FERREIRA",
+          "RICARDO CARVALHO",
+          "FABIO COENTRAO",
+          "PEDRO MENDES",
+          "RAUL MEIRELES",
+          "DECO",
+          "CRISTIANO RONALDO",
+          "LIEDSON",
+          "DANNY"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-15",
+      "stage": "Group G",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Brazil",
+      "away_team": "North Korea",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "MAICON",
+          "minute": "54"
+        },
+        {
+          "team": "Brazil",
+          "player": "ELANO",
+          "minute": "71"
+        },
+        {
+          "team": "North Korea",
+          "player": "JI Yun Nam",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "DANI ALVES",
+          "player_off": "ELANO",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "NILMAR",
+          "player_off": "KAKA",
+          "minute": "77"
+        },
+        {
+          "team": "North Korea",
+          "player_on": "KIM Kum Il",
+          "player_off": "MUN In Guk",
+          "minute": "79"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "FELIPE MELO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "MAICON",
+          "LUCIO",
+          "JUAN",
+          "MICHEL BASTOS",
+          "FELIPE MELO",
+          "ELANO",
+          "GILBERTO SILVA",
+          "KAKA",
+          "LUIS FABIANO",
+          "ROBINHO"
+        ],
+        "away": [
+          "RI Myong Guk",
+          "CHA Jong Hyok",
+          "RI Jun Il",
+          "RI Kwang Chon",
+          "JI Yun Nam",
+          "PAK Chol Jin",
+          "PAK Nam Chol",
+          "MUN In Guk",
+          "AN Yong Hak",
+          "JONG Tae Se",
+          "HONG Yong Jo"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-20",
+      "stage": "Group G",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Brazil",
+      "away_team": "Ivory Coast",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "LUIS FABIANO",
+          "minute": "24"
+        },
+        {
+          "team": "Brazil",
+          "player": "LUIS FABIANO",
+          "minute": "49"
+        },
+        {
+          "team": "Brazil",
+          "player": "ELANO",
+          "minute": "61"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Didier DROGBA",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ivory Coast",
+          "player_on": "GERVINHO",
+          "player_off": "Aruna DINDANE",
+          "minute": "53"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DANI ALVES",
+          "player_off": "ELANO",
+          "minute": "66"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Kader KEITA",
+          "player_off": "Salomon KALOU",
+          "minute": "67"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "ROMARIC",
+          "player_off": "Emmanuel EBOUE",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "ROBINHO",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "MAICON",
+          "LUCIO",
+          "JUAN",
+          "MICHEL BASTOS",
+          "FELIPE MELO",
+          "ELANO",
+          "GILBERTO SILVA",
+          "KAKA",
+          "LUIS FABIANO",
+          "ROBINHO"
+        ],
+        "away": [
+          "Boubacar BARRY",
+          "Kolo TOURÉ",
+          "Siaka TIENE",
+          "Guy DEMEL",
+          "Emmanuel EBOUE",
+          "Didier ZOKORA",
+          "Cheick TIOTÉ",
+          "Yaya TOURE",
+          "Salomon KALOU",
+          "Didier DROGBA",
+          "Aruna DINDANE"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-21",
+      "stage": "Group G",
+      "venue": "Green Point Stadium",
+      "city": "Cape Town",
+      "home_team": "Portugal",
+      "away_team": "North Korea",
+      "score": {
+        "home": 7,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "RAUL MEIRELES",
+          "minute": "28"
+        },
+        {
+          "team": "Portugal",
+          "player": "SIMAO",
+          "minute": "52"
+        },
+        {
+          "team": "Portugal",
+          "player": "HUGO ALMEIDA",
+          "minute": "55"
+        },
+        {
+          "team": "Portugal",
+          "player": "TIAGO",
+          "minute": "59"
+        },
+        {
+          "team": "Portugal",
+          "player": "LIEDSON",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "86"
+        },
+        {
+          "team": "Portugal",
+          "player": "TIAGO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "North Korea",
+          "player_on": "KIM Kum Il",
+          "player_off": "PAK Nam Chol",
+          "minute": "57"
+        },
+        {
+          "team": "North Korea",
+          "player_on": "KIM Yong Jun",
+          "player_off": "MUN In Guk",
+          "minute": "57"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "MIGUEL VELOSO",
+          "player_off": "RAUL MEIRELES",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "DUDA",
+          "player_off": "SIMAO",
+          "minute": "73"
+        },
+        {
+          "team": "North Korea",
+          "player_on": "NAM Song Chol",
+          "player_off": "CHA Jong Hyok",
+          "minute": "74"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "LIEDSON",
+          "player_off": "HUGO ALMEIDA",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "EDUARDO",
+          "BRUNO ALVES",
+          "RICARDO CARVALHO",
+          "MIGUEL",
+          "FABIO COENTRAO",
+          "PEDRO MENDES",
+          "RAUL MEIRELES",
+          "TIAGO",
+          "CRISTIANO RONALDO",
+          "SIMAO",
+          "HUGO ALMEIDA"
+        ],
+        "away": [
+          "RI Myong Guk",
+          "CHA Jong Hyok",
+          "RI Jun Il",
+          "RI Kwang Chon",
+          "JI Yun Nam",
+          "PAK Chol Jin",
+          "PAK Nam Chol",
+          "MUN In Guk",
+          "AN Yong Hak",
+          "JONG Tae Se",
+          "HONG Yong Jo"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-25",
+      "stage": "Group G",
+      "venue": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "home_team": "Portugal",
+      "away_team": "Brazil",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "JOSUE",
+          "player_off": "FELIPE MELO",
+          "minute": "43"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "SIMAO",
+          "player_off": "DUDA",
+          "minute": "53"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "PEDRO MENDES",
+          "player_off": "PEPE",
+          "minute": "63"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "JULIO BAPTISTA",
+          "minute": "81"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "MIGUEL VELOSO",
+          "player_off": "RAUL MEIRELES",
+          "minute": "83"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GRAFITE",
+          "player_off": "LUIS FABIANO",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "EDUARDO",
+          "BRUNO ALVES",
+          "DUDA",
+          "RICARDO CARVALHO",
+          "RICARDO COSTA",
+          "FABIO COENTRAO",
+          "PEPE",
+          "RAUL MEIRELES",
+          "TIAGO",
+          "CRISTIANO RONALDO",
+          "DANNY"
+        ],
+        "away": [
+          "JULIO CESAR",
+          "MAICON",
+          "LUCIO",
+          "JUAN",
+          "MICHEL BASTOS",
+          "DANI ALVES",
+          "FELIPE MELO",
+          "GILBERTO SILVA",
+          "JULIO BAPTISTA",
+          "LUIS FABIANO",
+          "NILMAR"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-25",
+      "stage": "Group G",
+      "venue": "Mbombela Stadium",
+      "city": "Nelspruit",
+      "home_team": "North Korea",
+      "away_team": "Ivory Coast",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Ivory Coast",
+          "player": "Yaya TOURE",
+          "minute": "13"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "ROMARIC",
+          "minute": "19"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Salomon KALOU",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ivory Coast",
+          "player_on": "Aruna DINDANE",
+          "player_off": "GERVINHO",
+          "minute": "63"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Salomon KALOU",
+          "player_off": "Kader KEITA",
+          "minute": "63"
+        },
+        {
+          "team": "North Korea",
+          "player_on": "CHOE Kum Chol",
+          "player_off": "MUN In Guk",
+          "minute": "66"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Seydou DOUMBIA",
+          "player_off": "ROMARIC",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RI Myong Guk",
+          "CHA Jong Hyok",
+          "RI Jun Il",
+          "RI Kwang Chon",
+          "JI Yun Nam",
+          "PAK Chol Jin",
+          "PAK Nam Chol",
+          "MUN In Guk",
+          "AN Yong Hak",
+          "JONG Tae Se",
+          "HONG Yong Jo"
+        ],
+        "away": [
+          "Boubacar BARRY",
+          "Arthur BOKA",
+          "Kolo TOURÉ",
+          "Emmanuel EBOUE",
+          "Didier ZOKORA",
+          "Cheick TIOTÉ",
+          "ROMARIC",
+          "Yaya TOURE",
+          "GERVINHO",
+          "Didier DROGBA",
+          "Kader KEITA"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-16",
+      "stage": "Group H",
+      "venue": "Mbombela Stadium",
+      "city": "Nelspruit",
+      "home_team": "Honduras",
+      "away_team": "Chile",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Jean BEAUSEJOUR",
+          "minute": "33"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Gonzalo JARA",
+          "player_off": "Rodrigo MILLAR",
+          "minute": "51"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Georgie WELCOME",
+          "player_off": "Carlos PAVON",
+          "minute": "59"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Hendry THOMAS",
+          "player_off": "Amado GUEVARA",
+          "minute": "65"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Walter MARTINEZ",
+          "player_off": "Ramon NUNEZ",
+          "minute": "77"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Pablo CONTRERAS",
+          "player_off": "Arturo VIDAL",
+          "minute": "80"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Mark GONZALEZ",
+          "player_off": "Jorge VALDIVIA",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Noel VALLADARES",
+          "Osman CHAVEZ",
+          "Maynor FIGUEROA",
+          "Emilio IZAGUIRRE",
+          "Sergio MENDOZA",
+          "Ramon NUNEZ",
+          "Wilson PALACIOS",
+          "Edgardo ALVAREZ",
+          "Amado GUEVARA",
+          "Carlos PAVON",
+          "Roger ESPINOZA"
+        ],
+        "away": [
+          "Claudio BRAVO",
+          "Waldo PONCE",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Carlos CARMONA",
+          "Arturo VIDAL",
+          "Jorge VALDIVIA",
+          "Matias FERNANDEZ",
+          "Rodrigo MILLAR",
+          "Alexis SANCHEZ",
+          "Jean BEAUSEJOUR"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-16",
+      "stage": "Group H",
+      "venue": "Durban Stadium",
+      "city": "Durban",
+      "home_team": "Spain",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Gelson FERNANDES",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Steve VON BERGEN",
+          "player_off": "Philippe SENDEROS",
+          "minute": "35"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando TORRES",
+          "player_off": "Sergio BUSQUETS",
+          "minute": "60"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jesús NAVAS",
+          "player_off": "David SILVA",
+          "minute": "61"
+        },
+        {
+          "team": "Spain",
+          "player_on": "PEDRO",
+          "player_off": "Andres INIESTA",
+          "minute": "76"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Hakan YAKIN",
+          "player_off": "Eren Derdiyok",
+          "minute": "78"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Mario EGGIMANN",
+          "player_off": "Tranquillo BARNETTA",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David SILVA",
+          "David VILLA"
+        ],
+        "away": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Philippe SENDEROS",
+          "Stephane GRICHTING",
+          "Reto Ziegler",
+          "Benjamin HUGGEL",
+          "Tranquillo BARNETTA",
+          "Gokhan INLER",
+          "Gelson FERNANDES",
+          "Blaise NKUFO",
+          "Eren Derdiyok"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-21",
+      "stage": "Group H",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Chile",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Mark GONZALEZ",
+          "minute": "74"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Tranquillo BARNETTA",
+          "player_off": "Alexander FREI",
+          "minute": "41"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jorge VALDIVIA",
+          "player_off": "Humberto SUAZO",
+          "minute": "45"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Mark GONZALEZ",
+          "player_off": "Arturo VIDAL",
+          "minute": "45"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Esteban PAREDES",
+          "player_off": "Matias FERNANDEZ",
+          "minute": "64"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Eren Derdiyok",
+          "player_off": "Blaise NKUFO",
+          "minute": "67"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Albert BUNJAKU",
+          "player_off": "Gelson FERNANDES",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Claudio BRAVO",
+          "Waldo PONCE",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Gonzalo JARA",
+          "Carlos CARMONA",
+          "Arturo VIDAL",
+          "Matias FERNANDEZ",
+          "Alexis SANCHEZ",
+          "Humberto SUAZO",
+          "Jean BEAUSEJOUR"
+        ],
+        "away": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Steve VON BERGEN",
+          "Stephane GRICHTING",
+          "Reto Ziegler",
+          "Benjamin HUGGEL",
+          "Gokhan INLER",
+          "Valon BEHRAMI",
+          "Gelson FERNANDES",
+          "Alexander FREI",
+          "Blaise NKUFO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-21",
+      "stage": "Group H",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Spain",
+      "away_team": "Honduras",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "16"
+        },
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Honduras",
+          "player_on": "Georgie WELCOME",
+          "player_off": "Roger ESPINOZA",
+          "minute": "45"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Ramon NUNEZ",
+          "player_off": "Danilo TURCIOS",
+          "minute": "62"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Xavi HERNANDEZ",
+          "minute": "65"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Juan MATA",
+          "player_off": "Fernando TORRES",
+          "minute": "69"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alvaro ARBELOA",
+          "player_off": "Sergio RAMOS",
+          "minute": "76"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Jerry PALACIOS",
+          "player_off": "David SUAZO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David VILLA",
+          "Fernando TORRES",
+          "Jesús NAVAS"
+        ],
+        "away": [
+          "Noel VALLADARES",
+          "Osman CHAVEZ",
+          "Maynor FIGUEROA",
+          "Emilio IZAGUIRRE",
+          "Sergio MENDOZA",
+          "Wilson PALACIOS",
+          "Danilo TURCIOS",
+          "Amado GUEVARA",
+          "David SUAZO",
+          "Roger ESPINOZA",
+          "Walter MARTINEZ"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-25",
+      "stage": "Group H",
+      "venue": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "home_team": "Chile",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "23"
+        },
+        {
+          "team": "Spain",
+          "player": "Andres INIESTA",
+          "minute": "36"
+        },
+        {
+          "team": "Chile",
+          "player": "Rodrigo MILLAR",
+          "minute": "46"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Rodrigo MILLAR",
+          "player_off": "Mark GONZALEZ",
+          "minute": "45+1"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Esteban PAREDES",
+          "player_off": "Jorge VALDIVIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Fernando TORRES",
+          "minute": "54"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Fabian ORELLANA",
+          "player_off": "Alexis SANCHEZ",
+          "minute": "64"
+        },
+        {
+          "team": "Spain",
+          "player_on": "MARTINEZ Javi",
+          "player_off": "Xabi ALONSO",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Claudio BRAVO",
+          "Waldo PONCE",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Gonzalo JARA",
+          "Arturo VIDAL",
+          "Jorge VALDIVIA",
+          "Marco ESTRADA",
+          "Alexis SANCHEZ",
+          "Mark GONZALEZ",
+          "Jean BEAUSEJOUR"
+        ],
+        "away": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David VILLA",
+          "Fernando TORRES"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-25",
+      "stage": "Group H",
+      "venue": "Free State Stadium",
+      "city": "Bloemfontein",
+      "home_team": "Switzerland",
+      "away_team": "Honduras",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Hakan YAKIN",
+          "player_off": "Gelson FERNANDES",
+          "minute": "45"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Walter MARTINEZ",
+          "player_off": "Ramon NUNEZ",
+          "minute": "66"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Alexander FREI",
+          "player_off": "Blaise NKUFO",
+          "minute": "68"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Xherdan Shaqiri",
+          "player_off": "Benjamin HUGGEL",
+          "minute": "77"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Georgie WELCOME",
+          "player_off": "Jerry PALACIOS",
+          "minute": "77"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Danilo TURCIOS",
+          "player_off": "David SUAZO",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Steve VON BERGEN",
+          "Stephane GRICHTING",
+          "Reto Ziegler",
+          "Benjamin HUGGEL",
+          "Tranquillo BARNETTA",
+          "Gokhan INLER",
+          "Gelson FERNANDES",
+          "Blaise NKUFO",
+          "Eren Derdiyok"
+        ],
+        "away": [
+          "Noel VALLADARES",
+          "Osman CHAVEZ",
+          "Maynor FIGUEROA",
+          "Victor BERNARDEZ",
+          "Mauricio SABILLON",
+          "Hendry THOMAS",
+          "Ramon NUNEZ",
+          "Wilson PALACIOS",
+          "Jerry PALACIOS",
+          "Edgardo ALVAREZ",
+          "David SUAZO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-26",
+      "stage": "Round of 16",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Uruguay",
+      "away_team": "South Korea",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "7"
+        },
+        {
+          "team": "South Korea",
+          "player": "LEE Chungyong",
+          "minute": "67"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Mauricio VICTORINO",
+          "player_off": "Diego GODIN",
+          "minute": "45"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Donggook",
+          "player_off": "KIM Jae Sung",
+          "minute": "60"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Nicolas LODEIRO",
+          "player_off": "Alvaro PEREIRA",
+          "minute": "73"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Álvaro FERNÁNDEZ",
+          "player_off": "Luis SUAREZ",
+          "minute": "83"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "YEOM Ki Hun",
+          "player_off": "KI Sungyueng",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Diego GODIN",
+          "Jorge FUCILE",
+          "Maximiliano PEREIRA",
+          "Alvaro PEREIRA",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Edinson CAVANI",
+          "Luis SUAREZ",
+          "Diego FORLAN"
+        ],
+        "away": [
+          "JUNG Sungryong",
+          "CHO Yong Hyung",
+          "LEE Youngpyo",
+          "LEE Jung Soo",
+          "CHA Duri",
+          "PARK Jisung",
+          "KIM Jung Woo",
+          "KIM Jae Sung",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "PARK Chuyoung"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-26",
+      "stage": "Round of 16",
+      "venue": "Royal Bafokeng Stadium",
+      "city": "Rustenburg",
+      "home_team": "United States",
+      "away_team": "Ghana",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Ghana",
+          "player": "Kevin-Prince Boateng",
+          "minute": "4"
+        },
+        {
+          "team": "United States",
+          "player": "Landon DONOVAN",
+          "minute": "61",
+          "penalty": true
+        },
+        {
+          "team": "Ghana",
+          "player": "Asamoah GYAN",
+          "minute": "92"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Maurice EDU",
+          "player_off": "Ricardo CLARK",
+          "minute": "30"
+        },
+        {
+          "team": "United States",
+          "player_on": "Benny FEILHABER",
+          "player_off": "Robbie FINDLEY",
+          "minute": "45"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Lee ADDY",
+          "player_off": "Hans SARPEI",
+          "minute": "72"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Stephen APPIAH",
+          "player_off": "Kevin-Prince Boateng",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Herculez GOMEZ",
+          "player_off": "Jozy Altidore",
+          "minute": "90"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Sulley MUNTARI",
+          "player_off": "Samuel INKOOM",
+          "minute": "112"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tim HOWARD",
+          "Carlos BOCANEGRA",
+          "Steve CHERUNDOLO",
+          "Jonathan BORNSTEIN",
+          "Jay DeMERIT",
+          "Michael BRADLEY",
+          "Clint DEMPSEY",
+          "Landon DONOVAN",
+          "Ricardo CLARK",
+          "Jozy Altidore",
+          "Robbie FINDLEY"
+        ],
+        "away": [
+          "Richard KINGSON",
+          "Hans SARPEI",
+          "John PANTSIL",
+          "John MENSAH",
+          "Samuel INKOOM",
+          "Jonathan Mensah",
+          "Anthony ANNAN",
+          "Andre AYEW",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Kevin-Prince Boateng"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-27",
+      "stage": "Round of 16",
+      "venue": "Free State Stadium",
+      "city": "Bloemfontein",
+      "home_team": "Germany",
+      "away_team": "England",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "19"
+        },
+        {
+          "team": "Germany",
+          "player": "Lukas PODOLSKI",
+          "minute": "31"
+        },
+        {
+          "team": "England",
+          "player": "Matt UPSON",
+          "minute": "36"
+        },
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Joe COLE",
+          "player_off": "James MILNER",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Emile HESKEY",
+          "player_off": "Jermain DEFOE",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Piotr TROCHOWSKI",
+          "player_off": "MUELLER Thomas",
+          "minute": "71"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Miroslav KLOSE",
+          "minute": "71"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Stefan KIESSLING",
+          "player_off": "Mesut OEZIL",
+          "minute": "82"
+        },
+        {
+          "team": "England",
+          "player_on": "Shaun WRIGHT-PHILLIPS",
+          "player_off": "Glen JOHNSON",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "MUELLER Thomas",
+          "Lukas PODOLSKI",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "David JAMES",
+          "Glen JOHNSON",
+          "Ashley COLE",
+          "John TERRY",
+          "Matt UPSON",
+          "Steven GERRARD",
+          "Frank LAMPARD",
+          "Gareth BARRY",
+          "James MILNER",
+          "Wayne ROONEY",
+          "Jermain DEFOE"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-27",
+      "stage": "Round of 16",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Argentina",
+      "away_team": "Mexico",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Carlos TEVEZ",
+          "minute": "25"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gonzalo HIGUAIN",
+          "minute": "32"
+        },
+        {
+          "team": "Argentina",
+          "player": "Carlos TEVEZ",
+          "minute": "51"
+        },
+        {
+          "team": "Mexico",
+          "player": "Javier HERNANDEZ",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Pablo BARRERA",
+          "player_off": "Adolfo BAUTISTA",
+          "minute": "45"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Guillermo FRANCO",
+          "player_off": "Andres GUARDADO",
+          "minute": "60"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Juan VERON",
+          "player_off": "Carlos TEVEZ",
+          "minute": "68"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Jonas GUTIERREZ",
+          "player_off": "Angel DI MARIA",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Javier PASTORE",
+          "player_off": "Maxi RODRIGUEZ",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Martin DEMICHELIS",
+          "Nicolas BURDISSO",
+          "Gabriel HEINZE",
+          "Nicolas OTAMENDI",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Maxi RODRIGUEZ",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Carlos TEVEZ"
+        ],
+        "away": [
+          "Oscar PEREZ",
+          "Francisco RODRIGUEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Efrain JUAREZ",
+          "Gerardo TORRADO",
+          "Andres GUARDADO",
+          "Javier HERNANDEZ",
+          "Giovani DOS SANTOS",
+          "Adolfo BAUTISTA"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-28",
+      "stage": "Round of 16",
+      "venue": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "home_team": "Netherlands",
+      "away_team": "Slovakia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Arjen ROBBEN",
+          "minute": "17"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wesley SNEIJDER",
+          "minute": "83"
+        },
+        {
+          "team": "Slovakia",
+          "player": "Robert VITTEK",
+          "minute": "90+3",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Eljero ELIA",
+          "player_off": "Arjen ROBBEN",
+          "minute": "70"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Kamil KOPUNEK",
+          "player_off": "Erik Jendrišek",
+          "minute": "71"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "79"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Marek SAPARA",
+          "player_off": "Marek HAMSIK",
+          "minute": "86"
+        },
+        {
+          "team": "Slovakia",
+          "player_on": "Martin JAKUBKO",
+          "player_off": "Radoslav ZABAVNIK",
+          "minute": "87"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Ibrahim AFELLAY",
+          "player_off": "Wesley SNEIJDER",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Maarten Stekelenburg",
+          "Gregory VAN DER WIEL",
+          "John HEITINGA",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Mark VAN BOMMEL",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Dirk KUYT",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN"
+        ],
+        "away": [
+          "Jan MUCHA",
+          "Peter PEKARIK",
+          "Martin SKRTEL",
+          "Radoslav ZABAVNIK",
+          "Jan DURICA",
+          "Vladimir WEISS",
+          "Miroslav STOCH",
+          "Marek HAMSIK",
+          "Juraj Kucka",
+          "Robert VITTEK",
+          "Erik Jendrišek"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-28",
+      "stage": "Round of 16",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Brazil",
+      "away_team": "Chile",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "JUAN",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player": "LUIS FABIANO",
+          "minute": "37"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROBINHO",
+          "minute": "58"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Rodrigo TELLO",
+          "player_off": "Pablo CONTRERAS",
+          "minute": "45"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jorge VALDIVIA",
+          "player_off": "Mark GONZALEZ",
+          "minute": "45"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Rodrigo MILLAR",
+          "player_off": "Mauricio ISLA",
+          "minute": "61"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "NILMAR",
+          "player_off": "LUIS FABIANO",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "KLEBERSON",
+          "player_off": "KAKA",
+          "minute": "80"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GILBERTO MELO",
+          "player_off": "ROBINHO",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "MAICON",
+          "LUCIO",
+          "JUAN",
+          "MICHEL BASTOS",
+          "DANI ALVES",
+          "GILBERTO SILVA",
+          "KAKA",
+          "RAMIRES",
+          "LUIS FABIANO",
+          "ROBINHO"
+        ],
+        "away": [
+          "Claudio BRAVO",
+          "Ismael FUENTES",
+          "Mauricio ISLA",
+          "Pablo CONTRERAS",
+          "Gonzalo JARA",
+          "Carlos CARMONA",
+          "Arturo VIDAL",
+          "Alexis SANCHEZ",
+          "Humberto SUAZO",
+          "Mark GONZALEZ",
+          "Jean BEAUSEJOUR"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-29",
+      "stage": "Round of 16",
+      "venue": "Loftus Versfeld Stadium",
+      "city": "Pretoria",
+      "home_team": "Paraguay",
+      "away_team": "Japan",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 5,
+        "away": 3
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Nelson VALDEZ",
+          "player_off": "Edgar BENITEZ",
+          "minute": "59"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji OKAZAKI",
+          "player_off": "Daisuke MATSUI",
+          "minute": "65"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Edgar BARRETO",
+          "player_off": "Nestor ORTIGOZA",
+          "minute": "74"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Kengo NAKAMURA",
+          "player_off": "Yuki ABE",
+          "minute": "80"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Oscar CARDOZO",
+          "player_off": "Roque SANTA CRUZ",
+          "minute": "93"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Keiji TAMADA",
+          "player_off": "Yoshito OKUBO",
+          "minute": "105"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Justo VILLAR",
+          "Claudio MOREL",
+          "Paulo DA SILVA",
+          "Antolín ALCARAZ",
+          "Carlos BONET",
+          "Enrique VERA",
+          "Cristian RIVEROS",
+          "Nestor ORTIGOZA",
+          "Roque SANTA CRUZ",
+          "Edgar BENITEZ",
+          "Lucas BARRIOS"
+        ],
+        "away": [
+          "Eiji Kawashima",
+          "Yuichi KOMANO",
+          "Marcus Tulio TANAKA",
+          "Yuto Nagatomo",
+          "Yuji NAKAZAWA",
+          "Yuki ABE",
+          "Yasuhito ENDO",
+          "Daisuke MATSUI",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Yoshito OKUBO"
+        ]
+      }
+    },
+    {
+      "date": "2010-06-29",
+      "stage": "Round of 16",
+      "venue": "Cape Town Stadium",
+      "city": "Cape Town",
+      "home_team": "Spain",
+      "away_team": "Portugal",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Fernando LLORENTE",
+          "player_off": "Fernando TORRES",
+          "minute": "57"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "DANNY",
+          "player_off": "HUGO ALMEIDA",
+          "minute": "57"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "LIEDSON",
+          "player_off": "SIMAO",
+          "minute": "71"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "PEDRO MENDES",
+          "player_off": "PEPE",
+          "minute": "71"
+        },
+        {
+          "team": "Spain",
+          "player_on": "PEDRO",
+          "player_off": "David VILLA",
+          "minute": "87"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Carlos MARCHENA",
+          "player_off": "Xabi ALONSO",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David VILLA",
+          "Fernando TORRES"
+        ],
+        "away": [
+          "EDUARDO",
+          "BRUNO ALVES",
+          "RICARDO CARVALHO",
+          "RICARDO COSTA",
+          "FABIO COENTRAO",
+          "PEPE",
+          "RAUL MEIRELES",
+          "TIAGO",
+          "CRISTIANO RONALDO",
+          "SIMAO",
+          "HUGO ALMEIDA"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-02",
+      "stage": "Quarterfinal",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Uruguay",
+      "away_team": "Ghana",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Ghana",
+          "player": "Sulley MUNTARI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Diego FORLAN",
+          "minute": "54"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Andres SCOTTI",
+          "player_off": "Diego LUGANO",
+          "minute": "37"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Nicolas LODEIRO",
+          "player_off": "Álvaro FERNÁNDEZ",
+          "minute": "45"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Stephen APPIAH",
+          "player_off": "Samuel INKOOM",
+          "minute": "73"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastian ABREU",
+          "player_off": "Edinson CAVANI",
+          "minute": "75"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Dominic ADIYIAH",
+          "player_off": "Sulley MUNTARI",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Jorge FUCILE",
+          "Mauricio VICTORINO",
+          "Maximiliano PEREIRA",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Álvaro FERNÁNDEZ",
+          "Edinson CAVANI",
+          "Luis SUAREZ",
+          "Diego FORLAN"
+        ],
+        "away": [
+          "Richard KINGSON",
+          "Hans SARPEI",
+          "John PANTSIL",
+          "John MENSAH",
+          "Samuel INKOOM",
+          "Isaac VORSAH",
+          "Anthony ANNAN",
+          "Sulley MUNTARI",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Kevin-Prince Boateng"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-02",
+      "stage": "Quarterfinal",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Netherlands",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROBINHO",
+          "minute": "9"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wesley SNEIJDER",
+          "minute": "52"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wesley SNEIJDER",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "GILBERTO MELO",
+          "player_off": "MICHEL BASTOS",
+          "minute": "61"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "NILMAR",
+          "player_off": "LUIS FABIANO",
+          "minute": "76"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Maarten Stekelenburg",
+          "Gregory VAN DER WIEL",
+          "John HEITINGA",
+          "Giovanni VAN BRONCKHORST",
+          "Andre OOIJER",
+          "Mark VAN BOMMEL",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Dirk KUYT",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN"
+        ],
+        "away": [
+          "JULIO CESAR",
+          "MAICON",
+          "LUCIO",
+          "JUAN",
+          "MICHEL BASTOS",
+          "DANI ALVES",
+          "FELIPE MELO",
+          "GILBERTO SILVA",
+          "KAKA",
+          "LUIS FABIANO",
+          "ROBINHO"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-03",
+      "stage": "Quarterfinal",
+      "venue": "Green Point Stadium",
+      "city": "Cape Town",
+      "home_team": "Germany",
+      "away_team": "Argentina",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "2"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "67"
+        },
+        {
+          "team": "Germany",
+          "player": "Arne FRIEDRICH",
+          "minute": "73"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Javier PASTORE",
+          "player_off": "Nicolas OTAMENDI",
+          "minute": "69"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marcell JANSEN",
+          "player_off": "BOATENG Jerome",
+          "minute": "71"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio AGUERO",
+          "player_off": "Angel DI MARIA",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Toni Kroos",
+          "player_off": "Sami KHEDIRA",
+          "minute": "76"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Piotr TROCHOWSKI",
+          "player_off": "MUELLER Thomas",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "MUELLER Thomas",
+          "Lukas PODOLSKI",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Sergio ROMERO",
+          "Martin DEMICHELIS",
+          "Nicolas BURDISSO",
+          "Gabriel HEINZE",
+          "Nicolas OTAMENDI",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Maxi RODRIGUEZ",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Carlos TEVEZ"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-03",
+      "stage": "Quarterfinal",
+      "venue": "Ellis Park Stadium",
+      "city": "Johannesburg",
+      "home_team": "Paraguay",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Fernando TORRES",
+          "minute": "55"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Enrique VERA",
+          "player_off": "Edgar BARRETO",
+          "minute": "63"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Roque SANTA CRUZ",
+          "player_off": "Nelson VALDEZ",
+          "minute": "71"
+        },
+        {
+          "team": "Spain",
+          "player_on": "PEDRO",
+          "player_off": "Xabi ALONSO",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Carlos MARCHENA",
+          "player_off": "Carles PUYOL",
+          "minute": "83"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Lucas BARRIOS",
+          "player_off": "Victor CACERES",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Justo VILLAR",
+          "Dario VERON",
+          "Claudio MOREL",
+          "Paulo DA SILVA",
+          "Antolín ALCARAZ",
+          "Edgar BARRETO",
+          "Jonathan SANTANA",
+          "Victor CACERES",
+          "Cristian RIVEROS",
+          "Oscar CARDOZO",
+          "Nelson VALDEZ"
+        ],
+        "away": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David VILLA",
+          "Fernando TORRES"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-06",
+      "stage": "Semifinal",
+      "venue": "Cape Town Stadium",
+      "city": "Cape Town",
+      "home_team": "Uruguay",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Giovanni VAN BRONCKHORST",
+          "minute": "17"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Diego FORLAN",
+          "minute": "40"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wesley SNEIJDER",
+          "minute": "69"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Arjen ROBBEN",
+          "minute": "72"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Maximiliano PEREIRA",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Rafael VAN DER VAART",
+          "player_off": "Demy DE ZEEUW",
+          "minute": "45"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastian ABREU",
+          "player_off": "Alvaro PEREIRA",
+          "minute": "77"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastián FERNÁNDEZ",
+          "player_off": "Diego FORLAN",
+          "minute": "83"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Eljero ELIA",
+          "player_off": "Arjen ROBBEN",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego GODIN",
+          "Mauricio VICTORINO",
+          "Maximiliano PEREIRA",
+          "Martin CACERES",
+          "Walter GARGANO",
+          "Alvaro PEREIRA",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Edinson CAVANI",
+          "Diego FORLAN"
+        ],
+        "away": [
+          "Maarten Stekelenburg",
+          "John HEITINGA",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Khalid BOULAHROUZ",
+          "Mark VAN BOMMEL",
+          "Wesley SNEIJDER",
+          "Demy DE ZEEUW",
+          "Dirk KUYT",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-07",
+      "stage": "Semifinal",
+      "venue": "Moses Mabhida Stadium",
+      "city": "Durban",
+      "home_team": "Germany",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Carles PUYOL",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Marcell JANSEN",
+          "player_off": "BOATENG Jerome",
+          "minute": "51"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Toni Kroos",
+          "player_off": "Piotr TROCHOWSKI",
+          "minute": "61"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Sami KHEDIRA",
+          "minute": "80"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando TORRES",
+          "player_off": "David VILLA",
+          "minute": "80"
+        },
+        {
+          "team": "Spain",
+          "player_on": "David SILVA",
+          "player_off": "PEDRO",
+          "minute": "85"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Carlos MARCHENA",
+          "player_off": "Xabi ALONSO",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "Piotr TROCHOWSKI",
+          "Lukas PODOLSKI",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David VILLA",
+          "PEDRO"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-10",
+      "stage": "Third-place match",
+      "venue": "Nelson Mandela Bay Stadium",
+      "city": "Port Elizabeth",
+      "home_team": "Uruguay",
+      "away_team": "Germany",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "18"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Edinson CAVANI",
+          "minute": "27"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Diego FORLAN",
+          "minute": "51"
+        },
+        {
+          "team": "Germany",
+          "player": "Marcell JANSEN",
+          "minute": "55"
+        },
+        {
+          "team": "Germany",
+          "player": "Sami KHEDIRA",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Stefan KIESSLING",
+          "player_off": "CACAU",
+          "minute": "72"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Walter GARGANO",
+          "player_off": "Diego PEREZ",
+          "minute": "76"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Toni Kroos",
+          "player_off": "Marcell JANSEN",
+          "minute": "80"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastian ABREU",
+          "player_off": "Edinson CAVANI",
+          "minute": "88"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Serdar TASCI",
+          "player_off": "Mesut OEZIL",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Diego GODIN",
+          "Jorge FUCILE",
+          "Maximiliano PEREIRA",
+          "Martin CACERES",
+          "Diego PEREZ",
+          "Egidio AREVALO",
+          "Edinson CAVANI",
+          "Luis SUAREZ",
+          "Diego FORLAN"
+        ],
+        "away": [
+          "Hans Joerg BUTT",
+          "Arne FRIEDRICH",
+          "Dennis AOGO",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Marcell JANSEN",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "MUELLER Thomas",
+          "CACAU"
+        ]
+      }
+    },
+    {
+      "date": "2010-07-11",
+      "stage": "Final",
+      "venue": "Soccer City",
+      "city": "Johannesburg",
+      "home_team": "Netherlands",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Andres INIESTA",
+          "minute": "115"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Jesús NAVAS",
+          "player_off": "PEDRO",
+          "minute": "59"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Eljero ELIA",
+          "player_off": "Dirk KUYT",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Xabi ALONSO",
+          "minute": "86"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Rafael VAN DER VAART",
+          "player_off": "Nigel DE JONG",
+          "minute": "98"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Edson BRAAFHEID",
+          "player_off": "Giovanni VAN BRONCKHORST",
+          "minute": "104"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando TORRES",
+          "player_off": "David VILLA",
+          "minute": "105"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Maarten Stekelenburg",
+          "Gregory VAN DER WIEL",
+          "John HEITINGA",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Mark VAN BOMMEL",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Dirk KUYT",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN"
+        ],
+        "away": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Carles PUYOL",
+          "Joan CAPDEVILA",
+          "Sergio RAMOS",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David VILLA",
+          "PEDRO"
+        ]
+      }
+    }
+  ]
+}

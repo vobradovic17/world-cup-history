@@ -1,0 +1,4226 @@
+{
+  "tournament": "FIFA World Cup 1994",
+  "host_country": "United States",
+  "matches_played": 52,
+  "format": "Six first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/94full.html",
+    "https://www.rsssf.org/tables/94f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1994/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1994-06-18",
+      "stage": "Group A",
+      "venue": "Pontiac Silverdome",
+      "city": "Detroit",
+      "home_team": "United States",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Georges BREGY",
+          "minute": "39"
+        },
+        {
+          "team": "United States",
+          "player": "Eric WYNALDA",
+          "minute": "44"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Roy WEGERLE",
+          "player_off": "Eric WYNALDA",
+          "minute": "58"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Nestor SUBIAT",
+          "player_off": "Thomas BICKEL",
+          "minute": "72"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Thomas WYSS",
+          "player_off": "Ciriaco SFORZA",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Earnie STEWART",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tony MEOLA",
+          "Cle KOOIMAN",
+          "Thomas DOOLEY",
+          "Marcelo BALBOA",
+          "Paul CALIGIURI",
+          "Alexi LALAS",
+          "John HARKES",
+          "Tab RAMOS",
+          "Michael SORBER",
+          "Earnie STEWART",
+          "Eric WYNALDA"
+        ],
+        "away": [
+          "Marco PASCOLO",
+          "Marc HOTTIGER",
+          "Yvan QUENTIN",
+          "Dominique HERR",
+          "Alain GEIGER",
+          "Georges BREGY",
+          "Alain SUTTER",
+          "Christophe OHREL",
+          "Ciriaco SFORZA",
+          "Thomas BICKEL",
+          "Stephane CHAPUISAT"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-18",
+      "stage": "Group A",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "Colombia",
+      "away_team": "Romania",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Florin RADUCIOIU",
+          "minute": "15"
+        },
+        {
+          "team": "Romania",
+          "player": "Gheorghe HAGI",
+          "minute": "34"
+        },
+        {
+          "team": "Colombia",
+          "player": "Adolfo VALENCIA",
+          "minute": "43"
+        },
+        {
+          "team": "Romania",
+          "player": "Florin RADUCIOIU",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Tibor SELYMES",
+          "player_off": "Ilie DUMITRESCU",
+          "minute": "68"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Corneliu PAPURA",
+          "player_off": "Florin RADUCIOIU",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oscar CORDOBA",
+          "Andres ESCOBAR",
+          "Luis HERRERA",
+          "Luis Carlos PEREA",
+          "Wilson PEREZ",
+          "Gabriel GOMEZ",
+          "Carlos VALDERRAMA",
+          "Leonel ALVAREZ",
+          "Freddy RINCON",
+          "Adolfo VALENCIA",
+          "Faustino ASPRILLA"
+        ],
+        "away": [
+          "Bogdan STELEA",
+          "Dan PETRESCU",
+          "Daniel PRODAN",
+          "Miodrag BELODEDICI",
+          "Gheorghe POPESCU",
+          "Gheorghe MIHALI",
+          "Ioan LUPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Florin RADUCIOIU",
+          "Ilie DUMITRESCU"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-19",
+      "stage": "Group B",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "Cameroon",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Roger LJUNG",
+          "minute": "8"
+        },
+        {
+          "team": "Cameroon",
+          "player": "David EMBE",
+          "minute": "31"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Francois OMAM-BIYIK",
+          "minute": "47"
+        },
+        {
+          "team": "Sweden",
+          "player": "Martin DAHLIN",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Henrik LARSSON",
+          "player_off": "Jesper BLOMQVIST",
+          "minute": "61"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Kennet ANDERSSON",
+          "player_off": "Klas INGESSON",
+          "minute": "76"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Georges MOUYEME",
+          "player_off": "David EMBE",
+          "minute": "81"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Emmanuel MABOANG",
+          "player_off": "Louis MFEDE",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Joseph Antoine BELL",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "Stephen TATAW",
+          "Hans AGBO",
+          "Thomas LIBIIH",
+          "Emile MBOUH",
+          "Louis MFEDE",
+          "Marc-Vivien FOE",
+          "Francois OMAM-BIYIK",
+          "David EMBE"
+        ],
+        "away": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Joachim BJORKLUND",
+          "Roger LJUNG",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Jonas THERN",
+          "Jesper BLOMQVIST",
+          "Martin DAHLIN",
+          "Tomas BROLIN"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-20",
+      "stage": "Group B",
+      "venue": "Stanford Stadium",
+      "city": "Stanford",
+      "home_team": "Brazil",
+      "away_team": "Russia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROMÁRIO",
+          "minute": "26"
+        },
+        {
+          "team": "Brazil",
+          "player": "RAI",
+          "minute": "52",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Oleg SALENKO",
+          "player_off": "Sergei YURAN",
+          "minute": "55"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ALDAIR",
+          "player_off": "RICARDO ROCHA",
+          "minute": "75"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Aleksandr BORODYUK",
+          "player_off": "Dmitri RADCHENKO",
+          "minute": "77"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MAZINHO",
+          "player_off": "DUNGA",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "RICARDO ROCHA",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "RAI",
+          "LEONARDO",
+          "BEBETO",
+          "ROMÁRIO"
+        ],
+        "away": [
+          "Dmitri KHARIN",
+          "Dmitri KUZNETSOV",
+          "Sergei GORLUKOVICH",
+          "Yuri NIKIFOROV",
+          "Vladislav TERNAVSKI",
+          "Dmitri KHLESTOV",
+          "Andrei PIATNITSKI",
+          "Valeri KARPIN",
+          "Ilia TSYMBALAR",
+          "Dmitri RADCHENKO",
+          "Sergei YURAN"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-17",
+      "stage": "Group C",
+      "venue": "Soldier Field",
+      "city": "Chicago",
+      "home_team": "Germany",
+      "away_team": "Bolivia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Mario BASLER",
+          "player_off": "Karlheinz RIEDLE",
+          "minute": "60"
+        },
+        {
+          "team": "Bolivia",
+          "player_on": "Jaime MORENO",
+          "player_off": "Julio Cesar BALDIVIESO",
+          "minute": "66"
+        },
+        {
+          "team": "Bolivia",
+          "player_on": "Marco ETCHEVERRY",
+          "player_off": "Luis RAMALLO",
+          "minute": "79"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Thomas STRUNZ",
+          "player_off": "Thomas HAESSLER",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Thomas BERTHOLD",
+          "Andreas MOELLER",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Matthias SAMMER",
+          "Stefan EFFENBERG",
+          "Karlheinz RIEDLE",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Carlos TRUCCO",
+          "Marco Antonio SANDY",
+          "Miguel Angel RIMBA",
+          "Gustavo QUINTEROS",
+          "Luis CRISTALDO",
+          "Carlos BORJA",
+          "Milton MELGAR",
+          "Vladimir SORIA",
+          "Erwin SANCHEZ",
+          "Julio Cesar BALDIVIESO",
+          "Luis RAMALLO"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-17",
+      "stage": "Group C",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Spain",
+      "away_team": "South Korea",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "JULIO SALINAS",
+          "minute": "51"
+        },
+        {
+          "team": "Spain",
+          "player": "GOIKOETXEA",
+          "minute": "55"
+        },
+        {
+          "team": "South Korea",
+          "player": "HONG Myungbo",
+          "minute": "85"
+        },
+        {
+          "team": "South Korea",
+          "player": "SEO Jung Won",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Jose Luis CAMINERO",
+          "player_off": "Julen GUERRERO",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SEO Jung Won",
+          "player_off": "KIM Joo Sung",
+          "minute": "59"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Felipe MINAMBRES",
+          "player_off": "JULIO SALINAS",
+          "minute": "63"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HA Seok Ju",
+          "player_off": "NOH Jung Yoon",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Santiago CANIZARES",
+          "Albert FERRER",
+          "ABELARDO",
+          "Fernando HIERRO",
+          "SERGI",
+          "Rafael ALKORTA",
+          "Miguel Angel NADAL",
+          "GOIKOETXEA",
+          "Julen GUERRERO",
+          "LUIS ENRIQUE",
+          "JULIO SALINAS"
+        ],
+        "away": [
+          "CHOI In Young",
+          "KIM Pan Keun",
+          "PARK Jung Bae",
+          "SHIN Hong Gi",
+          "CHOI Youngil",
+          "HONG Myungbo",
+          "LEE Young Jin",
+          "NOH Jung Yoon",
+          "KIM Joo Sung",
+          "KO Jeong Woon",
+          "HWANG Sun Hong"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-21",
+      "stage": "Group D",
+      "venue": "Foxboro Stadium",
+      "city": "Foxborough",
+      "home_team": "Argentina",
+      "away_team": "Greece",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "2"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "44"
+        },
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "60"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "90",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Spiros MARANGOS",
+          "player_off": "Nikos TSIANTAKIS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Tassos MITROPOULOS",
+          "player_off": "Nikos MACHLAS",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Alejandro MANCUSO",
+          "player_off": "Abel BALBO",
+          "minute": "80"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Ariel ORTEGA",
+          "player_off": "Diego MARADONA",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Luis ISLAS",
+          "Jose CHAMOT",
+          "Roberto SENSINI",
+          "Oscar RUGGERI",
+          "Fernando CACERES",
+          "Fernando REDONDO",
+          "Diego MARADONA",
+          "Diego SIMEONE",
+          "Claudio CANIGGIA",
+          "Gabriel BATISTUTA",
+          "Abel BALBO"
+        ],
+        "away": [
+          "Antonis MINOU",
+          "Stratos APOSTOLAKIS",
+          "Thanasis KOLITSIDAKIS",
+          "Stelios MANOLAS",
+          "Giannis KALITZAKIS",
+          "Giotis TSALOUCHIDIS",
+          "Nikos NIOPLIAS",
+          "Nikos TSIANTAKIS",
+          "Savvas KOFIDIS",
+          "Dimitrios SARAVAKOS",
+          "Nikos MACHLAS"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-21",
+      "stage": "Group D",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Nigeria",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Rasheed YEKINI",
+          "minute": "21"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Daniel AMOKACHI",
+          "minute": "43"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Emmanuel AMUNEKE",
+          "minute": "55"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Nasko SIRAKOV",
+          "player_off": "Iordan LETCHKOV",
+          "minute": "59"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Mutiu ADEPOJU",
+          "player_off": "Samson SIASIA",
+          "minute": "69"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ivaylo YORDANOV",
+          "player_off": "Daniel BORIMIROV",
+          "minute": "73"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Emeka EZEUGO",
+          "player_off": "Finidi GEORGE",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter RUFAI",
+          "Austin EGUAVOEN",
+          "Ben IROHA",
+          "Uche OKECHUKWU",
+          "Chidi NWANU",
+          "Emmanuel AMUNEKE",
+          "Sunday OLISEH",
+          "Finidi GEORGE",
+          "Rasheed YEKINI",
+          "Samson SIASIA",
+          "Daniel AMOKACHI"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Emil KREMENLIEV",
+          "Trifon IVANOV",
+          "Tsanko TSVETANOV",
+          "Petar HUBCHEV",
+          "Zlatko YANKOV",
+          "Iordan LETCHKOV",
+          "Daniel BORIMIROV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-18",
+      "stage": "Group E",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Italy",
+      "away_team": "Republic of Ireland",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Republic of Ireland",
+          "player": "Ray HOUGHTON",
+          "minute": "11"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Daniele MASSARO",
+          "player_off": "Alberico EVANI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Jason McATEER",
+          "player_off": "Ray HOUGHTON",
+          "minute": "68"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Nicola BERTI",
+          "player_off": "Giuseppe SIGNORI",
+          "minute": "84"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "John ALDRIDGE",
+          "player_off": "Tommy COYNE",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Alessandro COSTACURTA",
+          "Paolo MALDINI",
+          "Franco BARESI",
+          "Mauro TASSOTTI",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Roberto DONADONI",
+          "Alberico EVANI",
+          "Roberto BAGGIO",
+          "Giuseppe SIGNORI"
+        ],
+        "away": [
+          "Pat BONNER",
+          "Denis IRWIN",
+          "Terry PHELAN",
+          "Paul McGRATH",
+          "Steve STAUNTON",
+          "Phil BABB",
+          "Roy KEANE",
+          "Andy TOWNSEND",
+          "Ray HOUGHTON",
+          "John SHERIDAN",
+          "Tommy COYNE"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-19",
+      "stage": "Group E",
+      "venue": "Citrus Bowl",
+      "city": "Orlando",
+      "home_team": "Norway",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Norway",
+          "player": "Kjetil REKDAL",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Norway",
+          "player_on": "Gunnar HALLE",
+          "player_off": "Mini JAKOBSEN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Benjamin GALINDO",
+          "player_off": "Luis VALDEZ",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Marcelino BERNAL",
+          "player_off": "Raul GUTIERREZ",
+          "minute": "71"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Kjetil REKDAL",
+          "player_off": "Erik MYKLAND",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Erik THORSTVEDT",
+          "Rune BRATSETH",
+          "Stig BJORNEBYE",
+          "Alf HALAND",
+          "Henning BERG",
+          "Erik MYKLAND",
+          "Oyvind LEONHARDSEN",
+          "Lars BOHINEN",
+          "Jostein FLO",
+          "Jan Age FJORTOFT",
+          "Mini JAKOBSEN"
+        ],
+        "away": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Juan RAMIREZ",
+          "Ignacio AMBRIZ",
+          "Ramon RAMIREZ",
+          "Raul GUTIERREZ",
+          "Joaquin DEL OLMO",
+          "Hugo SANCHEZ",
+          "Luis GARCIA",
+          "ZAGUE",
+          "Luis VALDEZ"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-19",
+      "stage": "Group F",
+      "venue": "Soldier Field",
+      "city": "Chicago",
+      "home_team": "Belgium",
+      "away_team": "Morocco",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Marc DEGRYSE",
+          "minute": "11"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Marc EMMERS",
+          "player_off": "Luc NILIS",
+          "minute": "54"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ahmed BAHJA",
+          "player_off": "Mustapha EL HADAOUI",
+          "minute": "69"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Mohamed SAMADI",
+          "player_off": "Mohammed CHAOUCH",
+          "minute": "82"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Vital BORKELMANS",
+          "player_off": "Danny BOFFIN",
+          "minute": "85"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Zakaria EL ACHRAF",
+          "player_off": "Khalil AZMI",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Michel PREUDHOMME",
+          "Rudi SMIDTS",
+          "Georges GRUN",
+          "Michel DE WOLF",
+          "Lorenzo STAELENS",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Danny BOFFIN",
+          "Luc NILIS",
+          "Marc DEGRYSE",
+          "Josip WEBER"
+        ],
+        "away": [
+          "Khalil AZMI",
+          "Nacer ABDELLAH",
+          "Abdelkarim EL HADRIOUI",
+          "Smahi TRIKI",
+          "Noureddine NAYBET",
+          "Mustafa HADJI",
+          "Rachid AZZOUZI",
+          "Mustapha EL HADAOUI",
+          "Rachid DAOUDI",
+          "Hababi EL ARBI",
+          "Mohammed CHAOUCH"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-20",
+      "stage": "Group F",
+      "venue": "Robert F. Kennedy Memorial Stadium",
+      "city": "Washington, D.C.",
+      "home_team": "Netherlands",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Saudi Arabia",
+          "player": "Fuad AMIN",
+          "minute": "18"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wim JONK",
+          "minute": "50"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Gaston TAUMENT",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Hamzah FALLATAH",
+          "player_off": "Majed ABDULLAH",
+          "minute": "45"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Gaston TAUMENT",
+          "player_off": "Marc OVERMARS",
+          "minute": "57"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Hamza SALEH",
+          "player_off": "Said AL OWAIRAN",
+          "minute": "69"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Peter VAN VOSSEN",
+          "player_off": "Bryan ROY",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ed DE GOEY",
+          "Frank DE BOER",
+          "Ronald KOEMAN",
+          "Ulrich VAN GOBBEL",
+          "Frank RIJKAARD",
+          "Jan WOUTERS",
+          "Wim JONK",
+          "Ronald DE BOER",
+          "Marc OVERMARS",
+          "Dennis BERGKAMP",
+          "Bryan ROY"
+        ],
+        "away": [
+          "Mohammed AL DEAYEA",
+          "Abdullah AL DOSARI",
+          "Mohammed AL KHILAIWI",
+          "Ahmed MADANI",
+          "Mohamed ABDELJAWAD",
+          "Fuad AMIN",
+          "Fahad AL BISHI",
+          "Khaled AL MUWALLID",
+          "Talal JEBRIN",
+          "Majed ABDULLAH",
+          "Said AL OWAIRAN"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-22",
+      "stage": "Group A",
+      "venue": "Pontiac Silverdome",
+      "city": "Detroit",
+      "home_team": "United States",
+      "away_team": "Colombia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Andres ESCOBAR",
+          "minute": "35",
+          "own_goal": true
+        },
+        {
+          "team": "United States",
+          "player": "Earnie STEWART",
+          "minute": "52"
+        },
+        {
+          "team": "Colombia",
+          "player": "Adolfo VALENCIA",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Adolfo VALENCIA",
+          "player_off": "Faustino ASPRILLA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Ivan VALENCIANO",
+          "player_off": "Anthony DE AVILA",
+          "minute": "45+1"
+        },
+        {
+          "team": "United States",
+          "player_on": "Roy WEGERLE",
+          "player_off": "Eric WYNALDA",
+          "minute": "61"
+        },
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Earnie STEWART",
+          "minute": "66"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tony MEOLA",
+          "Thomas DOOLEY",
+          "Marcelo BALBOA",
+          "Paul CALIGIURI",
+          "Fernando CLAVIJO",
+          "Alexi LALAS",
+          "John HARKES",
+          "Tab RAMOS",
+          "Michael SORBER",
+          "Earnie STEWART",
+          "Eric WYNALDA"
+        ],
+        "away": [
+          "Oscar CORDOBA",
+          "Andres ESCOBAR",
+          "Luis HERRERA",
+          "Luis Carlos PEREA",
+          "Wilson PEREZ",
+          "Herman GAVIRIA",
+          "Carlos VALDERRAMA",
+          "Leonel ALVAREZ",
+          "Freddy RINCON",
+          "Anthony DE AVILA",
+          "Faustino ASPRILLA"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-22",
+      "stage": "Group A",
+      "venue": "Stanford Stadium",
+      "city": "Stanford",
+      "home_team": "Switzerland",
+      "away_team": "Romania",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Alain SUTTER",
+          "minute": "16"
+        },
+        {
+          "team": "Romania",
+          "player": "Gheorghe HAGI",
+          "minute": "35"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Stephane CHAPUISAT",
+          "minute": "52"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Adrian KNUP",
+          "minute": "65"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Adrian KNUP",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Ion VLADOIU",
+          "player_off": "Ilie DUMITRESCU",
+          "minute": "70"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Thomas BICKEL",
+          "player_off": "Alain SUTTER",
+          "minute": "71"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Patrick SYLVESTRE",
+          "player_off": "Christophe OHREL",
+          "minute": "83"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Nica PANDURU",
+          "player_off": "Ioan LUPESCU",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Marco PASCOLO",
+          "Marc HOTTIGER",
+          "Yvan QUENTIN",
+          "Dominique HERR",
+          "Alain GEIGER",
+          "Georges BREGY",
+          "Alain SUTTER",
+          "Christophe OHREL",
+          "Ciriaco SFORZA",
+          "Adrian KNUP",
+          "Stephane CHAPUISAT"
+        ],
+        "away": [
+          "Bogdan STELEA",
+          "Dan PETRESCU",
+          "Daniel PRODAN",
+          "Miodrag BELODEDICI",
+          "Gheorghe POPESCU",
+          "Gheorghe MIHALI",
+          "Ioan LUPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Florin RADUCIOIU",
+          "Ilie DUMITRESCU"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-24",
+      "stage": "Group B",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Brazil",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROMÁRIO",
+          "minute": "39"
+        },
+        {
+          "team": "Brazil",
+          "player": "MARCIO SANTOS",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player": "BEBETO",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Roger MILLA",
+          "player_off": "David EMBE",
+          "minute": "64"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Emmanuel MABOANG",
+          "player_off": "Louis MFEDE",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO SERGIO",
+          "player_off": "ZINHO",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MULLER",
+          "player_off": "RAI",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "ALDAIR",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "RAI",
+          "LEONARDO",
+          "BEBETO",
+          "ROMÁRIO"
+        ],
+        "away": [
+          "Joseph Antoine BELL",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "Stephen TATAW",
+          "Hans AGBO",
+          "Thomas LIBIIH",
+          "Emile MBOUH",
+          "Louis MFEDE",
+          "Marc-Vivien FOE",
+          "Francois OMAM-BIYIK",
+          "David EMBE"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-24",
+      "stage": "Group B",
+      "venue": "Tiger Stadium",
+      "city": "Detroit",
+      "home_team": "Sweden",
+      "away_team": "Russia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "Oleg SALENKO",
+          "minute": "4",
+          "penalty": true
+        },
+        {
+          "team": "Sweden",
+          "player": "Tomas BROLIN",
+          "minute": "37",
+          "penalty": true
+        },
+        {
+          "team": "Sweden",
+          "player": "Martin DAHLIN",
+          "minute": "59"
+        },
+        {
+          "team": "Sweden",
+          "player": "Martin DAHLIN",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Valeri KARPIN",
+          "player_off": "Dmitri POPOV",
+          "minute": "40"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Dimitri GALIAMIN",
+          "player_off": "Aleksandr BORODYUK",
+          "minute": "51"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Henrik LARSSON",
+          "player_off": "Kennet ANDERSSON",
+          "minute": "84"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Magnus ERLINGMARK",
+          "player_off": "Joachim BJORKLUND",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Joachim BJORKLUND",
+          "Roger LJUNG",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Jonas THERN",
+          "Martin DAHLIN",
+          "Tomas BROLIN",
+          "Kennet ANDERSSON"
+        ],
+        "away": [
+          "Dmitri KHARIN",
+          "Dmitri KUZNETSOV",
+          "Sergei GORLUKOVICH",
+          "Yuri NIKIFOROV",
+          "Viktor ONOPKO",
+          "Dmitri KHLESTOV",
+          "Dmitri POPOV",
+          "Aleksandr BORODYUK",
+          "Aleksandr MOSTOVOI",
+          "Oleg SALENKO",
+          "Dmitri RADCHENKO"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-21",
+      "stage": "Group C",
+      "venue": "Soldier Field",
+      "city": "Chicago",
+      "home_team": "Germany",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "GOIKOETXEA",
+          "minute": "14"
+        },
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "48"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Rudi VOELLER",
+          "player_off": "Andreas MOELLER",
+          "minute": "62"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jose Mari BAKERO",
+          "player_off": "GOIKOETXEA",
+          "minute": "64"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jose CAMARASA",
+          "player_off": "Pep GUARDIOLA",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Thomas BERTHOLD",
+          "Thomas STRUNZ",
+          "Andreas MOELLER",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Matthias SAMMER",
+          "Stefan EFFENBERG",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Andoni ZUBIZARRETA",
+          "Albert FERRER",
+          "ABELARDO",
+          "Fernando HIERRO",
+          "SERGI",
+          "Rafael ALKORTA",
+          "GOIKOETXEA",
+          "Pep GUARDIOLA",
+          "Jose Luis CAMINERO",
+          "LUIS ENRIQUE",
+          "JULIO SALINAS"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-23",
+      "stage": "Group C",
+      "venue": "Foxboro Stadium",
+      "city": "Foxborough",
+      "home_team": "South Korea",
+      "away_team": "Bolivia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "HA Seok Ju",
+          "player_off": "SEO Jung Won",
+          "minute": "65"
+        },
+        {
+          "team": "Bolivia",
+          "player_on": "Alvaro PENA",
+          "player_off": "Luis RAMALLO",
+          "minute": "66"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHOI Youngil",
+          "player_off": "NOH Jung Yoon",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "CHOI In Young",
+          "KIM Pan Keun",
+          "PARK Jung Bae",
+          "SHIN Hong Gi",
+          "HONG Myungbo",
+          "LEE Young Jin",
+          "NOH Jung Yoon",
+          "KIM Joo Sung",
+          "KO Jeong Woon",
+          "SEO Jung Won",
+          "HWANG Sun Hong"
+        ],
+        "away": [
+          "Carlos TRUCCO",
+          "Marco Antonio SANDY",
+          "Miguel Angel RIMBA",
+          "Gustavo QUINTEROS",
+          "Luis CRISTALDO",
+          "Carlos BORJA",
+          "Milton MELGAR",
+          "Vladimir SORIA",
+          "Erwin SANCHEZ",
+          "Julio Cesar BALDIVIESO",
+          "Luis RAMALLO"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-25",
+      "stage": "Group D",
+      "venue": "Foxboro Stadium",
+      "city": "Foxborough",
+      "home_team": "Argentina",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Samson SIASIA",
+          "minute": "8"
+        },
+        {
+          "team": "Argentina",
+          "player": "Claudio CANIGGIA",
+          "minute": "21"
+        },
+        {
+          "team": "Argentina",
+          "player": "Claudio CANIGGIA",
+          "minute": "28"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Mutiu ADEPOJU",
+          "player_off": "Samson SIASIA",
+          "minute": "56"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Alejandro MANCUSO",
+          "player_off": "Abel BALBO",
+          "minute": "70"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Hernan DIAZ",
+          "player_off": "Roberto SENSINI",
+          "minute": "86"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Jay Jay OKOCHA",
+          "player_off": "Sunday OLISEH",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Luis ISLAS",
+          "Jose CHAMOT",
+          "Roberto SENSINI",
+          "Oscar RUGGERI",
+          "Fernando CACERES",
+          "Fernando REDONDO",
+          "Diego MARADONA",
+          "Diego SIMEONE",
+          "Claudio CANIGGIA",
+          "Gabriel BATISTUTA",
+          "Abel BALBO"
+        ],
+        "away": [
+          "Peter RUFAI",
+          "Austin EGUAVOEN",
+          "Uche OKECHUKWU",
+          "Chidi NWANU",
+          "Michael EMENALO",
+          "Emmanuel AMUNEKE",
+          "Sunday OLISEH",
+          "Finidi GEORGE",
+          "Rasheed YEKINI",
+          "Samson SIASIA",
+          "Daniel AMOKACHI"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-26",
+      "stage": "Group D",
+      "venue": "Soldier Field",
+      "city": "Chicago",
+      "home_team": "Bulgaria",
+      "away_team": "Greece",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Hristo STOICHKOV",
+          "minute": "5",
+          "penalty": true
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Hristo STOICHKOV",
+          "minute": "55",
+          "penalty": true
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Iordan LETCHKOV",
+          "minute": "65"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Daniel BORIMIROV",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Tassos MITROPOULOS",
+          "player_off": "Minas HANTZIDIS",
+          "minute": "48"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Vasilis DIMITRIADIS",
+          "player_off": "Alexis ALEXOUDIS",
+          "minute": "58"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ilian KIRYAKOV",
+          "player_off": "Tsanko TSVETANOV",
+          "minute": "77"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Daniel BORIMIROV",
+          "player_off": "Emil KOSTADINOV",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Borislav MIHAYLOV",
+          "Emil KREMENLIEV",
+          "Trifon IVANOV",
+          "Tsanko TSVETANOV",
+          "Petar HUBCHEV",
+          "Zlatko YANKOV",
+          "Iordan LETCHKOV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Nasko SIRAKOV"
+        ],
+        "away": [
+          "Elias ATMATZIDIS",
+          "Stratos APOSTOLAKIS",
+          "Giannis KALITZAKIS",
+          "Vaios KARAGIANNIS",
+          "Kyriakos KARATAIDIS",
+          "Nikos NIOPLIAS",
+          "Spiros MARANGOS",
+          "Minas HANTZIDIS",
+          "Savvas KOFIDIS",
+          "Nikos MACHLAS",
+          "Alexis ALEXOUDIS"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-23",
+      "stage": "Group E",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Italy",
+      "away_team": "Norway",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Dino BAGGIO",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Luca MARCHEGIANI",
+          "player_off": "Roberto BAGGIO",
+          "minute": "21"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Mini JAKOBSEN",
+          "player_off": "Sigurd RUSHFELDT",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Luigi APOLLONI",
+          "player_off": "Franco BARESI",
+          "minute": "49"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Daniele MASSARO",
+          "player_off": "Pierluigi CASIRAGHI",
+          "minute": "68"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Kjetil REKDAL",
+          "player_off": "Erik MYKLAND",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Antonio BENARRIVO",
+          "Alessandro COSTACURTA",
+          "Paolo MALDINI",
+          "Franco BARESI",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Nicola BERTI",
+          "Roberto BAGGIO",
+          "Pierluigi CASIRAGHI",
+          "Giuseppe SIGNORI"
+        ],
+        "away": [
+          "Erik THORSTVEDT",
+          "Rune BRATSETH",
+          "Stig BJORNEBYE",
+          "Alf HALAND",
+          "Henning BERG",
+          "Erik MYKLAND",
+          "Oyvind LEONHARDSEN",
+          "Lars BOHINEN",
+          "Jostein FLO",
+          "Jan Age FJORTOFT",
+          "Sigurd RUSHFELDT"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-24",
+      "stage": "Group E",
+      "venue": "Citrus Bowl",
+      "city": "Orlando",
+      "home_team": "Mexico",
+      "away_team": "Republic of Ireland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Luis GARCIA",
+          "minute": "42"
+        },
+        {
+          "team": "Mexico",
+          "player": "Luis GARCIA",
+          "minute": "65"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player": "John ALDRIDGE",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Jason McATEER",
+          "player_off": "Steve STAUNTON",
+          "minute": "66"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "John ALDRIDGE",
+          "player_off": "Tommy COYNE",
+          "minute": "67"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul GUTIERREZ",
+          "player_off": "Carlos HERMOSILLO",
+          "minute": "80"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Luis SALVADOR",
+          "player_off": "Joaquin DEL OLMO",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Juan RAMIREZ",
+          "Ignacio AMBRIZ",
+          "Marcelino BERNAL",
+          "Alberto GARCIA ASPE",
+          "Joaquin DEL OLMO",
+          "Jorge RODRIGUEZ",
+          "Carlos HERMOSILLO",
+          "Luis GARCIA",
+          "ZAGUE"
+        ],
+        "away": [
+          "Pat BONNER",
+          "Denis IRWIN",
+          "Terry PHELAN",
+          "Paul McGRATH",
+          "Steve STAUNTON",
+          "Phil BABB",
+          "Roy KEANE",
+          "Andy TOWNSEND",
+          "Ray HOUGHTON",
+          "John SHERIDAN",
+          "Tommy COYNE"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-25",
+      "stage": "Group F",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Belgium",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Philippe ALBERT",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Rob WITSCHGE",
+          "player_off": "Ronald DE BOER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Rudi SMIDTS",
+          "player_off": "Vital BORKELMANS",
+          "minute": "61"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Marc OVERMARS",
+          "player_off": "Gaston TAUMENT",
+          "minute": "64"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Dirk MEDVED",
+          "player_off": "Marc EMMERS",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Michel PREUDHOMME",
+          "Vital BORKELMANS",
+          "Philippe ALBERT",
+          "Georges GRUN",
+          "Michel DE WOLF",
+          "Marc EMMERS",
+          "Lorenzo STAELENS",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Marc DEGRYSE",
+          "Josip WEBER"
+        ],
+        "away": [
+          "Ed DE GOEY",
+          "Frank DE BOER",
+          "Ronald KOEMAN",
+          "Stan VALCKX",
+          "Frank RIJKAARD",
+          "Jan WOUTERS",
+          "Wim JONK",
+          "Ronald DE BOER",
+          "Dennis BERGKAMP",
+          "Bryan ROY",
+          "Gaston TAUMENT"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-25",
+      "stage": "Group F",
+      "venue": "Robert F. Kennedy Memorial Stadium",
+      "city": "Washington, D.C.",
+      "home_team": "Saudi Arabia",
+      "away_team": "Morocco",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Saudi Arabia",
+          "player": "Sami AL JABER",
+          "minute": "7",
+          "penalty": true
+        },
+        {
+          "team": "Morocco",
+          "player": "Mohammed CHAOUCH",
+          "minute": "26"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "Fuad AMIN",
+          "minute": "45"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdullah ZUBROMAWI",
+          "player_off": "Awwad AL ANZI",
+          "minute": "29"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdelslam LAGHRISSI",
+          "player_off": "Nacer ABDELLAH",
+          "minute": "57"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Mustafa HADJI",
+          "player_off": "Hababi EL ARBI",
+          "minute": "72"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Fahad AL GHESHEYAN",
+          "player_off": "Sami AL JABER",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL KHILAIWI",
+          "Ahmed MADANI",
+          "Mohamed ABDELJAWAD",
+          "Fuad AMIN",
+          "Fahad AL BISHI",
+          "Khaled AL MUWALLID",
+          "Talal JEBRIN",
+          "Awwad AL ANZI",
+          "Said AL OWAIRAN",
+          "Sami AL JABER"
+        ],
+        "away": [
+          "Khalil AZMI",
+          "Nacer ABDELLAH",
+          "Abdelkarim EL HADRIOUI",
+          "Taher EL KHALEJ",
+          "Smahi TRIKI",
+          "Noureddine NAYBET",
+          "Rachid AZZOUZI",
+          "Rachid DAOUDI",
+          "Hababi EL ARBI",
+          "Mohammed CHAOUCH",
+          "Ahmed BAHJA"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-26",
+      "stage": "Group A",
+      "venue": "Stanford Stadium",
+      "city": "Stanford",
+      "home_team": "Switzerland",
+      "away_team": "Colombia",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Herman GAVIRIA",
+          "minute": "44"
+        },
+        {
+          "team": "Colombia",
+          "player": "Harold LOZANO",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Anthony DE AVILA",
+          "player_off": "Adolfo VALENCIA",
+          "minute": "63"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Harold LOZANO",
+          "player_off": "Herman GAVIRIA",
+          "minute": "78"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Nestor SUBIAT",
+          "player_off": "Adrian KNUP",
+          "minute": "81"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Marco GRASSI",
+          "player_off": "Alain SUTTER",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Marco PASCOLO",
+          "Marc HOTTIGER",
+          "Yvan QUENTIN",
+          "Dominique HERR",
+          "Alain GEIGER",
+          "Georges BREGY",
+          "Alain SUTTER",
+          "Christophe OHREL",
+          "Ciriaco SFORZA",
+          "Adrian KNUP",
+          "Stephane CHAPUISAT"
+        ],
+        "away": [
+          "Oscar CORDOBA",
+          "Andres ESCOBAR",
+          "Alexis MENDOZA",
+          "Luis HERRERA",
+          "Wilson PEREZ",
+          "Herman GAVIRIA",
+          "Carlos VALDERRAMA",
+          "Leonel ALVAREZ",
+          "Freddy RINCON",
+          "Adolfo VALENCIA",
+          "Faustino ASPRILLA"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-26",
+      "stage": "Group A",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "United States",
+      "away_team": "Romania",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Dan PETRESCU",
+          "minute": "18"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Tab RAMOS",
+          "minute": "63"
+        },
+        {
+          "team": "United States",
+          "player_on": "Roy WEGERLE",
+          "player_off": "Michael SORBER",
+          "minute": "75"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Constantin GALCA",
+          "player_off": "Florin RADUCIOIU",
+          "minute": "83"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Gheorghe MIHALI",
+          "player_off": "Miodrag BELODEDICI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tony MEOLA",
+          "Thomas DOOLEY",
+          "Marcelo BALBOA",
+          "Paul CALIGIURI",
+          "Fernando CLAVIJO",
+          "Alexi LALAS",
+          "John HARKES",
+          "Tab RAMOS",
+          "Michael SORBER",
+          "Earnie STEWART",
+          "Eric WYNALDA"
+        ],
+        "away": [
+          "Florin PRUNEA",
+          "Dan PETRESCU",
+          "Daniel PRODAN",
+          "Miodrag BELODEDICI",
+          "Gheorghe POPESCU",
+          "Tibor SELYMES",
+          "Ioan LUPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Florin RADUCIOIU",
+          "Ilie DUMITRESCU"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-28",
+      "stage": "Group B",
+      "venue": "Stanford Stadium",
+      "city": "Stanford",
+      "home_team": "Russia",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "Oleg SALENKO",
+          "minute": "15"
+        },
+        {
+          "team": "Russia",
+          "player": "Oleg SALENKO",
+          "minute": "41"
+        },
+        {
+          "team": "Russia",
+          "player": "Oleg SALENKO",
+          "minute": "44",
+          "penalty": true
+        },
+        {
+          "team": "Cameroon",
+          "player": "Roger MILLA",
+          "minute": "46"
+        },
+        {
+          "team": "Russia",
+          "player": "Oleg SALENKO",
+          "minute": "72"
+        },
+        {
+          "team": "Russia",
+          "player": "Oleg SALENKO",
+          "minute": "75"
+        },
+        {
+          "team": "Russia",
+          "player": "Dmitri RADCHENKO",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Roger MILLA",
+          "player_off": "Louis MFEDE",
+          "minute": "45+1"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Alphonse-Marie TCHAMI",
+          "player_off": "David EMBE",
+          "minute": "48"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Dmitri RADCHENKO",
+          "player_off": "Igor KORNEEV",
+          "minute": "64"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Vladimir BESCHASTNYKH",
+          "player_off": "Igor LEDIAKHOV",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Stanislav CHERCHESOV",
+          "Yuri NIKIFOROV",
+          "Vladislav TERNAVSKI",
+          "Omar TETRADZE",
+          "Viktor ONOPKO",
+          "Dmitri KHLESTOV",
+          "Valeri KARPIN",
+          "Igor KORNEEV",
+          "Ilia TSYMBALAR",
+          "Igor LEDIAKHOV",
+          "Oleg SALENKO"
+        ],
+        "away": [
+          "Jacques SONGOO",
+          "Victor NDIP",
+          "Raymond KALLA",
+          "Stephen TATAW",
+          "Hans AGBO",
+          "Andre KANA-BIYIK",
+          "Thomas LIBIIH",
+          "Louis MFEDE",
+          "Marc-Vivien FOE",
+          "Francois OMAM-BIYIK",
+          "David EMBE"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-28",
+      "stage": "Group B",
+      "venue": "Pontiac Silverdome",
+      "city": "Detroit",
+      "home_team": "Brazil",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Kennet ANDERSSON",
+          "minute": "23"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROMÁRIO",
+          "minute": "46"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "MAZINHO",
+          "player_off": "MAURO SILVA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Jesper BLOMQVIST",
+          "player_off": "Henrik LARSSON",
+          "minute": "64"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Hakan MILD",
+          "player_off": "Stefan SCHWARZ",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO SERGIO",
+          "player_off": "RAI",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "ALDAIR",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "RAI",
+          "LEONARDO",
+          "BEBETO",
+          "ROMÁRIO"
+        ],
+        "away": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Roger LJUNG",
+          "Pontus KAMARK",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Jonas THERN",
+          "Henrik LARSSON",
+          "Tomas BROLIN",
+          "Kennet ANDERSSON"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-27",
+      "stage": "Group C",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Bolivia",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Pep GUARDIOLA",
+          "minute": "19",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "Jose Luis CAMINERO",
+          "minute": "66"
+        },
+        {
+          "team": "Bolivia",
+          "player": "Erwin SANCHEZ",
+          "minute": "67"
+        },
+        {
+          "team": "Spain",
+          "player": "Jose Luis CAMINERO",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bolivia",
+          "player_on": "Jaime MORENO",
+          "player_off": "Mauricio RAMOS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando HIERRO",
+          "player_off": "Felipe MINAMBRES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bolivia",
+          "player_on": "Ramiro CASTILLO",
+          "player_off": "Vladimir SORIA",
+          "minute": "62"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jose Mari BAKERO",
+          "player_off": "Pep GUARDIOLA",
+          "minute": "68"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Carlos TRUCCO",
+          "Juan Manuel PENA",
+          "Marco Antonio SANDY",
+          "Miguel Angel RIMBA",
+          "Modesto SORUCO",
+          "Carlos BORJA",
+          "Milton MELGAR",
+          "Mauricio RAMOS",
+          "Vladimir SORIA",
+          "Erwin SANCHEZ",
+          "Luis RAMALLO"
+        ],
+        "away": [
+          "Andoni ZUBIZARRETA",
+          "Albert FERRER",
+          "ABELARDO",
+          "SERGI",
+          "VORO",
+          "GOIKOETXEA",
+          "Julen GUERRERO",
+          "Pep GUARDIOLA",
+          "Jose Luis CAMINERO",
+          "Felipe MINAMBRES",
+          "JULIO SALINAS"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-27",
+      "stage": "Group C",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Germany",
+      "away_team": "South Korea",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "12"
+        },
+        {
+          "team": "Germany",
+          "player": "Karlheinz RIEDLE",
+          "minute": "20"
+        },
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "37"
+        },
+        {
+          "team": "South Korea",
+          "player": "HWANG Sun Hong",
+          "minute": "52"
+        },
+        {
+          "team": "South Korea",
+          "player": "HONG Myungbo",
+          "minute": "63"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "CHUNG Jong Son",
+          "player_off": "LEE Young Jin",
+          "minute": "39"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SEO Jung Won",
+          "player_off": "CHO Jin Ho",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Woonjae",
+          "player_off": "CHOI In Young",
+          "minute": "45+1"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Andreas MOELLER",
+          "player_off": "Lothar MATTHAEUS",
+          "minute": "64"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Thomas HELMER",
+          "player_off": "Stefan EFFENBERG",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Matthias SAMMER",
+          "Stefan EFFENBERG",
+          "Karlheinz RIEDLE",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "CHOI In Young",
+          "KIM Pan Keun",
+          "PARK Jung Bae",
+          "SHIN Hong Gi",
+          "CHOI Youngil",
+          "HONG Myungbo",
+          "LEE Young Jin",
+          "KIM Joo Sung",
+          "KO Jeong Woon",
+          "CHO Jin Ho",
+          "HWANG Sun Hong"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-30",
+      "stage": "Group D",
+      "venue": "Foxboro Stadium",
+      "city": "Foxborough",
+      "home_team": "Argentina",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Hristo STOICHKOV",
+          "minute": "61"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Nasko SIRAKOV",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ariel ORTEGA",
+          "player_off": "Claudio CANIGGIA",
+          "minute": "26"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Ramon MEDINA BELLO",
+          "player_off": "Leonardo RODRIGUEZ",
+          "minute": "67"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ilian KIRYAKOV",
+          "player_off": "Emil KOSTADINOV",
+          "minute": "74"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Daniel BORIMIROV",
+          "player_off": "Iordan LETCHKOV",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Luis ISLAS",
+          "Jose CHAMOT",
+          "Oscar RUGGERI",
+          "Fernando CACERES",
+          "Hernan DIAZ",
+          "Fernando REDONDO",
+          "Diego SIMEONE",
+          "Leonardo RODRIGUEZ",
+          "Claudio CANIGGIA",
+          "Gabriel BATISTUTA",
+          "Abel BALBO"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Emil KREMENLIEV",
+          "Trifon IVANOV",
+          "Tsanko TSVETANOV",
+          "Petar HUBCHEV",
+          "Zlatko YANKOV",
+          "Iordan LETCHKOV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Nasko SIRAKOV"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-30",
+      "stage": "Group D",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Nigeria",
+      "away_team": "Greece",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Finidi GEORGE",
+          "minute": "45"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Daniel AMOKACHI",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Jay Jay OKOCHA",
+          "player_off": "Rasheed YEKINI",
+          "minute": "68"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Nikos TSIANTAKIS",
+          "player_off": "Tassos MITROPOULOS",
+          "minute": "71"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Vasilis DIMITRIADIS",
+          "player_off": "Nikos MACHLAS",
+          "minute": "78"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Mutiu ADEPOJU",
+          "player_off": "Finidi GEORGE",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter RUFAI",
+          "Stephen KESHI",
+          "Uche OKECHUKWU",
+          "Chidi NWANU",
+          "Michael EMENALO",
+          "Emmanuel AMUNEKE",
+          "Sunday OLISEH",
+          "Finidi GEORGE",
+          "Rasheed YEKINI",
+          "Samson SIASIA",
+          "Daniel AMOKACHI"
+        ],
+        "away": [
+          "Christos KARKAMANIS",
+          "Giannis KALITZAKIS",
+          "Vaios KARAGIANNIS",
+          "Alexis ALEXIOU",
+          "Giotis TSALOUCHIDIS",
+          "Nikos NIOPLIAS",
+          "Tassos MITROPOULOS",
+          "Minas HANTZIDIS",
+          "Savvas KOFIDIS",
+          "Nikos MACHLAS",
+          "Alekos ALEXANDRIS"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-28",
+      "stage": "Group E",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Italy",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Daniele MASSARO",
+          "minute": "48"
+        },
+        {
+          "team": "Mexico",
+          "player": "Marcelino BERNAL",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Daniele MASSARO",
+          "player_off": "Pierluigi CASIRAGHI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Roberto DONADONI",
+          "player_off": "Dino BAGGIO",
+          "minute": "65"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Juan Carlos CHAVEZ",
+          "player_off": "Luis GARCIA",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Luca MARCHEGIANI",
+          "Luigi APOLLONI",
+          "Antonio BENARRIVO",
+          "Alessandro COSTACURTA",
+          "Paolo MALDINI",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Nicola BERTI",
+          "Roberto BAGGIO",
+          "Pierluigi CASIRAGHI",
+          "Giuseppe SIGNORI"
+        ],
+        "away": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Juan RAMIREZ",
+          "Ignacio AMBRIZ",
+          "Marcelino BERNAL",
+          "Alberto GARCIA ASPE",
+          "Joaquin DEL OLMO",
+          "Jorge RODRIGUEZ",
+          "Carlos HERMOSILLO",
+          "Luis GARCIA",
+          "ZAGUE"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-28",
+      "stage": "Group E",
+      "venue": "Citrus Bowl",
+      "city": "Orlando",
+      "home_team": "Republic of Ireland",
+      "away_team": "Norway",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Norway",
+          "player_on": "Mini JAKOBSEN",
+          "player_off": "Gunnar HALLE",
+          "minute": "34"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "David KELLY",
+          "player_off": "John ALDRIDGE",
+          "minute": "64"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Lars BOHINEN",
+          "player_off": "Oyvind LEONHARDSEN",
+          "minute": "67"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Ronnie WHELAN",
+          "player_off": "Andy TOWNSEND",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pat BONNER",
+          "Paul McGRATH",
+          "Steve STAUNTON",
+          "Gary KELLY",
+          "Phil BABB",
+          "Roy KEANE",
+          "Andy TOWNSEND",
+          "Ray HOUGHTON",
+          "John SHERIDAN",
+          "Jason McATEER",
+          "John ALDRIDGE"
+        ],
+        "away": [
+          "Erik THORSTVEDT",
+          "Gunnar HALLE",
+          "Erland JOHNSEN",
+          "Rune BRATSETH",
+          "Stig BJORNEBYE",
+          "Henning BERG",
+          "Erik MYKLAND",
+          "Oyvind LEONHARDSEN",
+          "Kjetil REKDAL",
+          "Jostein FLO",
+          "Goran SORLOTH"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-29",
+      "stage": "Group F",
+      "venue": "Robert F. Kennedy Memorial Stadium",
+      "city": "Washington, D.C.",
+      "home_team": "Saudi Arabia",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Saudi Arabia",
+          "player": "Said AL OWAIRAN",
+          "minute": "5"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Luc NILIS",
+          "player_off": "Marc DEGRYSE",
+          "minute": "23"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Khaled AL MUWALLID",
+          "player_off": "Majed ABDULLAH",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Josip WEBER",
+          "player_off": "Marc WILMOTS",
+          "minute": "53"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdullah AL DOSARI",
+          "player_off": "Said AL OWAIRAN",
+          "minute": "63"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL KHILAIWI",
+          "Abdullah ZUBROMAWI",
+          "Ahmed MADANI",
+          "Mohamed ABDELJAWAD",
+          "Fahad AL BISHI",
+          "Talal JEBRIN",
+          "Hamza SALEH",
+          "Majed ABDULLAH",
+          "Said AL OWAIRAN",
+          "Hamzah FALLATAH"
+        ],
+        "away": [
+          "Michel PREUDHOMME",
+          "Dirk MEDVED",
+          "Philippe ALBERT",
+          "Rudi SMIDTS",
+          "Michel DE WOLF",
+          "Lorenzo STAELENS",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Danny BOFFIN",
+          "Marc WILMOTS",
+          "Marc DEGRYSE"
+        ]
+      }
+    },
+    {
+      "date": "1994-06-29",
+      "stage": "Group F",
+      "venue": "Florida Citrus Bowl",
+      "city": "Orlando",
+      "home_team": "Netherlands",
+      "away_team": "Morocco",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Dennis BERGKAMP",
+          "minute": "43"
+        },
+        {
+          "team": "Morocco",
+          "player": "Hassan NADER",
+          "minute": "47"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Bryan ROY",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Morocco",
+          "player_on": "Mustafa HADJI",
+          "player_off": "Abdelmajid BOUYBOUD",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Gaston TAUMENT",
+          "player_off": "Marc OVERMARS",
+          "minute": "56"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Rachid DAOUDI",
+          "player_off": "Rachid AZZOUZI",
+          "minute": "61"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Bryan ROY",
+          "player_off": "Peter VAN VOSSEN",
+          "minute": "67"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ed DE GOEY",
+          "Frank DE BOER",
+          "Ronald KOEMAN",
+          "Stan VALCKX",
+          "Rob WITSCHGE",
+          "Jan WOUTERS",
+          "Wim JONK",
+          "Aron WINTER",
+          "Marc OVERMARS",
+          "Dennis BERGKAMP",
+          "Peter VAN VOSSEN"
+        ],
+        "away": [
+          "Zakaria EL ACHRAF",
+          "Abdelkarim EL HADRIOUI",
+          "Taher EL KHALEJ",
+          "Smahi TRIKI",
+          "Rachid NEQROUZ",
+          "Rachid AZZOUZI",
+          "Hababi EL ARBI",
+          "Abdelmajid BOUYBOUD",
+          "Ahmed BAHJA",
+          "Hassan NADER",
+          "Mohamed SAMADI"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-02",
+      "stage": "Round of 16",
+      "venue": "Soldier Field",
+      "city": "Chicago",
+      "home_team": "Germany",
+      "away_team": "Belgium",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Rudi VOELLER",
+          "minute": "6"
+        },
+        {
+          "team": "Belgium",
+          "player": "Georges GRUN",
+          "minute": "8"
+        },
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "11"
+        },
+        {
+          "team": "Germany",
+          "player": "Rudi VOELLER",
+          "minute": "40"
+        },
+        {
+          "team": "Belgium",
+          "player": "Philippe ALBERT",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Andreas BREHME",
+          "player_off": "Lothar MATTHAEUS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Danny BOFFIN",
+          "player_off": "Rudi SMIDTS",
+          "minute": "65"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Alex CZERNIATYNSKI",
+          "player_off": "Luc NILIS",
+          "minute": "76"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Stefan KUNTZ",
+          "player_off": "Juergen KLINSMANN",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Juergen KOHLER",
+          "Thomas HELMER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Martin WAGNER",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Matthias SAMMER",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Michel PREUDHOMME",
+          "Philippe ALBERT",
+          "Rudi SMIDTS",
+          "Georges GRUN",
+          "Michel DE WOLF",
+          "Marc EMMERS",
+          "Lorenzo STAELENS",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Luc NILIS",
+          "Josip WEBER"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-02",
+      "stage": "Round of 16",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Spain",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Fernando HIERRO",
+          "minute": "15"
+        },
+        {
+          "team": "Spain",
+          "player": "LUIS ENRIQUE",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player": "Txiki BEGUIRISTAIN",
+          "minute": "86",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Juerg STUDER",
+          "player_off": "Yvan QUENTIN",
+          "minute": "58"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Txiki BEGUIRISTAIN",
+          "player_off": "GOIKOETXEA",
+          "minute": "61"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Nestor SUBIAT",
+          "player_off": "Christophe OHREL",
+          "minute": "73"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jorge OTERO",
+          "player_off": "Fernando HIERRO",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "Albert FERRER",
+          "Jose CAMARASA",
+          "ABELARDO",
+          "Fernando HIERRO",
+          "SERGI",
+          "Rafael ALKORTA",
+          "Miguel Angel NADAL",
+          "GOIKOETXEA",
+          "Jose Mari BAKERO",
+          "LUIS ENRIQUE"
+        ],
+        "away": [
+          "Marco PASCOLO",
+          "Marc HOTTIGER",
+          "Yvan QUENTIN",
+          "Dominique HERR",
+          "Alain GEIGER",
+          "Georges BREGY",
+          "Christophe OHREL",
+          "Ciriaco SFORZA",
+          "Thomas BICKEL",
+          "Adrian KNUP",
+          "Stephane CHAPUISAT"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-03",
+      "stage": "Round of 16",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Sweden",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Martin DAHLIN",
+          "minute": "6"
+        },
+        {
+          "team": "Sweden",
+          "player": "Kennet ANDERSSON",
+          "minute": "51"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "Fahad AL GHESHEYAN",
+          "minute": "85"
+        },
+        {
+          "team": "Sweden",
+          "player": "Kennet ANDERSSON",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Pontus KAMARK",
+          "player_off": "Joachim BJORKLUND",
+          "minute": "54"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Fahad AL GHESHEYAN",
+          "player_off": "Mohamed ABDELJAWAD",
+          "minute": "54"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Khaled AL MUWALLID",
+          "player_off": "Fahad AL BISHI",
+          "minute": "63"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Hakan MILD",
+          "player_off": "Jonas THERN",
+          "minute": "70"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Joachim BJORKLUND",
+          "Roger LJUNG",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Jonas THERN",
+          "Martin DAHLIN",
+          "Tomas BROLIN",
+          "Kennet ANDERSSON"
+        ],
+        "away": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL KHILAIWI",
+          "Abdullah ZUBROMAWI",
+          "Ahmed MADANI",
+          "Mohamed ABDELJAWAD",
+          "Fuad AMIN",
+          "Fahad AL BISHI",
+          "Hamza SALEH",
+          "Said AL OWAIRAN",
+          "Sami AL JABER",
+          "Hamzah FALLATAH"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-03",
+      "stage": "Round of 16",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "Romania",
+      "away_team": "Argentina",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Ilie DUMITRESCU",
+          "minute": "11"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "16",
+          "penalty": true
+        },
+        {
+          "team": "Romania",
+          "player": "Ilie DUMITRESCU",
+          "minute": "18"
+        },
+        {
+          "team": "Romania",
+          "player": "Gheorghe HAGI",
+          "minute": "58"
+        },
+        {
+          "team": "Argentina",
+          "player": "Abel BALBO",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ramon MEDINA BELLO",
+          "player_off": "Roberto SENSINI",
+          "minute": "62"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Constantin GALCA",
+          "player_off": "Gheorghe HAGI",
+          "minute": "85"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Corneliu PAPURA",
+          "player_off": "Ilie DUMITRESCU",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Florin PRUNEA",
+          "Dan PETRESCU",
+          "Daniel PRODAN",
+          "Miodrag BELODEDICI",
+          "Gheorghe POPESCU",
+          "Tibor SELYMES",
+          "Gheorghe MIHALI",
+          "Ioan LUPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Ilie DUMITRESCU"
+        ],
+        "away": [
+          "Luis ISLAS",
+          "Jose CHAMOT",
+          "Roberto SENSINI",
+          "Oscar RUGGERI",
+          "Fernando CACERES",
+          "Fernando REDONDO",
+          "Jose BASUALDO",
+          "Diego SIMEONE",
+          "Gabriel BATISTUTA",
+          "Ariel ORTEGA",
+          "Abel BALBO"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-04",
+      "stage": "Round of 16",
+      "venue": "Citrus Bowl",
+      "city": "Orlando",
+      "home_team": "Netherlands",
+      "away_team": "Republic of Ireland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Dennis BERGKAMP",
+          "minute": "11"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wim JONK",
+          "minute": "41"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Jason McATEER",
+          "player_off": "Steve STAUNTON",
+          "minute": "63"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Bryan ROY",
+          "player_off": "Peter VAN VOSSEN",
+          "minute": "70"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Tony CASCARINO",
+          "player_off": "Tommy COYNE",
+          "minute": "73"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Arthur NUMAN",
+          "player_off": "Rob WITSCHGE",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ed DE GOEY",
+          "Frank DE BOER",
+          "Ronald KOEMAN",
+          "Stan VALCKX",
+          "Frank RIJKAARD",
+          "Rob WITSCHGE",
+          "Wim JONK",
+          "Aron WINTER",
+          "Marc OVERMARS",
+          "Dennis BERGKAMP",
+          "Peter VAN VOSSEN"
+        ],
+        "away": [
+          "Pat BONNER",
+          "Terry PHELAN",
+          "Paul McGRATH",
+          "Steve STAUNTON",
+          "Gary KELLY",
+          "Phil BABB",
+          "Roy KEANE",
+          "Andy TOWNSEND",
+          "Ray HOUGHTON",
+          "John SHERIDAN",
+          "Tommy COYNE"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-04",
+      "stage": "Round of 16",
+      "venue": "Stanford Stadium",
+      "city": "Stanford",
+      "home_team": "Brazil",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "BEBETO",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Eric WYNALDA",
+          "player_off": "Tab RAMOS",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Roy WEGERLE",
+          "player_off": "Hugo PEREZ",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "CAFU",
+          "player_off": "ZINHO",
+          "minute": "68"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "ALDAIR",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "LEONARDO",
+          "MAZINHO",
+          "BEBETO",
+          "ROMÁRIO"
+        ],
+        "away": [
+          "Tony MEOLA",
+          "Thomas DOOLEY",
+          "Marcelo BALBOA",
+          "Paul CALIGIURI",
+          "Fernando CLAVIJO",
+          "Alexi LALAS",
+          "Hugo PEREZ",
+          "Tab RAMOS",
+          "Cobi JONES",
+          "Michael SORBER",
+          "Earnie STEWART"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-05",
+      "stage": "Round of 16",
+      "venue": "Foxboro Stadium",
+      "city": "Foxborough",
+      "home_team": "Nigeria",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Emmanuel AMUNEKE",
+          "minute": "25"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "88"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "102",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Mutiu ADEPOJU",
+          "player_off": "Daniel AMOKACHI",
+          "minute": "35"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Dino BAGGIO",
+          "player_off": "Nicola BERTI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Thompson OLIHA",
+          "player_off": "Emmanuel AMUNEKE",
+          "minute": "57"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gianfranco ZOLA",
+          "player_off": "Giuseppe SIGNORI",
+          "minute": "63"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter RUFAI",
+          "Austin EGUAVOEN",
+          "Uche OKECHUKWU",
+          "Chidi NWANU",
+          "Michael EMENALO",
+          "Jay Jay OKOCHA",
+          "Emmanuel AMUNEKE",
+          "Sunday OLISEH",
+          "Finidi GEORGE",
+          "Rasheed YEKINI",
+          "Daniel AMOKACHI"
+        ],
+        "away": [
+          "Luca MARCHEGIANI",
+          "Antonio BENARRIVO",
+          "Alessandro COSTACURTA",
+          "Paolo MALDINI",
+          "Roberto MUSSI",
+          "Demetrio ALBERTINI",
+          "Nicola BERTI",
+          "Roberto DONADONI",
+          "Roberto BAGGIO",
+          "Daniele MASSARO",
+          "Giuseppe SIGNORI"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-05",
+      "stage": "Round of 16",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Mexico",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Hristo STOICHKOV",
+          "minute": "6"
+        },
+        {
+          "team": "Mexico",
+          "player": "Alberto GARCIA ASPE",
+          "minute": "18",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Boncho GENCHEV",
+          "player_off": "Nasko SIRAKOV",
+          "minute": "104"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Petar MIKHTARSKI",
+          "player_off": "Emil KOSTADINOV",
+          "minute": "119"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Juan RAMIREZ",
+          "Ignacio AMBRIZ",
+          "Ramon RAMIREZ",
+          "Marcelino BERNAL",
+          "Alberto GARCIA ASPE",
+          "Benjamin GALINDO",
+          "Jorge RODRIGUEZ",
+          "Luis GARCIA",
+          "ZAGUE"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Emil KREMENLIEV",
+          "Petar HUBCHEV",
+          "Ilian KIRYAKOV",
+          "Iordan LETCHKOV",
+          "Daniel BORIMIROV",
+          "Ivaylo YORDANOV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Nasko SIRAKOV"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-09",
+      "stage": "Quarterfinal",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Italy",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Dino BAGGIO",
+          "minute": "25"
+        },
+        {
+          "team": "Spain",
+          "player": "Jose Luis CAMINERO",
+          "minute": "58"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe SIGNORI",
+          "player_off": "Demetrio ALBERTINI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "JULIO SALINAS",
+          "player_off": "SERGI",
+          "minute": "60"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando HIERRO",
+          "player_off": "Jose Mari BAKERO",
+          "minute": "64"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Nicola BERTI",
+          "player_off": "Antonio CONTE",
+          "minute": "66"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Antonio BENARRIVO",
+          "Alessandro COSTACURTA",
+          "Paolo MALDINI",
+          "Mauro TASSOTTI",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Antonio CONTE",
+          "Roberto DONADONI",
+          "Roberto BAGGIO",
+          "Daniele MASSARO"
+        ],
+        "away": [
+          "Andoni ZUBIZARRETA",
+          "Albert FERRER",
+          "Jorge OTERO",
+          "ABELARDO",
+          "SERGI",
+          "Rafael ALKORTA",
+          "Miguel Angel NADAL",
+          "GOIKOETXEA",
+          "Jose Mari BAKERO",
+          "Jose Luis CAMINERO",
+          "LUIS ENRIQUE"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-09",
+      "stage": "Quarterfinal",
+      "venue": "Cotton Bowl",
+      "city": "Dallas",
+      "home_team": "Netherlands",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROMÁRIO",
+          "minute": "53"
+        },
+        {
+          "team": "Brazil",
+          "player": "BEBETO",
+          "minute": "63"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Dennis BERGKAMP",
+          "minute": "64"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Aron WINTER",
+          "minute": "76"
+        },
+        {
+          "team": "Brazil",
+          "player": "BRANCO",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Bryan ROY",
+          "player_off": "Peter VAN VOSSEN",
+          "minute": "54"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Ronald DE BOER",
+          "player_off": "Frank RIJKAARD",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAI",
+          "player_off": "MAZINHO",
+          "minute": "80"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "CAFU",
+          "player_off": "BRANCO",
+          "minute": "89+59"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ed DE GOEY",
+          "Ronald KOEMAN",
+          "Stan VALCKX",
+          "Frank RIJKAARD",
+          "Rob WITSCHGE",
+          "Jan WOUTERS",
+          "Wim JONK",
+          "Aron WINTER",
+          "Marc OVERMARS",
+          "Dennis BERGKAMP",
+          "Peter VAN VOSSEN"
+        ],
+        "away": [
+          "TAFFAREL",
+          "JORGINHO",
+          "BRANCO",
+          "ALDAIR",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "MAZINHO",
+          "BEBETO",
+          "ROMÁRIO"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-10",
+      "stage": "Quarterfinal",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Bulgaria",
+      "away_team": "Germany",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Lothar MATTHAEUS",
+          "minute": "47",
+          "penalty": true
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Hristo STOICHKOV",
+          "minute": "75"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Iordan LETCHKOV",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Thomas STRUNZ",
+          "player_off": "Martin WAGNER",
+          "minute": "58"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Andreas BREHME",
+          "player_off": "Thomas HAESSLER",
+          "minute": "82"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ivaylo YORDANOV",
+          "player_off": "Hristo STOICHKOV",
+          "minute": "84"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Boncho GENCHEV",
+          "player_off": "Emil KOSTADINOV",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Borislav MIHAYLOV",
+          "Trifon IVANOV",
+          "Tsanko TSVETANOV",
+          "Petar HUBCHEV",
+          "Ilian KIRYAKOV",
+          "Zlatko YANKOV",
+          "Iordan LETCHKOV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Nasko SIRAKOV"
+        ],
+        "away": [
+          "Bodo ILLGNER",
+          "Juergen KOHLER",
+          "Thomas HELMER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Martin WAGNER",
+          "Andreas MOELLER",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-10",
+      "stage": "Quarterfinal",
+      "venue": "Stanford Stadium",
+      "city": "Stanford",
+      "home_team": "Romania",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 5
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Tomas BROLIN",
+          "minute": "78"
+        },
+        {
+          "team": "Romania",
+          "player": "Florin RADUCIOIU",
+          "minute": "88"
+        },
+        {
+          "team": "Romania",
+          "player": "Florin RADUCIOIU",
+          "minute": "101"
+        },
+        {
+          "team": "Sweden",
+          "player": "Kennet ANDERSSON",
+          "minute": "115"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Nica PANDURU",
+          "player_off": "Dorinel MUNTEANU",
+          "minute": "84"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Pontus KAMARK",
+          "player_off": "Joachim BJORKLUND",
+          "minute": "84"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Henrik LARSSON",
+          "player_off": "Martin DAHLIN",
+          "minute": "107"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Florin PRUNEA",
+          "Dan PETRESCU",
+          "Daniel PRODAN",
+          "Miodrag BELODEDICI",
+          "Gheorghe POPESCU",
+          "Tibor SELYMES",
+          "Ioan LUPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Florin RADUCIOIU",
+          "Ilie DUMITRESCU"
+        ],
+        "away": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Joachim BJORKLUND",
+          "Roger LJUNG",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Hakan MILD",
+          "Martin DAHLIN",
+          "Tomas BROLIN",
+          "Kennet ANDERSSON"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-13",
+      "stage": "Semifinal",
+      "venue": "Giants Stadium",
+      "city": "East Rutherford",
+      "home_team": "Bulgaria",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "21"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "25"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Hristo STOICHKOV",
+          "minute": "44",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonio CONTE",
+          "player_off": "Dino BAGGIO",
+          "minute": "55"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ivaylo YORDANOV",
+          "player_off": "Emil KOSTADINOV",
+          "minute": "71"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe SIGNORI",
+          "player_off": "Roberto BAGGIO",
+          "minute": "71"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Boncho GENCHEV",
+          "player_off": "Hristo STOICHKOV",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Borislav MIHAYLOV",
+          "Trifon IVANOV",
+          "Tsanko TSVETANOV",
+          "Petar HUBCHEV",
+          "Ilian KIRYAKOV",
+          "Zlatko YANKOV",
+          "Iordan LETCHKOV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Nasko SIRAKOV"
+        ],
+        "away": [
+          "Gianluca PAGLIUCA",
+          "Antonio BENARRIVO",
+          "Alessandro COSTACURTA",
+          "Paolo MALDINI",
+          "Roberto MUSSI",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Nicola BERTI",
+          "Roberto DONADONI",
+          "Roberto BAGGIO",
+          "Pierluigi CASIRAGHI"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-13",
+      "stage": "Semifinal",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "Sweden",
+      "away_team": "Brazil",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROMÁRIO",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "RAI",
+          "player_off": "MAZINHO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Stefan REHN",
+          "player_off": "Martin DAHLIN",
+          "minute": "67"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Joachim BJORKLUND",
+          "Roger LJUNG",
+          "Klas INGESSON",
+          "Jonas THERN",
+          "Hakan MILD",
+          "Martin DAHLIN",
+          "Tomas BROLIN",
+          "Kennet ANDERSSON"
+        ],
+        "away": [
+          "TAFFAREL",
+          "JORGINHO",
+          "BRANCO",
+          "ALDAIR",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "MAZINHO",
+          "BEBETO",
+          "ROMÁRIO"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-16",
+      "stage": "Third-place match",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "Sweden",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Tomas BROLIN",
+          "minute": "8"
+        },
+        {
+          "team": "Sweden",
+          "player": "Hakan MILD",
+          "minute": "30"
+        },
+        {
+          "team": "Sweden",
+          "player": "Henrik LARSSON",
+          "minute": "37"
+        },
+        {
+          "team": "Sweden",
+          "player": "Kennet ANDERSSON",
+          "minute": "40"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Emil KREMENLIEV",
+          "player_off": "Trifon IVANOV",
+          "minute": "42"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ivaylo YORDANOV",
+          "player_off": "Nasko SIRAKOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Plamen NIKOLOV",
+          "player_off": "Borislav MIHAYLOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Anders LIMPAR",
+          "player_off": "Henrik LARSSON",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas RAVELLI",
+          "Roland NILSSON",
+          "Patrik ANDERSSON",
+          "Joachim BJORKLUND",
+          "Pontus KAMARK",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Hakan MILD",
+          "Henrik LARSSON",
+          "Tomas BROLIN",
+          "Kennet ANDERSSON"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Trifon IVANOV",
+          "Tsanko TSVETANOV",
+          "Petar HUBCHEV",
+          "Ilian KIRYAKOV",
+          "Zlatko YANKOV",
+          "Iordan LETCHKOV",
+          "Krasimir BALAKOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Nasko SIRAKOV"
+        ]
+      }
+    },
+    {
+      "date": "1994-07-17",
+      "stage": "Final",
+      "venue": "Rose Bowl",
+      "city": "Pasadena",
+      "home_team": "Brazil",
+      "away_team": "Italy",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "CAFU",
+          "player_off": "JORGINHO",
+          "minute": "21"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Luigi APOLLONI",
+          "player_off": "Roberto MUSSI",
+          "minute": "34"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alberico EVANI",
+          "player_off": "Dino BAGGIO",
+          "minute": "95"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "VIOLA",
+          "player_off": "ZINHO",
+          "minute": "106"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "BRANCO",
+          "ALDAIR",
+          "MARCIO SANTOS",
+          "MAURO SILVA",
+          "DUNGA",
+          "ZINHO",
+          "MAZINHO",
+          "BEBETO",
+          "ROMÁRIO"
+        ],
+        "away": [
+          "Gianluca PAGLIUCA",
+          "Antonio BENARRIVO",
+          "Paolo MALDINI",
+          "Franco BARESI",
+          "Roberto MUSSI",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Nicola BERTI",
+          "Roberto DONADONI",
+          "Roberto BAGGIO",
+          "Daniele MASSARO"
+        ]
+      }
+    }
+  ]
+}

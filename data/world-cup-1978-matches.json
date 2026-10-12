@@ -1,0 +1,2907 @@
+{
+  "tournament": "FIFA World Cup 1978",
+  "host_country": "Argentina",
+  "matches_played": 38,
+  "format": "Four first-round groups of four teams, followed by two second-phase groups of four teams; group winners met in the final and runners-up met in the third-place match.",
+  "sources": [
+    "https://www.rsssf.org/tables/78full.html",
+    "https://www.rsssf.org/tables/78f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1978/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1978-06-02",
+      "stage": "Group A",
+      "venue": "Estadio Mar del Plata",
+      "city": "Mar del Plata",
+      "home_team": "Italy",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Mauro BELLUGI",
+          "Antonio CABRINI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Romeo BENETTI",
+          "Marco TARDELLI",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Jean Paul BERTRAND DEMANES",
+          "Maxime BOSSIS",
+          "Gerard JANVION",
+          "Patrice RIO",
+          "Marius TRESOR",
+          "Jean Marc GUILLOU",
+          "Henri MICHEL",
+          "Michel PLATINI",
+          "Christian DALGER",
+          "Bernard LACOMBE",
+          "Didier SIX"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Bernard LACOMBE",
+          "minute": "1"
+        },
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "29"
+        },
+        {
+          "team": "Italy",
+          "player": "Renato ZACCARELLI",
+          "minute": "54"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Renato ZACCARELLI",
+          "player_off": "Giancarlo ANTOGNONI",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Marc BERDOLL",
+          "player_off": "Bernard LACOMBE",
+          "minute": "74"
+        },
+        {
+          "team": "France",
+          "player_on": "Olivier ROUYER",
+          "player_off": "Didier SIX",
+          "minute": "76"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-02",
+      "stage": "Group A",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Argentina",
+      "away_team": "Hungary",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Rene HOUSEMAN",
+          "Jose VALENCIA",
+          "Mario KEMPES",
+          "Leopoldo LUQUE"
+        ],
+        "away": [
+          "Sandor GUJDAR",
+          "Peter TOROK",
+          "Istvan KOCSIS",
+          "Jozsef TOTH",
+          "Zoltan KEREKI",
+          "Sandor ZOMBORI",
+          "Tibor NYILASI",
+          "Sandor PINTER",
+          "Karoly CSAPO",
+          "Laszlo NAGY",
+          "Andras TOROCSIK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Karoly CSAPO",
+          "minute": "10"
+        },
+        {
+          "team": "Argentina",
+          "player": "Leopoldo LUQUE",
+          "minute": "15"
+        },
+        {
+          "team": "Argentina",
+          "player": "Daniel BERTONI",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Hungary",
+          "player_on": "Gyozo MARTOS",
+          "player_off": "Peter TOROK",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Daniel BERTONI",
+          "player_off": "Rene HOUSEMAN",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Norberto ALONSO",
+          "player_off": "Jose VALENCIA",
+          "minute": "75"
+        }
+      ],
+      "notes": [
+        "Tórócsik and Nyilasi were sent off late in the match."
+      ]
+    },
+    {
+      "date": "1978-06-06",
+      "stage": "Group A",
+      "venue": "Estadio Mar del Plata",
+      "city": "Mar del Plata",
+      "home_team": "Italy",
+      "away_team": "Hungary",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Mauro BELLUGI",
+          "Antonio CABRINI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Romeo BENETTI",
+          "Marco TARDELLI",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Ferenc MESZAROS",
+          "Istvan KOCSIS",
+          "Jozsef TOTH",
+          "Zoltan KEREKI",
+          "Gyozo MARTOS",
+          "Sandor ZOMBORI",
+          "Sandor PINTER",
+          "Karoly CSAPO",
+          "Laszlo NAGY",
+          "Laszlo FAZEKAS",
+          "Laszlo PUSZTAI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "34"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BETTEGA",
+          "minute": "36"
+        },
+        {
+          "team": "Italy",
+          "player": "Romeo BENETTI",
+          "minute": "60"
+        },
+        {
+          "team": "Hungary",
+          "player": "Andras TOTH",
+          "minute": "81",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Hungary",
+          "player_on": "Andras TOTH",
+          "player_off": "Laszlo FAZEKAS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Istvan HALASZ",
+          "player_off": "Laszlo NAGY",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Antonello CUCCUREDDU",
+          "player_off": "Antonio CABRINI",
+          "minute": "79"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Francesco GRAZIANI",
+          "player_off": "Roberto BETTEGA",
+          "minute": "83"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-06",
+      "stage": "Group A",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Argentina",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Rene HOUSEMAN",
+          "Jose VALENCIA",
+          "Mario KEMPES",
+          "Leopoldo LUQUE"
+        ],
+        "away": [
+          "Jean Paul BERTRAND DEMANES",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Christian LOPEZ",
+          "Marius TRESOR",
+          "Dominique BATHENAY",
+          "Henri MICHEL",
+          "Michel PLATINI",
+          "Bernard LACOMBE",
+          "Dominique ROCHETEAU",
+          "Didier SIX"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Daniel PASSARELLA",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Michel PLATINI",
+          "minute": "60"
+        },
+        {
+          "team": "Argentina",
+          "player": "Leopoldo LUQUE",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Dominique BARATELLI",
+          "player_off": "Jean Paul BERTRAND DEMANES",
+          "minute": "55"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Norberto ALONSO",
+          "player_off": "Jose VALENCIA",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Oscar ORTIZ",
+          "player_off": "Norberto ALONSO",
+          "minute": "71"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-10",
+      "stage": "Group A",
+      "venue": "Estadio Mar del Plata",
+      "city": "Mar del Plata",
+      "home_team": "France",
+      "away_team": "Hungary",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Dominique DROPSY",
+          "Gerard JANVION",
+          "Francois BRACCI",
+          "Christian LOPEZ",
+          "Marius TRESOR",
+          "Dominique BATHENAY",
+          "Claude PAPI",
+          "Jean PETIT",
+          "Marc BERDOLL",
+          "Dominique ROCHETEAU",
+          "Olivier ROUYER"
+        ],
+        "away": [
+          "Sandor GUJDAR",
+          "Jozsef TOTH",
+          "Zoltan KEREKI",
+          "Gyozo MARTOS",
+          "Laszlo BALINT",
+          "Sandor ZOMBORI",
+          "Tibor NYILASI",
+          "Sandor PINTER",
+          "Laszlo NAGY",
+          "Andras TOROCSIK",
+          "Laszlo PUSZTAI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Christian LOPEZ",
+          "minute": "22"
+        },
+        {
+          "team": "France",
+          "player": "Marc BERDOLL",
+          "minute": "37"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor ZOMBORI",
+          "minute": "41"
+        },
+        {
+          "team": "France",
+          "player": "Dominique ROCHETEAU",
+          "minute": "42"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Michel PLATINI",
+          "player_off": "Claude PAPI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Karoly CSAPO",
+          "player_off": "Laszlo NAGY",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Didier SIX",
+          "player_off": "Dominique ROCHETEAU",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-10",
+      "stage": "Group A",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Italy",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Mauro BELLUGI",
+          "Antonio CABRINI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Romeo BENETTI",
+          "Marco TARDELLI",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Jose VALENCIA",
+          "Daniel BERTONI",
+          "Mario KEMPES",
+          "Oscar ORTIZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Roberto BETTEGA",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonello CUCCUREDDU",
+          "player_off": "Mauro BELLUGI",
+          "minute": "6"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rene HOUSEMAN",
+          "player_off": "Oscar ORTIZ",
+          "minute": "72"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Renato ZACCARELLI",
+          "player_off": "Giancarlo ANTOGNONI",
+          "minute": "73"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-01",
+      "stage": "Group B",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Poland",
+      "away_team": "West Germany",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Henryk MACULEWICZ",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam NAWALKA",
+          "Bohdan MASZTALER",
+          "Kazimierz DEYNA",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Wlodzimierz LUBANSKI"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Rolf RUESSMANN",
+          "Manfred KALTZ",
+          "Herbert ZIMMERMANN",
+          "Rainer BONHOF",
+          "Heinz FLOHE",
+          "Erich BEER",
+          "Hansi MUELLER",
+          "Ruediger ABRAMCZIK",
+          "Klaus FISCHER"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Zbigniew BONIEK",
+          "player_off": "Wlodzimierz LUBANSKI",
+          "minute": "79"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Henryk KASPERCZAK",
+          "player_off": "Bohdan MASZTALER",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-02",
+      "stage": "Group B",
+      "venue": "Estadio Rosario",
+      "city": "Rosario",
+      "home_team": "Tunisia",
+      "away_team": "Mexico",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Mokhtar NAILI",
+          "Mokhtar DOUIEB",
+          "Ali KAABI",
+          "Mohsen LABIDI",
+          "Omar JEBALI",
+          "Nejib GHOMMIDH",
+          "Hamadi AGREBI",
+          "Tarek DHIAB",
+          "Temime LAKHZAMI",
+          "Mohamed AKID",
+          "Raouf BEN AZIZA"
+        ],
+        "away": [
+          "Jose REYES",
+          "Alfredo TENA",
+          "Eduardo RAMOS",
+          "Arturo VAZQUEZ",
+          "Jesus MARTINEZ",
+          "Guillermo MENDIZABAL",
+          "Antonio DE LA TORRE",
+          "Leonardo CUELLAR",
+          "Victor RANGEL",
+          "Hugo SANCHEZ",
+          "Raul ISIORDIA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Arturo VAZQUEZ",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "team": "Tunisia",
+          "player": "Ali KAABI",
+          "minute": "55"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Nejib GHOMMIDH",
+          "minute": "79"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Mokhtar DOUIEB",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Gerardo LUGO",
+          "player_off": "Guillermo MENDIZABAL",
+          "minute": "67"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Salah KAROUI",
+          "player_off": "Raouf BEN AZIZA",
+          "minute": "81"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Khemais LABIDI",
+          "player_off": "Temime LAKHZAMI",
+          "minute": "88"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-06",
+      "stage": "Group B",
+      "venue": "Estadio Rosario",
+      "city": "Rosario",
+      "home_team": "Poland",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Henryk MACULEWICZ",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam NAWALKA",
+          "Henryk KASPERCZAK",
+          "Kazimierz DEYNA",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Wlodzimierz LUBANSKI"
+        ],
+        "away": [
+          "Mokhtar NAILI",
+          "Mokhtar DOUIEB",
+          "Ali KAABI",
+          "Omar JEBALI",
+          "Khaled GASMI",
+          "Nejib GHOMMIDH",
+          "Hamadi AGREBI",
+          "Tarek DHIAB",
+          "Khemais LABIDI",
+          "Temime LAKHZAMI",
+          "Mohamed AKID"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "43"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Andrzej IWAN",
+          "player_off": "Andrzej SZARMACH",
+          "minute": "60"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Zbigniew BONIEK",
+          "player_off": "Wlodzimierz LUBANSKI",
+          "minute": "76"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-06",
+      "stage": "Group B",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "West Germany",
+      "away_team": "Mexico",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Bernd DIETZ",
+          "Rolf RUESSMANN",
+          "Manfred KALTZ",
+          "Rainer BONHOF",
+          "Heinz FLOHE",
+          "Hansi MUELLER",
+          "Klaus FISCHER",
+          "Karl-Heinz RUMMENIGGE",
+          "Dieter MUELLER"
+        ],
+        "away": [
+          "Jose REYES",
+          "Alfredo TENA",
+          "Eduardo RAMOS",
+          "Arturo VAZQUEZ",
+          "Jesus MARTINEZ",
+          "Guillermo MENDIZABAL",
+          "Antonio DE LA TORRE",
+          "Leonardo CUELLAR",
+          "Enrique LOPEZ ZARZA",
+          "Victor RANGEL",
+          "Hugo SANCHEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Dieter MUELLER",
+          "minute": "15"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hansi MUELLER",
+          "minute": "30"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "38"
+        },
+        {
+          "team": "West Germany",
+          "player": "Heinz FLOHE",
+          "minute": "44"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "73"
+        },
+        {
+          "team": "West Germany",
+          "player": "Heinz FLOHE",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Pedro SOTO",
+          "player_off": "Jose REYES",
+          "minute": "39"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Gerardo LUGO",
+          "player_off": "Enrique LOPEZ ZARZA",
+          "minute": "45+1"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-10",
+      "stage": "Group B",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Tunisia",
+      "away_team": "West Germany",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Mokhtar NAILI",
+          "Mokhtar DOUIEB",
+          "Ali KAABI",
+          "Omar JEBALI",
+          "Khaled GASMI",
+          "Nejib GHOMMIDH",
+          "Hamadi AGREBI",
+          "Tarek DHIAB",
+          "Khemais LABIDI",
+          "Temime LAKHZAMI",
+          "Mohamed AKID"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Bernd DIETZ",
+          "Rolf RUESSMANN",
+          "Manfred KALTZ",
+          "Rainer BONHOF",
+          "Heinz FLOHE",
+          "Hansi MUELLER",
+          "Klaus FISCHER",
+          "Karl-Heinz RUMMENIGGE",
+          "Dieter MUELLER"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Raouf BEN AZIZA",
+          "player_off": "Mohamed AKID",
+          "minute": "82"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-10",
+      "stage": "Group B",
+      "venue": "Estadio Rosario",
+      "city": "Rosario",
+      "home_team": "Poland",
+      "away_team": "Mexico",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Wojciech RUDY",
+          "Henryk KASPERCZAK",
+          "Bohdan MASZTALER",
+          "Kazimierz DEYNA",
+          "Andrzej IWAN",
+          "Grzegorz LATO",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Pedro SOTO",
+          "Arturo VAZQUEZ",
+          "Rigoberto CISNEROS",
+          "Carlos GOMEZ",
+          "Ignacio FLORES",
+          "Antonio DE LA TORRE",
+          "Javier CARDENAS",
+          "Leonardo CUELLAR",
+          "Victor RANGEL",
+          "Cristobal ORTEGA",
+          "Hugo SANCHEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Zbigniew BONIEK",
+          "minute": "43"
+        },
+        {
+          "team": "Mexico",
+          "player": "Victor RANGEL",
+          "minute": "52"
+        },
+        {
+          "team": "Poland",
+          "player": "Kazimierz DEYNA",
+          "minute": "56"
+        },
+        {
+          "team": "Poland",
+          "player": "Zbigniew BONIEK",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Guillermo MENDIZABAL",
+          "player_off": "Javier CARDENAS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz LUBANSKI",
+          "player_off": "Andrzej IWAN",
+          "minute": "76"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Henryk MACULEWICZ",
+          "player_off": "Wojciech RUDY",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-03",
+      "stage": "Group C",
+      "venue": "Estadio Mar del Plata",
+      "city": "Mar del Plata",
+      "home_team": "Brazil",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "TONINHO",
+          "OSCAR",
+          "AMARAL",
+          "EDINHO",
+          "TONINHO CEREZO",
+          "ZICO",
+          "RIVELLINO",
+          "BATISTA",
+          "REINALDO",
+          "GIL"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Hasse BORG",
+          "Roy ANDERSSON",
+          "Bjorn NORDQVIST",
+          "Ingemar ERLANDSSON",
+          "Staffan TAPPER",
+          "Anders LINDEROTH",
+          "Bo LARSSON",
+          "Lennart LARSSON",
+          "Thomas SJOBERG",
+          "Benny WENDT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Thomas SJOBERG",
+          "minute": "37"
+        },
+        {
+          "team": "Brazil",
+          "player": "REINALDO",
+          "minute": "45"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "NELINHO",
+          "player_off": "GIL",
+          "minute": "66"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Ralf EDSTROM",
+          "player_off": "Lennart LARSSON",
+          "minute": "81"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DIRCEU",
+          "player_off": "TONINHO CEREZO",
+          "minute": "86"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-03",
+      "stage": "Group C",
+      "venue": "Estadio José Amalfitani",
+      "city": "Buenos Aires",
+      "home_team": "Austria",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Friedl KONCILIA",
+          "Robert SARA",
+          "Erich OBERMAYER",
+          "Gerhard BREITENBERGER",
+          "Bruno PEZZEY",
+          "Josef HICKERSBERGER",
+          "Herbert PROHASKA",
+          "Wilhelm KREUZ",
+          "Kurt JARA",
+          "Hans KRANKL",
+          "Walter SCHACHNER"
+        ],
+        "away": [
+          "MIGUEL ANGEL",
+          "Antonio DE LA CRUZ",
+          "MIGUELI",
+          "MARCELINO",
+          "PIRRI",
+          "Juan Manuel ASENSI",
+          "Julio CARDENOSA",
+          "Isidoro SAN JOSE",
+          "DANI",
+          "Carles REXACH",
+          "RUBEN CANO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Walter SCHACHNER",
+          "minute": "9"
+        },
+        {
+          "team": "Spain",
+          "player": "DANI",
+          "minute": "21"
+        },
+        {
+          "team": "Austria",
+          "player": "Hans KRANKL",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Eugenio LEAL",
+          "player_off": "Julio CARDENOSA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "QUINI",
+          "player_off": "Carles REXACH",
+          "minute": "60"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Heribert WEBER",
+          "player_off": "Josef HICKERSBERGER",
+          "minute": "67"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Hans PIRKNER",
+          "player_off": "Walter SCHACHNER",
+          "minute": "80"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-07",
+      "stage": "Group C",
+      "venue": "Estadio José Amalfitani",
+      "city": "Buenos Aires",
+      "home_team": "Austria",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Friedl KONCILIA",
+          "Robert SARA",
+          "Erich OBERMAYER",
+          "Gerhard BREITENBERGER",
+          "Bruno PEZZEY",
+          "Josef HICKERSBERGER",
+          "Herbert PROHASKA",
+          "Wilhelm KREUZ",
+          "Kurt JARA",
+          "Eduard KRIEGER",
+          "Hans KRANKL"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Hasse BORG",
+          "Roy ANDERSSON",
+          "Bjorn NORDQVIST",
+          "Ingemar ERLANDSSON",
+          "Staffan TAPPER",
+          "Anders LINDEROTH",
+          "Bo LARSSON",
+          "Lennart LARSSON",
+          "Thomas SJOBERG",
+          "Benny WENDT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Hans KRANKL",
+          "minute": "42",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Conny TORSTENSSON",
+          "player_off": "Staffan TAPPER",
+          "minute": "36"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Ralf EDSTROM",
+          "player_off": "Anders LINDEROTH",
+          "minute": "60"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Heribert WEBER",
+          "player_off": "Eduard KRIEGER",
+          "minute": "71"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-07",
+      "stage": "Group C",
+      "venue": "Estadio Mar del Plata",
+      "city": "Mar del Plata",
+      "home_team": "Brazil",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "TONINHO",
+          "OSCAR",
+          "AMARAL",
+          "EDINHO",
+          "NELINHO",
+          "TONINHO CEREZO",
+          "ZICO",
+          "DIRCEU",
+          "BATISTA",
+          "REINALDO"
+        ],
+        "away": [
+          "MIGUEL ANGEL",
+          "Francisco URIA",
+          "MIGUELI",
+          "Antonio OLMO",
+          "MARCELINO",
+          "Juan Manuel ASENSI",
+          "Julio CARDENOSA",
+          "Eugenio LEAL",
+          "Isidoro SAN JOSE",
+          "JUANITO",
+          "SANTILLANA"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Antonio BIOSCA",
+          "player_off": "MIGUELI",
+          "minute": "51"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GIL",
+          "player_off": "NELINHO",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Antonio GUZMAN",
+          "player_off": "Francisco URIA",
+          "minute": "80"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "JORGE MENDONCA",
+          "player_off": "ZICO",
+          "minute": "83"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-11",
+      "stage": "Group C",
+      "venue": "Estadio Mar del Plata",
+      "city": "Mar del Plata",
+      "home_team": "Brazil",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "TONINHO",
+          "OSCAR",
+          "AMARAL",
+          "RODRIGUES NETO",
+          "TONINHO CEREZO",
+          "DIRCEU",
+          "BATISTA",
+          "GIL",
+          "JORGE MENDONCA",
+          "ROBERTO DINAMITE"
+        ],
+        "away": [
+          "Friedl KONCILIA",
+          "Robert SARA",
+          "Erich OBERMAYER",
+          "Gerhard BREITENBERGER",
+          "Bruno PEZZEY",
+          "Josef HICKERSBERGER",
+          "Herbert PROHASKA",
+          "Wilhelm KREUZ",
+          "Kurt JARA",
+          "Eduard KRIEGER",
+          "Hans KRANKL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROBERTO DINAMITE",
+          "minute": "40"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Austria",
+          "player_on": "Heribert WEBER",
+          "player_off": "Josef HICKERSBERGER",
+          "minute": "61"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "CHICAO",
+          "player_off": "TONINHO CEREZO",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZICO",
+          "player_off": "JORGE MENDONCA",
+          "minute": "84"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Gunter HAPPICH",
+          "player_off": "Eduard KRIEGER",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-11",
+      "stage": "Group C",
+      "venue": "Estadio José Amalfitani",
+      "city": "Buenos Aires",
+      "home_team": "Spain",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "MIGUEL ANGEL",
+          "Francisco URIA",
+          "Antonio BIOSCA",
+          "Antonio OLMO",
+          "MARCELINO",
+          "Juan Manuel ASENSI",
+          "Julio CARDENOSA",
+          "Eugenio LEAL",
+          "Isidoro SAN JOSE",
+          "JUANITO",
+          "SANTILLANA"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Hasse BORG",
+          "Roy ANDERSSON",
+          "Bjorn NORDQVIST",
+          "Ingemar ERLANDSSON",
+          "Bo LARSSON",
+          "Lennart LARSSON",
+          "Olle NORDIN",
+          "Thomas SJOBERG",
+          "Torbjorn NILSSON",
+          "Ralf EDSTROM"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Juan Manuel ASENSI",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "PIRRI",
+          "player_off": "Antonio OLMO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Benny WENDT",
+          "player_off": "Ralf EDSTROM",
+          "minute": "59"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Anders LINDEROTH",
+          "player_off": "Thomas SJOBERG",
+          "minute": "66"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-03",
+      "stage": "Group D",
+      "venue": "Estadio Mendoza",
+      "city": "Mendoza",
+      "home_team": "Netherlands",
+      "away_team": "Iran",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Wim JANSEN",
+          "Arie HAAN",
+          "Willy VAN DE KERKHOF",
+          "Johan NEESKENS",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Nasser HEJAZI",
+          "Hassan NAZARI",
+          "Andranik ESKANDARIAN",
+          "Hussein KAZERANI",
+          "Hassan NAIBAGHA",
+          "Ali PARWIN",
+          "Ebrahim KASSEMPOOR",
+          "Mohammad SADEQI",
+          "Ghafoor JAHANI",
+          "Hussein FARAKI",
+          "Nasrollah ABDOLLAHI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Rob RENSENBRINK",
+          "minute": "40",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Rob RENSENBRINK",
+          "minute": "62"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Rob RENSENBRINK",
+          "minute": "79",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Hassan ROWSHAN",
+          "player_off": "Hussein FARAKI",
+          "minute": "50"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Dick NANNINGA",
+          "player_off": "Rene VAN DE KERKHOF",
+          "minute": "70"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-03",
+      "stage": "Group D",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Peru",
+      "away_team": "Scotland",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rodolfo MANZO",
+          "Hector CHUMPITAZ",
+          "Ruben DIAZ",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Juan MUNANTE",
+          "Teofilo CUBILLAS",
+          "Juan Carlos OBLITAS",
+          "Guillermo LA ROSA"
+        ],
+        "away": [
+          "Alan ROUGH",
+          "Martin BUCHAN",
+          "Stuart KENNEDY",
+          "Tom FORSYTH",
+          "Kenny BURNS",
+          "Bruce RIOCH",
+          "Don MASSON",
+          "Asa HARTFORD",
+          "Kenny DALGLISH",
+          "Joe JORDAN",
+          "Willie JOHNSTON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Joe JORDAN",
+          "minute": "14"
+        },
+        {
+          "team": "Peru",
+          "player": "Cesar CUETO",
+          "minute": "43"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "71"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Hugo SOTIL",
+          "player_off": "Guillermo LA ROSA",
+          "minute": "62"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Lou MACARI",
+          "player_off": "Don MASSON",
+          "minute": "75"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Archie GEMMILL",
+          "player_off": "Bruce RIOCH",
+          "minute": "75"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Percy ROJAS",
+          "player_off": "Cesar CUETO",
+          "minute": "82"
+        }
+      ],
+      "notes": [
+        "Quiroga saved Masson's penalty; Johnston was expelled from the tournament after failed antidoping testing."
+      ]
+    },
+    {
+      "date": "1978-06-07",
+      "stage": "Group D",
+      "venue": "Estadio Mendoza",
+      "city": "Mendoza",
+      "home_team": "Netherlands",
+      "away_team": "Peru",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Jan POORTVLIET",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Wim JANSEN",
+          "Arie HAAN",
+          "Willy VAN DE KERKHOF",
+          "Johan NEESKENS",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK"
+        ],
+        "away": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rodolfo MANZO",
+          "Hector CHUMPITAZ",
+          "Ruben DIAZ",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Juan MUNANTE",
+          "Teofilo CUBILLAS",
+          "Juan Carlos OBLITAS",
+          "Guillermo LA ROSA"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Hugo SOTIL",
+          "player_off": "Guillermo LA ROSA",
+          "minute": "62"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Dick NANNINGA",
+          "player_off": "Johan NEESKENS",
+          "minute": "68"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-07",
+      "stage": "Group D",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Iran",
+      "away_team": "Scotland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Nasser HEJAZI",
+          "Hassan NAZARI",
+          "Andranik ESKANDARIAN",
+          "Hussein KAZERANI",
+          "Iraj DANAEIFARD",
+          "Ali PARWIN",
+          "Ebrahim KASSEMPOOR",
+          "Mohammad SADEQI",
+          "Ghafoor JAHANI",
+          "Hussein FARAKI",
+          "Nasrollah ABDOLLAHI"
+        ],
+        "away": [
+          "Alan ROUGH",
+          "Sandy JARDINE",
+          "Willie DONACHIE",
+          "Martin BUCHAN",
+          "Kenny BURNS",
+          "Asa HARTFORD",
+          "Archie GEMMILL",
+          "Lou MACARI",
+          "Kenny DALGLISH",
+          "Joe JORDAN",
+          "John ROBERTSON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Andranik ESKANDARIAN",
+          "minute": "43",
+          "own_goal": true
+        },
+        {
+          "team": "Iran",
+          "player": "Iraj DANAEIFARD",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Tom FORSYTH",
+          "player_off": "Martin BUCHAN",
+          "minute": "56"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Joe HARPER",
+          "player_off": "Kenny DALGLISH",
+          "minute": "74"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Hassan ROWSHAN",
+          "player_off": "Hussein FARAKI",
+          "minute": "84"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Hassan NAIBAGHA",
+          "player_off": "Iraj DANAEIFARD",
+          "minute": "89"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-11",
+      "stage": "Group D",
+      "venue": "Estadio Mendoza",
+      "city": "Mendoza",
+      "home_team": "Scotland",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Alan ROUGH",
+          "Willie DONACHIE",
+          "Martin BUCHAN",
+          "Stuart KENNEDY",
+          "Tom FORSYTH",
+          "Bruce RIOCH",
+          "Asa HARTFORD",
+          "Archie GEMMILL",
+          "Graeme SOUNESS",
+          "Kenny DALGLISH",
+          "Joe JORDAN"
+        ],
+        "away": [
+          "Jan JONGBLOED",
+          "Jan POORTVLIET",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Wim JANSEN",
+          "Willy VAN DE KERKHOF",
+          "Johan NEESKENS",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Rob RENSENBRINK",
+          "minute": "34",
+          "penalty": true
+        },
+        {
+          "team": "Scotland",
+          "player": "Kenny DALGLISH",
+          "minute": "44"
+        },
+        {
+          "team": "Scotland",
+          "player": "Archie GEMMILL",
+          "minute": "47",
+          "penalty": true
+        },
+        {
+          "team": "Scotland",
+          "player": "Archie GEMMILL",
+          "minute": "68"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Johan BOSKAMP",
+          "player_off": "Johan NEESKENS",
+          "minute": "10"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Pieter WILDSCHUT",
+          "player_off": "Wim RIJSBERGEN",
+          "minute": "44"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-11",
+      "stage": "Group D",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Peru",
+      "away_team": "Iran",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rodolfo MANZO",
+          "Hector CHUMPITAZ",
+          "Ruben DIAZ",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Juan MUNANTE",
+          "Teofilo CUBILLAS",
+          "Juan Carlos OBLITAS",
+          "Guillermo LA ROSA"
+        ],
+        "away": [
+          "Nasser HEJAZI",
+          "Jawad ALLAHWARDI",
+          "Hassan NAZARI",
+          "Hussein KAZERANI",
+          "Iraj DANAEIFARD",
+          "Ali PARWIN",
+          "Ebrahim KASSEMPOOR",
+          "Mohammad SADEQI",
+          "Hassan ROWSHAN",
+          "Hussein FARAKI",
+          "Nasrollah ABDOLLAHI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Peru",
+          "player": "Jose VELASQUEZ",
+          "minute": "2"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "36",
+          "penalty": true
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "39",
+          "penalty": true
+        },
+        {
+          "team": "Iran",
+          "player": "Hassan ROWSHAN",
+          "minute": "41"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Ghafoor JAHANI",
+          "player_off": "Hussein FARAKI",
+          "minute": "51"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Hugo SOTIL",
+          "player_off": "Guillermo LA ROSA",
+          "minute": "60"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Behtash FARIBA",
+          "player_off": "Hassan ROWSHAN",
+          "minute": "66"
+        },
+        {
+          "team": "Peru",
+          "player_on": "German LEGUIA",
+          "player_off": "Rodolfo MANZO",
+          "minute": "67"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-14",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Italy",
+      "away_team": "West Germany",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Mauro BELLUGI",
+          "Antonio CABRINI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Romeo BENETTI",
+          "Marco TARDELLI",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Bernd DIETZ",
+          "Rolf RUESSMANN",
+          "Manfred KALTZ",
+          "Herbert ZIMMERMANN",
+          "Rainer BONHOF",
+          "Heinz FLOHE",
+          "Klaus FISCHER",
+          "Karl-Heinz RUMMENIGGE",
+          "Bernd HOELZENBEIN"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Renato ZACCARELLI",
+          "player_off": "Giancarlo ANTOGNONI",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Harald KONOPKA",
+          "player_off": "Herbert ZIMMERMANN",
+          "minute": "53"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Erich BEER",
+          "player_off": "Heinz FLOHE",
+          "minute": "68"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-14",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Netherlands",
+      "away_team": "Austria",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Piet SCHRIJVERS",
+          "Jan POORTVLIET",
+          "Ruud KROL",
+          "Pieter WILDSCHUT",
+          "Ernie BRANDTS",
+          "Wim JANSEN",
+          "Arie HAAN",
+          "Willy VAN DE KERKHOF",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Friedl KONCILIA",
+          "Robert SARA",
+          "Erich OBERMAYER",
+          "Gerhard BREITENBERGER",
+          "Bruno PEZZEY",
+          "Josef HICKERSBERGER",
+          "Herbert PROHASKA",
+          "Wilhelm KREUZ",
+          "Kurt JARA",
+          "Eduard KRIEGER",
+          "Hans KRANKL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Ernie BRANDTS",
+          "minute": "6"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Rob RENSENBRINK",
+          "minute": "35",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "36"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "53"
+        },
+        {
+          "team": "Austria",
+          "player": "Erich OBERMAYER",
+          "minute": "79"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Willy VAN DE KERKHOF",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Dirk SCHOENAKER",
+          "player_off": "Rene VAN DE KERKHOF",
+          "minute": "60"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Adri VAN KRAAY",
+          "player_off": "Ernie BRANDTS",
+          "minute": "66"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-18",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Netherlands",
+      "away_team": "West Germany",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Piet SCHRIJVERS",
+          "Jan POORTVLIET",
+          "Ruud KROL",
+          "Pieter WILDSCHUT",
+          "Ernie BRANDTS",
+          "Wim JANSEN",
+          "Arie HAAN",
+          "Willy VAN DE KERKHOF",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Bernd DIETZ",
+          "Rolf RUESSMANN",
+          "Manfred KALTZ",
+          "Rainer BONHOF",
+          "Erich BEER",
+          "Ruediger ABRAMCZIK",
+          "Karl-Heinz RUMMENIGGE",
+          "Dieter MUELLER",
+          "Bernd HOELZENBEIN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Ruediger ABRAMCZIK",
+          "minute": "3"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Arie HAAN",
+          "minute": "27"
+        },
+        {
+          "team": "West Germany",
+          "player": "Dieter MUELLER",
+          "minute": "70"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Rene VAN DE KERKHOF",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Dick NANNINGA",
+          "player_off": "Pieter WILDSCHUT",
+          "minute": "79"
+        }
+      ],
+      "notes": [
+        "Nanninga was sent off in the 88th minute."
+      ]
+    },
+    {
+      "date": "1978-06-18",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Italy",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Mauro BELLUGI",
+          "Antonio CABRINI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Romeo BENETTI",
+          "Marco TARDELLI",
+          "Renato ZACCARELLI",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Friedl KONCILIA",
+          "Robert SARA",
+          "Erich OBERMAYER",
+          "Bruno PEZZEY",
+          "Heinrich STRASSER",
+          "Josef HICKERSBERGER",
+          "Herbert PROHASKA",
+          "Wilhelm KREUZ",
+          "Eduard KRIEGER",
+          "Hans KRANKL",
+          "Walter SCHACHNER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "14"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonello CUCCUREDDU",
+          "player_off": "Mauro BELLUGI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Hans PIRKNER",
+          "player_off": "Walter SCHACHNER",
+          "minute": "63"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Francesco GRAZIANI",
+          "player_off": "Roberto BETTEGA",
+          "minute": "72"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-21",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Netherlands",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Piet SCHRIJVERS",
+          "Jan POORTVLIET",
+          "Ruud KROL",
+          "Ernie BRANDTS",
+          "Wim JANSEN",
+          "Arie HAAN",
+          "Willy VAN DE KERKHOF",
+          "Johan NEESKENS",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Antonello CUCCUREDDU",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Romeo BENETTI",
+          "Marco TARDELLI",
+          "Renato ZACCARELLI",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Ernie BRANDTS",
+          "minute": "18",
+          "own_goal": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Ernie BRANDTS",
+          "minute": "50"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Arie HAAN",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Jan JONGBLOED",
+          "player_off": "Piet SCHRIJVERS",
+          "minute": "21"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Claudio SALA",
+          "player_off": "Franco CAUSIO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Adri VAN KRAAY",
+          "player_off": "Johnny REP",
+          "minute": "65"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Francesco GRAZIANI",
+          "player_off": "Romeo BENETTI",
+          "minute": "77"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-21",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Córdoba",
+      "city": "Córdoba",
+      "home_team": "Austria",
+      "away_team": "West Germany",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Friedl KONCILIA",
+          "Robert SARA",
+          "Erich OBERMAYER",
+          "Bruno PEZZEY",
+          "Heinrich STRASSER",
+          "Josef HICKERSBERGER",
+          "Herbert PROHASKA",
+          "Wilhelm KREUZ",
+          "Eduard KRIEGER",
+          "Hans KRANKL",
+          "Walter SCHACHNER"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Bernd DIETZ",
+          "Rolf RUESSMANN",
+          "Manfred KALTZ",
+          "Rainer BONHOF",
+          "Erich BEER",
+          "Ruediger ABRAMCZIK",
+          "Karl-Heinz RUMMENIGGE",
+          "Dieter MUELLER",
+          "Bernd HOELZENBEIN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "19"
+        },
+        {
+          "team": "Austria",
+          "player": "Berti VOGTS",
+          "minute": "59",
+          "own_goal": true
+        },
+        {
+          "team": "Austria",
+          "player": "Hans KRANKL",
+          "minute": "66"
+        },
+        {
+          "team": "West Germany",
+          "player": "Bernd HOELZENBEIN",
+          "minute": "68"
+        },
+        {
+          "team": "Austria",
+          "player": "Hans KRANKL",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Hansi MUELLER",
+          "player_off": "Erich BEER",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Klaus FISCHER",
+          "player_off": "Dieter MUELLER",
+          "minute": "60"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Franz OBERACHER",
+          "player_off": "Walter SCHACHNER",
+          "minute": "71"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-14",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Mendoza",
+      "city": "Mendoza",
+      "home_team": "Brazil",
+      "away_team": "Peru",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "TONINHO",
+          "OSCAR",
+          "AMARAL",
+          "RODRIGUES NETO",
+          "TONINHO CEREZO",
+          "DIRCEU",
+          "BATISTA",
+          "GIL",
+          "JORGE MENDONCA",
+          "ROBERTO DINAMITE"
+        ],
+        "away": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rodolfo MANZO",
+          "Hector CHUMPITAZ",
+          "Ruben DIAZ",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Juan MUNANTE",
+          "Teofilo CUBILLAS",
+          "Juan Carlos OBLITAS",
+          "Guillermo LA ROSA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "DIRCEU",
+          "minute": "15"
+        },
+        {
+          "team": "Brazil",
+          "player": "DIRCEU",
+          "minute": "28"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZICO",
+          "minute": "73",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Jose NAVARRO",
+          "player_off": "Ruben DIAZ",
+          "minute": "11"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Percy ROJAS",
+          "player_off": "Juan Carlos OBLITAS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZICO",
+          "player_off": "GIL",
+          "minute": "70"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "CHICAO",
+          "player_off": "TONINHO",
+          "minute": "76"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-14",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Rosario",
+      "city": "Rosario",
+      "home_team": "Argentina",
+      "away_team": "Poland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Rene HOUSEMAN",
+          "Jose VALENCIA",
+          "Daniel BERTONI",
+          "Mario KEMPES"
+        ],
+        "away": [
+          "Jan TOMASZEWSKI",
+          "Henryk MACULEWICZ",
+          "Antoni SZYMANOWSKI",
+          "Wladyslaw ZMUDA",
+          "Adam NAWALKA",
+          "Henryk KASPERCZAK",
+          "Bohdan MASZTALER",
+          "Kazimierz DEYNA",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Zbigniew BONIEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Mario KEMPES",
+          "minute": "16"
+        },
+        {
+          "team": "Argentina",
+          "player": "Mario KEMPES",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ricardo VILLA",
+          "player_off": "Jose VALENCIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz MAZUR",
+          "player_off": "Bohdan MASZTALER",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Oscar ORTIZ",
+          "player_off": "Rene HOUSEMAN",
+          "minute": "83"
+        }
+      ],
+      "notes": [
+        "Fillol saved Deyna's penalty in the 39th minute."
+      ]
+    },
+    {
+      "date": "1978-06-18",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Mendoza",
+      "city": "Mendoza",
+      "home_team": "Poland",
+      "away_team": "Peru",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Zygmunt KUKLA",
+          "Henryk MACULEWICZ",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam NAWALKA",
+          "Bohdan MASZTALER",
+          "Kazimierz DEYNA",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rodolfo MANZO",
+          "Hector CHUMPITAZ",
+          "Jose NAVARRO",
+          "Cesar CUETO",
+          "Alfredo QUESADA",
+          "Juan MUNANTE",
+          "Teofilo CUBILLAS",
+          "Juan Carlos OBLITAS",
+          "Guillermo LA ROSA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Henryk KASPERCZAK",
+          "player_off": "Bohdan MASZTALER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Percy ROJAS",
+          "player_off": "Juan MUNANTE",
+          "minute": "45+1"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Hugo SOTIL",
+          "player_off": "Guillermo LA ROSA",
+          "minute": "74"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz LUBANSKI",
+          "player_off": "Zbigniew BONIEK",
+          "minute": "86"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-18",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Rosario",
+      "city": "Rosario",
+      "home_team": "Argentina",
+      "away_team": "Brazil",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Daniel BERTONI",
+          "Mario KEMPES",
+          "Leopoldo LUQUE",
+          "Oscar ORTIZ"
+        ],
+        "away": [
+          "LEAO",
+          "TONINHO",
+          "OSCAR",
+          "AMARAL",
+          "RODRIGUES NETO",
+          "DIRCEU",
+          "BATISTA",
+          "CHICAO",
+          "GIL",
+          "JORGE MENDONCA",
+          "ROBERTO DINAMITE"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "EDINHO",
+          "player_off": "RODRIGUES NETO",
+          "minute": "34"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Ricardo VILLA",
+          "player_off": "Osvaldo ARDILES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Norberto ALONSO",
+          "player_off": "Oscar ORTIZ",
+          "minute": "60"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZICO",
+          "player_off": "JORGE MENDONCA",
+          "minute": "67"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-21",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Mendoza",
+      "city": "Mendoza",
+      "home_team": "Brazil",
+      "away_team": "Poland",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "TONINHO",
+          "OSCAR",
+          "AMARAL",
+          "NELINHO",
+          "TONINHO CEREZO",
+          "ZICO",
+          "DIRCEU",
+          "BATISTA",
+          "GIL",
+          "ROBERTO DINAMITE"
+        ],
+        "away": [
+          "Zygmunt KUKLA",
+          "Henryk MACULEWICZ",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam NAWALKA",
+          "Henryk KASPERCZAK",
+          "Kazimierz DEYNA",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Zbigniew BONIEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "NELINHO",
+          "minute": "12"
+        },
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "45"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROBERTO DINAMITE",
+          "minute": "57"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROBERTO DINAMITE",
+          "minute": "63"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "JORGE MENDONCA",
+          "player_off": "ZICO",
+          "minute": "7"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz LUBANSKI",
+          "player_off": "Henryk KASPERCZAK",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RIVELLINO",
+          "player_off": "TONINHO CEREZO",
+          "minute": "77"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-21",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Rosario",
+      "city": "Rosario",
+      "home_team": "Argentina",
+      "away_team": "Peru",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Americo GALLEGO",
+          "Omar LARROSA",
+          "Daniel BERTONI",
+          "Mario KEMPES",
+          "Leopoldo LUQUE",
+          "Oscar ORTIZ"
+        ],
+        "away": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rodolfo MANZO",
+          "Hector CHUMPITAZ",
+          "Roberto ROJAS",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Alfredo QUESADA",
+          "Juan MUNANTE",
+          "Teofilo CUBILLAS",
+          "Juan Carlos OBLITAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Mario KEMPES",
+          "minute": "21"
+        },
+        {
+          "team": "Argentina",
+          "player": "Alberto TARANTINI",
+          "minute": "43"
+        },
+        {
+          "team": "Argentina",
+          "player": "Mario KEMPES",
+          "minute": "48"
+        },
+        {
+          "team": "Argentina",
+          "player": "Leopoldo LUQUE",
+          "minute": "50"
+        },
+        {
+          "team": "Argentina",
+          "player": "Rene HOUSEMAN",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player": "Leopoldo LUQUE",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Raul GORRITI",
+          "player_off": "Jose VELASQUEZ",
+          "minute": "51"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rene HOUSEMAN",
+          "player_off": "Daniel BERTONI",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Miguel OVIEDO",
+          "player_off": "Americo GALLEGO",
+          "minute": "85"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-24",
+      "stage": "Third-place match",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Brazil",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "OSCAR",
+          "AMARAL",
+          "NELINHO",
+          "RODRIGUES NETO",
+          "TONINHO CEREZO",
+          "DIRCEU",
+          "BATISTA",
+          "GIL",
+          "JORGE MENDONCA",
+          "ROBERTO DINAMITE"
+        ],
+        "away": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Antonello CUCCUREDDU",
+          "Claudio GENTILE",
+          "Aldo MALDERA",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Patrizio SALA",
+          "Franco CAUSIO",
+          "Roberto BETTEGA",
+          "Paolo ROSSI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Franco CAUSIO",
+          "minute": "38"
+        },
+        {
+          "team": "Brazil",
+          "player": "NELINHO",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player": "DIRCEU",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "REINALDO",
+          "player_off": "GIL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RIVELLINO",
+          "player_off": "TONINHO CEREZO",
+          "minute": "64"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Claudio SALA",
+          "player_off": "Giancarlo ANTOGNONI",
+          "minute": "78"
+        }
+      ]
+    },
+    {
+      "date": "1978-06-25",
+      "stage": "Final",
+      "venue": "Estadio Monumental",
+      "city": "Buenos Aires",
+      "home_team": "Argentina",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Daniel BERTONI",
+          "Mario KEMPES",
+          "Leopoldo LUQUE",
+          "Oscar ORTIZ"
+        ],
+        "away": [
+          "Jan JONGBLOED",
+          "Jan POORTVLIET",
+          "Ruud KROL",
+          "Ernie BRANDTS",
+          "Wim JANSEN",
+          "Arie HAAN",
+          "Willy VAN DE KERKHOF",
+          "Johan NEESKENS",
+          "Rene VAN DE KERKHOF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Mario KEMPES",
+          "minute": "38"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Dick NANNINGA",
+          "minute": "82"
+        },
+        {
+          "team": "Argentina",
+          "player": "Mario KEMPES",
+          "minute": "105"
+        },
+        {
+          "team": "Argentina",
+          "player": "Daniel BERTONI",
+          "minute": "115"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Dick NANNINGA",
+          "player_off": "Johnny REP",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Omar LARROSA",
+          "player_off": "Osvaldo ARDILES",
+          "minute": "65"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wim SUURBIER",
+          "player_off": "Wim JANSEN",
+          "minute": "72"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rene HOUSEMAN",
+          "player_off": "Oscar ORTIZ",
+          "minute": "74"
+        }
+      ]
+    }
+  ]
+}

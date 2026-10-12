@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" role="img" aria-label="Yugoslavia flag">
+  <path fill="#174b8c" d="M0 0h30v6.667H0z"/>
+  <path fill="#fff" d="M0 6.667h30v6.666H0z"/>
+  <path fill="#c6363c" d="M0 13.333h30V20H0z"/>
+  <path fill="#edc64a" d="m15 4.4 1.32 2.67 2.95.43-2.14 2.09.51 2.94L15 11.14l-2.64 1.39.5-2.94-2.13-2.09 2.95-.43z"/>
+  <path fill="#c6363c" d="m15 5.15 1.06 2.15 2.38.35-1.72 1.68.41 2.37L15 10.58l-2.13 1.12.41-2.37-1.72-1.68 2.38-.35z"/>
+</svg>

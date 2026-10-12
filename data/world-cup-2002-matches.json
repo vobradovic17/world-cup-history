@@ -1,0 +1,5746 @@
+{
+  "tournament": "FIFA World Cup 2002",
+  "host_country": "South Korea and Japan",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/2002full.html",
+    "https://www.rsssf.org/tables/2002f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/2002/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "2002-05-31",
+      "stage": "Group A",
+      "venue": "Seoul World Cup Stadium",
+      "city": "Seoul",
+      "home_team": "France",
+      "away_team": "Senegal",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Senegal",
+          "player": "Bouba DIOP",
+          "minute": "30"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Christophe DUGARRY",
+          "player_off": "Youri DJORKAEFF",
+          "minute": "60"
+        },
+        {
+          "team": "France",
+          "player_on": "Djibril CISSE",
+          "player_off": "Sylvain WILTORD",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Frank LEBOEUF",
+          "Patrick VIEIRA",
+          "Youri DJORKAEFF",
+          "Emmanuel PETIT",
+          "Sylvain WILTORD",
+          "Thierry HENRY",
+          "David TREZEGUET"
+        ],
+        "away": [
+          "Tony SYLVA",
+          "Omar DAF",
+          "Papa Malick DIOP",
+          "Aliou CISSE",
+          "Lamine DIATTA",
+          "Ferdinand COLY",
+          "Khalilou FADIGA",
+          "Moussa NDIAYE",
+          "Salif DIAO",
+          "Bouba DIOP",
+          "El Hadji DIOUF"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-01",
+      "stage": "Group A",
+      "venue": "Ulsan Munsu Football Stadium",
+      "city": "Ulsan",
+      "home_team": "Uruguay",
+      "away_team": "Denmark",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Jon Dahl TOMASSON",
+          "minute": "45"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Dario RODRIGUEZ",
+          "minute": "47"
+        },
+        {
+          "team": "Denmark",
+          "player": "Jon Dahl TOMASSON",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Niclas JENSEN",
+          "player_off": "Jan HEINTZE",
+          "minute": "58"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Martin JORGENSEN",
+          "player_off": "Jesper GRONKJAER",
+          "minute": "70"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Mario REGUEIRO",
+          "player_off": "Alvaro RECOBA",
+          "minute": "80"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Federico MAGALLANES",
+          "player_off": "Dario RODRIGUEZ",
+          "minute": "87"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Richard MORALES",
+          "player_off": "Sebastian ABREU",
+          "minute": "88"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Christian POULSEN",
+          "player_off": "Ebbe SAND",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabian CARINI",
+          "Gustavo MENDEZ",
+          "Paolo MONTERO",
+          "Dario RODRIGUEZ",
+          "Gonzalo SORONDO",
+          "Pablo GARCIA",
+          "Gianni GUIGOU",
+          "Gustavo VARELA",
+          "Dario SILVA",
+          "Sebastian ABREU",
+          "Alvaro RECOBA"
+        ],
+        "away": [
+          "Thomas SORENSEN",
+          "Rene HENRIKSEN",
+          "Martin LAURSEN",
+          "Jan HEINTZE",
+          "Thomas HELVEG",
+          "Stig TOFTING",
+          "Thomas GRAVESEN",
+          "Jesper GRONKJAER",
+          "Jon Dahl TOMASSON",
+          "Ebbe SAND",
+          "Dennis ROMMEDAHL"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-06",
+      "stage": "Group A",
+      "venue": "Busan Asiad Main Stadium",
+      "city": "Busan",
+      "home_team": "France",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Vincent CANDELA",
+          "player_off": "Frank LEBOEUF",
+          "minute": "16"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Federico MAGALLANES",
+          "player_off": "Dario SILVA",
+          "minute": "60"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Gonzalo DE LOS SANTOS",
+          "player_off": "Marcelo ROMERO",
+          "minute": "71"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Gianni GUIGOU",
+          "player_off": "Dario RODRIGUEZ",
+          "minute": "72"
+        },
+        {
+          "team": "France",
+          "player_on": "Djibril CISSE",
+          "player_off": "David TREZEGUET",
+          "minute": "81"
+        },
+        {
+          "team": "France",
+          "player_on": "Christophe DUGARRY",
+          "player_off": "Sylvain WILTORD",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Frank LEBOEUF",
+          "Patrick VIEIRA",
+          "Emmanuel PETIT",
+          "Johan MICOUD",
+          "Sylvain WILTORD",
+          "Thierry HENRY",
+          "David TREZEGUET"
+        ],
+        "away": [
+          "Fabian CARINI",
+          "Alejandro LEMBO",
+          "Paolo MONTERO",
+          "Dario RODRIGUEZ",
+          "Gonzalo SORONDO",
+          "Pablo GARCIA",
+          "Gustavo VARELA",
+          "Marcelo ROMERO",
+          "Dario SILVA",
+          "Sebastian ABREU",
+          "Alvaro RECOBA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-06",
+      "stage": "Group A",
+      "venue": "Daegu World Cup Stadium",
+      "city": "Daegu",
+      "home_team": "Denmark",
+      "away_team": "Senegal",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Jon Dahl TOMASSON",
+          "minute": "16",
+          "penalty": true
+        },
+        {
+          "team": "Senegal",
+          "player": "Salif DIAO",
+          "minute": "52"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Senegal",
+          "player_on": "Souleymane CAMARA",
+          "player_off": "Moussa NDIAYE",
+          "minute": "45"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Henri CAMARA",
+          "player_off": "Pape SARR",
+          "minute": "45"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Martin JORGENSEN",
+          "player_off": "Jesper GRONKJAER",
+          "minute": "50"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Christian POULSEN",
+          "player_off": "Thomas GRAVESEN",
+          "minute": "62"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Habib BEYE",
+          "player_off": "Souleymane CAMARA",
+          "minute": "83"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Peter LOVENKRANDS",
+          "player_off": "Dennis ROMMEDAHL",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas SORENSEN",
+          "Rene HENRIKSEN",
+          "Martin LAURSEN",
+          "Jan HEINTZE",
+          "Thomas HELVEG",
+          "Stig TOFTING",
+          "Thomas GRAVESEN",
+          "Jesper GRONKJAER",
+          "Jon Dahl TOMASSON",
+          "Ebbe SAND",
+          "Dennis ROMMEDAHL"
+        ],
+        "away": [
+          "Tony SYLVA",
+          "Omar DAF",
+          "Papa Malick DIOP",
+          "Lamine DIATTA",
+          "Ferdinand COLY",
+          "Pape SARR",
+          "Khalilou FADIGA",
+          "Moussa NDIAYE",
+          "Salif DIAO",
+          "Bouba DIOP",
+          "El Hadji DIOUF"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-11",
+      "stage": "Group A",
+      "venue": "Incheon Munhak Stadium",
+      "city": "Incheon",
+      "home_team": "Denmark",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Dennis ROMMEDAHL",
+          "minute": "22"
+        },
+        {
+          "team": "Denmark",
+          "player": "Jon Dahl TOMASSON",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Jesper GRONKJAER",
+          "player_off": "Martin JORGENSEN",
+          "minute": "45"
+        },
+        {
+          "team": "France",
+          "player_on": "Djibril CISSE",
+          "player_off": "Christophe DUGARRY",
+          "minute": "54"
+        },
+        {
+          "team": "France",
+          "player_on": "Johan MICOUD",
+          "player_off": "Patrick VIEIRA",
+          "minute": "71"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Kasper BOGELUND",
+          "player_off": "Christian POULSEN",
+          "minute": "76"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Brian Steen NIELSEN",
+          "player_off": "Stig TOFTING",
+          "minute": "79"
+        },
+        {
+          "team": "France",
+          "player_on": "Youri DJORKAEFF",
+          "player_off": "Sylvain WILTORD",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas SORENSEN",
+          "Rene HENRIKSEN",
+          "Martin LAURSEN",
+          "Thomas HELVEG",
+          "Niclas JENSEN",
+          "Stig TOFTING",
+          "Thomas GRAVESEN",
+          "Christian POULSEN",
+          "Jon Dahl TOMASSON",
+          "Martin JORGENSEN",
+          "Dennis ROMMEDAHL"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Vincent CANDELA",
+          "Bixente LIZARAZU",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Zinedine ZIDANE",
+          "Sylvain WILTORD",
+          "David TREZEGUET",
+          "Christophe DUGARRY"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-11",
+      "stage": "Group A",
+      "venue": "Suwon World Cup Stadium",
+      "city": "Suwon",
+      "home_team": "Senegal",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Senegal",
+          "player": "Khalilou FADIGA",
+          "minute": "20",
+          "penalty": true
+        },
+        {
+          "team": "Senegal",
+          "player": "Bouba DIOP",
+          "minute": "26"
+        },
+        {
+          "team": "Senegal",
+          "player": "Bouba DIOP",
+          "minute": "38"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Richard MORALES",
+          "minute": "45"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Diego FORLAN",
+          "minute": "69"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Alvaro RECOBA",
+          "minute": "88",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Mario REGUEIRO",
+          "player_off": "Gonzalo SORONDO",
+          "minute": "32"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Richard MORALES",
+          "player_off": "Sebastian ABREU",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Diego FORLAN",
+          "player_off": "Marcelo ROMERO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Habib BEYE",
+          "player_off": "Ferdinand COLY",
+          "minute": "63"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Moussa NDIAYE",
+          "player_off": "Henri CAMARA",
+          "minute": "67"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Amdy FAYE",
+          "player_off": "Alassane NDOUR",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tony SYLVA",
+          "Omar DAF",
+          "Papa Malick DIOP",
+          "Alassane NDOUR",
+          "Aliou CISSE",
+          "Lamine DIATTA",
+          "Ferdinand COLY",
+          "Khalilou FADIGA",
+          "Bouba DIOP",
+          "Henri CAMARA",
+          "El Hadji DIOUF"
+        ],
+        "away": [
+          "Fabian CARINI",
+          "Alejandro LEMBO",
+          "Paolo MONTERO",
+          "Dario RODRIGUEZ",
+          "Gonzalo SORONDO",
+          "Pablo GARCIA",
+          "Gustavo VARELA",
+          "Marcelo ROMERO",
+          "Dario SILVA",
+          "Sebastian ABREU",
+          "Alvaro RECOBA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-02",
+      "stage": "Group B",
+      "venue": "Busan Asiad Main Stadium",
+      "city": "Busan",
+      "home_team": "Paraguay",
+      "away_team": "South Africa",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Roque SANTA CRUZ",
+          "minute": "39"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Francisco ARCE",
+          "minute": "55"
+        },
+        {
+          "team": "South Africa",
+          "player": "Teboho MOKOENA",
+          "minute": "63"
+        },
+        {
+          "team": "South Africa",
+          "player": "Quinton FORTUNE",
+          "minute": "90+1",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Africa",
+          "player_on": "MacDonald MUKANSI",
+          "player_off": "Pierre ISSA",
+          "minute": "27"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Diego GAVILAN",
+          "player_off": "Guido ALVARENGA",
+          "minute": "66"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Gustavo MORINIGO",
+          "player_off": "Jorge CAMPOS",
+          "minute": "72"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "George KOUMANTARAKIS",
+          "player_off": "Benni McCARTHY",
+          "minute": "78"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Juan Carlos FRANCO",
+          "player_off": "Estanislao STRUWAY",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ricardo TAVARELLI",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Estanislao STRUWAY",
+          "Guido ALVARENGA",
+          "Roberto ACUNA",
+          "Roque SANTA CRUZ",
+          "Jorge CAMPOS"
+        ],
+        "away": [
+          "Andre ARENDSE",
+          "Cyril NZAMA",
+          "Bradley CARNELL",
+          "Aaron MOKOENA",
+          "Pierre ISSA",
+          "Lucas RADEBE",
+          "MacBeth SIBAYA",
+          "Quinton FORTUNE",
+          "Teboho MOKOENA",
+          "Sibusiso ZUMA",
+          "Benni McCARTHY"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-02",
+      "stage": "Group B",
+      "venue": "Gwangju World Cup Stadium",
+      "city": "Gwangju",
+      "home_team": "Spain",
+      "away_team": "Slovenia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "RAUL",
+          "minute": "44"
+        },
+        {
+          "team": "Spain",
+          "player": "Juan Carlos VALERON",
+          "minute": "74"
+        },
+        {
+          "team": "Slovenia",
+          "player": "Sebastijan CIMIROTIC",
+          "minute": "82"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando HIERRO",
+          "minute": "87",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Slovenia",
+          "player_on": "Sebastijan CIMIROTIC",
+          "player_off": "Milan OSTERC",
+          "minute": "57"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Milenko ACIMOVIC",
+          "player_off": "Zlatko ZAHOVIC",
+          "minute": "63"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando MORIENTES",
+          "player_off": "Diego TRISTAN",
+          "minute": "67"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Ivan HELGUERA",
+          "player_off": "LUIS ENRIQUE",
+          "minute": "74"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Sasa GAJSER",
+          "player_off": "Doni NOVAK",
+          "minute": "77"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Enrique ROMERO",
+          "player_off": "JUANFRAN",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "JUANFRAN",
+          "Carles PUYOL",
+          "Fernando HIERRO",
+          "Miguel Angel NADAL",
+          "Ruben BARAJA",
+          "DE PEDRO",
+          "Juan Carlos VALERON",
+          "LUIS ENRIQUE",
+          "RAUL",
+          "Diego TRISTAN"
+        ],
+        "away": [
+          "Marko SIMEUNOVIC",
+          "Zeljko MILINOVIC",
+          "Marinko GALIC",
+          "Aleksander KNAVS",
+          "Doni NOVAK",
+          "Ales CEH",
+          "Zlatko ZAHOVIC",
+          "Miran PAVLIN",
+          "Amir KARIC",
+          "Milan OSTERC",
+          "Mladen RUDONJA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-07",
+      "stage": "Group B",
+      "venue": "Jeonju World Cup Stadium",
+      "city": "Jeonju",
+      "home_team": "Spain",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Carles PUYOL",
+          "minute": "10",
+          "own_goal": true
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando MORIENTES",
+          "minute": "53"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando MORIENTES",
+          "minute": "69"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando HIERRO",
+          "minute": "83",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Fernando MORIENTES",
+          "player_off": "LUIS ENRIQUE",
+          "minute": "45"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Ivan HELGUERA",
+          "player_off": "Diego TRISTAN",
+          "minute": "45"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge CAMPOS",
+          "player_off": "Jose CARDOZO",
+          "minute": "63"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Estanislao STRUWAY",
+          "player_off": "Denis CANIZA",
+          "minute": "78"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Xavi HERNANDEZ",
+          "player_off": "Juan Carlos VALERON",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "JUANFRAN",
+          "Carles PUYOL",
+          "Fernando HIERRO",
+          "Miguel Angel NADAL",
+          "Ruben BARAJA",
+          "DE PEDRO",
+          "Juan Carlos VALERON",
+          "LUIS ENRIQUE",
+          "RAUL",
+          "Diego TRISTAN"
+        ],
+        "away": [
+          "Jose Luis CHILAVERT",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Diego GAVILAN",
+          "Roque SANTA CRUZ",
+          "Jose CARDOZO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-08",
+      "stage": "Group B",
+      "venue": "Daegu World Cup Stadium",
+      "city": "Daegu",
+      "home_team": "South Africa",
+      "away_team": "Slovenia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "South Africa",
+          "player": "Siyabonga NOMVETHE",
+          "minute": "4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Slovenia",
+          "player_on": "Milan OSTERC",
+          "player_off": "Sebastijan CIMIROTIC",
+          "minute": "41"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Spasoje BULAJIC",
+          "player_off": "Milenko ACIMOVIC",
+          "minute": "60"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Nastja CEH",
+          "player_off": "Aleksander KNAVS",
+          "minute": "60"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Delron BUCKLEY",
+          "player_off": "Siyabonga NOMVETHE",
+          "minute": "71"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "George KOUMANTARAKIS",
+          "player_off": "Benni McCARTHY",
+          "minute": "80"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Jabu PULE",
+          "player_off": "Quinton FORTUNE",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andre ARENDSE",
+          "Cyril NZAMA",
+          "Bradley CARNELL",
+          "Aaron MOKOENA",
+          "Lucas RADEBE",
+          "MacBeth SIBAYA",
+          "Quinton FORTUNE",
+          "Teboho MOKOENA",
+          "Sibusiso ZUMA",
+          "Siyabonga NOMVETHE",
+          "Benni McCARTHY"
+        ],
+        "away": [
+          "Marko SIMEUNOVIC",
+          "Zeljko MILINOVIC",
+          "Muamer VUGDALIC",
+          "Aleksander KNAVS",
+          "Doni NOVAK",
+          "Ales CEH",
+          "Miran PAVLIN",
+          "Milenko ACIMOVIC",
+          "Amir KARIC",
+          "Mladen RUDONJA",
+          "Sebastijan CIMIROTIC"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-12",
+      "stage": "Group B",
+      "venue": "Daejeon World Cup Stadium",
+      "city": "Daejeon",
+      "home_team": "South Africa",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "RAUL",
+          "minute": "4"
+        },
+        {
+          "team": "South Africa",
+          "player": "Benni McCARTHY",
+          "minute": "31"
+        },
+        {
+          "team": "Spain",
+          "player": "Gaizka MENDIETA",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Africa",
+          "player": "Lucas RADEBE",
+          "minute": "53"
+        },
+        {
+          "team": "Spain",
+          "player": "RAUL",
+          "minute": "56"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "SERGIO",
+          "player_off": "David ALBELDA",
+          "minute": "53"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "George KOUMANTARAKIS",
+          "player_off": "Siyabonga NOMVETHE",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Albert LUQUE",
+          "player_off": "Fernando MORIENTES",
+          "minute": "77"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Thabang MOLEFE",
+          "player_off": "Lucas RADEBE",
+          "minute": "80"
+        },
+        {
+          "team": "Spain",
+          "player_on": "LUIS ENRIQUE",
+          "player_off": "RAUL",
+          "minute": "82"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Jacob LEKGETHO",
+          "player_off": "Quinton FORTUNE",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andre ARENDSE",
+          "Cyril NZAMA",
+          "Bradley CARNELL",
+          "Aaron MOKOENA",
+          "Lucas RADEBE",
+          "MacBeth SIBAYA",
+          "Quinton FORTUNE",
+          "Teboho MOKOENA",
+          "Sibusiso ZUMA",
+          "Siyabonga NOMVETHE",
+          "Benni McCARTHY"
+        ],
+        "away": [
+          "Iker CASILLAS",
+          "CURRO TORRES",
+          "Enrique ROMERO",
+          "Xavi HERNANDEZ",
+          "Miguel Angel NADAL",
+          "Ivan HELGUERA",
+          "David ALBELDA",
+          "Gaizka MENDIETA",
+          "JOAQUÍN",
+          "RAUL",
+          "Fernando MORIENTES"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-12",
+      "stage": "Group B",
+      "venue": "Jeju World Cup Stadium",
+      "city": "Seogwipo",
+      "home_team": "Slovenia",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Slovenia",
+          "player": "Milenko ACIMOVIC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Nelson CUEVAS",
+          "minute": "65"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Jorge CAMPOS",
+          "minute": "73"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Nelson CUEVAS",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Slovenia",
+          "player_on": "Mladen RUDONJA",
+          "player_off": "Miran PAVLIN",
+          "minute": "40"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge CAMPOS",
+          "player_off": "Guido ALVARENGA",
+          "minute": "53"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Nelson CUEVAS",
+          "player_off": "Jose CARDOZO",
+          "minute": "61"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Nastja CEH",
+          "player_off": "Milenko ACIMOVIC",
+          "minute": "62"
+        },
+        {
+          "team": "Slovenia",
+          "player_on": "Senad TIGANJ",
+          "player_off": "Milan OSTERC",
+          "minute": "77"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Juan Carlos FRANCO",
+          "player_off": "Nelson CUEVAS",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mladen DABANOVIC",
+          "Zeljko MILINOVIC",
+          "Spasoje BULAJIC",
+          "Doni NOVAK",
+          "Ales CEH",
+          "Miran PAVLIN",
+          "Rajko TAVCAR",
+          "Milenko ACIMOVIC",
+          "Amir KARIC",
+          "Milan OSTERC",
+          "Sebastijan CIMIROTIC"
+        ],
+        "away": [
+          "Jose Luis CHILAVERT",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Guido ALVARENGA",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Roque SANTA CRUZ",
+          "Jose CARDOZO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-03",
+      "stage": "Group C",
+      "venue": "Ulsan Munsu Football Stadium",
+      "city": "Ulsan",
+      "home_team": "Brazil",
+      "away_team": "Turkey",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Hasan SAS",
+          "minute": "45+2"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "50"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "87",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Turkey",
+          "player_on": "Umit DAVALA",
+          "player_off": "Yildiray BASTURK",
+          "minute": "66"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Ilhan MANSIZ",
+          "player_off": "Bulent KORKMAZ",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "RONALDINHO",
+          "minute": "67"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "VAMPETA",
+          "player_off": "JUNINHO PAULISTA",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "LUIZAO",
+          "player_off": "RONALDO",
+          "minute": "73"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Arif ERDEM",
+          "player_off": "Tugay KERIMOGLU",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "ROQUE JUNIOR",
+          "EDMILSON",
+          "ROBERTO CARLOS",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "RONALDINHO",
+          "JUNINHO PAULISTA",
+          "RONALDO"
+        ],
+        "away": [
+          "Rustu RECBER",
+          "Bulent KORKMAZ",
+          "Fatih AKYEL",
+          "Alpay OZALAN",
+          "Umit OZAT",
+          "Hakan UNSAL",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Emre BELOZOGLU",
+          "Hakan SUKUR",
+          "Hasan SAS"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-04",
+      "stage": "Group C",
+      "venue": "Gwangju World Cup Stadium",
+      "city": "Gwangju",
+      "home_team": "China",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Costa Rica",
+          "player": "Ronald GOMEZ",
+          "minute": "61"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Mauricio WRIGHT",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "China",
+          "player_on": "QU Bo",
+          "player_off": "SUN Jihai",
+          "minute": "26"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Hernan MEDFORD",
+          "player_off": "Rolando FONSECA",
+          "minute": "57"
+        },
+        {
+          "team": "China",
+          "player_on": "SU Maozhen",
+          "player_off": "YANG Chen",
+          "minute": "66"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Steven BRYCE",
+          "player_off": "Harold WALLACE",
+          "minute": "70"
+        },
+        {
+          "team": "China",
+          "player_on": "YU Genwei",
+          "player_off": "FAN Zhiyi",
+          "minute": "74"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Wilmer LOPEZ",
+          "player_off": "Paulo WANCHOPE",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JIANG Jin",
+          "WU Chengying",
+          "FAN Zhiyi",
+          "SUN Jihai",
+          "LI Weifeng",
+          "XU Yunlong",
+          "LI Tie",
+          "MA Mingyu",
+          "LI Xiaopeng",
+          "HAO Haidong",
+          "YANG Chen"
+        ],
+        "away": [
+          "Erick LONNIS",
+          "Luis MARIN",
+          "Mauricio WRIGHT",
+          "Gilberto MARTINEZ",
+          "Harold WALLACE",
+          "Carlos CASTRO",
+          "Mauricio SOLIS",
+          "Walter CENTENO",
+          "Rolando FONSECA",
+          "Paulo WANCHOPE",
+          "Ronald GOMEZ"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-08",
+      "stage": "Group C",
+      "venue": "Jeju World Cup Stadium",
+      "city": "Seogwipo",
+      "home_team": "Brazil",
+      "away_team": "China",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ROBERTO CARLOS",
+          "minute": "15"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "32"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDINHO",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "55"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "RONALDINHO",
+          "minute": "45"
+        },
+        {
+          "team": "China",
+          "player_on": "YANG Pu",
+          "player_off": "MA Mingyu",
+          "minute": "62"
+        },
+        {
+          "team": "China",
+          "player_on": "SHAO Jiayi",
+          "player_off": "QI Hong",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RICARDINHO",
+          "player_off": "JUNINHO PAULISTA",
+          "minute": "70"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EDILSON",
+          "player_off": "RONALDO",
+          "minute": "72"
+        },
+        {
+          "team": "China",
+          "player_on": "QU Bo",
+          "player_off": "HAO Haidong",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "ROQUE JUNIOR",
+          "ROBERTO CARLOS",
+          "ANDERSON POLGA",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "RONALDINHO",
+          "JUNINHO PAULISTA",
+          "RONALDO"
+        ],
+        "away": [
+          "JIANG Jin",
+          "WU Chengying",
+          "LI Weifeng",
+          "DU Wei",
+          "XU Yunlong",
+          "LI Tie",
+          "MA Mingyu",
+          "ZHAO Junzhe",
+          "LI Xiaopeng",
+          "QI Hong",
+          "HAO Haidong"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-09",
+      "stage": "Group C",
+      "venue": "Incheon Munhak Stadium",
+      "city": "Incheon",
+      "home_team": "Costa Rica",
+      "away_team": "Turkey",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Emre BELOZOGLU",
+          "minute": "56"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Winston PARKS",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Hernan MEDFORD",
+          "player_off": "Walter CENTENO",
+          "minute": "66"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Ilhan MANSIZ",
+          "player_off": "Hakan SUKUR",
+          "minute": "75"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Winston PARKS",
+          "player_off": "Wilmer LOPEZ",
+          "minute": "77"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Steven BRYCE",
+          "player_off": "Harold WALLACE",
+          "minute": "77"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Nihat KAHVECI",
+          "player_off": "Yildiray BASTURK",
+          "minute": "79"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Arif ERDEM",
+          "player_off": "Tugay KERIMOGLU",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Erick LONNIS",
+          "Luis MARIN",
+          "Mauricio WRIGHT",
+          "Gilberto MARTINEZ",
+          "Harold WALLACE",
+          "Carlos CASTRO",
+          "Wilmer LOPEZ",
+          "Mauricio SOLIS",
+          "Walter CENTENO",
+          "Paulo WANCHOPE",
+          "Ronald GOMEZ"
+        ],
+        "away": [
+          "Rustu RECBER",
+          "Emre ASIK",
+          "Fatih AKYEL",
+          "Umit OZAT",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Ergun PENBE",
+          "Emre BELOZOGLU",
+          "Umit DAVALA",
+          "Hakan SUKUR",
+          "Hasan SAS"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-13",
+      "stage": "Group C",
+      "venue": "Suwon World Cup Stadium",
+      "city": "Suwon",
+      "home_team": "Costa Rica",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "10"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "13"
+        },
+        {
+          "team": "Brazil",
+          "player": "EDMILSON",
+          "minute": "38"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Paulo WANCHOPE",
+          "minute": "39"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Ronald GOMEZ",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "62"
+        },
+        {
+          "team": "Brazil",
+          "player": "JUNIOR",
+          "minute": "64"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Steven BRYCE",
+          "player_off": "Harold WALLACE",
+          "minute": "45"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "KLEBERSON",
+          "player_off": "EDILSON",
+          "minute": "57"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RICARDINHO",
+          "player_off": "JUNINHO PAULISTA",
+          "minute": "61"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Rolando FONSECA",
+          "player_off": "Mauricio SOLIS",
+          "minute": "65"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "KAKA",
+          "player_off": "RIVALDO",
+          "minute": "72"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Winston PARKS",
+          "player_off": "Gilberto MARTINEZ",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Erick LONNIS",
+          "Luis MARIN",
+          "Mauricio WRIGHT",
+          "Gilberto MARTINEZ",
+          "Harold WALLACE",
+          "Carlos CASTRO",
+          "Wilmer LOPEZ",
+          "Mauricio SOLIS",
+          "Walter CENTENO",
+          "Paulo WANCHOPE",
+          "Ronald GOMEZ"
+        ],
+        "away": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "EDMILSON",
+          "ANDERSON POLGA",
+          "JUNIOR",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "JUNINHO PAULISTA",
+          "RONALDO",
+          "EDILSON"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-13",
+      "stage": "Group C",
+      "venue": "Seoul World Cup Stadium",
+      "city": "Seoul",
+      "home_team": "Turkey",
+      "away_team": "China",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Hasan SAS",
+          "minute": "6"
+        },
+        {
+          "team": "Turkey",
+          "player": "Bulent KORKMAZ",
+          "minute": "9"
+        },
+        {
+          "team": "Turkey",
+          "player": "Umit DAVALA",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Turkey",
+          "player_on": "Omer CATKIC",
+          "player_off": "Rustu RECBER",
+          "minute": "35"
+        },
+        {
+          "team": "China",
+          "player_on": "SHAO Jiayi",
+          "player_off": "WU Chengying",
+          "minute": "45"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Ilhan MANSIZ",
+          "player_off": "Yildiray BASTURK",
+          "minute": "70"
+        },
+        {
+          "team": "China",
+          "player_on": "QU Bo",
+          "player_off": "YANG Chen",
+          "minute": "73"
+        },
+        {
+          "team": "China",
+          "player_on": "YU Genwei",
+          "player_off": "HAO Haidong",
+          "minute": "73"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Tayfur HAVUTCU",
+          "player_off": "Tugay KERIMOGLU",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Rustu RECBER",
+          "Emre ASIK",
+          "Bulent KORKMAZ",
+          "Fatih AKYEL",
+          "Hakan UNSAL",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Emre BELOZOGLU",
+          "Umit DAVALA",
+          "Hakan SUKUR",
+          "Hasan SAS"
+        ],
+        "away": [
+          "JIANG Jin",
+          "YANG Pu",
+          "WU Chengying",
+          "LI Weifeng",
+          "DU Wei",
+          "XU Yunlong",
+          "LI Tie",
+          "ZHAO Junzhe",
+          "LI Xiaopeng",
+          "HAO Haidong",
+          "YANG Chen"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-04",
+      "stage": "Group D",
+      "venue": "Busan Asiad Main Stadium",
+      "city": "Busan",
+      "home_team": "South Korea",
+      "away_team": "Poland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "South Korea",
+          "player": "HWANG Sun Hong",
+          "minute": "26"
+        },
+        {
+          "team": "South Korea",
+          "player": "YOO Sang Chul",
+          "minute": "53"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Pawel KRYSZALOWICZ",
+          "player_off": "Maciej ZURAWSKI",
+          "minute": "45"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "AHN Jung Hwan",
+          "player_off": "HWANG Sun Hong",
+          "minute": "50"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Tomasz KLOS",
+          "player_off": "Jacek BAK",
+          "minute": "50"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Chun Soo",
+          "player_off": "YOO Sang Chul",
+          "minute": "61"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Marcin ZEWLAKOW",
+          "player_off": "Radoslaw KALUZNY",
+          "minute": "64"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHA Duri",
+          "player_off": "SEOL Ki Hyeon",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "LEE Woonjae",
+          "CHOI Jincheul",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "KIM Namil",
+          "YOO Sang Chul",
+          "LEE Eul Yong",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "SEOL Ki Hyeon",
+          "HWANG Sun Hong"
+        ],
+        "away": [
+          "Jerzy DUDEK",
+          "Michal ZEWLAKOW",
+          "Tomasz HAJTO",
+          "Tomasz WALDOCH",
+          "Jacek BAK",
+          "Piotr SWIERCZEWSKI",
+          "Radoslaw KALUZNY",
+          "Jacek KRZYNOWEK",
+          "Marek KOZMINSKI",
+          "Emmanuel OLISADEBE",
+          "Maciej ZURAWSKI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-05",
+      "stage": "Group D",
+      "venue": "Suwon World Cup Stadium",
+      "city": "Suwon",
+      "home_team": "United States",
+      "away_team": "Portugal",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "John O BRIEN",
+          "minute": "4"
+        },
+        {
+          "team": "United States",
+          "player": "JORGE COSTA",
+          "minute": "29",
+          "own_goal": true
+        },
+        {
+          "team": "United States",
+          "player": "Brian McBRIDE",
+          "minute": "36"
+        },
+        {
+          "team": "Portugal",
+          "player": "BETO",
+          "minute": "39"
+        },
+        {
+          "team": "Portugal",
+          "player": "Jeff AGOOS",
+          "minute": "71",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Earnie STEWART",
+          "minute": "45"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "PAULO BENTO",
+          "player_off": "RUI JORGE",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JORGE ANDRADE",
+          "player_off": "JORGE COSTA",
+          "minute": "73"
+        },
+        {
+          "team": "United States",
+          "player_on": "Joe Max MOORE",
+          "player_off": "Landon DONOVAN",
+          "minute": "75"
+        },
+        {
+          "team": "United States",
+          "player_on": "Carlos LLAMOSA",
+          "player_off": "Eddie POPE",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "NUNO GOMES",
+          "player_off": "RUI COSTA",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Brad FRIEDEL",
+          "Frankie HEJDUK",
+          "Pablo MASTROENI",
+          "Jeff AGOOS",
+          "Tony SANNEH",
+          "Eddie POPE",
+          "John O BRIEN",
+          "Earnie STEWART",
+          "DaMarcus BEASLEY",
+          "Landon DONOVAN",
+          "Brian McBRIDE"
+        ],
+        "away": [
+          "VITOR BAIA",
+          "JORGE COSTA",
+          "FERNANDO COUTO",
+          "BETO",
+          "RUI JORGE",
+          "RUI COSTA",
+          "PETIT",
+          "Luis FIGO",
+          "JOAO PINTO",
+          "PAULETA",
+          "SERGIO CONCEICAO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-10",
+      "stage": "Group D",
+      "venue": "Daegu World Cup Stadium",
+      "city": "Daegu",
+      "home_team": "South Korea",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Clint MATHIS",
+          "minute": "24"
+        },
+        {
+          "team": "South Korea",
+          "player": "AHN Jung Hwan",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "LEE Chun Soo",
+          "player_off": "PARK Jisung",
+          "minute": "38"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "AHN Jung Hwan",
+          "player_off": "HWANG Sun Hong",
+          "minute": "56"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHOI Yongsoo",
+          "player_off": "YOO Sang Chul",
+          "minute": "69"
+        },
+        {
+          "team": "United States",
+          "player_on": "Eddie LEWIS",
+          "player_off": "DaMarcus BEASLEY",
+          "minute": "75"
+        },
+        {
+          "team": "United States",
+          "player_on": "Josh WOLFF",
+          "player_off": "Clint MATHIS",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "LEE Woonjae",
+          "CHOI Jincheul",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "KIM Namil",
+          "YOO Sang Chul",
+          "LEE Eul Yong",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "SEOL Ki Hyeon",
+          "HWANG Sun Hong"
+        ],
+        "away": [
+          "Brad FRIEDEL",
+          "Frankie HEJDUK",
+          "Jeff AGOOS",
+          "Tony SANNEH",
+          "Eddie POPE",
+          "John O BRIEN",
+          "Claudio REYNA",
+          "DaMarcus BEASLEY",
+          "Landon DONOVAN",
+          "Clint MATHIS",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-10",
+      "stage": "Group D",
+      "venue": "Jeonju World Cup Stadium",
+      "city": "Jeonju",
+      "home_team": "Portugal",
+      "away_team": "Poland",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "PAULETA",
+          "minute": "14"
+        },
+        {
+          "team": "Portugal",
+          "player": "PAULETA",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player": "PAULETA",
+          "minute": "77"
+        },
+        {
+          "team": "Portugal",
+          "player": "RUI COSTA",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Arkadiusz BAK",
+          "player_off": "Radoslaw KALUZNY",
+          "minute": "16"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Marcin ZEWLAKOW",
+          "player_off": "Maciej ZURAWSKI",
+          "minute": "56"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RUI COSTA",
+          "player_off": "JOAO PINTO",
+          "minute": "60"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "BETO",
+          "player_off": "FRECHAUT",
+          "minute": "63"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "CAPUCHO",
+          "player_off": "SERGIO CONCEICAO",
+          "minute": "69"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Tomasz RZASA",
+          "player_off": "Michal ZEWLAKOW",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "VITOR BAIA",
+          "JORGE COSTA",
+          "FERNANDO COUTO",
+          "FRECHAUT",
+          "RUI JORGE",
+          "PAULO BENTO",
+          "PETIT",
+          "Luis FIGO",
+          "JOAO PINTO",
+          "PAULETA",
+          "SERGIO CONCEICAO"
+        ],
+        "away": [
+          "Jerzy DUDEK",
+          "Michal ZEWLAKOW",
+          "Tomasz HAJTO",
+          "Tomasz WALDOCH",
+          "Piotr SWIERCZEWSKI",
+          "Radoslaw KALUZNY",
+          "Jacek KRZYNOWEK",
+          "Marek KOZMINSKI",
+          "Pawel KRYSZALOWICZ",
+          "Emmanuel OLISADEBE",
+          "Maciej ZURAWSKI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-14",
+      "stage": "Group D",
+      "venue": "Incheon Munhak Stadium",
+      "city": "Incheon",
+      "home_team": "Portugal",
+      "away_team": "South Korea",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "South Korea",
+          "player": "PARK Jisung",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "JORGE ANDRADE",
+          "player_off": "PAULETA",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "ABEL XAVIER",
+          "player_off": "RUI JORGE",
+          "minute": "73"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "NUNO GOMES",
+          "player_off": "PETIT",
+          "minute": "77"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Chun Soo",
+          "player_off": "AHN Jung Hwan",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "VITOR BAIA",
+          "JORGE COSTA",
+          "FERNANDO COUTO",
+          "BETO",
+          "RUI JORGE",
+          "PAULO BENTO",
+          "PETIT",
+          "Luis FIGO",
+          "JOAO PINTO",
+          "PAULETA",
+          "SERGIO CONCEICAO"
+        ],
+        "away": [
+          "LEE Woonjae",
+          "CHOI Jincheul",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "KIM Namil",
+          "YOO Sang Chul",
+          "LEE Youngpyo",
+          "AHN Jung Hwan",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "SEOL Ki Hyeon"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-14",
+      "stage": "Group D",
+      "venue": "Daejeon World Cup Stadium",
+      "city": "Daejeon",
+      "home_team": "Poland",
+      "away_team": "United States",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Emmanuel OLISADEBE",
+          "minute": "3"
+        },
+        {
+          "team": "Poland",
+          "player": "Pawel KRYSZALOWICZ",
+          "minute": "5"
+        },
+        {
+          "team": "Poland",
+          "player": "Marcin ZEWLAKOW",
+          "minute": "65"
+        },
+        {
+          "team": "United States",
+          "player": "Landon DONOVAN",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "DaMarcus BEASLEY",
+          "player_off": "Jeff AGOOS",
+          "minute": "36"
+        },
+        {
+          "team": "United States",
+          "player_on": "Joe Max MOORE",
+          "player_off": "Brian McBRIDE",
+          "minute": "58"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Marcin ZEWLAKOW",
+          "player_off": "Cezary KUCHARSKI",
+          "minute": "64"
+        },
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Earnie STEWART",
+          "minute": "68"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Pawel SIBIK",
+          "player_off": "Emmanuel OLISADEBE",
+          "minute": "86"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Tomasz WALDOCH",
+          "player_off": "Tomasz KLOS",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Radoslaw MAJDAN",
+          "Tomasz KLOS",
+          "Jacek ZIELINSKI",
+          "Arkadiusz GLOWACKI",
+          "Maciej MURAWSKI",
+          "Jacek KRZYNOWEK",
+          "Marek KOZMINSKI",
+          "Cezary KUCHARSKI",
+          "Pawel KRYSZALOWICZ",
+          "Emmanuel OLISADEBE",
+          "Maciej ZURAWSKI"
+        ],
+        "away": [
+          "Brad FRIEDEL",
+          "Frankie HEJDUK",
+          "Jeff AGOOS",
+          "Tony SANNEH",
+          "Eddie POPE",
+          "John O BRIEN",
+          "Earnie STEWART",
+          "Claudio REYNA",
+          "Landon DONOVAN",
+          "Clint MATHIS",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-01",
+      "stage": "Group E",
+      "venue": "Kashima Soccer Stadium",
+      "city": "Kashima",
+      "home_team": "Ireland",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Patrick MBOMA",
+          "minute": "39"
+        },
+        {
+          "team": "Ireland",
+          "player": "Matt HOLLAND",
+          "minute": "52"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ireland",
+          "player_on": "Steve FINNAN",
+          "player_off": "Jason McATEER",
+          "minute": "45"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Patrick SUFFO",
+          "player_off": "Patrick MBOMA",
+          "minute": "69"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "Steven REID",
+          "player_off": "Ian HARTE",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Shay GIVEN",
+          "Ian HARTE",
+          "Steve STAUNTON",
+          "Gary BREEN",
+          "Gary KELLY",
+          "Jason McATEER",
+          "Matt HOLLAND",
+          "Mark KINSELLA",
+          "Damien DUFF",
+          "Robbie KEANE",
+          "Kevin KILBANE"
+        ],
+        "away": [
+          "Alioum BOUKAR",
+          "Bill TCHATO",
+          "Pierre WOME",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "GEREMI",
+          "Salomon OLEMBE",
+          "LAUREN",
+          "Marc-Vivien FOE",
+          "Samuel ETOO",
+          "Patrick MBOMA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-01",
+      "stage": "Group E",
+      "venue": "Sapporo Dome",
+      "city": "Sapporo",
+      "home_team": "Germany",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 8,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "20"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "25"
+        },
+        {
+          "team": "Germany",
+          "player": "Michael BALLACK",
+          "minute": "40"
+        },
+        {
+          "team": "Germany",
+          "player": "Carsten JANCKER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player": "Thomas LINKE",
+          "minute": "73"
+        },
+        {
+          "team": "Germany",
+          "player": "Oliver BIERHOFF",
+          "minute": "84"
+        },
+        {
+          "team": "Germany",
+          "player": "Bernd SCHNEIDER",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Jens JEREMIES",
+          "player_off": "Carsten RAMELOW",
+          "minute": "45"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdulaziz KHATHRAN",
+          "player_off": "Nawaf AL TEMYAT",
+          "minute": "45"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Ibrahim AL SHAHRANI",
+          "player_off": "Khamis AL DOSSARI",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver BIERHOFF",
+          "player_off": "Carsten JANCKER",
+          "minute": "67"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "76"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdullah Gaman AL DOSARI",
+          "player_off": "Al Hasan AL YAMI",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Christian ZIEGE",
+          "Christoph METZELDER",
+          "Carsten RAMELOW",
+          "Didi HAMANN",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Carsten JANCKER",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Mohammed AL DEAYEA",
+          "Redha TUKAR",
+          "Abdullah ZUBROMAWI",
+          "Ahmed AL DOSARI",
+          "Hussein AL SULAIMANI",
+          "Mohammed NOOR",
+          "Khamis AL DOSSARI",
+          "Abdullah Alwaked AL SHAHRANI",
+          "Nawaf AL TEMYAT",
+          "Sami AL JABER",
+          "Al Hasan AL YAMI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-05",
+      "stage": "Group E",
+      "venue": "Ibaraki Kashima Stadium",
+      "city": "Kashima",
+      "home_team": "Germany",
+      "away_team": "Ireland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "19"
+        },
+        {
+          "team": "Ireland",
+          "player": "Robbie KEANE",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ireland",
+          "player_on": "Steven REID",
+          "player_off": "Gary KELLY",
+          "minute": "73"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "Niall QUINN",
+          "player_off": "Ian HARTE",
+          "minute": "73"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver BIERHOFF",
+          "player_off": "Carsten JANCKER",
+          "minute": "75"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marco BODE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "85"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "Kenny CUNNINGHAM",
+          "player_off": "Steve STAUNTON",
+          "minute": "87"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Jens JEREMIES",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Christian ZIEGE",
+          "Christoph METZELDER",
+          "Carsten RAMELOW",
+          "Didi HAMANN",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Carsten JANCKER",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Shay GIVEN",
+          "Steve FINNAN",
+          "Ian HARTE",
+          "Steve STAUNTON",
+          "Gary BREEN",
+          "Gary KELLY",
+          "Matt HOLLAND",
+          "Mark KINSELLA",
+          "Damien DUFF",
+          "Robbie KEANE",
+          "Kevin KILBANE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-06",
+      "stage": "Group E",
+      "venue": "Saitama Stadium",
+      "city": "Saitama",
+      "home_team": "Cameroon",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Samuel ETOO",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Al Hasan AL YAMI",
+          "player_off": "Obeid AL DOSARI",
+          "minute": "35"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Salomon OLEMBE",
+          "player_off": "Daniel KOME",
+          "minute": "45"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdullah Gaman AL DOSARI",
+          "player_off": "Abdullah ZUBROMAWI",
+          "minute": "72"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Pius NDIEFI",
+          "player_off": "Patrick MBOMA",
+          "minute": "74"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Pierre NJANKA",
+          "player_off": "Pierre WOME",
+          "minute": "84"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Mohammed NOOR",
+          "player_off": "Abdulaziz KHATHRAN",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alioum BOUKAR",
+          "Bill TCHATO",
+          "Pierre WOME",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "GEREMI",
+          "LAUREN",
+          "Marc-Vivien FOE",
+          "Daniel KOME",
+          "Samuel ETOO",
+          "Patrick MBOMA"
+        ],
+        "away": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL JAHANI",
+          "Redha TUKAR",
+          "Abdullah ZUBROMAWI",
+          "Fouzi AL SHEHRI",
+          "Hussein AL SULAIMANI",
+          "Ibrahim AL SHAHRANI",
+          "Abdulaziz KHATHRAN",
+          "Abdullah Alwaked AL SHAHRANI",
+          "Nawaf AL TEMYAT",
+          "Obeid AL DOSARI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-11",
+      "stage": "Group E",
+      "venue": "Shizuoka Stadium",
+      "city": "Shizuoka",
+      "home_team": "Cameroon",
+      "away_team": "Germany",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Marco BODE",
+          "minute": "50"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Marco BODE",
+          "player_off": "Carsten JANCKER",
+          "minute": "45"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Patrick SUFFO",
+          "player_off": "Bill TCHATO",
+          "minute": "53"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Daniel KOME",
+          "player_off": "Salomon OLEMBE",
+          "minute": "64"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Joseph-Desire JOB",
+          "player_off": "Patrick MBOMA",
+          "minute": "80"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Jens JEREMIES",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "80"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alioum BOUKAR",
+          "Bill TCHATO",
+          "Pierre WOME",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "GEREMI",
+          "Salomon OLEMBE",
+          "LAUREN",
+          "Marc-Vivien FOE",
+          "Samuel ETOO",
+          "Patrick MBOMA"
+        ],
+        "away": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Christian ZIEGE",
+          "Christoph METZELDER",
+          "Carsten RAMELOW",
+          "Didi HAMANN",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Carsten JANCKER",
+          "Miroslav KLOSE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-11",
+      "stage": "Group E",
+      "venue": "International Stadium Yokohama",
+      "city": "Yokohama",
+      "home_team": "Saudi Arabia",
+      "away_team": "Ireland",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Ireland",
+          "player": "Robbie KEANE",
+          "minute": "7"
+        },
+        {
+          "team": "Ireland",
+          "player": "Gary BREEN",
+          "minute": "61"
+        },
+        {
+          "team": "Ireland",
+          "player": "Damien DUFF",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ireland",
+          "player_on": "Niall QUINN",
+          "player_off": "Ian HARTE",
+          "minute": "45"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MOHAMMED ALSHALHOUB",
+          "player_off": "Abdulaziz KHATHRAN",
+          "minute": "67"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdullah Gaman AL DOSARI",
+          "player_off": "Abdullah ZUBROMAWI",
+          "minute": "68"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Ahmed AL DOSARI",
+          "player_off": "Mohammed AL JAHANI",
+          "minute": "79"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "Jason McATEER",
+          "player_off": "Gary KELLY",
+          "minute": "80"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "Lee CARSLEY",
+          "player_off": "Mark KINSELLA",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL JAHANI",
+          "Redha TUKAR",
+          "Abdullah ZUBROMAWI",
+          "Fouzi AL SHEHRI",
+          "Hussein AL SULAIMANI",
+          "Ibrahim AL SHAHRANI",
+          "Abdulaziz KHATHRAN",
+          "Khamis AL DOSSARI",
+          "Nawaf AL TEMYAT",
+          "Al Hasan AL YAMI"
+        ],
+        "away": [
+          "Shay GIVEN",
+          "Steve FINNAN",
+          "Ian HARTE",
+          "Steve STAUNTON",
+          "Gary BREEN",
+          "Gary KELLY",
+          "Matt HOLLAND",
+          "Mark KINSELLA",
+          "Damien DUFF",
+          "Robbie KEANE",
+          "Kevin KILBANE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-02",
+      "stage": "Group F",
+      "venue": "Ibaraki Kashima Stadium",
+      "city": "Kashima",
+      "home_team": "Argentina",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "63"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Cristian GONZALEZ",
+          "player_off": "Claudio LOPEZ",
+          "minute": "45"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Pius IKEDIA",
+          "player_off": "Nwankwo KANU",
+          "minute": "48"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Justice CHRISTOPHER",
+          "player_off": "Efetobore SODJE",
+          "minute": "73"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Pablo AIMAR",
+          "player_off": "Juan VERON",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Hernan CRESPO",
+          "player_off": "Gabriel BATISTUTA",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pablo CAVALLERO",
+          "Mauricio POCHETTINO",
+          "Walter SAMUEL",
+          "Diego PLACENTE",
+          "Juan SORIN",
+          "Javier ZANETTI",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Diego SIMEONE",
+          "Claudio LOPEZ",
+          "Gabriel BATISTUTA"
+        ],
+        "away": [
+          "Ibrahim SHORUNMU",
+          "Celestine BABAYARO",
+          "Isaac OKORONKWO",
+          "Taribo WEST",
+          "Efetobore SODJE",
+          "Joseph YOBO",
+          "Jay Jay OKOCHA",
+          "Garba LAWAL",
+          "Nwankwo KANU",
+          "Bartholomew OGBECHE",
+          "Julius AGHAHOWA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-02",
+      "stage": "Group F",
+      "venue": "Saitama Stadium",
+      "city": "Saitama",
+      "home_team": "England",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Sol CAMPBELL",
+          "minute": "24"
+        },
+        {
+          "team": "Sweden",
+          "player": "Niclas ALEXANDERSSON",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Anders SVENSSON",
+          "player_off": "Magnus SVENSSON",
+          "minute": "56"
+        },
+        {
+          "team": "England",
+          "player_on": "Kieron DYER",
+          "player_off": "David BECKHAM",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Joe COLE",
+          "player_off": "Darius VASSELL",
+          "minute": "74"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Andreas ANDERSSON",
+          "player_off": "Marcus ALLBACK",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David SEAMAN",
+          "Danny MILLS",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "Sol CAMPBELL",
+          "David BECKHAM",
+          "Paul SCHOLES",
+          "Owen HARGREAVES",
+          "Michael OWEN",
+          "Emile HESKEY",
+          "Darius VASSELL"
+        ],
+        "away": [
+          "Magnus HEDMAN",
+          "Olof MELLBERG",
+          "Johan MJALLBY",
+          "Andreas JAKOBSSON",
+          "Teddy LUCIC",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Fredrik LJUNGBERG",
+          "Magnus SVENSSON",
+          "Marcus ALLBACK",
+          "Henrik LARSSON"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-07",
+      "stage": "Group F",
+      "venue": "Kobe Wing Stadium",
+      "city": "Kobe",
+      "home_team": "Sweden",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Julius AGHAHOWA",
+          "minute": "27"
+        },
+        {
+          "team": "Sweden",
+          "player": "Henrik LARSSON",
+          "minute": "35"
+        },
+        {
+          "team": "Sweden",
+          "player": "Henrik LARSSON",
+          "minute": "63",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Andreas ANDERSSON",
+          "player_off": "Marcus ALLBACK",
+          "minute": "64"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Nwankwo KANU",
+          "player_off": "Celestine BABAYARO",
+          "minute": "65"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Pius IKEDIA",
+          "player_off": "Bartholomew OGBECHE",
+          "minute": "70"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Magnus SVENSSON",
+          "player_off": "Anders SVENSSON",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Magnus HEDMAN",
+          "Olof MELLBERG",
+          "Johan MJALLBY",
+          "Andreas JAKOBSSON",
+          "Teddy LUCIC",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Anders SVENSSON",
+          "Fredrik LJUNGBERG",
+          "Marcus ALLBACK",
+          "Henrik LARSSON"
+        ],
+        "away": [
+          "Ibrahim SHORUNMU",
+          "Celestine BABAYARO",
+          "Isaac OKORONKWO",
+          "Taribo WEST",
+          "Ifeanyi UDEZE",
+          "Joseph YOBO",
+          "Jay Jay OKOCHA",
+          "Justice CHRISTOPHER",
+          "Bartholomew OGBECHE",
+          "Julius AGHAHOWA",
+          "John UTAKA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-07",
+      "stage": "Group F",
+      "venue": "Sapporo Dome",
+      "city": "Sapporo",
+      "home_team": "Argentina",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "David BECKHAM",
+          "minute": "44",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Trevor SINCLAIR",
+          "player_off": "Owen HARGREAVES",
+          "minute": "19"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Pablo AIMAR",
+          "player_off": "Juan VERON",
+          "minute": "45"
+        },
+        {
+          "team": "England",
+          "player_on": "Teddy SHERINGHAM",
+          "player_off": "Emile HESKEY",
+          "minute": "54"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Hernan CRESPO",
+          "player_off": "Gabriel BATISTUTA",
+          "minute": "60"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Claudio LOPEZ",
+          "player_off": "Cristian GONZALEZ",
+          "minute": "64"
+        },
+        {
+          "team": "England",
+          "player_on": "Wayne BRIDGE",
+          "player_off": "Michael OWEN",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pablo CAVALLERO",
+          "Mauricio POCHETTINO",
+          "Walter SAMUEL",
+          "Diego PLACENTE",
+          "Juan SORIN",
+          "Javier ZANETTI",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Diego SIMEONE",
+          "Gabriel BATISTUTA",
+          "Cristian GONZALEZ"
+        ],
+        "away": [
+          "David SEAMAN",
+          "Danny MILLS",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "Sol CAMPBELL",
+          "David BECKHAM",
+          "Paul SCHOLES",
+          "Owen HARGREAVES",
+          "Nicky BUTT",
+          "Michael OWEN",
+          "Emile HESKEY"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-12",
+      "stage": "Group F",
+      "venue": "Miyagi Stadium",
+      "city": "Rifu",
+      "home_team": "Sweden",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Anders SVENSSON",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player": "Hernan CRESPO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Andreas ANDERSSON",
+          "player_off": "Marcus ALLBACK",
+          "minute": "45"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Hernan CRESPO",
+          "player_off": "Gabriel BATISTUTA",
+          "minute": "58"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Cristian GONZALEZ",
+          "player_off": "Matias ALMEYDA",
+          "minute": "63"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Juan VERON",
+          "player_off": "Juan SORIN",
+          "minute": "63"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Mattias JONSON",
+          "player_off": "Anders SVENSSON",
+          "minute": "68"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Zlatan IBRAHIMOVIC",
+          "player_off": "Henrik LARSSON",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Magnus HEDMAN",
+          "Olof MELLBERG",
+          "Johan MJALLBY",
+          "Andreas JAKOBSSON",
+          "Teddy LUCIC",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Anders SVENSSON",
+          "Magnus SVENSSON",
+          "Marcus ALLBACK",
+          "Henrik LARSSON"
+        ],
+        "away": [
+          "Pablo CAVALLERO",
+          "Mauricio POCHETTINO",
+          "Walter SAMUEL",
+          "Jose CHAMOT",
+          "Juan SORIN",
+          "Matias ALMEYDA",
+          "Javier ZANETTI",
+          "Ariel ORTEGA",
+          "Pablo AIMAR",
+          "Claudio LOPEZ",
+          "Gabriel BATISTUTA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-12",
+      "stage": "Group F",
+      "venue": "Nagai Stadium",
+      "city": "Osaka",
+      "home_team": "Nigeria",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Teddy SHERINGHAM",
+          "player_off": "Emile HESKEY",
+          "minute": "69"
+        },
+        {
+          "team": "England",
+          "player_on": "Darius VASSELL",
+          "player_off": "Michael OWEN",
+          "minute": "77"
+        },
+        {
+          "team": "England",
+          "player_on": "Wayne BRIDGE",
+          "player_off": "Ashley COLE",
+          "minute": "85"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Pius IKEDIA",
+          "player_off": "Femi OPABUNMI",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vincent ENYEAMA",
+          "Isaac OKORONKWO",
+          "Ifeanyi UDEZE",
+          "Efetobore SODJE",
+          "Joseph YOBO",
+          "Jay Jay OKOCHA",
+          "Justice CHRISTOPHER",
+          "James OBIORAH",
+          "Julius AGHAHOWA",
+          "Benedict AKWUEGBU",
+          "Femi OPABUNMI"
+        ],
+        "away": [
+          "David SEAMAN",
+          "Danny MILLS",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "Sol CAMPBELL",
+          "Trevor SINCLAIR",
+          "David BECKHAM",
+          "Paul SCHOLES",
+          "Nicky BUTT",
+          "Michael OWEN",
+          "Emile HESKEY"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-03",
+      "stage": "Group G",
+      "venue": "Ibaraki Kashima Stadium",
+      "city": "Kashima",
+      "home_team": "Croatia",
+      "away_team": "Mexico",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Cuauhtemoc BLANCO",
+          "minute": "60",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Milan RAPAIC",
+          "player_off": "Robert PROSINECKI",
+          "minute": "45"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Daniel SARIC",
+          "player_off": "Davor SUKER",
+          "minute": "64"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mario STANIC",
+          "player_off": "Alen BOKSIC",
+          "minute": "67"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Luis HERNANDEZ",
+          "player_off": "Jared BORGETTI",
+          "minute": "68"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Francisco PALENCIA",
+          "player_off": "Cuauhtemoc BLANCO",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Stipe PLETIKOSA",
+          "Josip SIMUNIC",
+          "Stjepan TOMAS",
+          "Boris ZIVKOVIC",
+          "Robert JARNI",
+          "Robert KOVAC",
+          "Robert PROSINECKI",
+          "Niko KOVAC",
+          "Zvonimir SOLDO",
+          "Davor SUKER",
+          "Alen BOKSIC"
+        ],
+        "away": [
+          "Oscar PEREZ",
+          "Manuel VIDRIO",
+          "Salvador CARMONA",
+          "Rafael MARQUEZ",
+          "Gerardo TORRADO",
+          "Ramon MORALES",
+          "Braulio LUNA",
+          "Sigifredo MERCADO",
+          "Gabriel CABALLERO",
+          "Jared BORGETTI",
+          "Cuauhtemoc BLANCO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-03",
+      "stage": "Group G",
+      "venue": "Sapporo Dome",
+      "city": "Sapporo",
+      "home_team": "Italy",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "7"
+        },
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "27"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Carlos TENORIO",
+          "player_off": "Alex AGUINAGA",
+          "minute": "45"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Marlon AYOVI",
+          "player_off": "Edwin TENORIO",
+          "minute": "59"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Angelo DI LIVIO",
+          "player_off": "Cristiano DONI",
+          "minute": "64"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gennaro GATTUSO",
+          "player_off": "Luigi DI BIAGIO",
+          "minute": "69"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Francesco TOTTI",
+          "minute": "74"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Nicolas ASENCIO",
+          "player_off": "Clever CHALA",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Christian PANUCCI",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro NESTA",
+          "Cristiano DONI",
+          "Luigi DI BIAGIO",
+          "Damiano TOMMASI",
+          "Gianluca ZAMBROTTA",
+          "Francesco TOTTI",
+          "Christian VIERI"
+        ],
+        "away": [
+          "Jose CEVALLOS",
+          "Augusto POROSO",
+          "Ivan HURTADO",
+          "Ulises DE LA CRUZ",
+          "Raul GUERRON",
+          "Alfonso OBREGON",
+          "Alex AGUINAGA",
+          "Clever CHALA",
+          "Edison MENDEZ",
+          "Edwin TENORIO",
+          "Agustin DELGADO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-08",
+      "stage": "Group G",
+      "venue": "Mokdong Stadium",
+      "city": "Incheon",
+      "home_team": "Italy",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "55"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivica OLIC",
+          "minute": "73"
+        },
+        {
+          "team": "Croatia",
+          "player": "Milan RAPAIC",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Marco MATERAZZI",
+          "player_off": "Alessandro NESTA",
+          "minute": "24"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ivica OLIC",
+          "player_off": "Davor VUGRINEC",
+          "minute": "57"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Jurica VRANJES",
+          "player_off": "Zvonimir SOLDO",
+          "minute": "62"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Filippo INZAGHI",
+          "player_off": "Cristiano DONI",
+          "minute": "79"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Dario SIMIC",
+          "player_off": "Milan RAPAIC",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Christian PANUCCI",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro NESTA",
+          "Cristiano ZANETTI",
+          "Cristiano DONI",
+          "Damiano TOMMASI",
+          "Gianluca ZAMBROTTA",
+          "Francesco TOTTI",
+          "Christian VIERI"
+        ],
+        "away": [
+          "Stipe PLETIKOSA",
+          "Josip SIMUNIC",
+          "Stjepan TOMAS",
+          "Daniel SARIC",
+          "Robert JARNI",
+          "Robert KOVAC",
+          "Milan RAPAIC",
+          "Davor VUGRINEC",
+          "Niko KOVAC",
+          "Zvonimir SOLDO",
+          "Alen BOKSIC"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-09",
+      "stage": "Group G",
+      "venue": "Miyagi Stadium",
+      "city": "Rifu",
+      "home_team": "Mexico",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Ecuador",
+          "player": "Agustin DELGADO",
+          "minute": "5"
+        },
+        {
+          "team": "Mexico",
+          "player": "Jared BORGETTI",
+          "minute": "28"
+        },
+        {
+          "team": "Mexico",
+          "player": "Gerardo TORRADO",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Marlon AYOVI",
+          "player_off": "Edwin TENORIO",
+          "minute": "35"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Carlos TENORIO",
+          "player_off": "Ivan KAVIEDES",
+          "minute": "53"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Alex AGUINAGA",
+          "player_off": "Alfonso OBREGON",
+          "minute": "58"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Luis HERNANDEZ",
+          "player_off": "Jared BORGETTI",
+          "minute": "77"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Gabriel CABALLERO",
+          "player_off": "Joahan RODRIGUEZ",
+          "minute": "87"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Sigifredo MERCADO",
+          "player_off": "Cuauhtemoc BLANCO",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oscar PEREZ",
+          "Manuel VIDRIO",
+          "Salvador CARMONA",
+          "Rafael MARQUEZ",
+          "Gerardo TORRADO",
+          "Ramon MORALES",
+          "Braulio LUNA",
+          "Joahan RODRIGUEZ",
+          "Jared BORGETTI",
+          "Cuauhtemoc BLANCO",
+          "Jesus ARELLANO"
+        ],
+        "away": [
+          "Jose CEVALLOS",
+          "Augusto POROSO",
+          "Ivan HURTADO",
+          "Ulises DE LA CRUZ",
+          "Raul GUERRON",
+          "Alfonso OBREGON",
+          "Clever CHALA",
+          "Edison MENDEZ",
+          "Edwin TENORIO",
+          "Ivan KAVIEDES",
+          "Agustin DELGADO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-13",
+      "stage": "Group G",
+      "venue": "Oita Stadium",
+      "city": "Oita",
+      "home_team": "Mexico",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Jared BORGETTI",
+          "minute": "34"
+        },
+        {
+          "team": "Italy",
+          "player": "Alessandro DEL PIERO",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Vincenzo MONTELLA",
+          "player_off": "Filippo INZAGHI",
+          "minute": "55"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Francesco COCO",
+          "player_off": "Christian PANUCCI",
+          "minute": "63"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Rafael GARCIA",
+          "player_off": "Joahan RODRIGUEZ",
+          "minute": "76"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Gabriel CABALLERO",
+          "player_off": "Ramon MORALES",
+          "minute": "76"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Francesco TOTTI",
+          "minute": "78"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Francisco PALENCIA",
+          "player_off": "Jared BORGETTI",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oscar PEREZ",
+          "Manuel VIDRIO",
+          "Salvador CARMONA",
+          "Rafael MARQUEZ",
+          "Gerardo TORRADO",
+          "Ramon MORALES",
+          "Braulio LUNA",
+          "Joahan RODRIGUEZ",
+          "Jared BORGETTI",
+          "Cuauhtemoc BLANCO",
+          "Jesus ARELLANO"
+        ],
+        "away": [
+          "Gianluigi BUFFON",
+          "Christian PANUCCI",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro NESTA",
+          "Cristiano ZANETTI",
+          "Damiano TOMMASI",
+          "Gianluca ZAMBROTTA",
+          "Filippo INZAGHI",
+          "Francesco TOTTI",
+          "Christian VIERI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-13",
+      "stage": "Group G",
+      "venue": "International Stadium Yokohama",
+      "city": "Yokohama",
+      "home_team": "Ecuador",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Ecuador",
+          "player": "Edison MENDEZ",
+          "minute": "48"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Alex AGUINAGA",
+          "player_off": "Alfonso OBREGON",
+          "minute": "40"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Davor VUGRINEC",
+          "player_off": "Dario SIMIC",
+          "minute": "52"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Jurica VRANJES",
+          "player_off": "Niko KOVAC",
+          "minute": "59"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mario STANIC",
+          "player_off": "Daniel SARIC",
+          "minute": "68"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Ivan KAVIEDES",
+          "player_off": "Carlos TENORIO",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jose CEVALLOS",
+          "Augusto POROSO",
+          "Ivan HURTADO",
+          "Ulises DE LA CRUZ",
+          "Raul GUERRON",
+          "Marlon AYOVI",
+          "Alfonso OBREGON",
+          "Clever CHALA",
+          "Edison MENDEZ",
+          "Agustin DELGADO",
+          "Carlos TENORIO"
+        ],
+        "away": [
+          "Stipe PLETIKOSA",
+          "Josip SIMUNIC",
+          "Stjepan TOMAS",
+          "Daniel SARIC",
+          "Robert JARNI",
+          "Dario SIMIC",
+          "Robert KOVAC",
+          "Milan RAPAIC",
+          "Niko KOVAC",
+          "Alen BOKSIC",
+          "Ivica OLIC"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-04",
+      "stage": "Group H",
+      "venue": "Saitama Stadium",
+      "city": "Saitama",
+      "home_team": "Japan",
+      "away_team": "Belgium",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Marc WILMOTS",
+          "minute": "57"
+        },
+        {
+          "team": "Japan",
+          "player": "Takayuki SUZUKI",
+          "minute": "59"
+        },
+        {
+          "team": "Japan",
+          "player": "Junichi INAMOTO",
+          "minute": "67"
+        },
+        {
+          "team": "Belgium",
+          "player": "Peter VAN DER HEYDEN",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Alessandro SANTOS",
+          "player_off": "Shinji Ono",
+          "minute": "64"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hiroaki MORISHIMA",
+          "player_off": "Takayuki SUZUKI",
+          "minute": "68"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Wesley SONCK",
+          "player_off": "Johan WALEM",
+          "minute": "68"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Tsuneyasu MIYAMOTO",
+          "player_off": "Ryuzo MORIOKA",
+          "minute": "71"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Branko STRUPAR",
+          "player_off": "Gert VERHEYEN",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Seigo NARAZAKI",
+          "Naoki MATSUDA",
+          "Ryuzo MORIOKA",
+          "Koji NAKATA",
+          "Junichi INAMOTO",
+          "Hidetoshi NAKATA",
+          "Shinji Ono",
+          "Kazuyuki TODA",
+          "Daisuke ICHIKAWA",
+          "Takayuki SUZUKI",
+          "Atsushi YANAGISAWA"
+        ],
+        "away": [
+          "Geert DE VLIEGER",
+          "Eric VAN MEIR",
+          "Peter VAN DER HEYDEN",
+          "Jacky PEETERS",
+          "Daniel VAN BUYTEN",
+          "Timmy SIMONS",
+          "Bart GOOR",
+          "Johan WALEM",
+          "Gert VERHEYEN",
+          "Yves VANDERHAEGHE",
+          "Marc WILMOTS"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-05",
+      "stage": "Group H",
+      "venue": "Kobe Wing Stadium",
+      "city": "Kobe",
+      "home_team": "Russia",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "Egor TITOV",
+          "minute": "59"
+        },
+        {
+          "team": "Russia",
+          "player": "Valeri KARPIN",
+          "minute": "64",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Dmitry KHOKHLOV",
+          "player_off": "Igor SEMSHOV",
+          "minute": "45"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Dmitri SYCHEV",
+          "player_off": "Vladimir BESCHASTNYKH",
+          "minute": "55"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Imed MHADHEBI",
+          "player_off": "Hassan GABSI",
+          "minute": "67"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Zoubeir BEYA",
+          "player_off": "Adel SELLIMI",
+          "minute": "67"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Dmitry ALENICHEV",
+          "player_off": "Marat IZMAILOV",
+          "minute": "78"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ali ZITOUNI",
+          "player_off": "Khaled BADRA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ruslan NIGMATULLIN",
+          "Yuri KOVTUN",
+          "Yuri NIKIFOROV",
+          "Viktor ONOPKO",
+          "Andrei SOLOMATIN",
+          "Igor SEMSHOV",
+          "Valeri KARPIN",
+          "Egor TITOV",
+          "Marat IZMAILOV",
+          "Vladimir BESCHASTNYKH",
+          "Ruslan PIMENOV"
+        ],
+        "away": [
+          "Ali BOUMNIJEL",
+          "Khaled BADRA",
+          "Mohamed MKACHER",
+          "Hatem TRABELSI",
+          "Raouf BOUZAIENE",
+          "Radhi JAIDI",
+          "Hassan GABSI",
+          "Riadh BOUAZIZI",
+          "Slim BENACHOUR",
+          "Zied JAZIRI",
+          "Adel SELLIMI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-09",
+      "stage": "Group H",
+      "venue": "International Stadium Yokohama",
+      "city": "Yokohama",
+      "home_team": "Japan",
+      "away_team": "Russia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Junichi INAMOTO",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Dmitri SYCHEV",
+          "player_off": "Ruslan PIMENOV",
+          "minute": "45"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Dmitry KHOKHLOV",
+          "player_off": "Marat IZMAILOV",
+          "minute": "52"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Vladimir BESCHASTNYKH",
+          "player_off": "Alexei SMERTIN",
+          "minute": "57"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Masashi NAKAYAMA",
+          "player_off": "Takayuki SUZUKI",
+          "minute": "72"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Toshihiro HATTORI",
+          "player_off": "Shinji Ono",
+          "minute": "75"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takashi FUKUNISHI",
+          "player_off": "Junichi INAMOTO",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Seigo NARAZAKI",
+          "Naoki MATSUDA",
+          "Koji NAKATA",
+          "Tsuneyasu MIYAMOTO",
+          "Junichi INAMOTO",
+          "Hidetoshi NAKATA",
+          "Shinji Ono",
+          "Tomokazu MYOJIN",
+          "Kazuyuki TODA",
+          "Takayuki SUZUKI",
+          "Atsushi YANAGISAWA"
+        ],
+        "away": [
+          "Ruslan NIGMATULLIN",
+          "Yuri KOVTUN",
+          "Yuri NIKIFOROV",
+          "Viktor ONOPKO",
+          "Alexei SMERTIN",
+          "Andrei SOLOMATIN",
+          "Igor SEMSHOV",
+          "Valeri KARPIN",
+          "Egor TITOV",
+          "Marat IZMAILOV",
+          "Ruslan PIMENOV"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-10",
+      "stage": "Group H",
+      "venue": "Kobe Wing Stadium",
+      "city": "Kobe",
+      "home_team": "Tunisia",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Marc WILMOTS",
+          "minute": "13"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Raouf BOUZAIENE",
+          "minute": "17"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Wesley SONCK",
+          "player_off": "Gert VERHEYEN",
+          "minute": "45"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Sven VERMANT",
+          "player_off": "Branko STRUPAR",
+          "minute": "45"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Adel SELLIMI",
+          "player_off": "Hassan GABSI",
+          "minute": "67"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Mbo MPENZA",
+          "player_off": "Timmy SIMONS",
+          "minute": "74"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ali ZITOUNI",
+          "player_off": "Zied JAZIRI",
+          "minute": "77"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Zoubeir BEYA",
+          "player_off": "Mourad EL MELKI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ali BOUMNIJEL",
+          "Khaled BADRA",
+          "Hatem TRABELSI",
+          "Raouf BOUZAIENE",
+          "Radhi JAIDI",
+          "Hassan GABSI",
+          "Kais GHODHBANE",
+          "Riadh BOUAZIZI",
+          "Slim BENACHOUR",
+          "Mourad EL MELKI",
+          "Zied JAZIRI"
+        ],
+        "away": [
+          "Geert DE VLIEGER",
+          "Eric DEFLANDRE",
+          "Glen DE BOECK",
+          "Peter VAN DER HEYDEN",
+          "Daniel VAN BUYTEN",
+          "Timmy SIMONS",
+          "Bart GOOR",
+          "Gert VERHEYEN",
+          "Yves VANDERHAEGHE",
+          "Marc WILMOTS",
+          "Branko STRUPAR"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-14",
+      "stage": "Group H",
+      "venue": "Osaka Nagai Stadium",
+      "city": "Osaka",
+      "home_team": "Tunisia",
+      "away_team": "Japan",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Hiroaki MORISHIMA",
+          "minute": "48"
+        },
+        {
+          "team": "Japan",
+          "player": "Hidetoshi NAKATA",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Zoubeir BEYA",
+          "player_off": "Mourad EL MELKI",
+          "minute": "45"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Daisuke ICHIKAWA",
+          "player_off": "Atsushi YANAGISAWA",
+          "minute": "45"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hiroaki MORISHIMA",
+          "player_off": "Junichi INAMOTO",
+          "minute": "45"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Imed MHADHEBI",
+          "player_off": "CLAYTON",
+          "minute": "61"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ali ZITOUNI",
+          "player_off": "Raouf BOUZAIENE",
+          "minute": "78"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Mitsuo OGASAWARA",
+          "player_off": "Hidetoshi NAKATA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ali BOUMNIJEL",
+          "Khaled BADRA",
+          "Hatem TRABELSI",
+          "Raouf BOUZAIENE",
+          "Radhi JAIDI",
+          "CLAYTON",
+          "Kais GHODHBANE",
+          "Riadh BOUAZIZI",
+          "Slim BENACHOUR",
+          "Mourad EL MELKI",
+          "Zied JAZIRI"
+        ],
+        "away": [
+          "Seigo NARAZAKI",
+          "Naoki MATSUDA",
+          "Koji NAKATA",
+          "Tsuneyasu MIYAMOTO",
+          "Junichi INAMOTO",
+          "Hidetoshi NAKATA",
+          "Shinji Ono",
+          "Tomokazu MYOJIN",
+          "Kazuyuki TODA",
+          "Takayuki SUZUKI",
+          "Atsushi YANAGISAWA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-14",
+      "stage": "Group H",
+      "venue": "Shizuoka Stadium",
+      "city": "Shizuoka",
+      "home_team": "Belgium",
+      "away_team": "Russia",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Johan WALEM",
+          "minute": "7"
+        },
+        {
+          "team": "Russia",
+          "player": "Vladimir BESCHASTNYKH",
+          "minute": "52"
+        },
+        {
+          "team": "Belgium",
+          "player": "Wesley SONCK",
+          "minute": "78"
+        },
+        {
+          "team": "Belgium",
+          "player": "Marc WILMOTS",
+          "minute": "82"
+        },
+        {
+          "team": "Russia",
+          "player": "Dmitri SYCHEV",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Dmitri SYCHEV",
+          "player_off": "Alexei SMERTIN",
+          "minute": "34"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Dmitri SENNIKOV",
+          "player_off": "Yuri NIKIFOROV",
+          "minute": "43"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Wesley SONCK",
+          "player_off": "Mbo MPENZA",
+          "minute": "70"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Timmy SIMONS",
+          "player_off": "Gert VERHEYEN",
+          "minute": "78"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Aleksandr KERZHAKOV",
+          "player_off": "Valeri KARPIN",
+          "minute": "82"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Eric VAN MEIR",
+          "player_off": "Glen DE BOECK",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Geert DE VLIEGER",
+          "Glen DE BOECK",
+          "Nico VAN KERCKHOVEN",
+          "Jacky PEETERS",
+          "Daniel VAN BUYTEN",
+          "Bart GOOR",
+          "Johan WALEM",
+          "Gert VERHEYEN",
+          "Yves VANDERHAEGHE",
+          "Marc WILMOTS",
+          "Mbo MPENZA"
+        ],
+        "away": [
+          "Ruslan NIGMATULLIN",
+          "Yuri KOVTUN",
+          "Yuri NIKIFOROV",
+          "Viktor ONOPKO",
+          "Alexei SMERTIN",
+          "Andrei SOLOMATIN",
+          "Valeri KARPIN",
+          "Egor TITOV",
+          "Dmitry ALENICHEV",
+          "Dmitry KHOKHLOV",
+          "Vladimir BESCHASTNYKH"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-15",
+      "stage": "Round of 16",
+      "venue": "Jeonju World Cup Stadium",
+      "city": "Jeonju",
+      "home_team": "Germany",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Oliver NEUVILLE",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge CAMPOS",
+          "player_off": "Roque SANTA CRUZ",
+          "minute": "29"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Sebastian KEHL",
+          "player_off": "Marko REHMER",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Frank BAUMANN",
+          "player_off": "Christoph METZELDER",
+          "minute": "60"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Diego GAVILAN",
+          "player_off": "Carlos BONET",
+          "minute": "84"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Nelson CUEVAS",
+          "player_off": "Estanislao STRUWAY",
+          "minute": "90+1"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Gerald ASAMOAH",
+          "player_off": "Oliver NEUVILLE",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Marko REHMER",
+          "Christoph METZELDER",
+          "Michael BALLACK",
+          "Jens JEREMIES",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Oliver NEUVILLE",
+          "Miroslav KLOSE",
+          "Marco BODE"
+        ],
+        "away": [
+          "Jose Luis CHILAVERT",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Estanislao STRUWAY",
+          "Roberto ACUNA",
+          "Carlos BONET",
+          "Roque SANTA CRUZ",
+          "Jose CARDOZO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-15",
+      "stage": "Round of 16",
+      "venue": "Niigata Stadium",
+      "city": "Niigata",
+      "home_team": "Denmark",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Rio FERDINAND",
+          "minute": "5"
+        },
+        {
+          "team": "England",
+          "player": "Michael OWEN",
+          "minute": "22"
+        },
+        {
+          "team": "England",
+          "player": "Emile HESKEY",
+          "minute": "44"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Kasper BOGELUND",
+          "player_off": "Thomas HELVEG",
+          "minute": "7"
+        },
+        {
+          "team": "England",
+          "player_on": "Robbie FOWLER",
+          "player_off": "Michael OWEN",
+          "minute": "45"
+        },
+        {
+          "team": "England",
+          "player_on": "Kieron DYER",
+          "player_off": "Paul SCHOLES",
+          "minute": "49"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Claus JENSEN",
+          "player_off": "Stig TOFTING",
+          "minute": "58"
+        },
+        {
+          "team": "England",
+          "player_on": "Teddy SHERINGHAM",
+          "player_off": "Emile HESKEY",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas SORENSEN",
+          "Rene HENRIKSEN",
+          "Martin LAURSEN",
+          "Thomas HELVEG",
+          "Niclas JENSEN",
+          "Stig TOFTING",
+          "Thomas GRAVESEN",
+          "Jesper GRONKJAER",
+          "Jon Dahl TOMASSON",
+          "Ebbe SAND",
+          "Dennis ROMMEDAHL"
+        ],
+        "away": [
+          "David SEAMAN",
+          "Danny MILLS",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "Sol CAMPBELL",
+          "Trevor SINCLAIR",
+          "David BECKHAM",
+          "Paul SCHOLES",
+          "Nicky BUTT",
+          "Michael OWEN",
+          "Emile HESKEY"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-16",
+      "stage": "Round of 16",
+      "venue": "Oita Stadium",
+      "city": "Oita",
+      "home_team": "Sweden",
+      "away_team": "Senegal",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Henrik LARSSON",
+          "minute": "11"
+        },
+        {
+          "team": "Senegal",
+          "player": "Henri CAMARA",
+          "minute": "37"
+        },
+        {
+          "team": "Senegal",
+          "player": "Henri CAMARA",
+          "minute": "104"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Andreas ANDERSSON",
+          "player_off": "Marcus ALLBACK",
+          "minute": "65"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Habib BEYE",
+          "player_off": "Papa Malick DIOP",
+          "minute": "66"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Zlatan IBRAHIMOVIC",
+          "player_off": "Niclas ALEXANDERSSON",
+          "minute": "76"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Mattias JONSON",
+          "player_off": "Magnus SVENSSON",
+          "minute": "99"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Magnus HEDMAN",
+          "Olof MELLBERG",
+          "Johan MJALLBY",
+          "Andreas JAKOBSSON",
+          "Teddy LUCIC",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Anders SVENSSON",
+          "Magnus SVENSSON",
+          "Marcus ALLBACK",
+          "Henrik LARSSON"
+        ],
+        "away": [
+          "Tony SYLVA",
+          "Omar DAF",
+          "Papa Malick DIOP",
+          "Aliou CISSE",
+          "Lamine DIATTA",
+          "Ferdinand COLY",
+          "Amdy FAYE",
+          "Bouba DIOP",
+          "Henri CAMARA",
+          "El Hadji DIOUF",
+          "Pape THIAW"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-16",
+      "stage": "Round of 16",
+      "venue": "Suwon World Cup Stadium",
+      "city": "Suwon",
+      "home_team": "Spain",
+      "away_team": "Ireland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Fernando MORIENTES",
+          "minute": "8"
+        },
+        {
+          "team": "Ireland",
+          "player": "Robbie KEANE",
+          "minute": "90",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ireland",
+          "player_on": "Kenny CUNNINGHAM",
+          "player_off": "Steve STAUNTON",
+          "minute": "50"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "Niall QUINN",
+          "player_off": "Gary KELLY",
+          "minute": "55"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Gaizka MENDIETA",
+          "player_off": "DE PEDRO",
+          "minute": "66"
+        },
+        {
+          "team": "Spain",
+          "player_on": "David ALBELDA",
+          "player_off": "Fernando MORIENTES",
+          "minute": "72"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Albert LUQUE",
+          "player_off": "RAUL",
+          "minute": "80"
+        },
+        {
+          "team": "Ireland",
+          "player_on": "David CONNOLLY",
+          "player_off": "Ian HARTE",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "JUANFRAN",
+          "Carles PUYOL",
+          "Fernando HIERRO",
+          "Ivan HELGUERA",
+          "Ruben BARAJA",
+          "DE PEDRO",
+          "Juan Carlos VALERON",
+          "LUIS ENRIQUE",
+          "RAUL",
+          "Fernando MORIENTES"
+        ],
+        "away": [
+          "Shay GIVEN",
+          "Steve FINNAN",
+          "Ian HARTE",
+          "Steve STAUNTON",
+          "Gary BREEN",
+          "Gary KELLY",
+          "Matt HOLLAND",
+          "Mark KINSELLA",
+          "Damien DUFF",
+          "Robbie KEANE",
+          "Kevin KILBANE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-17",
+      "stage": "Round of 16",
+      "venue": "Jeonju World Cup Stadium",
+      "city": "Jeonju",
+      "home_team": "Mexico",
+      "away_team": "United States",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Brian McBRIDE",
+          "minute": "8"
+        },
+        {
+          "team": "United States",
+          "player": "Landon DONOVAN",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Luis HERNANDEZ",
+          "player_off": "Ramon MORALES",
+          "minute": "28"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Sigifredo MERCADO",
+          "player_off": "Manuel VIDRIO",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Earnie STEWART",
+          "player_off": "Josh WOLFF",
+          "minute": "59"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Alberto GARCIA ASPE",
+          "player_off": "Gerardo TORRADO",
+          "minute": "78"
+        },
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Brian McBRIDE",
+          "minute": "79"
+        },
+        {
+          "team": "United States",
+          "player_on": "Carlos LLAMOSA",
+          "player_off": "Pablo MASTROENI",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oscar PEREZ",
+          "Manuel VIDRIO",
+          "Salvador CARMONA",
+          "Rafael MARQUEZ",
+          "Gerardo TORRADO",
+          "Ramon MORALES",
+          "Braulio LUNA",
+          "Joahan RODRIGUEZ",
+          "Jared BORGETTI",
+          "Cuauhtemoc BLANCO",
+          "Jesus ARELLANO"
+        ],
+        "away": [
+          "Brad FRIEDEL",
+          "Gregg BERHALTER",
+          "Pablo MASTROENI",
+          "Tony SANNEH",
+          "Eddie POPE",
+          "John O BRIEN",
+          "Eddie LEWIS",
+          "Claudio REYNA",
+          "Landon DONOVAN",
+          "Josh WOLFF",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-17",
+      "stage": "Round of 16",
+      "venue": "Kobe Wing Stadium",
+      "city": "Kobe",
+      "home_team": "Brazil",
+      "away_team": "Belgium",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "67"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "JUNINHO PAULISTA",
+          "minute": "57"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Wesley SONCK",
+          "player_off": "Jacky PEETERS",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "KLEBERSON",
+          "player_off": "RONALDINHO",
+          "minute": "81"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RICARDINHO",
+          "player_off": "RIVALDO",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "ROQUE JUNIOR",
+          "EDMILSON",
+          "ROBERTO CARLOS",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "RONALDINHO",
+          "JUNINHO PAULISTA",
+          "RONALDO"
+        ],
+        "away": [
+          "Geert DE VLIEGER",
+          "Nico VAN KERCKHOVEN",
+          "Jacky PEETERS",
+          "Daniel VAN BUYTEN",
+          "Timmy SIMONS",
+          "Bart GOOR",
+          "Johan WALEM",
+          "Gert VERHEYEN",
+          "Yves VANDERHAEGHE",
+          "Marc WILMOTS",
+          "Mbo MPENZA"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-18",
+      "stage": "Round of 16",
+      "venue": "Miyagi Stadium",
+      "city": "Rifu",
+      "home_team": "Japan",
+      "away_team": "Turkey",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Umit DAVALA",
+          "minute": "12"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Daisuke ICHIKAWA",
+          "player_off": "Alessandro SANTOS",
+          "minute": "45"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takayuki SUZUKI",
+          "player_off": "Junichi INAMOTO",
+          "minute": "45"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Nihat KAHVECI",
+          "player_off": "Umit DAVALA",
+          "minute": "74"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Tayfur HAVUTCU",
+          "player_off": "Hasan SAS",
+          "minute": "85"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hiroaki MORISHIMA",
+          "player_off": "Daisuke ICHIKAWA",
+          "minute": "86"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Ilhan MANSIZ",
+          "player_off": "Yildiray BASTURK",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Seigo NARAZAKI",
+          "Naoki MATSUDA",
+          "Koji NAKATA",
+          "Tsuneyasu MIYAMOTO",
+          "Junichi INAMOTO",
+          "Hidetoshi NAKATA",
+          "Alessandro SANTOS",
+          "Shinji Ono",
+          "Tomokazu MYOJIN",
+          "Kazuyuki TODA",
+          "Akinori NISHIZAWA"
+        ],
+        "away": [
+          "Rustu RECBER",
+          "Bulent KORKMAZ",
+          "Fatih AKYEL",
+          "Alpay OZALAN",
+          "Hakan UNSAL",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Ergun PENBE",
+          "Umit DAVALA",
+          "Hakan SUKUR",
+          "Hasan SAS"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-18",
+      "stage": "Round of 16",
+      "venue": "Daejeon World Cup Stadium",
+      "city": "Daejeon",
+      "home_team": "South Korea",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "18"
+        },
+        {
+          "team": "South Korea",
+          "player": "SEOL Ki Hyeon",
+          "minute": "88"
+        },
+        {
+          "team": "South Korea",
+          "player": "AHN Jung Hwan",
+          "minute": "117"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Gennaro GATTUSO",
+          "player_off": "Alessandro DEL PIERO",
+          "minute": "61"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Sun Hong",
+          "player_off": "KIM Taeyoung",
+          "minute": "63"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Chun Soo",
+          "player_off": "KIM Namil",
+          "minute": "68"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Angelo DI LIVIO",
+          "player_off": "Gianluca ZAMBROTTA",
+          "minute": "72"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHA Duri",
+          "player_off": "HONG Myungbo",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "LEE Woonjae",
+          "CHOI Jincheul",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "KIM Namil",
+          "YOO Sang Chul",
+          "LEE Youngpyo",
+          "AHN Jung Hwan",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "SEOL Ki Hyeon"
+        ],
+        "away": [
+          "Gianluigi BUFFON",
+          "Christian PANUCCI",
+          "Paolo MALDINI",
+          "Francesco COCO",
+          "Mark IULIANO",
+          "Cristiano ZANETTI",
+          "Damiano TOMMASI",
+          "Gianluca ZAMBROTTA",
+          "Alessandro DEL PIERO",
+          "Francesco TOTTI",
+          "Christian VIERI"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-21",
+      "stage": "Quarterfinal",
+      "venue": "Ulsan Munsu Football Stadium",
+      "city": "Ulsan",
+      "home_team": "England",
+      "away_team": "Brazil",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Michael OWEN",
+          "minute": "23"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "45+2"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDINHO",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Kieron DYER",
+          "player_off": "Trevor SINCLAIR",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EDILSON",
+          "player_off": "RONALDO",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Darius VASSELL",
+          "player_off": "Michael OWEN",
+          "minute": "79"
+        },
+        {
+          "team": "England",
+          "player_on": "Teddy SHERINGHAM",
+          "player_off": "Ashley COLE",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David SEAMAN",
+          "Danny MILLS",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "Sol CAMPBELL",
+          "Trevor SINCLAIR",
+          "David BECKHAM",
+          "Paul SCHOLES",
+          "Nicky BUTT",
+          "Michael OWEN",
+          "Emile HESKEY"
+        ],
+        "away": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "ROQUE JUNIOR",
+          "EDMILSON",
+          "ROBERTO CARLOS",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "RONALDINHO",
+          "KLEBERSON",
+          "RONALDO"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-21",
+      "stage": "Quarterfinal",
+      "venue": "Munsu Football Stadium",
+      "city": "Ulsan",
+      "home_team": "Germany",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Michael BALLACK",
+          "minute": "39"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Clint MATHIS",
+          "player_off": "Brian McBRIDE",
+          "minute": "58"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Jens JEREMIES",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "60"
+        },
+        {
+          "team": "United States",
+          "player_on": "Cobi JONES",
+          "player_off": "Frankie HEJDUK",
+          "minute": "65"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marco BODE",
+          "player_off": "Oliver NEUVILLE",
+          "minute": "80"
+        },
+        {
+          "team": "United States",
+          "player_on": "Earnie STEWART",
+          "player_off": "Pablo MASTROENI",
+          "minute": "80"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver BIERHOFF",
+          "player_off": "Miroslav KLOSE",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Christian ZIEGE",
+          "Sebastian KEHL",
+          "Christoph METZELDER",
+          "Didi HAMANN",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Oliver NEUVILLE",
+          "Miroslav KLOSE"
+        ],
+        "away": [
+          "Brad FRIEDEL",
+          "Frankie HEJDUK",
+          "Gregg BERHALTER",
+          "Pablo MASTROENI",
+          "Tony SANNEH",
+          "Eddie POPE",
+          "John O BRIEN",
+          "Eddie LEWIS",
+          "Claudio REYNA",
+          "Landon DONOVAN",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-22",
+      "stage": "Quarterfinal",
+      "venue": "Gwangju World Cup Stadium",
+      "city": "Gwangju",
+      "home_team": "Spain",
+      "away_team": "South Korea",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 5
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "LEE Eul Yong",
+          "player_off": "KIM Namil",
+          "minute": "32"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Chun Soo",
+          "player_off": "YOO Sang Chul",
+          "minute": "60"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Gaizka MENDIETA",
+          "player_off": "DE PEDRO",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "LUIS ENRIQUE",
+          "player_off": "Juan Carlos VALERON",
+          "minute": "80"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Sun Hong",
+          "player_off": "KIM Taeyoung",
+          "minute": "90"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Xavi HERNANDEZ",
+          "player_off": "Ivan HELGUERA",
+          "minute": "93"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Carles PUYOL",
+          "Fernando HIERRO",
+          "Enrique ROMERO",
+          "Miguel Angel NADAL",
+          "Ivan HELGUERA",
+          "Ruben BARAJA",
+          "DE PEDRO",
+          "Juan Carlos VALERON",
+          "JOAQUÍN",
+          "Fernando MORIENTES"
+        ],
+        "away": [
+          "LEE Woonjae",
+          "CHOI Jincheul",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "KIM Namil",
+          "YOO Sang Chul",
+          "LEE Youngpyo",
+          "AHN Jung Hwan",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "SEOL Ki Hyeon"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-22",
+      "stage": "Quarterfinal",
+      "venue": "Shizuoka Stadium",
+      "city": "Shizuoka",
+      "home_team": "Senegal",
+      "away_team": "Turkey",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Ilhan MANSIZ",
+          "minute": "94"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Turkey",
+          "player_on": "Ilhan MANSIZ",
+          "player_off": "Hakan SUKUR",
+          "minute": "67"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Arif ERDEM",
+          "player_off": "Emre BELOZOGLU",
+          "minute": "91"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tony SYLVA",
+          "Omar DAF",
+          "Papa Malick DIOP",
+          "Aliou CISSE",
+          "Lamine DIATTA",
+          "Ferdinand COLY",
+          "Khalilou FADIGA",
+          "Salif DIAO",
+          "Bouba DIOP",
+          "Henri CAMARA",
+          "El Hadji DIOUF"
+        ],
+        "away": [
+          "Rustu RECBER",
+          "Bulent KORKMAZ",
+          "Fatih AKYEL",
+          "Alpay OZALAN",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Ergun PENBE",
+          "Emre BELOZOGLU",
+          "Umit DAVALA",
+          "Hakan SUKUR",
+          "Hasan SAS"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-25",
+      "stage": "Semifinal",
+      "venue": "Seoul World Cup Stadium",
+      "city": "Seoul",
+      "home_team": "Germany",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Michael BALLACK",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "AHN Jung Hwan",
+          "player_off": "HWANG Sun Hong",
+          "minute": "54"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Minsung",
+          "player_off": "CHOI Jincheul",
+          "minute": "56"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver BIERHOFF",
+          "player_off": "Miroslav KLOSE",
+          "minute": "70"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SEOL Ki Hyeon",
+          "player_off": "HONG Myungbo",
+          "minute": "80"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Jens JEREMIES",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "85"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Gerald ASAMOAH",
+          "player_off": "Oliver NEUVILLE",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Christoph METZELDER",
+          "Carsten RAMELOW",
+          "Didi HAMANN",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Oliver NEUVILLE",
+          "Miroslav KLOSE",
+          "Marco BODE"
+        ],
+        "away": [
+          "LEE Woonjae",
+          "CHOI Jincheul",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "YOO Sang Chul",
+          "LEE Youngpyo",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "LEE Chun Soo",
+          "CHA Duri",
+          "HWANG Sun Hong"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-26",
+      "stage": "Semifinal",
+      "venue": "Saitama Stadium",
+      "city": "Saitama",
+      "home_team": "Brazil",
+      "away_team": "Turkey",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Turkey",
+          "player_on": "Ilhan MANSIZ",
+          "player_off": "Emre BELOZOGLU",
+          "minute": "62"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "LUIZAO",
+          "player_off": "RONALDO",
+          "minute": "68"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Muzzy IZZET",
+          "player_off": "Umit DAVALA",
+          "minute": "74"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "EDILSON",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "BELLETTI",
+          "player_off": "KLEBERSON",
+          "minute": "85"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Arif ERDEM",
+          "player_off": "Yildiray BASTURK",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "ROQUE JUNIOR",
+          "EDMILSON",
+          "ROBERTO CARLOS",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "KLEBERSON",
+          "RONALDO",
+          "EDILSON"
+        ],
+        "away": [
+          "Rustu RECBER",
+          "Bulent KORKMAZ",
+          "Fatih AKYEL",
+          "Alpay OZALAN",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Ergun PENBE",
+          "Emre BELOZOGLU",
+          "Umit DAVALA",
+          "Hakan SUKUR",
+          "Hasan SAS"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-29",
+      "stage": "Third-place match",
+      "venue": "Daegu World Cup Stadium",
+      "city": "Daegu",
+      "home_team": "South Korea",
+      "away_team": "Turkey",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Hakan SUKUR",
+          "minute": "1"
+        },
+        {
+          "team": "South Korea",
+          "player": "LEE Eul Yong",
+          "minute": "9"
+        },
+        {
+          "team": "Turkey",
+          "player": "Ilhan MANSIZ",
+          "minute": "13"
+        },
+        {
+          "team": "Turkey",
+          "player": "Ilhan MANSIZ",
+          "minute": "32"
+        },
+        {
+          "team": "South Korea",
+          "player": "SONG Chong Gug",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Turkey",
+          "player_on": "Hakan UNSAL",
+          "player_off": "Emre BELOZOGLU",
+          "minute": "41"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Taeyoung",
+          "player_off": "HONG Myungbo",
+          "minute": "45"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHA Duri",
+          "player_off": "LEE Eul Yong",
+          "minute": "65"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Okan BURUK",
+          "player_off": "Umit DAVALA",
+          "minute": "76"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHOI Tae Uk",
+          "player_off": "SEOL Ki Hyeon",
+          "minute": "79"
+        },
+        {
+          "team": "Turkey",
+          "player_on": "Tayfur HAVUTCU",
+          "player_off": "Yildiray BASTURK",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "LEE Woonjae",
+          "LEE Minsung",
+          "HONG Myungbo",
+          "YOO Sang Chul",
+          "LEE Youngpyo",
+          "LEE Eul Yong",
+          "AHN Jung Hwan",
+          "PARK Jisung",
+          "SONG Chong Gug",
+          "SEOL Ki Hyeon",
+          "LEE Chun Soo"
+        ],
+        "away": [
+          "Rustu RECBER",
+          "Bulent KORKMAZ",
+          "Fatih AKYEL",
+          "Alpay OZALAN",
+          "Tugay KERIMOGLU",
+          "Yildiray BASTURK",
+          "Ergun PENBE",
+          "Emre BELOZOGLU",
+          "Umit DAVALA",
+          "Hakan SUKUR",
+          "Ilhan MANSIZ"
+        ]
+      }
+    },
+    {
+      "date": "2002-06-30",
+      "stage": "Final",
+      "venue": "International Stadium Yokohama",
+      "city": "Yokohama",
+      "home_team": "Brazil",
+      "away_team": "Germany",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "67"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Oliver BIERHOFF",
+          "player_off": "Miroslav KLOSE",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Gerald ASAMOAH",
+          "player_off": "Jens JEREMIES",
+          "minute": "77"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Christian ZIEGE",
+          "player_off": "Marco BODE",
+          "minute": "84"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "JUNINHO PAULISTA",
+          "player_off": "RONALDINHO",
+          "minute": "85"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "RONALDO",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MARCOS",
+          "CAFU",
+          "LUCIO",
+          "ROQUE JUNIOR",
+          "EDMILSON",
+          "ROBERTO CARLOS",
+          "GILBERTO SILVA",
+          "RIVALDO",
+          "RONALDINHO",
+          "KLEBERSON",
+          "RONALDO"
+        ],
+        "away": [
+          "Oliver KAHN",
+          "Thomas LINKE",
+          "Christoph METZELDER",
+          "Carsten RAMELOW",
+          "Didi HAMANN",
+          "Jens JEREMIES",
+          "Bernd SCHNEIDER",
+          "Torsten FRINGS",
+          "Oliver NEUVILLE",
+          "Miroslav KLOSE",
+          "Marco BODE"
+        ]
+      }
+    }
+  ]
+}

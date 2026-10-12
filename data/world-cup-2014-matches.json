@@ -1,0 +1,5952 @@
+{
+  "tournament": "FIFA World Cup 2014",
+  "host_country": "Brazil",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/2014full.html",
+    "https://www.rsssf.org/tables/2014f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/2014/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "2014-06-12",
+      "stage": "Group A",
+      "venue": "Arena Corinthians",
+      "city": "São Paulo",
+      "home_team": "Brazil",
+      "away_team": "Croatia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "MARCELO",
+          "minute": "10",
+          "own_goal": true
+        },
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "28"
+        },
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "70",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "OSCAR",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Marcelo BROZOVIC",
+          "player_off": "Mateo KOVACIC",
+          "minute": "60"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "HERNANES",
+          "player_off": "PAULINHO",
+          "minute": "62"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "BERNARD",
+          "player_off": "HULK",
+          "minute": "67"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ante REBIC",
+          "player_off": "Nikica JELAVIC",
+          "minute": "77"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "NEYMAR",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "DANI ALVES",
+          "THIAGO SILVA",
+          "DAVID LUIZ",
+          "MARCELO",
+          "PAULINHO",
+          "OSCAR",
+          "LUIZ GUSTAVO",
+          "HULK",
+          "Fred",
+          "NEYMAR"
+        ],
+        "away": [
+          "Stipe PLETIKOSA",
+          "Sime VRSALJKO",
+          "Vedran CORLUKA",
+          "Dejan Lovren",
+          "Darijo SRNA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "Mateo KOVACIC",
+          "Nikica JELAVIC",
+          "Ivica OLIC"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-13",
+      "stage": "Group A",
+      "venue": "Arena das Dunas",
+      "city": "Natal",
+      "home_team": "Mexico",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Oribe PERALTA",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Dany NOUNKEU",
+          "player_off": "Cedric DJEUGOUE",
+          "minute": "45"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Marco FABIAN",
+          "player_off": "Andres GUARDADO",
+          "minute": "68"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Oribe PERALTA",
+          "minute": "73"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Pierre Webó",
+          "player_off": "Alexandre SONG",
+          "minute": "78"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Carlos SALCIDO",
+          "player_off": "Hector HERRERA",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Guillermo OCHOA",
+          "Francisco RODRIGUEZ",
+          "Rafael MARQUEZ",
+          "Miguel LAYUN",
+          "Hector MORENO",
+          "Andres GUARDADO",
+          "Paul AGUILAR",
+          "Hector HERRERA",
+          "Jose VAZQUEZ",
+          "Giovani DOS SANTOS",
+          "Oribe PERALTA"
+        ],
+        "away": [
+          "Charles ITANDJE",
+          "Benoit ASSOU-EKOTTO",
+          "Nicolas NKOULOU",
+          "Cedric DJEUGOUE",
+          "Aurelien CHEDJOU",
+          "Alexandre SONG",
+          "Stephane MBIA",
+          "Eyong ENOH",
+          "Benjamin MOUKANDJO",
+          "Samuel ETOO",
+          "CHOUPO-MOTING Eric Maxim"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-17",
+      "stage": "Group A",
+      "venue": "Estádio Castelão",
+      "city": "Fortaleza",
+      "home_team": "Brazil",
+      "away_team": "Mexico",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "BERNARD",
+          "player_off": "RAMIRES",
+          "minute": "45"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "JO",
+          "player_off": "Fred",
+          "minute": "67"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Oribe PERALTA",
+          "minute": "73"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Marco FABIAN",
+          "player_off": "Hector HERRERA",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "WILLIAN",
+          "player_off": "OSCAR",
+          "minute": "83"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul JIMENEZ",
+          "player_off": "Giovani DOS SANTOS",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "DANI ALVES",
+          "THIAGO SILVA",
+          "DAVID LUIZ",
+          "MARCELO",
+          "PAULINHO",
+          "OSCAR",
+          "RAMIRES",
+          "LUIZ GUSTAVO",
+          "Fred",
+          "NEYMAR"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Francisco RODRIGUEZ",
+          "Rafael MARQUEZ",
+          "Miguel LAYUN",
+          "Hector MORENO",
+          "Andres GUARDADO",
+          "Paul AGUILAR",
+          "Hector HERRERA",
+          "Jose VAZQUEZ",
+          "Giovani DOS SANTOS",
+          "Oribe PERALTA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-18",
+      "stage": "Group A",
+      "venue": "Arena Amazonia",
+      "city": "Manaus",
+      "home_team": "Cameroon",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Ivica OLIC",
+          "minute": "10"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan PERISIC",
+          "minute": "47"
+        },
+        {
+          "team": "Croatia",
+          "player": "Mario MANDZUKIC",
+          "minute": "60"
+        },
+        {
+          "team": "Croatia",
+          "player": "Mario MANDZUKIC",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Dany NOUNKEU",
+          "player_off": "Aurelien CHEDJOU",
+          "minute": "45"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "EDUARDO",
+          "player_off": "Ivica OLIC",
+          "minute": "68"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Pierre Webó",
+          "player_off": "Vincent ABOUBAKAR",
+          "minute": "69"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mateo KOVACIC",
+          "player_off": "SAMMIR",
+          "minute": "71"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Edgar SALLI",
+          "player_off": "CHOUPO-MOTING Eric Maxim",
+          "minute": "74"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ante REBIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Charles ITANDJE",
+          "Benoit ASSOU-EKOTTO",
+          "Nicolas NKOULOU",
+          "Aurelien CHEDJOU",
+          "Alexandre SONG",
+          "Stephane MBIA",
+          "Eyong ENOH",
+          "Joel MATIP",
+          "Benjamin MOUKANDJO",
+          "Vincent ABOUBAKAR",
+          "CHOUPO-MOTING Eric Maxim"
+        ],
+        "away": [
+          "Stipe PLETIKOSA",
+          "Danijel PRANJIC",
+          "Vedran CORLUKA",
+          "Dejan Lovren",
+          "Darijo SRNA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "SAMMIR",
+          "Mario MANDZUKIC",
+          "Ivica OLIC"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-23",
+      "stage": "Group A",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "Cameroon",
+      "away_team": "Brazil",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "16"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Joel MATIP",
+          "minute": "25"
+        },
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player": "Fred",
+          "minute": "48"
+        },
+        {
+          "team": "Brazil",
+          "player": "FERNANDINHO",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "FERNANDINHO",
+          "player_off": "PAULINHO",
+          "minute": "45"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Edgar SALLI",
+          "player_off": "Benjamin MOUKANDJO",
+          "minute": "57"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "HULK",
+          "minute": "62"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "WILLIAN",
+          "player_off": "NEYMAR",
+          "minute": "70"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Pierre Webó",
+          "player_off": "Vincent ABOUBAKAR",
+          "minute": "71"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Jean MAKOUN",
+          "player_off": "CHOUPO-MOTING Eric Maxim",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Charles ITANDJE",
+          "Nicolas NKOULOU",
+          "Henri BEDIMO",
+          "Allan NYOM",
+          "Landry NGUEMO",
+          "Stephane MBIA",
+          "Eyong ENOH",
+          "Joel MATIP",
+          "Benjamin MOUKANDJO",
+          "Vincent ABOUBAKAR",
+          "CHOUPO-MOTING Eric Maxim"
+        ],
+        "away": [
+          "JULIO CESAR",
+          "DANI ALVES",
+          "THIAGO SILVA",
+          "DAVID LUIZ",
+          "MARCELO",
+          "PAULINHO",
+          "OSCAR",
+          "LUIZ GUSTAVO",
+          "HULK",
+          "Fred",
+          "NEYMAR"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-23",
+      "stage": "Group A",
+      "venue": "Arena Pernambuco",
+      "city": "Recife",
+      "home_team": "Croatia",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Rafael MARQUEZ",
+          "minute": "71"
+        },
+        {
+          "team": "Mexico",
+          "player": "Andres GUARDADO",
+          "minute": "74"
+        },
+        {
+          "team": "Mexico",
+          "player": "Javier HERNANDEZ",
+          "minute": "81"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan PERISIC",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Mateo KOVACIC",
+          "player_off": "Sime VRSALJKO",
+          "minute": "57"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Giovani DOS SANTOS",
+          "minute": "61"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ante REBIC",
+          "player_off": "Ivica OLIC",
+          "minute": "68"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Nikica JELAVIC",
+          "player_off": "Danijel PRANJIC",
+          "minute": "73"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Carlos PENA",
+          "player_off": "Oribe PERALTA",
+          "minute": "78"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Marco FABIAN",
+          "player_off": "Andres GUARDADO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Stipe PLETIKOSA",
+          "Sime VRSALJKO",
+          "Danijel PRANJIC",
+          "Vedran CORLUKA",
+          "Dejan Lovren",
+          "Darijo SRNA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "Mario MANDZUKIC",
+          "Ivica OLIC"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Francisco RODRIGUEZ",
+          "Rafael MARQUEZ",
+          "Miguel LAYUN",
+          "Hector MORENO",
+          "Andres GUARDADO",
+          "Paul AGUILAR",
+          "Hector HERRERA",
+          "Jose VAZQUEZ",
+          "Giovani DOS SANTOS",
+          "Oribe PERALTA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-13",
+      "stage": "Group B",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Spain",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 1,
+        "away": 5
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Xabi ALONSO",
+          "minute": "26",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Robin VAN PERSIE",
+          "minute": "43"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Arjen ROBBEN",
+          "minute": "52"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Stefan de Vrij",
+          "minute": "64"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Robin VAN PERSIE",
+          "minute": "71"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Arjen ROBBEN",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "PEDRO",
+          "player_off": "Xabi ALONSO",
+          "minute": "61"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Georginio WIJNALDUM",
+          "player_off": "Jonathan DE GUZMAN",
+          "minute": "61"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando TORRES",
+          "player_off": "Diego COSTA",
+          "minute": "62"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Joel VELTMAN",
+          "player_off": "Stefan de Vrij",
+          "minute": "76"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "David SILVA",
+          "minute": "77"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Jeremain LENS",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Gerard PIQUE",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "Andres INIESTA",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David SILVA",
+          "Cesar AZPILICUETA",
+          "Diego COSTA"
+        ],
+        "away": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Bruno MARTINS INDI",
+          "Daley Blind",
+          "Daryl JANMAAT",
+          "Nigel DE JONG",
+          "Jonathan DE GUZMAN",
+          "Wesley SNEIJDER",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-13",
+      "stage": "Group B",
+      "venue": "Arena Pantanal",
+      "city": "Cuiabá",
+      "home_team": "Chile",
+      "away_team": "Australia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Alexis SANCHEZ",
+          "minute": "11"
+        },
+        {
+          "team": "Chile",
+          "player": "Jorge VALDIVIA",
+          "minute": "13"
+        },
+        {
+          "team": "Australia",
+          "player": "Tim CAHILL",
+          "minute": "34"
+        },
+        {
+          "team": "Chile",
+          "player": "Jean BEAUSEJOUR",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Ryan McGOWAN",
+          "player_off": "Ivan FRANJIC",
+          "minute": "48"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Felipe GUTIERREZ",
+          "player_off": "Arturo VIDAL",
+          "minute": "59"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jean BEAUSEJOUR",
+          "player_off": "Jorge VALDIVIA",
+          "minute": "67"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Ben HALLORAN",
+          "player_off": "Tommy OAR",
+          "minute": "67"
+        },
+        {
+          "team": "Australia",
+          "player_on": "James TROISI",
+          "player_off": "Mark BRESCIANO",
+          "minute": "77"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Mauricio PINILLA",
+          "player_off": "Eduardo VARGAS",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Claudio BRAVO",
+          "Eugenio MENA",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Gonzalo JARA",
+          "Arturo VIDAL",
+          "Jorge VALDIVIA",
+          "Charles ARANGUIZ",
+          "Marcelo DIAZ",
+          "Alexis SANCHEZ",
+          "Eduardo VARGAS"
+        ],
+        "away": [
+          "Mathew RYAN",
+          "Ivan FRANJIC",
+          "DAVIDSON Jason",
+          "Matthew SPIRANOVIC",
+          "Alex WILKINSON",
+          "Mark MILLIGAN",
+          "Tommy OAR",
+          "Mile JEDINAK",
+          "Mark BRESCIANO",
+          "Tim CAHILL",
+          "Mathew LECKIE"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-18",
+      "stage": "Group B",
+      "venue": "Estádio Beira-Rio",
+      "city": "Porto Alegre",
+      "home_team": "Australia",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Arjen ROBBEN",
+          "minute": "19"
+        },
+        {
+          "team": "Australia",
+          "player": "Tim CAHILL",
+          "minute": "20"
+        },
+        {
+          "team": "Australia",
+          "player": "Mile JEDINAK",
+          "minute": "53",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Robin VAN PERSIE",
+          "minute": "57"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Memphis Depay",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Memphis Depay",
+          "player_off": "Bruno MARTINS INDI",
+          "minute": "45+2"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Oliver BOZANIC",
+          "player_off": "Mark BRESCIANO",
+          "minute": "50"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Ben HALLORAN",
+          "player_off": "Tim CAHILL",
+          "minute": "68"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Adam TAGGART",
+          "player_off": "Tommy OAR",
+          "minute": "76"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Georginio WIJNALDUM",
+          "player_off": "Jonathan DE GUZMAN",
+          "minute": "77"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Jeremain LENS",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mathew RYAN",
+          "DAVIDSON Jason",
+          "Matthew SPIRANOVIC",
+          "Ryan McGOWAN",
+          "Alex WILKINSON",
+          "Tommy OAR",
+          "Mile JEDINAK",
+          "Matt McKAY",
+          "Mark BRESCIANO",
+          "Tim CAHILL",
+          "Mathew LECKIE"
+        ],
+        "away": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Bruno MARTINS INDI",
+          "Daley Blind",
+          "Daryl JANMAAT",
+          "Nigel DE JONG",
+          "Jonathan DE GUZMAN",
+          "Wesley SNEIJDER",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-18",
+      "stage": "Group B",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Spain",
+      "away_team": "Chile",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Eduardo VARGAS",
+          "minute": "19"
+        },
+        {
+          "team": "Chile",
+          "player": "Charles ARANGUIZ",
+          "minute": "42"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "KOKE",
+          "player_off": "Xabi ALONSO",
+          "minute": "45"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando TORRES",
+          "player_off": "Diego COSTA",
+          "minute": "63"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Felipe GUTIERREZ",
+          "player_off": "Charles ARANGUIZ",
+          "minute": "63"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Santi Cazorla",
+          "player_off": "PEDRO",
+          "minute": "75"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jorge VALDIVIA",
+          "player_off": "Eduardo VARGAS",
+          "minute": "84"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Carlos CARMONA",
+          "player_off": "Arturo VIDAL",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "MARTINEZ Javi",
+          "Andres INIESTA",
+          "Xabi ALONSO",
+          "Sergio BUSQUETS",
+          "David SILVA",
+          "Cesar AZPILICUETA",
+          "PEDRO",
+          "Diego COSTA"
+        ],
+        "away": [
+          "Claudio BRAVO",
+          "Eugenio MENA",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Gonzalo JARA",
+          "Francisco SILVA",
+          "Arturo VIDAL",
+          "Charles ARANGUIZ",
+          "Marcelo DIAZ",
+          "Alexis SANCHEZ",
+          "Eduardo VARGAS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-23",
+      "stage": "Group B",
+      "venue": "Arena da Baixada",
+      "city": "Curitiba",
+      "home_team": "Australia",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "35"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando TORRES",
+          "minute": "68"
+        },
+        {
+          "team": "Spain",
+          "player": "Juan MATA",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Ben HALLORAN",
+          "player_off": "Adam TAGGART",
+          "minute": "45"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Juan MATA",
+          "player_off": "David VILLA",
+          "minute": "55"
+        },
+        {
+          "team": "Australia",
+          "player_on": "James TROISI",
+          "player_off": "Tommy OAR",
+          "minute": "60"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Santi Cazorla",
+          "minute": "67"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Mark BRESCIANO",
+          "player_off": "Oliver BOZANIC",
+          "minute": "71"
+        },
+        {
+          "team": "Spain",
+          "player_on": "David SILVA",
+          "player_off": "Xabi ALONSO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mathew RYAN",
+          "DAVIDSON Jason",
+          "Matthew SPIRANOVIC",
+          "Ryan McGOWAN",
+          "Alex WILKINSON",
+          "Tommy OAR",
+          "Oliver BOZANIC",
+          "Mile JEDINAK",
+          "Matt McKAY",
+          "Mathew LECKIE",
+          "Adam TAGGART"
+        ],
+        "away": [
+          "Pepe REINA",
+          "Raul ALBIOL",
+          "JUANFRAN",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "Andres INIESTA",
+          "Xabi ALONSO",
+          "KOKE",
+          "Santi Cazorla",
+          "David VILLA",
+          "Fernando TORRES"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-23",
+      "stage": "Group B",
+      "venue": "Arena de São Paulo",
+      "city": "São Paulo",
+      "home_team": "Netherlands",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Leroy FER",
+          "minute": "76"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Memphis Depay",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Jean BEAUSEJOUR",
+          "player_off": "Felipe GUTIERREZ",
+          "minute": "45"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Memphis Depay",
+          "player_off": "Jeremain LENS",
+          "minute": "68"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jorge VALDIVIA",
+          "player_off": "Francisco SILVA",
+          "minute": "69"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Leroy FER",
+          "player_off": "Wesley SNEIJDER",
+          "minute": "74"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Mauricio PINILLA",
+          "player_off": "Eduardo VARGAS",
+          "minute": "80"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Terence Kongolo",
+          "player_off": "Dirk KUYT",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Daley Blind",
+          "Daryl JANMAAT",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Georginio WIJNALDUM",
+          "Arjen ROBBEN",
+          "Dirk KUYT",
+          "Jeremain LENS"
+        ],
+        "away": [
+          "Claudio BRAVO",
+          "Eugenio MENA",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Gonzalo JARA",
+          "Francisco SILVA",
+          "Felipe GUTIERREZ",
+          "Charles ARANGUIZ",
+          "Marcelo DIAZ",
+          "Alexis SANCHEZ",
+          "Eduardo VARGAS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-14",
+      "stage": "Group C",
+      "venue": "Mineirão",
+      "city": "Belo Horizonte",
+      "home_team": "Colombia",
+      "away_team": "Greece",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Pablo ARMERO",
+          "minute": "5"
+        },
+        {
+          "team": "Colombia",
+          "player": "Teofilo GUTIERREZ",
+          "minute": "57"
+        },
+        {
+          "team": "Colombia",
+          "player": "James RODRIGUEZ",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Ioannis Fetfazidis",
+          "player_off": "Dimitrios SALPINGIDIS",
+          "minute": "56"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Konstantinos Mitroglou",
+          "player_off": "Theofanis GEKAS",
+          "minute": "63"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Alexander MEJIA",
+          "player_off": "Abel AGUILAR",
+          "minute": "68"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Santiago ARIAS",
+          "player_off": "Pablo ARMERO",
+          "minute": "73"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Jackson MARTINEZ",
+          "player_off": "Teofilo GUTIERREZ",
+          "minute": "75"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Georgios KARAGOUNIS",
+          "player_off": "Panagiotis KONE",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David OSPINA",
+          "Cristian ZAPATA",
+          "Mario YEPES",
+          "Pablo ARMERO",
+          "Juan ZUNIGA",
+          "Carlos SANCHEZ",
+          "Abel AGUILAR",
+          "James RODRIGUEZ",
+          "Juan CUADRADO",
+          "Teofilo GUTIERREZ",
+          "Victor IBARBO"
+        ],
+        "away": [
+          "Orestis KARNEZIS",
+          "Konstantinos Manolas",
+          "Vasileios TOROSIDIS",
+          "Sokratis Papastathopoulos",
+          "Jose CHOLEVAS",
+          "Ioannis MANIATIS",
+          "Panagiotis KONE",
+          "Konstantinos KATSOURANIS",
+          "Georgios SAMARAS",
+          "Dimitrios SALPINGIDIS",
+          "Theofanis GEKAS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-14",
+      "stage": "Group C",
+      "venue": "Arena Pernambuco",
+      "city": "Recife",
+      "home_team": "Ivory Coast",
+      "away_team": "Japan",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Keisuke HONDA",
+          "minute": "15"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Wilfried BONY",
+          "minute": "63"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "GERVINHO",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Yasuhito ENDO",
+          "player_off": "Makoto Hasebe",
+          "minute": "53"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Didier DROGBA",
+          "player_off": "Serey DIE",
+          "minute": "61"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Yoshito OKUBO",
+          "player_off": "Yuya OSAKO",
+          "minute": "66"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Constant DJAKPA",
+          "player_off": "Arthur BOKA",
+          "minute": "74"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Didier Konan",
+          "player_off": "Wilfried BONY",
+          "minute": "77"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Yoichiro Kakitani",
+          "player_off": "Shinji KAGAWA",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Boubacar BARRY",
+          "Arthur BOKA",
+          "Didier ZOKORA",
+          "Serge AURIER",
+          "Souleymane Bamba",
+          "Cheick TIOTÉ",
+          "Yaya TOURE",
+          "Serey DIE",
+          "Salomon KALOU",
+          "GERVINHO",
+          "Wilfried BONY"
+        ],
+        "away": [
+          "Eiji Kawashima",
+          "Atsuto UCHIDA",
+          "Yuto Nagatomo",
+          "Masato Morishige",
+          "Maya Yoshida",
+          "Hotaru Yamaguchi",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Shinji OKAZAKI",
+          "Shinji KAGAWA",
+          "Yuya OSAKO"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-19",
+      "stage": "Group C",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "Colombia",
+      "away_team": "Ivory Coast",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "James RODRIGUEZ",
+          "minute": "63"
+        },
+        {
+          "team": "Colombia",
+          "player": "Juan QUINTERO",
+          "minute": "69"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "GERVINHO",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Juan QUINTERO",
+          "player_off": "Victor IBARBO",
+          "minute": "52"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Didier DROGBA",
+          "player_off": "Wilfried BONY",
+          "minute": "59"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Salomon KALOU",
+          "player_off": "Max GRADEL",
+          "minute": "66"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Santiago ARIAS",
+          "player_off": "Pablo ARMERO",
+          "minute": "71"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Mathis BOLLY",
+          "player_off": "Serey DIE",
+          "minute": "72"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Alexander MEJIA",
+          "player_off": "Abel AGUILAR",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David OSPINA",
+          "Cristian ZAPATA",
+          "Mario YEPES",
+          "Pablo ARMERO",
+          "Juan ZUNIGA",
+          "Carlos SANCHEZ",
+          "Abel AGUILAR",
+          "James RODRIGUEZ",
+          "Juan CUADRADO",
+          "Teofilo GUTIERREZ",
+          "Victor IBARBO"
+        ],
+        "away": [
+          "Boubacar BARRY",
+          "Arthur BOKA",
+          "Didier ZOKORA",
+          "Serge AURIER",
+          "Souleymane Bamba",
+          "Cheick TIOTÉ",
+          "Max GRADEL",
+          "Yaya TOURE",
+          "Serey DIE",
+          "GERVINHO",
+          "Wilfried BONY"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-19",
+      "stage": "Group C",
+      "venue": "Arena das Dunas",
+      "city": "Natal",
+      "home_team": "Japan",
+      "away_team": "Greece",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Theofanis GEKAS",
+          "player_off": "Konstantinos Mitroglou",
+          "minute": "34"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Georgios KARAGOUNIS",
+          "player_off": "Ioannis Fetfazidis",
+          "minute": "40"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Yasuhito ENDO",
+          "player_off": "Makoto Hasebe",
+          "minute": "45"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji KAGAWA",
+          "player_off": "Yuya OSAKO",
+          "minute": "56"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Dimitrios SALPINGIDIS",
+          "player_off": "Panagiotis KONE",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Eiji Kawashima",
+          "Atsuto UCHIDA",
+          "Yuto Nagatomo",
+          "Yasuyuki KONNO",
+          "Maya Yoshida",
+          "Hotaru Yamaguchi",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Shinji OKAZAKI",
+          "Yoshito OKUBO",
+          "Yuya OSAKO"
+        ],
+        "away": [
+          "Orestis KARNEZIS",
+          "Konstantinos Manolas",
+          "Vasileios TOROSIDIS",
+          "Sokratis Papastathopoulos",
+          "Jose CHOLEVAS",
+          "Ioannis MANIATIS",
+          "Panagiotis KONE",
+          "Konstantinos KATSOURANIS",
+          "Georgios SAMARAS",
+          "Konstantinos Mitroglou",
+          "Ioannis Fetfazidis"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-24",
+      "stage": "Group C",
+      "venue": "Arena Pantanal",
+      "city": "Cuiabá",
+      "home_team": "Japan",
+      "away_team": "Colombia",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Juan CUADRADO",
+          "minute": "16",
+          "penalty": true
+        },
+        {
+          "team": "Japan",
+          "player": "Shinji OKAZAKI",
+          "minute": "45"
+        },
+        {
+          "team": "Colombia",
+          "player": "Jackson MARTINEZ",
+          "minute": "54"
+        },
+        {
+          "team": "Colombia",
+          "player": "Jackson MARTINEZ",
+          "minute": "81"
+        },
+        {
+          "team": "Colombia",
+          "player": "James RODRIGUEZ",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Carlos CARBONERO",
+          "player_off": "Juan CUADRADO",
+          "minute": "45"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "James RODRIGUEZ",
+          "player_off": "Juan QUINTERO",
+          "minute": "45"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hotaru Yamaguchi",
+          "player_off": "Toshihiro Aoyama",
+          "minute": "61"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Yoichiro Kakitani",
+          "player_off": "Shinji OKAZAKI",
+          "minute": "68"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hiroshi Kiyotake",
+          "player_off": "Shinji KAGAWA",
+          "minute": "84"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Faryd MONDRAGON",
+          "player_off": "David OSPINA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Eiji Kawashima",
+          "Atsuto UCHIDA",
+          "Yuto Nagatomo",
+          "Yasuyuki KONNO",
+          "Maya Yoshida",
+          "Toshihiro Aoyama",
+          "Makoto Hasebe",
+          "Keisuke HONDA",
+          "Shinji OKAZAKI",
+          "Shinji KAGAWA",
+          "Yoshito OKUBO"
+        ],
+        "away": [
+          "David OSPINA",
+          "Santiago ARIAS",
+          "Pablo ARMERO",
+          "Eder BALANTA",
+          "Carlos VALDES",
+          "Juan CUADRADO",
+          "Fredy GUARIN",
+          "Alexander MEJIA",
+          "Juan QUINTERO",
+          "Adrian RAMOS",
+          "Jackson MARTINEZ"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-24",
+      "stage": "Group C",
+      "venue": "Estádio Castelão",
+      "city": "Fortaleza",
+      "home_team": "Greece",
+      "away_team": "Ivory Coast",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Greece",
+          "player": "Andreas Samaris",
+          "minute": "41"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Wilfried BONY",
+          "minute": "73"
+        },
+        {
+          "team": "Greece",
+          "player": "Georgios SAMARAS",
+          "minute": "90+2",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Andreas Samaris",
+          "player_off": "Panagiotis KONE",
+          "minute": "11"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Panagiotis GLYKOS",
+          "player_off": "Orestis KARNEZIS",
+          "minute": "23"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Wilfried BONY",
+          "player_off": "Cheick TIOTÉ",
+          "minute": "60"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Theofanis GEKAS",
+          "player_off": "Georgios KARAGOUNIS",
+          "minute": "77"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Ismael DIOMANDE",
+          "player_off": "Didier DROGBA",
+          "minute": "77"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Giovanni SIO",
+          "player_off": "GERVINHO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Orestis KARNEZIS",
+          "Konstantinos Manolas",
+          "Vasileios TOROSIDIS",
+          "Sokratis Papastathopoulos",
+          "Jose CHOLEVAS",
+          "Ioannis MANIATIS",
+          "Panagiotis KONE",
+          "Georgios KARAGOUNIS",
+          "Lazaros Christodoulopoulos",
+          "Georgios SAMARAS",
+          "Dimitrios SALPINGIDIS"
+        ],
+        "away": [
+          "Boubacar BARRY",
+          "Arthur BOKA",
+          "Kolo TOURÉ",
+          "Serge AURIER",
+          "Souleymane Bamba",
+          "Cheick TIOTÉ",
+          "Yaya TOURE",
+          "Serey DIE",
+          "Salomon KALOU",
+          "GERVINHO",
+          "Didier DROGBA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-14",
+      "stage": "Group D",
+      "venue": "Estádio Castelão",
+      "city": "Fortaleza",
+      "home_team": "Uruguay",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Edinson CAVANI",
+          "minute": "23",
+          "penalty": true
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Joel CAMPBELL",
+          "minute": "53"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Oscar DUARTE",
+          "minute": "57"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Marcos URENA",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Nicolas LODEIRO",
+          "player_off": "Diego FORLAN",
+          "minute": "59"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Alvaro GONZALEZ",
+          "player_off": "Walter GARGANO",
+          "minute": "59"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Jose CUBERO",
+          "player_off": "Yeltsin TEJEDA",
+          "minute": "73"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Abel HERNANDEZ",
+          "player_off": "Cristian RODRIGUEZ",
+          "minute": "75"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Marcos URENA",
+          "player_off": "Bryan RUIZ",
+          "minute": "82"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Michael BARRANTES",
+          "player_off": "Christian BOLANOS",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego LUGANO",
+          "Diego GODIN",
+          "Maximiliano PEREIRA",
+          "Martin CACERES",
+          "Walter GARGANO",
+          "Cristian RODRIGUEZ",
+          "Egidio AREVALO",
+          "Diego FORLAN",
+          "Cristhian STUANI",
+          "Edinson CAVANI"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Giancarlo GONZALEZ",
+          "Michael UMANA",
+          "Oscar DUARTE",
+          "Junior DIAZ",
+          "Cristian GAMBOA",
+          "Celso BORGES",
+          "Christian BOLANOS",
+          "Yeltsin TEJEDA",
+          "Joel CAMPBELL",
+          "Bryan RUIZ"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-14",
+      "stage": "Group D",
+      "venue": "Arena Amazonia",
+      "city": "Manaus",
+      "home_team": "England",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Claudio MARCHISIO",
+          "minute": "34"
+        },
+        {
+          "team": "England",
+          "player": "Daniel STURRIDGE",
+          "minute": "36"
+        },
+        {
+          "team": "Italy",
+          "player": "Mario BALOTELLI",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Thiago MOTTA",
+          "player_off": "Marco Verratti",
+          "minute": "56"
+        },
+        {
+          "team": "England",
+          "player_on": "Ross Barkley",
+          "player_off": "Danny WELBECK",
+          "minute": "60"
+        },
+        {
+          "team": "England",
+          "player_on": "Jack Wilshere",
+          "player_off": "Jordan Henderson",
+          "minute": "72"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Ciro IMMOBILE",
+          "player_off": "Mario BALOTELLI",
+          "minute": "72"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Marco PAROLO",
+          "player_off": "Antonio CANDREVA",
+          "minute": "78"
+        },
+        {
+          "team": "England",
+          "player_on": "Adam LALLANA",
+          "player_off": "Daniel STURRIDGE",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Joe HART",
+          "Glen JOHNSON",
+          "Leighton BAINES",
+          "Gary CAHILL",
+          "Phil JAGIELKA",
+          "Steven GERRARD",
+          "Jordan Henderson",
+          "Raheem Sterling",
+          "Daniel STURRIDGE",
+          "Wayne ROONEY",
+          "Danny WELBECK"
+        ],
+        "away": [
+          "Salvatore SIRIGU",
+          "Giorgio Chiellini",
+          "Matteo Darmian",
+          "Andrea BARZAGLI",
+          "Gabriel PALETTA",
+          "Antonio CANDREVA",
+          "Claudio MARCHISIO",
+          "Daniele DE ROSSI",
+          "Andrea PIRLO",
+          "Marco Verratti",
+          "Mario BALOTELLI"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-19",
+      "stage": "Group D",
+      "venue": "Arena Corinthians",
+      "city": "São Paulo",
+      "home_team": "Uruguay",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "38"
+        },
+        {
+          "team": "England",
+          "player": "Wayne ROONEY",
+          "minute": "74"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Ross Barkley",
+          "player_off": "Raheem Sterling",
+          "minute": "63"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Cristhian STUANI",
+          "player_off": "Nicolas LODEIRO",
+          "minute": "66"
+        },
+        {
+          "team": "England",
+          "player_on": "Adam LALLANA",
+          "player_off": "Danny WELBECK",
+          "minute": "70"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Jorge FUCILE",
+          "player_off": "Alvaro GONZALEZ",
+          "minute": "78"
+        },
+        {
+          "team": "England",
+          "player_on": "Rickie LAMBERT",
+          "player_off": "Jordan Henderson",
+          "minute": "86"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Sebastian COATES",
+          "player_off": "Luis SUAREZ",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego GODIN",
+          "Jose GIMENEZ",
+          "Martin CACERES",
+          "Alvaro PEREIRA",
+          "Cristian RODRIGUEZ",
+          "Nicolas LODEIRO",
+          "Egidio AREVALO",
+          "Alvaro GONZALEZ",
+          "Luis SUAREZ",
+          "Edinson CAVANI"
+        ],
+        "away": [
+          "Joe HART",
+          "Glen JOHNSON",
+          "Leighton BAINES",
+          "Gary CAHILL",
+          "Phil JAGIELKA",
+          "Steven GERRARD",
+          "Jordan Henderson",
+          "Raheem Sterling",
+          "Daniel STURRIDGE",
+          "Wayne ROONEY",
+          "Danny WELBECK"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-20",
+      "stage": "Group D",
+      "venue": "Arena Pernambuco",
+      "city": "Recife",
+      "home_team": "Italy",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Costa Rica",
+          "player": "Bryan RUIZ",
+          "minute": "43"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonio CASSANO",
+          "player_off": "Thiago MOTTA",
+          "minute": "45"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Lorenzo Insigne",
+          "player_off": "Antonio CANDREVA",
+          "minute": "56"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Jose CUBERO",
+          "player_off": "Yeltsin TEJEDA",
+          "minute": "67"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessio CERCI",
+          "player_off": "Claudio MARCHISIO",
+          "minute": "68"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Marcos URENA",
+          "player_off": "Joel CAMPBELL",
+          "minute": "73"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Randall BRENES",
+          "player_off": "Bryan RUIZ",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Giorgio Chiellini",
+          "Matteo Darmian",
+          "Ignazio ABATE",
+          "Andrea BARZAGLI",
+          "Thiago MOTTA",
+          "Antonio CANDREVA",
+          "Claudio MARCHISIO",
+          "Daniele DE ROSSI",
+          "Andrea PIRLO",
+          "Mario BALOTELLI"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Giancarlo GONZALEZ",
+          "Michael UMANA",
+          "Oscar DUARTE",
+          "Junior DIAZ",
+          "Cristian GAMBOA",
+          "Celso BORGES",
+          "Christian BOLANOS",
+          "Yeltsin TEJEDA",
+          "Joel CAMPBELL",
+          "Bryan RUIZ"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-24",
+      "stage": "Group D",
+      "venue": "Arena das Dunas",
+      "city": "Natal",
+      "home_team": "Italy",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Diego GODIN",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Marco PAROLO",
+          "player_off": "Mario BALOTELLI",
+          "minute": "45"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Maximiliano PEREIRA",
+          "player_off": "Nicolas LODEIRO",
+          "minute": "45"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Cristhian STUANI",
+          "player_off": "Alvaro PEREIRA",
+          "minute": "62"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Antonio CASSANO",
+          "player_off": "Ciro IMMOBILE",
+          "minute": "70"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Thiago MOTTA",
+          "player_off": "Marco Verratti",
+          "minute": "74"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Gaston RAMIREZ",
+          "player_off": "Cristian RODRIGUEZ",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Mattia De Sciglio",
+          "Giorgio Chiellini",
+          "Matteo Darmian",
+          "Andrea BARZAGLI",
+          "Leonardo Bonucci",
+          "Claudio MARCHISIO",
+          "Andrea PIRLO",
+          "Marco Verratti",
+          "Mario BALOTELLI",
+          "Ciro IMMOBILE"
+        ],
+        "away": [
+          "Fernando MUSLERA",
+          "Diego GODIN",
+          "Jose GIMENEZ",
+          "Martin CACERES",
+          "Alvaro PEREIRA",
+          "Cristian RODRIGUEZ",
+          "Nicolas LODEIRO",
+          "Egidio AREVALO",
+          "Alvaro GONZALEZ",
+          "Luis SUAREZ",
+          "Edinson CAVANI"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-24",
+      "stage": "Group D",
+      "venue": "Mineirão",
+      "city": "Belo Horizonte",
+      "home_team": "Costa Rica",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Christian BOLANOS",
+          "player_off": "Randall BRENES",
+          "minute": "58"
+        },
+        {
+          "team": "England",
+          "player_on": "Raheem Sterling",
+          "player_off": "Adam LALLANA",
+          "minute": "61"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Marcos URENA",
+          "player_off": "Joel CAMPBELL",
+          "minute": "64"
+        },
+        {
+          "team": "England",
+          "player_on": "Steven GERRARD",
+          "player_off": "Jack Wilshere",
+          "minute": "72"
+        },
+        {
+          "team": "England",
+          "player_on": "Wayne ROONEY",
+          "player_off": "James MILNER",
+          "minute": "75"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Michael BARRANTES",
+          "player_off": "Celso BORGES",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Keylor NAVAS",
+          "Giancarlo GONZALEZ",
+          "Oscar DUARTE",
+          "Junior DIAZ",
+          "Cristian GAMBOA",
+          "Roy MILLER",
+          "Celso BORGES",
+          "Yeltsin TEJEDA",
+          "Joel CAMPBELL",
+          "Bryan RUIZ",
+          "Randall BRENES"
+        ],
+        "away": [
+          "Ben Foster",
+          "Gary CAHILL",
+          "Chris Smalling",
+          "Phil Jones",
+          "Luke Shaw",
+          "Jack Wilshere",
+          "Frank LAMPARD",
+          "James MILNER",
+          "Adam LALLANA",
+          "Ross Barkley",
+          "Daniel STURRIDGE"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-15",
+      "stage": "Group E",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "Switzerland",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Ecuador",
+          "player": "Enner VALENCIA",
+          "minute": "21"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Admir MEHMEDI",
+          "minute": "47"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Haris SEFEROVIC",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Admir MEHMEDI",
+          "player_off": "Valentin Stocker",
+          "minute": "45"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Michael ARROYO",
+          "player_off": "Felipe CAICEDO",
+          "minute": "69"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Josip Drmic",
+          "minute": "74"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Joao ROJAS",
+          "player_off": "Jefferson MONTERO",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Steve VON BERGEN",
+          "Ricardo RODRIGUEZ",
+          "Johan DJOUROU",
+          "Gokhan INLER",
+          "Granit Xhaka",
+          "Valon BEHRAMI",
+          "Valentin Stocker",
+          "Xherdan Shaqiri",
+          "Josip Drmic"
+        ],
+        "away": [
+          "Alexander DOMINGUEZ",
+          "Jorge GUAGUA",
+          "Frickson ERAZO",
+          "Juan PAREDES",
+          "Cristhian NOBOA",
+          "Jefferson MONTERO",
+          "Walter AYOVI",
+          "Antonio VALENCIA",
+          "Carlos GRUEZO",
+          "Felipe CAICEDO",
+          "Enner VALENCIA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-15",
+      "stage": "Group E",
+      "venue": "Estádio Beira-Rio",
+      "city": "Porto Alegre",
+      "home_team": "France",
+      "away_team": "Honduras",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Karim Benzema",
+          "minute": "44",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Noel VALLADARES",
+          "minute": "47",
+          "own_goal": true
+        },
+        {
+          "team": "France",
+          "player": "Karim Benzema",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Honduras",
+          "player_on": "Boniek GARCIA",
+          "player_off": "Jerry BENGTSON",
+          "minute": "45"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Osman CHAVEZ",
+          "player_off": "Victor BERNARDEZ",
+          "minute": "45"
+        },
+        {
+          "team": "France",
+          "player_on": "Moussa Sissoko",
+          "player_off": "Paul Pogba",
+          "minute": "56"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Jorge CLAROS",
+          "player_off": "Andy NAJAR",
+          "minute": "57"
+        },
+        {
+          "team": "France",
+          "player_on": "Rio MAVUBA",
+          "player_off": "Yohan CABAYE",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player_on": "Olivier Giroud",
+          "player_off": "Mathieu Valbuena",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo Lloris",
+          "Mathieu DEBUCHY",
+          "Patrice EVRA",
+          "Raphael VARANE",
+          "Mamadou SAKHO",
+          "Yohan CABAYE",
+          "Mathieu Valbuena",
+          "Blaise Matuidi",
+          "Paul Pogba",
+          "Karim Benzema",
+          "Antoine Griezmann"
+        ],
+        "away": [
+          "Noel VALLADARES",
+          "Maynor FIGUEROA",
+          "Victor BERNARDEZ",
+          "Brayan BECKELES",
+          "Emilio IZAGUIRRE",
+          "Wilson PALACIOS",
+          "Roger ESPINOZA",
+          "Andy NAJAR",
+          "Luis GARRIDO",
+          "Jerry BENGTSON",
+          "Carlo COSTLY"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-20",
+      "stage": "Group E",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Switzerland",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 5
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Olivier Giroud",
+          "minute": "16"
+        },
+        {
+          "team": "France",
+          "player": "Blaise Matuidi",
+          "minute": "17"
+        },
+        {
+          "team": "France",
+          "player": "Mathieu Valbuena",
+          "minute": "39"
+        },
+        {
+          "team": "France",
+          "player": "Karim Benzema",
+          "minute": "66"
+        },
+        {
+          "team": "France",
+          "player": "Moussa Sissoko",
+          "minute": "72"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Blerim DZEMAILI",
+          "minute": "80"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Granit Xhaka",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Philippe SENDEROS",
+          "player_off": "Steve VON BERGEN",
+          "minute": "8"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Blerim DZEMAILI",
+          "player_off": "Valon BEHRAMI",
+          "minute": "45"
+        },
+        {
+          "team": "France",
+          "player_on": "Paul Pogba",
+          "player_off": "Olivier Giroud",
+          "minute": "62"
+        },
+        {
+          "team": "France",
+          "player_on": "Laurent KOSCIELNY",
+          "player_off": "Mamadou SAKHO",
+          "minute": "65"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Josip Drmic",
+          "player_off": "Haris SEFEROVIC",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player_on": "Antoine Griezmann",
+          "player_off": "Mathieu Valbuena",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Steve VON BERGEN",
+          "Ricardo RODRIGUEZ",
+          "Johan DJOUROU",
+          "Gokhan INLER",
+          "Granit Xhaka",
+          "Valon BEHRAMI",
+          "Xherdan Shaqiri",
+          "Haris SEFEROVIC",
+          "Admir MEHMEDI"
+        ],
+        "away": [
+          "Hugo Lloris",
+          "Mathieu DEBUCHY",
+          "Patrice EVRA",
+          "Raphael VARANE",
+          "Mamadou SAKHO",
+          "Yohan CABAYE",
+          "Mathieu Valbuena",
+          "Blaise Matuidi",
+          "Moussa Sissoko",
+          "Olivier Giroud",
+          "Karim Benzema"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-20",
+      "stage": "Group E",
+      "venue": "Arena da Baixada",
+      "city": "Curitiba",
+      "home_team": "Honduras",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Honduras",
+          "player": "Carlo COSTLY",
+          "minute": "30"
+        },
+        {
+          "team": "Ecuador",
+          "player": "Enner VALENCIA",
+          "minute": "33"
+        },
+        {
+          "team": "Ecuador",
+          "player": "Enner VALENCIA",
+          "minute": "64"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Honduras",
+          "player_on": "Juan Carlos GARCIA",
+          "player_off": "Emilio IZAGUIRRE",
+          "minute": "45"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Mario MARTINEZ",
+          "player_off": "Luis GARRIDO",
+          "minute": "70"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Edison MENDEZ",
+          "player_off": "Felipe CAICEDO",
+          "minute": "81"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Marvin CHAVEZ",
+          "player_off": "Boniek GARCIA",
+          "minute": "82"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Carlos GRUEZO",
+          "player_off": "Oswaldo MINDA",
+          "minute": "82"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Gabriel ACHILIER",
+          "player_off": "Jefferson MONTERO",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Noel VALLADARES",
+          "Maynor FIGUEROA",
+          "Victor BERNARDEZ",
+          "Brayan BECKELES",
+          "Emilio IZAGUIRRE",
+          "Boniek GARCIA",
+          "Roger ESPINOZA",
+          "Luis GARRIDO",
+          "Jorge CLAROS",
+          "Jerry BENGTSON",
+          "Carlo COSTLY"
+        ],
+        "away": [
+          "Alexander DOMINGUEZ",
+          "Jorge GUAGUA",
+          "Frickson ERAZO",
+          "Juan PAREDES",
+          "Cristhian NOBOA",
+          "Jefferson MONTERO",
+          "Walter AYOVI",
+          "Oswaldo MINDA",
+          "Antonio VALENCIA",
+          "Felipe CAICEDO",
+          "Enner VALENCIA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-25",
+      "stage": "Group E",
+      "venue": "Arena da Amazônia",
+      "city": "Manaus",
+      "home_team": "Honduras",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Xherdan Shaqiri",
+          "minute": "5"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Xherdan Shaqiri",
+          "minute": "30"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Xherdan Shaqiri",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Honduras",
+          "player_on": "Jerry PALACIOS",
+          "player_off": "Carlo COSTLY",
+          "minute": "39"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Marvin CHAVEZ",
+          "player_off": "Roger ESPINOZA",
+          "minute": "45"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Josip Drmic",
+          "minute": "73"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Andy NAJAR",
+          "player_off": "Boniek GARCIA",
+          "minute": "76"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Michael LANG",
+          "player_off": "Granit Xhaka",
+          "minute": "76"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Blerim DZEMAILI",
+          "player_off": "Xherdan Shaqiri",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Noel VALLADARES",
+          "Maynor FIGUEROA",
+          "Victor BERNARDEZ",
+          "Juan Carlos GARCIA",
+          "Brayan BECKELES",
+          "Wilson PALACIOS",
+          "Boniek GARCIA",
+          "Roger ESPINOZA",
+          "Jorge CLAROS",
+          "Jerry BENGTSON",
+          "Carlo COSTLY"
+        ],
+        "away": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Ricardo RODRIGUEZ",
+          "Johan DJOUROU",
+          "Fabian SCHAER",
+          "Gokhan INLER",
+          "Granit Xhaka",
+          "Valon BEHRAMI",
+          "Xherdan Shaqiri",
+          "Admir MEHMEDI",
+          "Josip Drmic"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-25",
+      "stage": "Group E",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Ecuador",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Raphael VARANE",
+          "player_off": "Mamadou SAKHO",
+          "minute": "60"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Alex IBARRA",
+          "player_off": "Jefferson MONTERO",
+          "minute": "62"
+        },
+        {
+          "team": "France",
+          "player_on": "Olivier Giroud",
+          "player_off": "Blaise Matuidi",
+          "minute": "66"
+        },
+        {
+          "team": "France",
+          "player_on": "Loïc RÉMY",
+          "player_off": "Antoine Griezmann",
+          "minute": "78"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Gabriel ACHILIER",
+          "player_off": "Michael ARROYO",
+          "minute": "81"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Felipe CAICEDO",
+          "player_off": "Cristhian NOBOA",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alexander DOMINGUEZ",
+          "Jorge GUAGUA",
+          "Frickson ERAZO",
+          "Juan PAREDES",
+          "Cristhian NOBOA",
+          "Jefferson MONTERO",
+          "Walter AYOVI",
+          "Oswaldo MINDA",
+          "Michael ARROYO",
+          "Antonio VALENCIA",
+          "Enner VALENCIA"
+        ],
+        "away": [
+          "Hugo Lloris",
+          "Mamadou SAKHO",
+          "Bacary SAGNA",
+          "Lucas Digne",
+          "Laurent KOSCIELNY",
+          "Blaise Matuidi",
+          "Moussa Sissoko",
+          "Paul Pogba",
+          "Morgan Schneiderlin",
+          "Karim Benzema",
+          "Antoine Griezmann"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-15",
+      "stage": "Group F",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Argentina",
+      "away_team": "Bosnia and Herzegovina",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Sead KOLASINAC",
+          "minute": "2",
+          "own_goal": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "64"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player": "Vedad IBISEVIC",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Gonzalo HIGUAIN",
+          "player_off": "Maxi RODRIGUEZ",
+          "minute": "45"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Fernando GAGO",
+          "player_off": "Hugo CAMPAGNARO",
+          "minute": "45"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Vedad IBISEVIC",
+          "player_off": "Mensur MUJDZA",
+          "minute": "68"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Edin VISCA",
+          "player_off": "Izet HAJROVIC",
+          "minute": "70"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Haris Medunjanin",
+          "player_off": "Zvjezdan MISIMOVIC",
+          "minute": "73"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lucas BIGLIA",
+          "player_off": "Sergio AGUERO",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Hugo CAMPAGNARO",
+          "Pablo ZABALETA",
+          "Marcos ROJO",
+          "Federico FERNANDEZ",
+          "Angel DI MARIA",
+          "Maxi RODRIGUEZ",
+          "Javier MASCHERANO",
+          "Lionel MESSI",
+          "Sergio AGUERO"
+        ],
+        "away": [
+          "Asmir BEGOVIC",
+          "Ermin BICAKCIC",
+          "Emir SPAHIC",
+          "Sead KOLASINAC",
+          "Muhamed BESIC",
+          "Miralem PJANIC",
+          "Zvjezdan MISIMOVIC",
+          "Mensur MUJDZA",
+          "Senad LULIC",
+          "Izet HAJROVIC",
+          "Edin DZEKO"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-16",
+      "stage": "Group F",
+      "venue": "Arena da Baixada",
+      "city": "Curitiba",
+      "home_team": "Iran",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Joseph YOBO",
+          "player_off": "Godfrey OBOABONA",
+          "minute": "28"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Shola AMEOBI",
+          "player_off": "Victor Moses",
+          "minute": "51"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Peter ODEMWINGIE",
+          "player_off": "Ramon AZEEZ",
+          "minute": "68"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Alireza JAHANBAKHSH",
+          "player_off": "Ashkan DEJAGAH",
+          "minute": "77"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Masoud SHOJAEI",
+          "player_off": "Khosro HEYDARI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alireza HAGHIGHI",
+          "Jalal HOSSEINI",
+          "Amir Hossein Sadeghi",
+          "Pejman MONTAZERI",
+          "Mehrdad POOLADI",
+          "Ehsan HAJI SAFI",
+          "Javad NEKOUNAM",
+          "Andranik TIMOTIAN",
+          "Khosro HEYDARI",
+          "Reza GHOOCHANNEJHAD",
+          "Ashkan DEJAGAH"
+        ],
+        "away": [
+          "Vincent ENYEAMA",
+          "Efe AMBROSE",
+          "Juwon OSHANIWA",
+          "Godfrey OBOABONA",
+          "Kenneth OMERUO",
+          "John Obi MIKEL",
+          "Ramon AZEEZ",
+          "Ogenyi ONAZI",
+          "Ahmed Musa",
+          "Emmanuel EMENIKE",
+          "Victor Moses"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-16",
+      "stage": "Group G",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Germany",
+      "away_team": "Portugal",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "11",
+          "penalty": true
+        },
+        {
+          "team": "Germany",
+          "player": "Mats Hummels",
+          "minute": "31"
+        },
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "EDER",
+          "player_off": "HUGO ALMEIDA",
+          "minute": "27"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RICARDO COSTA",
+          "player_off": "MIGUEL VELOSO",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Andre SCHUERRLE",
+          "player_off": "Mesut OEZIL",
+          "minute": "62"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "André ALMEIDA",
+          "player_off": "FABIO COENTRAO",
+          "minute": "64"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Shkodran MUSTAFI",
+          "player_off": "Mats Hummels",
+          "minute": "72"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Lukas PODOLSKI",
+          "player_off": "MUELLER Thomas",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Mats Hummels",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "MUELLER Thomas",
+          "Mario GOETZE"
+        ],
+        "away": [
+          "RUI PATRICIO",
+          "BRUNO ALVES",
+          "PEPE",
+          "FABIO COENTRAO",
+          "JOAO PEREIRA",
+          "MIGUEL VELOSO",
+          "JOAO MOUTINHO",
+          "RAUL MEIRELES",
+          "CRISTIANO RONALDO",
+          "HUGO ALMEIDA",
+          "NANI"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-16",
+      "stage": "Group G",
+      "venue": "Arena Pantanal",
+      "city": "Cuiabá",
+      "home_team": "Ghana",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Clint DEMPSEY",
+          "minute": "1"
+        },
+        {
+          "team": "Ghana",
+          "player": "Andre AYEW",
+          "minute": "81"
+        },
+        {
+          "team": "United States",
+          "player": "John BROOKS",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Aron JOHANNSSON",
+          "player_off": "Jozy Altidore",
+          "minute": "22"
+        },
+        {
+          "team": "United States",
+          "player_on": "John BROOKS",
+          "player_off": "Matt BESLER",
+          "minute": "45"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Kevin-Prince Boateng",
+          "player_off": "Jordan Ayew",
+          "minute": "58"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Michael ESSIEN",
+          "player_off": "Mohammed RABIU",
+          "minute": "70"
+        },
+        {
+          "team": "United States",
+          "player_on": "Graham ZUSI",
+          "player_off": "Alejandro Bedoya",
+          "minute": "76"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Albert ADOMAH",
+          "player_off": "Christian ATSU",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Adam KWARASEY",
+          "Daniel OPARE",
+          "Jonathan Mensah",
+          "John Boye",
+          "Christian ATSU",
+          "Andre AYEW",
+          "Sulley MUNTARI",
+          "Mohammed RABIU",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Jordan Ayew"
+        ],
+        "away": [
+          "Tim HOWARD",
+          "Matt BESLER",
+          "DaMarcus BEASLEY",
+          "Geoff Cameron",
+          "Fabian JOHNSON",
+          "Michael BRADLEY",
+          "Alejandro Bedoya",
+          "Jermaine JONES",
+          "Kyle BECKERMAN",
+          "Clint DEMPSEY",
+          "Jozy Altidore"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-21",
+      "stage": "Group F",
+      "venue": "Arena Pantanal",
+      "city": "Cuiabá",
+      "home_team": "Nigeria",
+      "away_team": "Bosnia and Herzegovina",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Peter ODEMWINGIE",
+          "minute": "28"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Vedad IBISEVIC",
+          "player_off": "Izet HAJROVIC",
+          "minute": "56"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Sejad SALIHOVIC",
+          "player_off": "Senad LULIC",
+          "minute": "57"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Tino Sven SUSIC",
+          "player_off": "Haris Medunjanin",
+          "minute": "63"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Shola AMEOBI",
+          "player_off": "Ahmed Musa",
+          "minute": "64"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Ejike UZOENYI",
+          "player_off": "Michael Babatunde",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vincent ENYEAMA",
+          "Joseph YOBO",
+          "Efe AMBROSE",
+          "Juwon OSHANIWA",
+          "Kenneth OMERUO",
+          "John Obi MIKEL",
+          "Ogenyi ONAZI",
+          "Ahmed Musa",
+          "Peter ODEMWINGIE",
+          "Emmanuel EMENIKE",
+          "Michael Babatunde"
+        ],
+        "away": [
+          "Asmir BEGOVIC",
+          "Emir SPAHIC",
+          "Toni SUNJIC",
+          "Muhamed BESIC",
+          "Miralem PJANIC",
+          "Zvjezdan MISIMOVIC",
+          "Mensur MUJDZA",
+          "Senad LULIC",
+          "Haris Medunjanin",
+          "Izet HAJROVIC",
+          "Edin DZEKO"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-21",
+      "stage": "Group F",
+      "venue": "Estádio Mineirão",
+      "city": "Belo Horizonte",
+      "home_team": "Argentina",
+      "away_team": "Iran",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ezequiel LAVEZZI",
+          "player_off": "Sergio AGUERO",
+          "minute": "75"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Khosro HEYDARI",
+          "player_off": "Masoud SHOJAEI",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rodrigo PALACIO",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "76"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Alireza JAHANBAKHSH",
+          "player_off": "Ashkan DEJAGAH",
+          "minute": "84"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Reza HAGHIGHI",
+          "player_off": "Ehsan HAJI SAFI",
+          "minute": "87"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lucas BIGLIA",
+          "player_off": "Angel DI MARIA",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Pablo ZABALETA",
+          "Marcos ROJO",
+          "Federico FERNANDEZ",
+          "Fernando GAGO",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Sergio AGUERO"
+        ],
+        "away": [
+          "Alireza HAGHIGHI",
+          "Jalal HOSSEINI",
+          "Amir Hossein Sadeghi",
+          "Pejman MONTAZERI",
+          "Mehrdad POOLADI",
+          "Ehsan HAJI SAFI",
+          "Javad NEKOUNAM",
+          "Andranik TIMOTIAN",
+          "Masoud SHOJAEI",
+          "Reza GHOOCHANNEJHAD",
+          "Ashkan DEJAGAH"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-21",
+      "stage": "Group G",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Germany",
+      "away_team": "Ghana",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Mario GOETZE",
+          "minute": "50"
+        },
+        {
+          "team": "Ghana",
+          "player": "Andre AYEW",
+          "minute": "53"
+        },
+        {
+          "team": "Ghana",
+          "player": "Asamoah GYAN",
+          "minute": "62"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Shkodran MUSTAFI",
+          "player_off": "BOATENG Jerome",
+          "minute": "45"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Jordan Ayew",
+          "player_off": "Kevin-Prince Boateng",
+          "minute": "51"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Miroslav KLOSE",
+          "player_off": "Mario GOETZE",
+          "minute": "68"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Bastian SCHWEINSTEIGER",
+          "player_off": "Sami KHEDIRA",
+          "minute": "69"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Mubarak Wakaso",
+          "player_off": "Christian ATSU",
+          "minute": "71"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Emmanuel BADU",
+          "player_off": "Mohammed RABIU",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Mats Hummels",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "MUELLER Thomas",
+          "Mario GOETZE"
+        ],
+        "away": [
+          "Fatawu DAUDA",
+          "Jonathan Mensah",
+          "John Boye",
+          "Harrison Afful",
+          "Christian ATSU",
+          "Andre AYEW",
+          "Sulley MUNTARI",
+          "Mohammed RABIU",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Kevin-Prince Boateng"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-25",
+      "stage": "Group F",
+      "venue": "Estádio Beira-Rio",
+      "city": "Porto Alegre",
+      "home_team": "Nigeria",
+      "away_team": "Argentina",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "2"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Ahmed Musa",
+          "minute": "3"
+        },
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "45"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Ahmed Musa",
+          "minute": "46"
+        },
+        {
+          "team": "Argentina",
+          "player": "Marcos ROJO",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ezequiel LAVEZZI",
+          "player_off": "Sergio AGUERO",
+          "minute": "37"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Ricky ÁLVAREZ",
+          "player_off": "Lionel MESSI",
+          "minute": "62"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Okechukwu UCHEBO",
+          "player_off": "Michael Babatunde",
+          "minute": "65"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Uche NWOFOR",
+          "player_off": "Peter ODEMWINGIE",
+          "minute": "79"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lucas BIGLIA",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vincent ENYEAMA",
+          "Joseph YOBO",
+          "Efe AMBROSE",
+          "Juwon OSHANIWA",
+          "Kenneth OMERUO",
+          "John Obi MIKEL",
+          "Ogenyi ONAZI",
+          "Ahmed Musa",
+          "Peter ODEMWINGIE",
+          "Emmanuel EMENIKE",
+          "Michael Babatunde"
+        ],
+        "away": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Pablo ZABALETA",
+          "Marcos ROJO",
+          "Federico FERNANDEZ",
+          "Fernando GAGO",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Sergio AGUERO"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-25",
+      "stage": "Group F",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Bosnia and Herzegovina",
+      "away_team": "Iran",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Bosnia and Herzegovina",
+          "player": "Edin DZEKO",
+          "minute": "22"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player": "Miralem PJANIC",
+          "minute": "58"
+        },
+        {
+          "team": "Iran",
+          "player": "Reza GHOOCHANNEJHAD",
+          "minute": "81"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player": "Avdija VRSAJEVIC",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Khosro HEYDARI",
+          "player_off": "Masoud SHOJAEI",
+          "minute": "45"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Ognjen VRANJES",
+          "player_off": "Anel HADZIC",
+          "minute": "60"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Alireza JAHANBAKHSH",
+          "player_off": "Ehsan HAJI SAFI",
+          "minute": "62"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Karim ANSARIFARD",
+          "player_off": "Ashkan DEJAGAH",
+          "minute": "67"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Sejad SALIHOVIC",
+          "player_off": "Tino Sven SUSIC",
+          "minute": "78"
+        },
+        {
+          "team": "Bosnia and Herzegovina",
+          "player_on": "Edin VISCA",
+          "player_off": "Edin DZEKO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Asmir BEGOVIC",
+          "Emir SPAHIC",
+          "Sead KOLASINAC",
+          "Toni SUNJIC",
+          "Avdija VRSAJEVIC",
+          "Muhamed BESIC",
+          "Miralem PJANIC",
+          "Tino Sven SUSIC",
+          "Anel HADZIC",
+          "Vedad IBISEVIC",
+          "Edin DZEKO"
+        ],
+        "away": [
+          "Alireza HAGHIGHI",
+          "Jalal HOSSEINI",
+          "Amir Hossein Sadeghi",
+          "Pejman MONTAZERI",
+          "Mehrdad POOLADI",
+          "Ehsan HAJI SAFI",
+          "Javad NEKOUNAM",
+          "Andranik TIMOTIAN",
+          "Masoud SHOJAEI",
+          "Reza GHOOCHANNEJHAD",
+          "Ashkan DEJAGAH"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-26",
+      "stage": "Group G",
+      "venue": "Arena Pernambuco",
+      "city": "Recife",
+      "home_team": "United States",
+      "away_team": "Germany",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "54"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Miroslav KLOSE",
+          "player_off": "Lukas PODOLSKI",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Alejandro Bedoya",
+          "player_off": "Brad DAVIS",
+          "minute": "58"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOETZE",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "75"
+        },
+        {
+          "team": "United States",
+          "player_on": "DeAndre YEDLIN",
+          "player_off": "Graham ZUSI",
+          "minute": "83"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Andre SCHUERRLE",
+          "player_off": "Mesut OEZIL",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tim HOWARD",
+          "Omar GONZALEZ",
+          "Matt BESLER",
+          "DaMarcus BEASLEY",
+          "Fabian JOHNSON",
+          "Michael BRADLEY",
+          "Jermaine JONES",
+          "Brad DAVIS",
+          "Kyle BECKERMAN",
+          "Graham ZUSI",
+          "Clint DEMPSEY"
+        ],
+        "away": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Mats Hummels",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "Lukas PODOLSKI",
+          "MUELLER Thomas"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-22",
+      "stage": "Group G",
+      "venue": "Arena da Amazônia",
+      "city": "Manaus",
+      "home_team": "United States",
+      "away_team": "Portugal",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "NANI",
+          "minute": "4"
+        },
+        {
+          "team": "United States",
+          "player": "Jermaine JONES",
+          "minute": "63"
+        },
+        {
+          "team": "United States",
+          "player": "Clint DEMPSEY",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player": "VARELA",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "EDER",
+          "player_off": "HELDER POSTIGA",
+          "minute": "15"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "WILLIAM",
+          "player_off": "André ALMEIDA",
+          "minute": "45"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "VARELA",
+          "player_off": "RAUL MEIRELES",
+          "minute": "68"
+        },
+        {
+          "team": "United States",
+          "player_on": "DeAndre YEDLIN",
+          "player_off": "Alejandro Bedoya",
+          "minute": "71"
+        },
+        {
+          "team": "United States",
+          "player_on": "Chris WONDOLOWSKI",
+          "player_off": "Clint DEMPSEY",
+          "minute": "86"
+        },
+        {
+          "team": "United States",
+          "player_on": "Omar GONZALEZ",
+          "player_off": "Graham ZUSI",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tim HOWARD",
+          "Matt BESLER",
+          "DaMarcus BEASLEY",
+          "Geoff Cameron",
+          "Fabian JOHNSON",
+          "Michael BRADLEY",
+          "Alejandro Bedoya",
+          "Jermaine JONES",
+          "Kyle BECKERMAN",
+          "Graham ZUSI",
+          "Clint DEMPSEY"
+        ],
+        "away": [
+          "BETO",
+          "BRUNO ALVES",
+          "RICARDO COSTA",
+          "André ALMEIDA",
+          "JOAO PEREIRA",
+          "MIGUEL VELOSO",
+          "JOAO MOUTINHO",
+          "RAUL MEIRELES",
+          "CRISTIANO RONALDO",
+          "NANI",
+          "HELDER POSTIGA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-26",
+      "stage": "Group G",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "Portugal",
+      "away_team": "Ghana",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "John Boye",
+          "minute": "30",
+          "own_goal": true
+        },
+        {
+          "team": "Ghana",
+          "player": "Asamoah GYAN",
+          "minute": "56"
+        },
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "VARELA",
+          "player_off": "JOAO PEREIRA",
+          "minute": "60"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "VIEIRINHA",
+          "player_off": "EDER",
+          "minute": "68"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Jordan Ayew",
+          "player_off": "Majeed WARIS",
+          "minute": "70"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Afriyie Acquah",
+          "player_off": "Mohammed RABIU",
+          "minute": "75"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Mubarak Wakaso",
+          "player_off": "Andre AYEW",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "EDUARDO",
+          "player_off": "BETO",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "BETO",
+          "BRUNO ALVES",
+          "PEPE",
+          "JOAO PEREIRA",
+          "MIGUEL VELOSO",
+          "WILLIAM",
+          "JOAO MOUTINHO",
+          "RUBEN AMORIM",
+          "CRISTIANO RONALDO",
+          "EDER",
+          "NANI"
+        ],
+        "away": [
+          "Fatawu DAUDA",
+          "Jonathan Mensah",
+          "John Boye",
+          "Harrison Afful",
+          "Christian ATSU",
+          "Emmanuel BADU",
+          "Andre AYEW",
+          "Mohammed RABIU",
+          "Kwadwo ASAMOAH",
+          "Asamoah GYAN",
+          "Majeed WARIS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-17",
+      "stage": "Group H",
+      "venue": "Mineirão",
+      "city": "Belo Horizonte",
+      "home_team": "Belgium",
+      "away_team": "Algeria",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Algeria",
+          "player": "Sofiane Feghouli",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "team": "Belgium",
+          "player": "Marouane FELLAINI",
+          "minute": "69"
+        },
+        {
+          "team": "Belgium",
+          "player": "Dries Mertens",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Dries Mertens",
+          "player_off": "Nacer Chadli",
+          "minute": "45"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Divock ORIGI",
+          "player_off": "Romelu LUKAKU",
+          "minute": "57"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Marouane FELLAINI",
+          "player_off": "Moussa DEMBELE",
+          "minute": "64"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Islam Slimani",
+          "player_off": "SOUDANI El Arabi",
+          "minute": "65"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Medhi LACEN",
+          "player_off": "Riyad Mahrez",
+          "minute": "70"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Nabil GHILAS",
+          "player_off": "Carl MEDJANI",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Daniel VAN BUYTEN",
+          "Axel WITSEL",
+          "Kevin De Bruyne",
+          "Eden HAZARD",
+          "Moussa DEMBELE",
+          "Nacer Chadli",
+          "Romelu LUKAKU"
+        ],
+        "away": [
+          "MBOLHI Rais",
+          "Madjid BOUGUERRA",
+          "Faouzi Ghoulam",
+          "Rafik HALLICHE",
+          "Carl MEDJANI",
+          "Nabil Bentaleb",
+          "Saphir TAIDER",
+          "Mehdi MOSTEFA",
+          "Sofiane Feghouli",
+          "SOUDANI El Arabi",
+          "Riyad Mahrez"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-17",
+      "stage": "Group H",
+      "venue": "Arena Pantanal",
+      "city": "Cuiabá",
+      "home_team": "Russia",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "South Korea",
+          "player": "LEE Keunho",
+          "minute": "67"
+        },
+        {
+          "team": "Russia",
+          "player": "Aleksandr KERZHAKOV",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "LEE Keunho",
+          "player_off": "PARK Chuyoung",
+          "minute": "55"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Alan DZAGOEV",
+          "player_off": "Oleg Shatov",
+          "minute": "58"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Aleksandr KERZHAKOV",
+          "player_off": "Yury ZHIRKOV",
+          "minute": "70"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Igor DENISOV",
+          "player_off": "Denis Glushakov",
+          "minute": "71"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Seokho",
+          "player_off": "HONG Jeongho",
+          "minute": "72"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Bokyung",
+          "player_off": "SON Heungmin",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Igor Akinfeev",
+          "Sergey IGNASHEVICH",
+          "Vasili BEREZUTSKI",
+          "Andrey ESHCHENKO",
+          "Dmitri KOMBAROV",
+          "Denis Glushakov",
+          "Oleg Shatov",
+          "Viktor FAYZULIN",
+          "Aleksandr Kokorin",
+          "Yury ZHIRKOV",
+          "Alexander SAMEDOV"
+        ],
+        "away": [
+          "JUNG Sungryong",
+          "YUN Sukyoung",
+          "KIM Younggwon",
+          "LEE Yong",
+          "HONG Jeongho",
+          "SON Heungmin",
+          "HAN Kookyoung",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "PARK Chuyoung",
+          "KOO Jacheol"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-22",
+      "stage": "Group H",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Belgium",
+      "away_team": "Russia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Divock ORIGI",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Jan VERTONGHEN",
+          "player_off": "Thomas VERMAELEN",
+          "minute": "30"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Divock ORIGI",
+          "player_off": "Romelu LUKAKU",
+          "minute": "56"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Andrey ESHCHENKO",
+          "player_off": "Aleksey Kozlov",
+          "minute": "61"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Kevin MIRALLAS",
+          "player_off": "Dries Mertens",
+          "minute": "74"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Alan DZAGOEV",
+          "player_off": "Oleg Shatov",
+          "minute": "82"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Aleksandr KERZHAKOV",
+          "player_off": "Alexander SAMEDOV",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Thomas VERMAELEN",
+          "Vincent KOMPANY",
+          "Daniel VAN BUYTEN",
+          "Axel WITSEL",
+          "Kevin De Bruyne",
+          "Marouane FELLAINI",
+          "Eden HAZARD",
+          "Dries Mertens",
+          "Romelu LUKAKU"
+        ],
+        "away": [
+          "Igor Akinfeev",
+          "Aleksey Kozlov",
+          "Sergey IGNASHEVICH",
+          "Vasili BEREZUTSKI",
+          "Dmitri KOMBAROV",
+          "Denis Glushakov",
+          "Oleg Shatov",
+          "Viktor FAYZULIN",
+          "Maksim KANUNNIKOV",
+          "Aleksandr Kokorin",
+          "Alexander SAMEDOV"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-22",
+      "stage": "Group H",
+      "venue": "Estádio Beira-Rio",
+      "city": "Porto Alegre",
+      "home_team": "South Korea",
+      "away_team": "Algeria",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Algeria",
+          "player": "Islam Slimani",
+          "minute": "25"
+        },
+        {
+          "team": "Algeria",
+          "player": "Rafik HALLICHE",
+          "minute": "27"
+        },
+        {
+          "team": "Algeria",
+          "player": "Abdelmoumene Djabou",
+          "minute": "37"
+        },
+        {
+          "team": "South Korea",
+          "player": "SON Heungmin",
+          "minute": "49"
+        },
+        {
+          "team": "Algeria",
+          "player": "BRAHIMI Yacine",
+          "minute": "61"
+        },
+        {
+          "team": "South Korea",
+          "player": "KOO Jacheol",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "KIM Shinwook",
+          "player_off": "PARK Chuyoung",
+          "minute": "56"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Keunho",
+          "player_off": "LEE Chungyong",
+          "minute": "63"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Nabil GHILAS",
+          "player_off": "Abdelmoumene Djabou",
+          "minute": "72"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Medhi LACEN",
+          "player_off": "BRAHIMI Yacine",
+          "minute": "76"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JI Dongwon",
+          "player_off": "HAN Kookyoung",
+          "minute": "77"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Esseid BELKALEM",
+          "player_off": "Madjid BOUGUERRA",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JUNG Sungryong",
+          "YUN Sukyoung",
+          "KIM Younggwon",
+          "LEE Yong",
+          "HONG Jeongho",
+          "SON Heungmin",
+          "HAN Kookyoung",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "PARK Chuyoung",
+          "KOO Jacheol"
+        ],
+        "away": [
+          "MBOLHI Rais",
+          "Madjid BOUGUERRA",
+          "Rafik HALLICHE",
+          "Djamel MESBAH",
+          "Carl MEDJANI",
+          "Aissa MANDI",
+          "BRAHIMI Yacine",
+          "Nabil Bentaleb",
+          "Sofiane Feghouli",
+          "Islam Slimani",
+          "Abdelmoumene Djabou"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-26",
+      "stage": "Group H",
+      "venue": "Arena Corinthians",
+      "city": "São Paulo",
+      "home_team": "South Korea",
+      "away_team": "Belgium",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Jan VERTONGHEN",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "LEE Keunho",
+          "player_off": "HAN Kookyoung",
+          "minute": "45"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Nacer Chadli",
+          "player_off": "Adnan Januzaj",
+          "minute": "59"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Divock ORIGI",
+          "player_off": "Dries Mertens",
+          "minute": "59"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Bokyung",
+          "player_off": "KIM Shinwook",
+          "minute": "65"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JI Dongwon",
+          "player_off": "SON Heungmin",
+          "minute": "72"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Eden HAZARD",
+          "player_off": "Kevin MIRALLAS",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "KIM Seunggyu",
+          "YUN Sukyoung",
+          "KIM Younggwon",
+          "LEE Yong",
+          "HONG Jeongho",
+          "SON Heungmin",
+          "HAN Kookyoung",
+          "KI Sungyueng",
+          "LEE Chungyong",
+          "KOO Jacheol",
+          "KIM Shinwook"
+        ],
+        "away": [
+          "Thibaut COURTOIS",
+          "Jan VERTONGHEN",
+          "Daniel VAN BUYTEN",
+          "Nicolas LOMBAERTS",
+          "Anthony VANDEN BORRE",
+          "Marouane FELLAINI",
+          "Dries Mertens",
+          "Steven DEFOUR",
+          "Moussa DEMBELE",
+          "Adnan Januzaj",
+          "Kevin MIRALLAS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-26",
+      "stage": "Group H",
+      "venue": "Arena da Baixada",
+      "city": "Curitiba",
+      "home_team": "Algeria",
+      "away_team": "Russia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "Aleksandr Kokorin",
+          "minute": "5"
+        },
+        {
+          "team": "Algeria",
+          "player": "Islam Slimani",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Igor DENISOV",
+          "player_off": "Denis Glushakov",
+          "minute": "45"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Alan DZAGOEV",
+          "player_off": "Oleg Shatov",
+          "minute": "66"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Hassan YEBDA",
+          "player_off": "BRAHIMI Yacine",
+          "minute": "70"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Nabil GHILAS",
+          "player_off": "Abdelmoumene Djabou",
+          "minute": "76"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Maksim KANUNNIKOV",
+          "player_off": "Aleksandr KERZHAKOV",
+          "minute": "80"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "SOUDANI El Arabi",
+          "player_off": "Islam Slimani",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MBOLHI Rais",
+          "Esseid BELKALEM",
+          "Rafik HALLICHE",
+          "Djamel MESBAH",
+          "Carl MEDJANI",
+          "Aissa MANDI",
+          "BRAHIMI Yacine",
+          "Nabil Bentaleb",
+          "Sofiane Feghouli",
+          "Islam Slimani",
+          "Abdelmoumene Djabou"
+        ],
+        "away": [
+          "Igor Akinfeev",
+          "Aleksey Kozlov",
+          "Sergey IGNASHEVICH",
+          "Vasili BEREZUTSKI",
+          "Dmitri KOMBAROV",
+          "Denis Glushakov",
+          "Oleg Shatov",
+          "Viktor FAYZULIN",
+          "Aleksandr Kokorin",
+          "Aleksandr KERZHAKOV",
+          "Alexander SAMEDOV"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-28",
+      "stage": "Round of 16",
+      "venue": "Mineirão",
+      "city": "Belo Horizonte",
+      "home_team": "Brazil",
+      "away_team": "Chile",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "DAVID LUIZ",
+          "minute": "17"
+        },
+        {
+          "team": "Chile",
+          "player": "Alexis SANCHEZ",
+          "minute": "31"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Felipe GUTIERREZ",
+          "player_off": "Eduardo VARGAS",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "JO",
+          "player_off": "Fred",
+          "minute": "63"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "FERNANDINHO",
+          "minute": "71"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Mauricio PINILLA",
+          "player_off": "Arturo VIDAL",
+          "minute": "86"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "WILLIAN",
+          "player_off": "OSCAR",
+          "minute": "105"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jose ROJAS",
+          "player_off": "Gary MEDEL",
+          "minute": "107"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "DANI ALVES",
+          "THIAGO SILVA",
+          "DAVID LUIZ",
+          "MARCELO",
+          "FERNANDINHO",
+          "OSCAR",
+          "LUIZ GUSTAVO",
+          "HULK",
+          "Fred",
+          "NEYMAR"
+        ],
+        "away": [
+          "Claudio BRAVO",
+          "Eugenio MENA",
+          "Mauricio ISLA",
+          "Gary MEDEL",
+          "Gonzalo JARA",
+          "Francisco SILVA",
+          "Arturo VIDAL",
+          "Charles ARANGUIZ",
+          "Marcelo DIAZ",
+          "Alexis SANCHEZ",
+          "Eduardo VARGAS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-28",
+      "stage": "Round of 16",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Colombia",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "James RODRIGUEZ",
+          "minute": "27"
+        },
+        {
+          "team": "Colombia",
+          "player": "James RODRIGUEZ",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Cristhian STUANI",
+          "player_off": "Diego FORLAN",
+          "minute": "52"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Gaston RAMIREZ",
+          "player_off": "Alvaro PEREIRA",
+          "minute": "52"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Abel HERNANDEZ",
+          "player_off": "Alvaro GONZALEZ",
+          "minute": "66"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Alexander MEJIA",
+          "player_off": "Teofilo GUTIERREZ",
+          "minute": "67"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Fredy GUARIN",
+          "player_off": "Juan CUADRADO",
+          "minute": "80"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Adrian RAMOS",
+          "player_off": "James RODRIGUEZ",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David OSPINA",
+          "Cristian ZAPATA",
+          "Mario YEPES",
+          "Pablo ARMERO",
+          "Juan ZUNIGA",
+          "Carlos SANCHEZ",
+          "Abel AGUILAR",
+          "James RODRIGUEZ",
+          "Juan CUADRADO",
+          "Teofilo GUTIERREZ",
+          "Jackson MARTINEZ"
+        ],
+        "away": [
+          "Fernando MUSLERA",
+          "Diego GODIN",
+          "Jose GIMENEZ",
+          "Maximiliano PEREIRA",
+          "Martin CACERES",
+          "Alvaro PEREIRA",
+          "Cristian RODRIGUEZ",
+          "Egidio AREVALO",
+          "Alvaro GONZALEZ",
+          "Diego FORLAN",
+          "Edinson CAVANI"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-29",
+      "stage": "Round of 16",
+      "venue": "Estádio Castelão",
+      "city": "Fortaleza",
+      "home_team": "Netherlands",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Giovani DOS SANTOS",
+          "minute": "47"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wesley SNEIJDER",
+          "minute": "87"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Klaas Jan HUNTELAAR",
+          "minute": "90+3",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Bruno MARTINS INDI",
+          "player_off": "Nigel DE JONG",
+          "minute": "8"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "REYES Diego",
+          "player_off": "Hector MORENO",
+          "minute": "45"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Memphis Depay",
+          "player_off": "Paul VERHAEGH",
+          "minute": "55"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "AQUINO Javier",
+          "player_off": "Giovani DOS SANTOS",
+          "minute": "60"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Javier HERNANDEZ",
+          "player_off": "Oribe PERALTA",
+          "minute": "74"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Daley Blind",
+          "Paul VERHAEGH",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Georginio WIJNALDUM",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN",
+          "Dirk KUYT"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Francisco RODRIGUEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Miguel LAYUN",
+          "Hector MORENO",
+          "Andres GUARDADO",
+          "Paul AGUILAR",
+          "Hector HERRERA",
+          "Giovani DOS SANTOS",
+          "Oribe PERALTA"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-29",
+      "stage": "Round of 16",
+      "venue": "Arena Pernambuco",
+      "city": "Recife",
+      "home_team": "Costa Rica",
+      "away_team": "Greece",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 5,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Costa Rica",
+          "player": "Bryan RUIZ",
+          "minute": "51"
+        },
+        {
+          "team": "Greece",
+          "player": "Sokratis Papastathopoulos",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Greece",
+          "player_on": "Konstantinos Mitroglou",
+          "player_off": "Andreas Samaris",
+          "minute": "57"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Jose CUBERO",
+          "player_off": "Yeltsin TEJEDA",
+          "minute": "65"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Theofanis GEKAS",
+          "player_off": "Dimitrios SALPINGIDIS",
+          "minute": "68"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Johnny ACOSTA",
+          "player_off": "Cristian GAMBOA",
+          "minute": "76"
+        },
+        {
+          "team": "Greece",
+          "player_on": "Konstantinos KATSOURANIS",
+          "player_off": "Ioannis MANIATIS",
+          "minute": "77"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Randall BRENES",
+          "player_off": "Christian BOLANOS",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Keylor NAVAS",
+          "Giancarlo GONZALEZ",
+          "Michael UMANA",
+          "Oscar DUARTE",
+          "Junior DIAZ",
+          "Cristian GAMBOA",
+          "Celso BORGES",
+          "Christian BOLANOS",
+          "Yeltsin TEJEDA",
+          "Joel CAMPBELL",
+          "Bryan RUIZ"
+        ],
+        "away": [
+          "Orestis KARNEZIS",
+          "Konstantinos Manolas",
+          "Vasileios TOROSIDIS",
+          "Sokratis Papastathopoulos",
+          "Jose CHOLEVAS",
+          "Ioannis MANIATIS",
+          "Georgios KARAGOUNIS",
+          "Lazaros Christodoulopoulos",
+          "Andreas Samaris",
+          "Georgios SAMARAS",
+          "Dimitrios SALPINGIDIS"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-30",
+      "stage": "Round of 16",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "France",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Paul Pogba",
+          "minute": "78"
+        },
+        {
+          "team": "France",
+          "player": "Joseph YOBO",
+          "minute": "90+1",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Ruben GABRIEL",
+          "player_off": "Ogenyi ONAZI",
+          "minute": "58"
+        },
+        {
+          "team": "France",
+          "player_on": "Antoine Griezmann",
+          "player_off": "Olivier Giroud",
+          "minute": "61"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Uche NWOFOR",
+          "player_off": "Victor Moses",
+          "minute": "88"
+        },
+        {
+          "team": "France",
+          "player_on": "Moussa Sissoko",
+          "player_off": "Mathieu Valbuena",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo Lloris",
+          "Mathieu DEBUCHY",
+          "Patrice EVRA",
+          "Raphael VARANE",
+          "Laurent KOSCIELNY",
+          "Yohan CABAYE",
+          "Mathieu Valbuena",
+          "Blaise Matuidi",
+          "Paul Pogba",
+          "Olivier Giroud",
+          "Karim Benzema"
+        ],
+        "away": [
+          "Vincent ENYEAMA",
+          "Joseph YOBO",
+          "Efe AMBROSE",
+          "Juwon OSHANIWA",
+          "Kenneth OMERUO",
+          "John Obi MIKEL",
+          "Ogenyi ONAZI",
+          "Ahmed Musa",
+          "Peter ODEMWINGIE",
+          "Emmanuel EMENIKE",
+          "Victor Moses"
+        ]
+      }
+    },
+    {
+      "date": "2014-06-30",
+      "stage": "Round of 16",
+      "venue": "Estádio Beira-Rio",
+      "city": "Porto Alegre",
+      "home_team": "Germany",
+      "away_team": "Algeria",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Andre SCHUERRLE",
+          "minute": "91"
+        },
+        {
+          "team": "Germany",
+          "player": "Mesut OEZIL",
+          "minute": "119"
+        },
+        {
+          "team": "Algeria",
+          "player": "Abdelmoumene Djabou",
+          "minute": "120"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Andre SCHUERRLE",
+          "player_off": "Mario GOETZE",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Sami KHEDIRA",
+          "player_off": "Shkodran MUSTAFI",
+          "minute": "69"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "BRAHIMI Yacine",
+          "player_off": "Saphir TAIDER",
+          "minute": "77"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Madjid BOUGUERRA",
+          "player_off": "Rafik HALLICHE",
+          "minute": "96"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Abdelmoumene Djabou",
+          "player_off": "SOUDANI El Arabi",
+          "minute": "99"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Christoph Kramer",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "108"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Per MERTESACKER",
+          "BOATENG Jerome",
+          "Shkodran MUSTAFI",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "MUELLER Thomas",
+          "Mario GOETZE"
+        ],
+        "away": [
+          "MBOLHI Rais",
+          "Faouzi Ghoulam",
+          "Esseid BELKALEM",
+          "Rafik HALLICHE",
+          "Aissa MANDI",
+          "Medhi LACEN",
+          "Saphir TAIDER",
+          "Mehdi MOSTEFA",
+          "Sofiane Feghouli",
+          "Islam Slimani",
+          "SOUDANI El Arabi"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-01",
+      "stage": "Round of 16",
+      "venue": "Arena Corinthians",
+      "city": "São Paulo",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Angel DI MARIA",
+          "minute": "117"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Gelson FERNANDES",
+          "player_off": "Granit Xhaka",
+          "minute": "65"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rodrigo PALACIO",
+          "player_off": "Ezequiel LAVEZZI",
+          "minute": "73"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Josip Drmic",
+          "minute": "81"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lucas BIGLIA",
+          "player_off": "Fernando GAGO",
+          "minute": "105"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "José BASANTA",
+          "player_off": "Marcos ROJO",
+          "minute": "105"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Blerim DZEMAILI",
+          "player_off": "Admir MEHMEDI",
+          "minute": "112"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Pablo ZABALETA",
+          "Marcos ROJO",
+          "Federico FERNANDEZ",
+          "Fernando GAGO",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Ezequiel LAVEZZI"
+        ],
+        "away": [
+          "Diego BENAGLIO",
+          "Stephan LICHTSTEINER",
+          "Ricardo RODRIGUEZ",
+          "Johan DJOUROU",
+          "Fabian SCHAER",
+          "Gokhan INLER",
+          "Granit Xhaka",
+          "Valon BEHRAMI",
+          "Xherdan Shaqiri",
+          "Admir MEHMEDI",
+          "Josip Drmic"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-01",
+      "stage": "Round of 16",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Belgium",
+      "away_team": "United States",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Kevin De Bruyne",
+          "minute": "92"
+        },
+        {
+          "team": "Belgium",
+          "player": "Romelu LUKAKU",
+          "minute": "104"
+        },
+        {
+          "team": "United States",
+          "player": "Julian GREEN",
+          "minute": "106"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "DeAndre YEDLIN",
+          "player_off": "Fabian JOHNSON",
+          "minute": "31"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Kevin MIRALLAS",
+          "player_off": "Dries Mertens",
+          "minute": "59"
+        },
+        {
+          "team": "United States",
+          "player_on": "Chris WONDOLOWSKI",
+          "player_off": "Graham ZUSI",
+          "minute": "71"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Romelu LUKAKU",
+          "player_off": "Divock ORIGI",
+          "minute": "90"
+        },
+        {
+          "team": "United States",
+          "player_on": "Julian GREEN",
+          "player_off": "Alejandro Bedoya",
+          "minute": "105+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Nacer Chadli",
+          "player_off": "Eden HAZARD",
+          "minute": "110"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Daniel VAN BUYTEN",
+          "Axel WITSEL",
+          "Kevin De Bruyne",
+          "Marouane FELLAINI",
+          "Eden HAZARD",
+          "Dries Mertens",
+          "Divock ORIGI"
+        ],
+        "away": [
+          "Tim HOWARD",
+          "Omar GONZALEZ",
+          "Matt BESLER",
+          "DaMarcus BEASLEY",
+          "Geoff Cameron",
+          "Fabian JOHNSON",
+          "Michael BRADLEY",
+          "Alejandro Bedoya",
+          "Jermaine JONES",
+          "Graham ZUSI",
+          "Clint DEMPSEY"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-04",
+      "stage": "Quarterfinal",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "France",
+      "away_team": "Germany",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Mats Hummels",
+          "minute": "12"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Andre SCHUERRLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player_on": "Laurent KOSCIELNY",
+          "player_off": "Mamadou SAKHO",
+          "minute": "71"
+        },
+        {
+          "team": "France",
+          "player_on": "Loïc RÉMY",
+          "player_off": "Yohan CABAYE",
+          "minute": "72"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOETZE",
+          "player_off": "Mesut OEZIL",
+          "minute": "82"
+        },
+        {
+          "team": "France",
+          "player_on": "Olivier Giroud",
+          "player_off": "Mathieu Valbuena",
+          "minute": "84"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Christoph Kramer",
+          "player_off": "Toni Kroos",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo Lloris",
+          "Mathieu DEBUCHY",
+          "Patrice EVRA",
+          "Raphael VARANE",
+          "Mamadou SAKHO",
+          "Yohan CABAYE",
+          "Mathieu Valbuena",
+          "Blaise Matuidi",
+          "Paul Pogba",
+          "Karim Benzema",
+          "Antoine Griezmann"
+        ],
+        "away": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Mats Hummels",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "Miroslav KLOSE",
+          "MUELLER Thomas"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-04",
+      "stage": "Quarterfinal",
+      "venue": "Estádio Castelão",
+      "city": "Fortaleza",
+      "home_team": "Brazil",
+      "away_team": "Colombia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "THIAGO SILVA",
+          "minute": "6"
+        },
+        {
+          "team": "Brazil",
+          "player": "DAVID LUIZ",
+          "minute": "68"
+        },
+        {
+          "team": "Colombia",
+          "player": "James RODRIGUEZ",
+          "minute": "79",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Adrian RAMOS",
+          "player_off": "Victor IBARBO",
+          "minute": "45"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Carlos BACCA",
+          "player_off": "Teofilo GUTIERREZ",
+          "minute": "69"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Juan QUINTERO",
+          "player_off": "Juan CUADRADO",
+          "minute": "79"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "HULK",
+          "minute": "82"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "HERNANES",
+          "player_off": "PAULINHO",
+          "minute": "85"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "HENRIQUE",
+          "player_off": "NEYMAR",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "THIAGO SILVA",
+          "DAVID LUIZ",
+          "MARCELO",
+          "MAICON",
+          "FERNANDINHO",
+          "PAULINHO",
+          "OSCAR",
+          "HULK",
+          "Fred",
+          "NEYMAR"
+        ],
+        "away": [
+          "David OSPINA",
+          "Cristian ZAPATA",
+          "Mario YEPES",
+          "Pablo ARMERO",
+          "Juan ZUNIGA",
+          "Carlos SANCHEZ",
+          "James RODRIGUEZ",
+          "Juan CUADRADO",
+          "Fredy GUARIN",
+          "Teofilo GUTIERREZ",
+          "Victor IBARBO"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-05",
+      "stage": "Quarterfinal",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "Argentina",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Gonzalo HIGUAIN",
+          "minute": "7"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Enzo PEREZ",
+          "player_off": "Angel DI MARIA",
+          "minute": "32"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Romelu LUKAKU",
+          "player_off": "Divock ORIGI",
+          "minute": "58"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Dries Mertens",
+          "player_off": "Kevin MIRALLAS",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rodrigo PALACIO",
+          "player_off": "Ezequiel LAVEZZI",
+          "minute": "70"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Nacer Chadli",
+          "player_off": "Eden HAZARD",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Fernando GAGO",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Pablo ZABALETA",
+          "Martin DEMICHELIS",
+          "José BASANTA",
+          "Lucas BIGLIA",
+          "Angel DI MARIA",
+          "Javier MASCHERANO",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Ezequiel LAVEZZI"
+        ],
+        "away": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Daniel VAN BUYTEN",
+          "Axel WITSEL",
+          "Kevin De Bruyne",
+          "Marouane FELLAINI",
+          "Eden HAZARD",
+          "Kevin MIRALLAS",
+          "Divock ORIGI"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-05",
+      "stage": "Quarterfinal",
+      "venue": "Arena Fonte Nova",
+      "city": "Salvador",
+      "home_team": "Netherlands",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 3
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Marcos URENA",
+          "player_off": "Joel CAMPBELL",
+          "minute": "65"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Jeremain LENS",
+          "player_off": "Memphis Depay",
+          "minute": "75"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Dave MYRIE",
+          "player_off": "Cristian GAMBOA",
+          "minute": "78"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Jose CUBERO",
+          "player_off": "Yeltsin TEJEDA",
+          "minute": "96"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Bruno MARTINS INDI",
+          "minute": "105"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Tim Krul",
+          "player_off": "Jasper Cillessen",
+          "minute": "120"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Bruno MARTINS INDI",
+          "Daley Blind",
+          "Wesley SNEIJDER",
+          "Georginio WIJNALDUM",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN",
+          "Dirk KUYT",
+          "Memphis Depay"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Johnny ACOSTA",
+          "Giancarlo GONZALEZ",
+          "Michael UMANA",
+          "Junior DIAZ",
+          "Cristian GAMBOA",
+          "Celso BORGES",
+          "Christian BOLANOS",
+          "Yeltsin TEJEDA",
+          "Joel CAMPBELL",
+          "Bryan RUIZ"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-08",
+      "stage": "Semifinal",
+      "venue": "Mineirão",
+      "city": "Belo Horizonte",
+      "home_team": "Brazil",
+      "away_team": "Germany",
+      "score": {
+        "home": 1,
+        "away": 7
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "MUELLER Thomas",
+          "minute": "10"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "22"
+        },
+        {
+          "team": "Germany",
+          "player": "Toni Kroos",
+          "minute": "24"
+        },
+        {
+          "team": "Germany",
+          "player": "Toni Kroos",
+          "minute": "25"
+        },
+        {
+          "team": "Germany",
+          "player": "Sami KHEDIRA",
+          "minute": "28"
+        },
+        {
+          "team": "Germany",
+          "player": "Andre SCHUERRLE",
+          "minute": "68"
+        },
+        {
+          "team": "Germany",
+          "player": "Andre SCHUERRLE",
+          "minute": "78"
+        },
+        {
+          "team": "Brazil",
+          "player": "OSCAR",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "RAMIRES",
+          "player_off": "HULK",
+          "minute": "45"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULINHO",
+          "player_off": "FERNANDINHO",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Per MERTESACKER",
+          "player_off": "Mats Hummels",
+          "minute": "45"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Andre SCHUERRLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "57"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "WILLIAN",
+          "player_off": "Fred",
+          "minute": "69"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Julian Draxler",
+          "player_off": "Sami KHEDIRA",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "DAVID LUIZ",
+          "MARCELO",
+          "DANTE",
+          "MAICON",
+          "FERNANDINHO",
+          "OSCAR",
+          "LUIZ GUSTAVO",
+          "HULK",
+          "Fred",
+          "BERNARD"
+        ],
+        "away": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Mats Hummels",
+          "BOATENG Jerome",
+          "Sami KHEDIRA",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "Miroslav KLOSE",
+          "MUELLER Thomas"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-09",
+      "stage": "Semifinal",
+      "venue": "Arena de São Paulo",
+      "city": "São Paulo",
+      "home_team": "Netherlands",
+      "away_team": "Argentina",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 2,
+        "away": 4
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Daryl JANMAAT",
+          "player_off": "Bruno MARTINS INDI",
+          "minute": "45"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Jordy Clasie",
+          "player_off": "Nigel DE JONG",
+          "minute": "61"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rodrigo PALACIO",
+          "player_off": "Enzo PEREZ",
+          "minute": "80"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio AGUERO",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "81"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Klaas Jan HUNTELAAR",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "95"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Maxi RODRIGUEZ",
+          "player_off": "Ezequiel LAVEZZI",
+          "minute": "100"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Bruno MARTINS INDI",
+          "Daley Blind",
+          "Nigel DE JONG",
+          "Wesley SNEIJDER",
+          "Georginio WIJNALDUM",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN",
+          "Dirk KUYT"
+        ],
+        "away": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Pablo ZABALETA",
+          "Martin DEMICHELIS",
+          "Marcos ROJO",
+          "Lucas BIGLIA",
+          "Enzo PEREZ",
+          "Javier MASCHERANO",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Ezequiel LAVEZZI"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-12",
+      "stage": "Third-place match",
+      "venue": "Estádio Nacional Mané Garrincha",
+      "city": "Brasília",
+      "home_team": "Brazil",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Robin VAN PERSIE",
+          "minute": "2",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Daley Blind",
+          "minute": "16"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Georginio WIJNALDUM",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "FERNANDINHO",
+          "player_off": "LUIZ GUSTAVO",
+          "minute": "45"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "HERNANES",
+          "player_off": "PAULINHO",
+          "minute": "56"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Daryl JANMAAT",
+          "player_off": "Daley Blind",
+          "minute": "69"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "HULK",
+          "player_off": "RAMIRES",
+          "minute": "72"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Joel VELTMAN",
+          "player_off": "Jordy Clasie",
+          "minute": "89"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Michel VORM",
+          "player_off": "Jasper Cillessen",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JULIO CESAR",
+          "THIAGO SILVA",
+          "DAVID LUIZ",
+          "MAXWELL",
+          "MAICON",
+          "PAULINHO",
+          "OSCAR",
+          "RAMIRES",
+          "LUIZ GUSTAVO",
+          "WILLIAN",
+          "JO"
+        ],
+        "away": [
+          "Jasper Cillessen",
+          "Ron VLAAR",
+          "Stefan de Vrij",
+          "Bruno MARTINS INDI",
+          "Daley Blind",
+          "Jonathan DE GUZMAN",
+          "Jordy Clasie",
+          "Georginio WIJNALDUM",
+          "Robin VAN PERSIE",
+          "Arjen ROBBEN",
+          "Dirk KUYT"
+        ]
+      }
+    },
+    {
+      "date": "2014-07-13",
+      "stage": "Final",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Germany",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Mario GOETZE",
+          "minute": "112"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Andre SCHUERRLE",
+          "player_off": "Christoph Kramer",
+          "minute": "30"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio AGUERO",
+          "player_off": "Ezequiel LAVEZZI",
+          "minute": "45"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rodrigo PALACIO",
+          "player_off": "Gonzalo HIGUAIN",
+          "minute": "77"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Fernando GAGO",
+          "player_off": "Enzo PEREZ",
+          "minute": "85"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOETZE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "87"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Per MERTESACKER",
+          "player_off": "Mesut OEZIL",
+          "minute": "119"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "NEUER Manuel",
+          "Benedikt HOEWEDES",
+          "Mats Hummels",
+          "BOATENG Jerome",
+          "Bastian SCHWEINSTEIGER",
+          "Mesut OEZIL",
+          "Philipp LAHM",
+          "Toni Kroos",
+          "Christoph Kramer",
+          "Miroslav KLOSE",
+          "MUELLER Thomas"
+        ],
+        "away": [
+          "Sergio ROMERO",
+          "Ezequiel GARAY",
+          "Pablo ZABALETA",
+          "Martin DEMICHELIS",
+          "Marcos ROJO",
+          "Lucas BIGLIA",
+          "Enzo PEREZ",
+          "Javier MASCHERANO",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Ezequiel LAVEZZI"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4039 @@
+{
+  "tournament": "FIFA World Cup 1990",
+  "host_country": "Italy",
+  "matches_played": 52,
+  "format": "Six first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/90full.html",
+    "https://www.rsssf.org/tables/90f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1990/worldcup-full.json",
+    "https://en.wikipedia.org/wiki/1990_FIFA_World_Cup_Group_D#West_Germany_vs_Colombia"
+  ],
+  "matches": [
+    {
+      "date": "1990-06-08",
+      "stage": "Group B",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "Argentina",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Francois OMAM-BIYIK",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Claudio CANIGGIA",
+          "player_off": "Oscar RUGGERI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Thomas LIBIIH",
+          "player_off": "Louis MFEDE",
+          "minute": "66"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gabriel CALDERON",
+          "player_off": "Roberto SENSINI",
+          "minute": "69"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Roger MILLA",
+          "player_off": "Cyrille MAKANAKY",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Nestor FABBRI",
+          "Nestor LORENZO",
+          "Roberto SENSINI",
+          "Oscar RUGGERI",
+          "Juan SIMON",
+          "Sergio BATISTA",
+          "Jose BASUALDO",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Abel BALBO"
+        ],
+        "away": [
+          "Thomas NKONO",
+          "Benjamin MASSING",
+          "Bertin EBWELLE",
+          "Emmanuel KUNDE",
+          "Stephen TATAW",
+          "Victor NDIP",
+          "Andre KANA-BIYIK",
+          "Emile MBOUH",
+          "Louis MFEDE",
+          "Francois OMAM-BIYIK",
+          "Cyrille MAKANAKY"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-09",
+      "stage": "Group A",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Salvatore SCHILLACI",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Luigi DE AGOSTINI",
+          "player_off": "Carlo ANCELOTTI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Manfred ZSAK",
+          "player_off": "Peter ARTNER",
+          "minute": "61"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Salvatore SCHILLACI",
+          "player_off": "Andrea CARNEVALE",
+          "minute": "75"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Alfred HOERTNAGL",
+          "player_off": "Manfred LINZMAIER",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Riccardo FERRI",
+          "Paolo MALDINI",
+          "Carlo ANCELOTTI",
+          "Fernando DE NAPOLI",
+          "Giuseppe GIANNINI",
+          "Roberto DONADONI",
+          "Andrea CARNEVALE",
+          "Gianluca VIALLI"
+        ],
+        "away": [
+          "Klaus LINDENBERGER",
+          "Ernst AIGNER",
+          "Robert PECL",
+          "Peter SCHOETTEL",
+          "Kurt RUSS",
+          "Peter ARTNER",
+          "Michael STREITER",
+          "Manfred LINZMAIER",
+          "Andreas HERZOG",
+          "Toni POLSTER",
+          "Andreas OGRIS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-10",
+      "stage": "Group A",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "Czechoslovakia",
+      "away_team": "United States",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Tomas SKUHRAVY",
+          "minute": "26"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Michal BILEK",
+          "minute": "40",
+          "penalty": true
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Ivan HASEK",
+          "minute": "50"
+        },
+        {
+          "team": "United States",
+          "player": "Paul CALIGIURI",
+          "minute": "60"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Tomas SKUHRAVY",
+          "minute": "78"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Milan LUHOVY",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Marcelo BALBOA",
+          "player_off": "John STOLLMEYER",
+          "minute": "64"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Milan LUHOVY",
+          "player_off": "Ivo KNOFLICEK",
+          "minute": "76"
+        },
+        {
+          "team": "United States",
+          "player_on": "Christopher SULLIVAN",
+          "player_off": "Bruce MURRAY",
+          "minute": "77"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Vladimir WEISS",
+          "player_off": "Lubomir MORAVCIK",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jan STEJSKAL",
+          "Miroslav KADLEC",
+          "Jan KOCIAN",
+          "Frantisek STRAKA",
+          "Michal BILEK",
+          "Ivan HASEK",
+          "Jozef CHOVANEC",
+          "Lubos KUBIK",
+          "Lubomir MORAVCIK",
+          "Tomas SKUHRAVY",
+          "Ivo KNOFLICEK"
+        ],
+        "away": [
+          "Tony MEOLA",
+          "Steve TRITTSCHUH",
+          "Michael WINDISCHMANN",
+          "Desmond ARMSTRONG",
+          "Paul CALIGIURI",
+          "John HARKES",
+          "Tab RAMOS",
+          "John STOLLMEYER",
+          "Peter VERMES",
+          "Eric WYNALDA",
+          "Bruce MURRAY"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-13",
+      "stage": "Group B",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Argentina",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Pedro TROGLIO",
+          "minute": "27"
+        },
+        {
+          "team": "Argentina",
+          "player": "Jorge BURRUCHAGA",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Sergio GOYCOCHEA",
+          "player_off": "Nery PUMPIDO",
+          "minute": "11"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Gennadi LITOVCHENKO",
+          "player_off": "Oleg PROTASOV",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Nestor LORENZO",
+          "player_off": "Pedro MONZON",
+          "minute": "78"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Vladimir LIUTYI",
+          "player_off": "Aleksandr ZAVAROV",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Pedro MONZON",
+          "Jose SERRIZUELA",
+          "Juan SIMON",
+          "Sergio BATISTA",
+          "Jose BASUALDO",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Julio OLARTICOECHEA",
+          "Pedro TROGLIO",
+          "Claudio CANIGGIA"
+        ],
+        "away": [
+          "Aleksandr UVAROV",
+          "Vladimir BESSONOV",
+          "Vagiz KHIDIYATULLIN",
+          "Oleg KUZNETSOV",
+          "Andrei ZYGMANTOVICH",
+          "Sergei GORLUKOVICH",
+          "Serguei ALEINIKOV",
+          "Aleksandr ZAVAROV",
+          "Igor SHALIMOV",
+          "Oleg PROTASOV",
+          "Igor DOBROVOLSKYI"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-14",
+      "stage": "Group B",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Cameroon",
+      "away_team": "Romania",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Roger MILLA",
+          "minute": "76"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Roger MILLA",
+          "minute": "86"
+        },
+        {
+          "team": "Romania",
+          "player": "Gavril BALINT",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Ilie DUMITRESCU",
+          "player_off": "Gheorghe HAGI",
+          "minute": "56"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Roger MILLA",
+          "player_off": "Emmanuel MABOANG",
+          "minute": "59"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Gavril BALINT",
+          "player_off": "Florin RADUCIOIU",
+          "minute": "63"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Jean Claude PAGAL",
+          "player_off": "Emmanuel KUNDE",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas NKONO",
+          "Jules Denis ONANA",
+          "Bertin EBWELLE",
+          "Emmanuel KUNDE",
+          "Stephen TATAW",
+          "Victor NDIP",
+          "Emile MBOUH",
+          "Louis MFEDE",
+          "Emmanuel MABOANG",
+          "Francois OMAM-BIYIK",
+          "Cyrille MAKANAKY"
+        ],
+        "away": [
+          "Silviu LUNG",
+          "Mircea REDNIC",
+          "Michael KLEIN",
+          "Ioan ANDONE",
+          "Iosif ROTARIU",
+          "Gheorghe POPESCU",
+          "Ioan SABAU",
+          "Gheorghe HAGI",
+          "Marius LACATUS",
+          "Florin RADUCIOIU",
+          "Daniel TIMOFTE"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-15",
+      "stage": "Group A",
+      "venue": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "home_team": "Austria",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Michal BILEK",
+          "minute": "31",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Julius BIELIK",
+          "player_off": "Jozef CHOVANEC",
+          "minute": "31"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Michael STREITER",
+          "player_off": "Kurt RUSS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Andreas OGRIS",
+          "player_off": "Peter SCHOETTEL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Vladimir WEISS",
+          "player_off": "Ivo KNOFLICEK",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Klaus LINDENBERGER",
+          "Ernst AIGNER",
+          "Robert PECL",
+          "Anton PFEFFER",
+          "Peter SCHOETTEL",
+          "Kurt RUSS",
+          "Manfred ZSAK",
+          "Alfred HOERTNAGL",
+          "Andreas HERZOG",
+          "Toni POLSTER",
+          "Gerhard RODAX"
+        ],
+        "away": [
+          "Jan STEJSKAL",
+          "Miroslav KADLEC",
+          "Jan KOCIAN",
+          "Michal BILEK",
+          "Ivan HASEK",
+          "Jozef CHOVANEC",
+          "Lubos KUBIK",
+          "Lubomir MORAVCIK",
+          "Vaclav NEMECEK",
+          "Tomas SKUHRAVY",
+          "Ivo KNOFLICEK"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-10",
+      "stage": "Group C",
+      "venue": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "home_team": "Brazil",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "40"
+        },
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "63"
+        },
+        {
+          "team": "Sweden",
+          "player": "Tomas BROLIN",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Stefan PETTERSSON",
+          "player_off": "Mats MAGNUSSON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Glenn STROMBERG",
+          "player_off": "Roger LJUNG",
+          "minute": "70"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "SILAS",
+          "player_off": "VALDO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "RICARDO GOMES",
+          "BRANCO",
+          "MOZER",
+          "MAURO GALVAO",
+          "DUNGA",
+          "ALEMAO",
+          "VALDO",
+          "CARECA",
+          "MULLER"
+        ],
+        "away": [
+          "Thomas RAVELLI",
+          "Peter LARSSON",
+          "Roger LJUNG",
+          "Roland NILSSON",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Anders LIMPAR",
+          "Joakim NILSSON",
+          "Jonas THERN",
+          "Tomas BROLIN",
+          "Mats MAGNUSSON"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-11",
+      "stage": "Group C",
+      "venue": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "home_team": "Costa Rica",
+      "away_team": "Scotland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Costa Rica",
+          "player": "Juan CAYASSO",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Stewart McKIMMIE",
+          "player_off": "Richard GOUGH",
+          "minute": "45+1"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Alistair McCOIST",
+          "player_off": "Jim BETT",
+          "minute": "73"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Hernan MEDFORD",
+          "player_off": "Claudio JARA",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gabelo CONEJO",
+          "Roger FLORES",
+          "Ronald GONZALEZ",
+          "Jose CHAVES",
+          "Mauricio MONTERO",
+          "German CHAVARRIA",
+          "Oscar RAMIREZ",
+          "Roger GOMEZ",
+          "Hector MARCHENA",
+          "Claudio JARA",
+          "Juan CAYASSO"
+        ],
+        "away": [
+          "Jim LEIGHTON",
+          "Alex McLEISH",
+          "Richard GOUGH",
+          "Maurice MALPAS",
+          "David McPHERSON",
+          "Roy AITKEN",
+          "Paul McSTAY",
+          "Jim BETT",
+          "Stuart McCALL",
+          "Mo JOHNSTON",
+          "Alan McINALLY"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-09",
+      "stage": "Group D",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "United Arab Emirates",
+      "away_team": "Colombia",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Bernardo REDIN",
+          "minute": "50"
+        },
+        {
+          "team": "Colombia",
+          "player": "Carlos VALDERRAMA",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United Arab Emirates",
+          "player_on": "ZUHAIR BAKHEET",
+          "player_off": "FAHAD KHAMEES",
+          "minute": "57"
+        },
+        {
+          "team": "United Arab Emirates",
+          "player_on": "Abdullah SULTAN",
+          "player_off": "EISSA MEER",
+          "minute": "74"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Carlos ESTRADA",
+          "player_off": "Arnoldo IGUARAN",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MUHSIN MUSABAH",
+          "KHALEEL GHANIM",
+          "Mohamed ABDULLAH",
+          "IBRAHIM MEER",
+          "EISSA MEER",
+          "YOUSUF HUSSAIN",
+          "Ali Thani JUMAA",
+          "NASIR KHAMEES",
+          "FAHAD KHAMEES",
+          "ADNAN AL TALYANI",
+          "HUSSAIN GHULOUM"
+        ],
+        "away": [
+          "Rene HIGUITA",
+          "Andres ESCOBAR",
+          "Gildardo GOMEZ",
+          "Luis HERRERA",
+          "Luis Carlos PEREA",
+          "Gabriel GOMEZ",
+          "Carlos VALDERRAMA",
+          "Bernardo REDIN",
+          "Leonel ALVAREZ",
+          "Arnoldo IGUARAN",
+          "Freddy RINCON"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-10",
+      "stage": "Group D",
+      "venue": "Stadio Giuseppe Meazza",
+      "city": "Milan",
+      "home_team": "West Germany",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Lothar MATTHAEUS",
+          "minute": "28"
+        },
+        {
+          "team": "West Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "39"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Davor JOZIC",
+          "minute": "55"
+        },
+        {
+          "team": "West Germany",
+          "player": "Lothar MATTHAEUS",
+          "minute": "64"
+        },
+        {
+          "team": "West Germany",
+          "player": "Rudi VOELLER",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dragoljub BRNOVIC",
+          "player_off": "Dejan SAVICEVIC",
+          "minute": "55"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Robert PROSINECKI",
+          "player_off": "Safet SUSIC",
+          "minute": "55"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Uwe BEIN",
+          "minute": "75"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Andreas MOELLER",
+          "player_off": "Thomas HAESSLER",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Stefan REUTER",
+          "Andreas BREHME",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Uwe BEIN",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Tomislav IVKOVIC",
+          "Predrag SPASIC",
+          "Zoran VULIC",
+          "Faruk HADZIBEGIC",
+          "Davor JOZIC",
+          "Srecko KATANEC",
+          "Mirsad BALJIC",
+          "Safet SUSIC",
+          "Dragan STOJKOVIC",
+          "Zlatko VUJOVIC",
+          "Dejan SAVICEVIC"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-12",
+      "stage": "Group E",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "Belgium",
+      "away_team": "South Korea",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Marc DEGRYSE",
+          "minute": "53"
+        },
+        {
+          "team": "Belgium",
+          "player": "Michel DE WOLF",
+          "minute": "64"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Jan CEULEMANS",
+          "player_off": "Marc VAN DER LINDEN",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHO Min Kook",
+          "player_off": "LEE Young Jin",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Tae Ho",
+          "player_off": "NOH Soo Jin",
+          "minute": "62"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Michel PREUDHOMME",
+          "Eric GERETS",
+          "Leo CLIJSTERS",
+          "Stephane DEMOL",
+          "Michel DE WOLF",
+          "Bruno VERSAVEL",
+          "Marc EMMERS",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Marc DEGRYSE",
+          "Marc VAN DER LINDEN"
+        ],
+        "away": [
+          "CHOI In Young",
+          "PARK Kyunghoon",
+          "CHOI Kanghee",
+          "CHUNG Yong Hwan",
+          "GU Sang Bum",
+          "HONG Myungbo",
+          "NOH Soo Jin",
+          "KIM Joo Sung",
+          "LEE Young Jin",
+          "CHOI Soon Ho",
+          "HWANG Sun Hong"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-13",
+      "stage": "Group E",
+      "venue": "Stadio Friuli",
+      "city": "Udine",
+      "home_team": "Spain",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Gabriel CORREA",
+          "player_off": "Antonio ALZAMENDI",
+          "minute": "65"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Carlos AGUILERA",
+          "player_off": "Ruben PEREIRA",
+          "minute": "65"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RAFA PAZ",
+          "player_off": "MANOLO",
+          "minute": "79"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alberto GORRIZ",
+          "player_off": "Francisco VILLARROYA",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "CHENDO",
+          "Manuel JIMENEZ",
+          "ANDRINUA",
+          "Manuel SANCHIS",
+          "MARTIN VAZQUEZ",
+          "Francisco VILLARROYA",
+          "ROBERTO",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "MANOLO"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Hugo DE LEON",
+          "Jose HERRERA",
+          "Alfonso DOMINGUEZ",
+          "Jose PERDOMO",
+          "Enzo FRANCESCOLI",
+          "Ruben PAZ",
+          "Ruben PEREIRA",
+          "Antonio ALZAMENDI",
+          "Ruben SOSA"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-11",
+      "stage": "Group F",
+      "venue": "Stadio La Favorita",
+      "city": "Palermo",
+      "home_team": "England",
+      "away_team": "Republic of Ireland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "9"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player": "Kevin SHEEDY",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Alan McLOUGHLIN",
+          "player_off": "John ALDRIDGE",
+          "minute": "64"
+        },
+        {
+          "team": "England",
+          "player_on": "Steve McMAHON",
+          "player_off": "Peter BEARDSLEY",
+          "minute": "69"
+        },
+        {
+          "team": "England",
+          "player_on": "Steve BULL",
+          "player_off": "Gary LINEKER",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Stuart PEARCE",
+          "Des WALKER",
+          "Terry BUTCHER",
+          "Bryan ROBSON",
+          "Chris WADDLE",
+          "John BARNES",
+          "Paul GASCOIGNE",
+          "Peter BEARDSLEY",
+          "Gary LINEKER"
+        ],
+        "away": [
+          "Pat BONNER",
+          "Chris MORRIS",
+          "Steve STAUNTON",
+          "Mick McCARTHY",
+          "Kevin MORAN",
+          "Paul McGRATH",
+          "Ray HOUGHTON",
+          "Kevin SHEEDY",
+          "Andy TOWNSEND",
+          "John ALDRIDGE",
+          "Tony CASCARINO"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-12",
+      "stage": "Group F",
+      "venue": "Stadio La Favorita",
+      "city": "Palermo",
+      "home_team": "Netherlands",
+      "away_team": "Egypt",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Wim KIEFT",
+          "minute": "58"
+        },
+        {
+          "team": "Egypt",
+          "player": "Magdy ABDELGHANY",
+          "minute": "83",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Wim KIEFT",
+          "player_off": "Gerald VANENBURG",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Richard WITSCHGE",
+          "player_off": "Erwin KOEMAN",
+          "minute": "70"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "Adel ABDELRAHMAN",
+          "player_off": "Ahmed RAMZY",
+          "minute": "70"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "Magdy TOLBA",
+          "player_off": "Gamal ABDELHAMID",
+          "minute": "70"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hans VAN BREUKELEN",
+          "Berry VAN AERLE",
+          "Ronald KOEMAN",
+          "Adri VAN TIGGELEN",
+          "Graeme RUTJES",
+          "Frank RIJKAARD",
+          "Jan WOUTERS",
+          "Erwin KOEMAN",
+          "Gerald VANENBURG",
+          "Ruud GULLIT",
+          "Marco VAN BASTEN"
+        ],
+        "away": [
+          "Ahmed SHOBEIR",
+          "Ibrahim HASSAN",
+          "Rabie YASSIN",
+          "Hany RAMZY",
+          "Hesham YAKAN",
+          "Ismail YOUSSEF",
+          "Magdy ABDELGHANY",
+          "Gamal ABDELHAMID",
+          "Hossam HASSAN",
+          "Ahmed RAMZY",
+          "Ahmed EL KASS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-19",
+      "stage": "Group A",
+      "venue": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "home_team": "Austria",
+      "away_team": "United States",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Andreas OGRIS",
+          "minute": "49"
+        },
+        {
+          "team": "Austria",
+          "player": "Gerhard RODAX",
+          "minute": "63"
+        },
+        {
+          "team": "United States",
+          "player": "Bruce MURRAY",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Austria",
+          "player_on": "Andreas REISINGER",
+          "player_off": "Toni POLSTER",
+          "minute": "45+1"
+        },
+        {
+          "team": "United States",
+          "player_on": "Eric WYNALDA",
+          "player_off": "Jimmy BANKS",
+          "minute": "55"
+        },
+        {
+          "team": "United States",
+          "player_on": "Brian BLISS",
+          "player_off": "Paul CALIGIURI",
+          "minute": "70"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Gerald GLATZMAYER",
+          "player_off": "Gerhard RODAX",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Klaus LINDENBERGER",
+          "Ernst AIGNER",
+          "Robert PECL",
+          "Anton PFEFFER",
+          "Peter ARTNER",
+          "Michael STREITER",
+          "Manfred ZSAK",
+          "Andreas HERZOG",
+          "Toni POLSTER",
+          "Andreas OGRIS",
+          "Gerhard RODAX"
+        ],
+        "away": [
+          "Tony MEOLA",
+          "John DOYLE",
+          "Jimmy BANKS",
+          "Michael WINDISCHMANN",
+          "Desmond ARMSTRONG",
+          "Marcelo BALBOA",
+          "Paul CALIGIURI",
+          "John HARKES",
+          "Tab RAMOS",
+          "Peter VERMES",
+          "Bruce MURRAY"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-18",
+      "stage": "Group B",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Soviet Union",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Oleg PROTASOV",
+          "minute": "20"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Andrei ZYGMANTOVICH",
+          "minute": "29"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Aleksandr ZAVAROV",
+          "minute": "52"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Igor DOBROVOLSKYI",
+          "minute": "63"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Roger MILLA",
+          "player_off": "Emmanuel KUNDE",
+          "minute": "34"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Aleksandr ZAVAROV",
+          "player_off": "Igor SHALIMOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Jean Claude PAGAL",
+          "player_off": "Cyrille MAKANAKY",
+          "minute": "56"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Ivan YAREMCHUK",
+          "player_off": "Gennadi LITOVCHENKO",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Aleksandr UVAROV",
+          "Vagiz KHIDIYATULLIN",
+          "Oleg KUZNETSOV",
+          "Anatoli DEMYANENKO",
+          "Andrei ZYGMANTOVICH",
+          "Sergei GORLUKOVICH",
+          "Serguei ALEINIKOV",
+          "Gennadi LITOVCHENKO",
+          "Igor SHALIMOV",
+          "Oleg PROTASOV",
+          "Igor DOBROVOLSKYI"
+        ],
+        "away": [
+          "Thomas NKONO",
+          "Jules Denis ONANA",
+          "Bertin EBWELLE",
+          "Emmanuel KUNDE",
+          "Stephen TATAW",
+          "Victor NDIP",
+          "Andre KANA-BIYIK",
+          "Emile MBOUH",
+          "Louis MFEDE",
+          "Francois OMAM-BIYIK",
+          "Cyrille MAKANAKY"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-16",
+      "stage": "Group C",
+      "venue": "Stadio delle Alpi",
+      "city": "Turin",
+      "home_team": "Brazil",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "MULLER",
+          "minute": "33"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Roy MYERS",
+          "player_off": "Claudio JARA",
+          "minute": "71"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Alexandre GUIMARAES",
+          "player_off": "Juan CAYASSO",
+          "minute": "78"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "BEBETO",
+          "player_off": "CARECA",
+          "minute": "83"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "SILAS",
+          "player_off": "VALDO",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "RICARDO GOMES",
+          "BRANCO",
+          "MOZER",
+          "MAURO GALVAO",
+          "DUNGA",
+          "ALEMAO",
+          "VALDO",
+          "CARECA",
+          "MULLER"
+        ],
+        "away": [
+          "Gabelo CONEJO",
+          "Roger FLORES",
+          "Ronald GONZALEZ",
+          "Jose CHAVES",
+          "Mauricio MONTERO",
+          "German CHAVARRIA",
+          "Oscar RAMIREZ",
+          "Roger GOMEZ",
+          "Hector MARCHENA",
+          "Claudio JARA",
+          "Juan CAYASSO"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-20",
+      "stage": "Group C",
+      "venue": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "home_team": "Costa Rica",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Johnny EKSTROM",
+          "minute": "32"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Roger FLORES",
+          "minute": "75"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Hernan MEDFORD",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Mats GREN",
+          "player_off": "Tomas BROLIN",
+          "minute": "34"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Hernan MEDFORD",
+          "player_off": "Roger GOMEZ",
+          "minute": "60"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Alexandre GUIMARAES",
+          "player_off": "German CHAVARRIA",
+          "minute": "73"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Leif ENGQVIST",
+          "player_off": "Glenn STROMBERG",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gabelo CONEJO",
+          "Roger FLORES",
+          "Ronald GONZALEZ",
+          "Jose CHAVES",
+          "Mauricio MONTERO",
+          "German CHAVARRIA",
+          "Oscar RAMIREZ",
+          "Roger GOMEZ",
+          "Hector MARCHENA",
+          "Claudio JARA",
+          "Juan CAYASSO"
+        ],
+        "away": [
+          "Thomas RAVELLI",
+          "Glenn HYSEN",
+          "Peter LARSSON",
+          "Roland NILSSON",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Joakim NILSSON",
+          "Glenn STROMBERG",
+          "Tomas BROLIN",
+          "Johnny EKSTROM",
+          "Stefan PETTERSSON"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-14",
+      "stage": "Group D",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "Yugoslavia",
+      "away_team": "Colombia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Davor JOZIC",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Robert JARNI",
+          "player_off": "Srecko KATANEC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Darko PANCEV",
+          "player_off": "Zlatko VUJOVIC",
+          "minute": "53"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Ruben HERNANDEZ",
+          "player_off": "Freddy RINCON",
+          "minute": "68"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Carlos ESTRADA",
+          "player_off": "Bernardo REDIN",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tomislav IVKOVIC",
+          "Vujadin STANOJKOVIC",
+          "Predrag SPASIC",
+          "Faruk HADZIBEGIC",
+          "Davor JOZIC",
+          "Srecko KATANEC",
+          "Dragoljub BRNOVIC",
+          "Safet SUSIC",
+          "Dragan STOJKOVIC",
+          "Refik SABANADZOVIC",
+          "Zlatko VUJOVIC"
+        ],
+        "away": [
+          "Rene HIGUITA",
+          "Andres ESCOBAR",
+          "Gildardo GOMEZ",
+          "Luis HERRERA",
+          "Luis Carlos PEREA",
+          "Gabriel GOMEZ",
+          "Carlos VALDERRAMA",
+          "Bernardo REDIN",
+          "Leonel ALVAREZ",
+          "Arnoldo IGUARAN",
+          "Freddy RINCON"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-17",
+      "stage": "Group E",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "Spain",
+      "away_team": "South Korea",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "MICHEL",
+          "minute": "23"
+        },
+        {
+          "team": "South Korea",
+          "player": "HWANGBO Kwan",
+          "minute": "43"
+        },
+        {
+          "team": "Spain",
+          "player": "MICHEL",
+          "minute": "61"
+        },
+        {
+          "team": "Spain",
+          "player": "MICHEL",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "NOH Soo Jin",
+          "player_off": "CHUNG Hae Won",
+          "minute": "52"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHUNG Jong Soo",
+          "player_off": "PARK Kyunghoon",
+          "minute": "68"
+        },
+        {
+          "team": "Spain",
+          "player_on": "FERNANDO",
+          "player_off": "Emilio BUTRAGUENO",
+          "minute": "76"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jose Mari BAKERO",
+          "player_off": "ROBERTO",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "CHENDO",
+          "ANDRINUA",
+          "Manuel SANCHIS",
+          "Alberto GORRIZ",
+          "MARTIN VAZQUEZ",
+          "Francisco VILLARROYA",
+          "ROBERTO",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ],
+        "away": [
+          "CHOI In Young",
+          "PARK Kyunghoon",
+          "CHOI Kanghee",
+          "YOON Dukyeo",
+          "GU Sang Bum",
+          "HONG Myungbo",
+          "CHUNG Hae Won",
+          "HWANGBO Kwan",
+          "KIM Joo Sung",
+          "BYUN Byung Joo",
+          "CHOI Soon Ho"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-16",
+      "stage": "Group F",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "England",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Steve BULL",
+          "player_off": "Chris WADDLE",
+          "minute": "59"
+        },
+        {
+          "team": "England",
+          "player_on": "David PLATT",
+          "player_off": "Bryan ROBSON",
+          "minute": "64"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wim KIEFT",
+          "player_off": "Johnny VAN T SCHIP",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Stuart PEARCE",
+          "Des WALKER",
+          "Terry BUTCHER",
+          "Paul PARKER",
+          "Mark WRIGHT",
+          "Bryan ROBSON",
+          "Chris WADDLE",
+          "John BARNES",
+          "Paul GASCOIGNE",
+          "Gary LINEKER"
+        ],
+        "away": [
+          "Hans VAN BREUKELEN",
+          "Berry VAN AERLE",
+          "Ronald KOEMAN",
+          "Adri VAN TIGGELEN",
+          "Frank RIJKAARD",
+          "Jan WOUTERS",
+          "Ruud GULLIT",
+          "Richard WITSCHGE",
+          "Johnny VAN T SCHIP",
+          "Marco VAN BASTEN",
+          "Hans GILLHAUS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-14",
+      "stage": "Group A",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Giuseppe GIANNINI",
+          "minute": "11"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Salvatore SCHILLACI",
+          "player_off": "Andrea CARNEVALE",
+          "minute": "51"
+        },
+        {
+          "team": "United States",
+          "player_on": "John STOLLMEYER",
+          "player_off": "Jimmy BANKS",
+          "minute": "80"
+        },
+        {
+          "team": "United States",
+          "player_on": "Christopher SULLIVAN",
+          "player_off": "Bruce MURRAY",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Riccardo FERRI",
+          "Paolo MALDINI",
+          "Nicola BERTI",
+          "Fernando DE NAPOLI",
+          "Giuseppe GIANNINI",
+          "Roberto DONADONI",
+          "Andrea CARNEVALE",
+          "Gianluca VIALLI"
+        ],
+        "away": [
+          "Tony MEOLA",
+          "John DOYLE",
+          "Jimmy BANKS",
+          "Michael WINDISCHMANN",
+          "Desmond ARMSTRONG",
+          "Marcelo BALBOA",
+          "Paul CALIGIURI",
+          "John HARKES",
+          "Tab RAMOS",
+          "Peter VERMES",
+          "Bruce MURRAY"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-18",
+      "stage": "Group B",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Romania",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Pedro MONZON",
+          "minute": "62"
+        },
+        {
+          "team": "Romania",
+          "player": "Gavril BALINT",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ricardo GIUSTI",
+          "player_off": "Pedro TROGLIO",
+          "minute": "53"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gustavo DEZOTTI",
+          "player_off": "Jorge BURRUCHAGA",
+          "minute": "60"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Danut LUPU",
+          "player_off": "Gavril BALINT",
+          "minute": "72"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Dorin MATEUT",
+          "player_off": "Ioan SABAU",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Silviu LUNG",
+          "Mircea REDNIC",
+          "Michael KLEIN",
+          "Ioan ANDONE",
+          "Iosif ROTARIU",
+          "Gheorghe POPESCU",
+          "Ioan SABAU",
+          "Gheorghe HAGI",
+          "Ioan LUPESCU",
+          "Marius LACATUS",
+          "Gavril BALINT"
+        ],
+        "away": [
+          "Sergio GOYCOCHEA",
+          "Pedro MONZON",
+          "Jose SERRIZUELA",
+          "Juan SIMON",
+          "Sergio BATISTA",
+          "Jose BASUALDO",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Julio OLARTICOECHEA",
+          "Pedro TROGLIO",
+          "Claudio CANIGGIA"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-16",
+      "stage": "Group C",
+      "venue": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "home_team": "Sweden",
+      "away_team": "Scotland",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Stuart McCALL",
+          "minute": "11"
+        },
+        {
+          "team": "Scotland",
+          "player": "Mo JOHNSTON",
+          "minute": "81",
+          "penalty": true
+        },
+        {
+          "team": "Sweden",
+          "player": "Glenn STROMBERG",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Johnny EKSTROM",
+          "player_off": "Stefan PETTERSSON",
+          "minute": "62"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Glenn STROMBERG",
+          "player_off": "Peter LARSSON",
+          "minute": "75"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Paul McSTAY",
+          "player_off": "Gordon DURIE",
+          "minute": "75"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Alistair McCOIST",
+          "player_off": "Robert FLECK",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas RAVELLI",
+          "Glenn HYSEN",
+          "Peter LARSSON",
+          "Roland NILSSON",
+          "Stefan SCHWARZ",
+          "Klas INGESSON",
+          "Anders LIMPAR",
+          "Joakim NILSSON",
+          "Jonas THERN",
+          "Tomas BROLIN",
+          "Stefan PETTERSSON"
+        ],
+        "away": [
+          "Jim LEIGHTON",
+          "Alex McLEISH",
+          "Maurice MALPAS",
+          "Craig LEVEIN",
+          "David McPHERSON",
+          "Roy AITKEN",
+          "Murdo McLEOD",
+          "Stuart McCALL",
+          "Mo JOHNSTON",
+          "Gordon DURIE",
+          "Robert FLECK"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-15",
+      "stage": "Group D",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "West Germany",
+      "away_team": "United Arab Emirates",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Rudi VOELLER",
+          "minute": "35"
+        },
+        {
+          "team": "West Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "37"
+        },
+        {
+          "team": "United Arab Emirates",
+          "player": "KHALID ISMAIL",
+          "minute": "46"
+        },
+        {
+          "team": "West Germany",
+          "player": "Lothar MATTHAEUS",
+          "minute": "47"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe BEIN",
+          "minute": "58"
+        },
+        {
+          "team": "West Germany",
+          "player": "Rudi VOELLER",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Thomas BERTHOLD",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Karlheinz RIEDLE",
+          "player_off": "Juergen KLINSMANN",
+          "minute": "72"
+        },
+        {
+          "team": "United Arab Emirates",
+          "player_on": "HASSAN MOHAMED",
+          "player_off": "KHALID ISMAIL",
+          "minute": "82"
+        },
+        {
+          "team": "United Arab Emirates",
+          "player_on": "Abdulrahman AL HADDAD",
+          "player_off": "IBRAHIM MEER",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Stefan REUTER",
+          "Andreas BREHME",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Uwe BEIN",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "MUHSIN MUSABAH",
+          "KHALEEL GHANIM",
+          "Mohamed ABDULLAH",
+          "IBRAHIM MEER",
+          "EISSA MEER",
+          "YOUSUF HUSSAIN",
+          "Ali Thani JUMAA",
+          "KHALID ISMAIL",
+          "NASIR KHAMEES",
+          "ADNAN AL TALYANI",
+          "HUSSAIN GHULOUM"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-19",
+      "stage": "Group D",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "Yugoslavia",
+      "away_team": "United Arab Emirates",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Safet SUSIC",
+          "minute": "5"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Darko PANCEV",
+          "minute": "9"
+        },
+        {
+          "team": "United Arab Emirates",
+          "player": "Ali Thani JUMAA",
+          "minute": "22"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Darko PANCEV",
+          "minute": "46"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Robert PROSINECKI",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United Arab Emirates",
+          "player_on": "Abdullah SULTAN",
+          "player_off": "NASIR KHAMEES",
+          "minute": "35"
+        },
+        {
+          "team": "United Arab Emirates",
+          "player_on": "FAHAD KHAMEES",
+          "player_off": "Ali Thani JUMAA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Zoran VULIC",
+          "player_off": "Zlatko VUJOVIC",
+          "minute": "64"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Robert PROSINECKI",
+          "player_off": "Refik SABANADZOVIC",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tomislav IVKOVIC",
+          "Vujadin STANOJKOVIC",
+          "Predrag SPASIC",
+          "Faruk HADZIBEGIC",
+          "Davor JOZIC",
+          "Dragoljub BRNOVIC",
+          "Safet SUSIC",
+          "Dragan STOJKOVIC",
+          "Refik SABANADZOVIC",
+          "Darko PANCEV",
+          "Zlatko VUJOVIC"
+        ],
+        "away": [
+          "MUHSIN MUSABAH",
+          "KHALEEL GHANIM",
+          "Mohamed ABDULLAH",
+          "IBRAHIM MEER",
+          "EISSA MEER",
+          "Abdulrahman AL HADDAD",
+          "Ali Thani JUMAA",
+          "KHALID ISMAIL",
+          "NASIR KHAMEES",
+          "ADNAN AL TALYANI",
+          "HUSSAIN GHULOUM"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-17",
+      "stage": "Group E",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "Belgium",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Leo CLIJSTERS",
+          "minute": "15"
+        },
+        {
+          "team": "Belgium",
+          "player": "Enzo SCIFO",
+          "minute": "24"
+        },
+        {
+          "team": "Belgium",
+          "player": "Jan CEULEMANS",
+          "minute": "47"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pablo BENGOECHEA",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Marc EMMERS",
+          "player_off": "Leo CLIJSTERS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Carlos AGUILERA",
+          "player_off": "Antonio ALZAMENDI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Pablo BENGOECHEA",
+          "player_off": "Santiago OSTOLAZA",
+          "minute": "56"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Patrick VERVOORT",
+          "player_off": "Bruno VERSAVEL",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Michel PREUDHOMME",
+          "Eric GERETS",
+          "Leo CLIJSTERS",
+          "Stephane DEMOL",
+          "Georges GRUN",
+          "Michel DE WOLF",
+          "Bruno VERSAVEL",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Marc DEGRYSE",
+          "Jan CEULEMANS"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Hugo DE LEON",
+          "Jose HERRERA",
+          "Alfonso DOMINGUEZ",
+          "Jose PERDOMO",
+          "Santiago OSTOLAZA",
+          "Enzo FRANCESCOLI",
+          "Ruben PAZ",
+          "Antonio ALZAMENDI",
+          "Ruben SOSA"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-17",
+      "stage": "Group F",
+      "venue": "Stadio La Favorita",
+      "city": "Palermo",
+      "home_team": "Republic of Ireland",
+      "away_team": "Egypt",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Egypt",
+          "player_on": "Taher ABOU ZEID",
+          "player_off": "Magdy TOLBA",
+          "minute": "60"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Alan McLOUGHLIN",
+          "player_off": "John ALDRIDGE",
+          "minute": "64"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "Gamal ABDELHAMID",
+          "player_off": "Ahmed EL KASS",
+          "minute": "76"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Niall QUINN",
+          "player_off": "Tony CASCARINO",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pat BONNER",
+          "Chris MORRIS",
+          "Steve STAUNTON",
+          "Mick McCARTHY",
+          "Kevin MORAN",
+          "Paul McGRATH",
+          "Ray HOUGHTON",
+          "Kevin SHEEDY",
+          "Andy TOWNSEND",
+          "John ALDRIDGE",
+          "Tony CASCARINO"
+        ],
+        "away": [
+          "Ahmed SHOBEIR",
+          "Ibrahim HASSAN",
+          "Rabie YASSIN",
+          "Hany RAMZY",
+          "Hesham YAKAN",
+          "Ismail YOUSSEF",
+          "Magdy ABDELGHANY",
+          "Magdy TOLBA",
+          "Osama ORABY",
+          "Hossam HASSAN",
+          "Ahmed EL KASS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-19",
+      "stage": "Group A",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Salvatore SCHILLACI",
+          "minute": "9"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Julius BIELIK",
+          "player_off": "Vaclav NEMECEK",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Luigi DE AGOSTINI",
+          "player_off": "Roberto DONADONI",
+          "minute": "51"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Stanislav GRIGA",
+          "player_off": "Vladimir WEISS",
+          "minute": "58"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Pietro VIERCHOWOD",
+          "player_off": "Fernando DE NAPOLI",
+          "minute": "65"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Riccardo FERRI",
+          "Paolo MALDINI",
+          "Nicola BERTI",
+          "Fernando DE NAPOLI",
+          "Giuseppe GIANNINI",
+          "Roberto DONADONI",
+          "Roberto BAGGIO",
+          "Salvatore SCHILLACI"
+        ],
+        "away": [
+          "Jan STEJSKAL",
+          "Miroslav KADLEC",
+          "Michal BILEK",
+          "Vladimir KINIER",
+          "Ivan HASEK",
+          "Jozef CHOVANEC",
+          "Lubomir MORAVCIK",
+          "Vladimir WEISS",
+          "Vaclav NEMECEK",
+          "Tomas SKUHRAVY",
+          "Ivo KNOFLICEK"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-09",
+      "stage": "Group B",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Soviet Union",
+      "away_team": "Romania",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Marius LACATUS",
+          "minute": "41"
+        },
+        {
+          "team": "Romania",
+          "player": "Marius LACATUS",
+          "minute": "55",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Ivan YAREMCHUK",
+          "player_off": "Gennadi LITOVCHENKO",
+          "minute": "66"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Aleksandr BORODYUK",
+          "player_off": "Igor DOBROVOLSKYI",
+          "minute": "71"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Gavril BALINT",
+          "player_off": "Florin RADUCIOIU",
+          "minute": "80"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Ilie DUMITRESCU",
+          "player_off": "Marius LACATUS",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Rinat DASAEV",
+          "Vladimir BESSONOV",
+          "Vagiz KHIDIYATULLIN",
+          "Oleg KUZNETSOV",
+          "Sergei GORLUKOVICH",
+          "Vasili RATS",
+          "Serguei ALEINIKOV",
+          "Gennadi LITOVCHENKO",
+          "Aleksandr ZAVAROV",
+          "Oleg PROTASOV",
+          "Igor DOBROVOLSKYI"
+        ],
+        "away": [
+          "Silviu LUNG",
+          "Mircea REDNIC",
+          "Michael KLEIN",
+          "Ioan ANDONE",
+          "Iosif ROTARIU",
+          "Gheorghe POPESCU",
+          "Ioan SABAU",
+          "Ioan LUPESCU",
+          "Marius LACATUS",
+          "Florin RADUCIOIU",
+          "Daniel TIMOFTE"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-20",
+      "stage": "Group C",
+      "venue": "Stadio delle Alpi",
+      "city": "Turin",
+      "home_team": "Brazil",
+      "away_team": "Scotland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "MULLER",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Gary GILLESPIE",
+          "player_off": "Murdo McLEOD",
+          "minute": "39"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MULLER",
+          "player_off": "ROMÁRIO",
+          "minute": "65"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Robert FLECK",
+          "player_off": "Alistair McCOIST",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "RICARDO GOMES",
+          "BRANCO",
+          "RICARDO ROCHA",
+          "MAURO GALVAO",
+          "DUNGA",
+          "ALEMAO",
+          "VALDO",
+          "CARECA",
+          "ROMÁRIO"
+        ],
+        "away": [
+          "Jim LEIGHTON",
+          "Alex McLEISH",
+          "Maurice MALPAS",
+          "Stewart McKIMMIE",
+          "David McPHERSON",
+          "Roy AITKEN",
+          "Paul McSTAY",
+          "Murdo McLEOD",
+          "Stuart McCALL",
+          "Mo JOHNSTON",
+          "Alistair McCOIST"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-19",
+      "stage": "Group D",
+      "venue": "San Siro",
+      "city": "Milan",
+      "home_team": "West Germany",
+      "away_team": "Colombia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Pierre LITTBARSKI",
+          "minute": "88"
+        },
+        {
+          "team": "Colombia",
+          "player": "Freddy RINCON",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Uwe BEIN",
+          "minute": "46"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Olaf THON",
+          "player_off": "Thomas HAESSLER",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Stefan REUTER",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Hans PFLUEGLER",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Uwe BEIN",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Rene HIGUITA",
+          "Andres ESCOBAR",
+          "Gildardo GOMEZ",
+          "Luis HERRERA",
+          "Luis Carlos PEREA",
+          "Gabriel GOMEZ",
+          "Carlos VALDERRAMA",
+          "Leonel ALVAREZ",
+          "Luis FAJARDO",
+          "Carlos ESTRADA",
+          "Freddy RINCON"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-21",
+      "stage": "Group E",
+      "venue": "Stadio Friuli",
+      "city": "Udine",
+      "home_team": "Spain",
+      "away_team": "Belgium",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "MICHEL",
+          "minute": "26",
+          "penalty": true
+        },
+        {
+          "team": "Belgium",
+          "player": "Patrick VERVOORT",
+          "minute": "29"
+        },
+        {
+          "team": "Spain",
+          "player": "Alberto GORRIZ",
+          "minute": "38"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Pascal PLOVIE",
+          "player_off": "Marc EMMERS",
+          "minute": "31"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Marc VAN DER LINDEN",
+          "player_off": "Lorenzo STAELENS",
+          "minute": "78"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Rafael ALKORTA",
+          "player_off": "Emilio BUTRAGUENO",
+          "minute": "82"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Miguel PARDEZA",
+          "player_off": "JULIO SALINAS",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "CHENDO",
+          "ANDRINUA",
+          "Manuel SANCHIS",
+          "Alberto GORRIZ",
+          "MARTIN VAZQUEZ",
+          "Francisco VILLARROYA",
+          "ROBERTO",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ],
+        "away": [
+          "Michel PREUDHOMME",
+          "Philippe ALBERT",
+          "Stephane DEMOL",
+          "Michel DE WOLF",
+          "Patrick VERVOORT",
+          "Marc EMMERS",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Lorenzo STAELENS",
+          "Marc DEGRYSE",
+          "Jan CEULEMANS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-21",
+      "stage": "Group E",
+      "venue": "Stadio Friuli",
+      "city": "Udine",
+      "home_team": "Uruguay",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Daniel FONSECA",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Sun Hong",
+          "player_off": "BYUN Byung Joo",
+          "minute": "43"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Carlos AGUILERA",
+          "player_off": "Santiago OSTOLAZA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Daniel FONSECA",
+          "player_off": "Ruben SOSA",
+          "minute": "62"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHUNG Hae Won",
+          "player_off": "HWANGBO Kwan",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Hugo DE LEON",
+          "Jose HERRERA",
+          "Alfonso DOMINGUEZ",
+          "Jose PERDOMO",
+          "Santiago OSTOLAZA",
+          "Enzo FRANCESCOLI",
+          "Ruben PAZ",
+          "Ruben SOSA",
+          "Sergio MARTINEZ"
+        ],
+        "away": [
+          "CHOI In Young",
+          "PARK Kyunghoon",
+          "CHOI Kanghee",
+          "YOON Dukyeo",
+          "CHUNG Jong Soo",
+          "HONG Myungbo",
+          "HWANGBO Kwan",
+          "LEE Heung Sil",
+          "KIM Joo Sung",
+          "BYUN Byung Joo",
+          "CHOI Soon Ho"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-21",
+      "stage": "Group F",
+      "venue": "Stadio La Favorita",
+      "city": "Palermo",
+      "home_team": "England",
+      "away_team": "Egypt",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Mark WRIGHT",
+          "minute": "58"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Egypt",
+          "player_on": "Adel ABDELRAHMAN",
+          "player_off": "Ahmed EL KASS",
+          "minute": "77"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "Tarek SOLIMAN",
+          "player_off": "Gamal ABDELHAMID",
+          "minute": "77"
+        },
+        {
+          "team": "England",
+          "player_on": "Peter BEARDSLEY",
+          "player_off": "Steve BULL",
+          "minute": "84"
+        },
+        {
+          "team": "England",
+          "player_on": "David PLATT",
+          "player_off": "Chris WADDLE",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Stuart PEARCE",
+          "Des WALKER",
+          "Paul PARKER",
+          "Mark WRIGHT",
+          "Chris WADDLE",
+          "John BARNES",
+          "Steve McMAHON",
+          "Paul GASCOIGNE",
+          "Gary LINEKER",
+          "Steve BULL"
+        ],
+        "away": [
+          "Ahmed SHOBEIR",
+          "Ibrahim HASSAN",
+          "Rabie YASSIN",
+          "Hany RAMZY",
+          "Hesham YAKAN",
+          "Ismail YOUSSEF",
+          "Magdy ABDELGHANY",
+          "Gamal ABDELHAMID",
+          "Hossam HASSAN",
+          "Ahmed RAMZY",
+          "Ahmed EL KASS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-21",
+      "stage": "Group F",
+      "venue": "Stadio Sant'Elia",
+      "city": "Cagliari",
+      "home_team": "Netherlands",
+      "away_team": "Republic of Ireland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Ruud GULLIT",
+          "minute": "11"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player": "Niall QUINN",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Henk FRAESER",
+          "player_off": "Richard WITSCHGE",
+          "minute": "58"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Ronnie WHELAN",
+          "player_off": "John ALDRIDGE",
+          "minute": "62"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Tony CASCARINO",
+          "player_off": "Kevin SHEEDY",
+          "minute": "62"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "John VAN LOEN",
+          "player_off": "Wim KIEFT",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hans VAN BREUKELEN",
+          "Berry VAN AERLE",
+          "Ronald KOEMAN",
+          "Adri VAN TIGGELEN",
+          "Frank RIJKAARD",
+          "Jan WOUTERS",
+          "Ruud GULLIT",
+          "Richard WITSCHGE",
+          "Marco VAN BASTEN",
+          "Wim KIEFT",
+          "Hans GILLHAUS"
+        ],
+        "away": [
+          "Pat BONNER",
+          "Chris MORRIS",
+          "Steve STAUNTON",
+          "Mick McCARTHY",
+          "Kevin MORAN",
+          "Paul McGRATH",
+          "Ray HOUGHTON",
+          "Kevin SHEEDY",
+          "Andy TOWNSEND",
+          "John ALDRIDGE",
+          "Niall QUINN"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-23",
+      "stage": "Round of 16",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Cameroon",
+      "away_team": "Colombia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Roger MILLA",
+          "minute": "106"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Roger MILLA",
+          "minute": "108"
+        },
+        {
+          "team": "Colombia",
+          "player": "Bernardo REDIN",
+          "minute": "115"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Roger MILLA",
+          "player_off": "Louis MFEDE",
+          "minute": "54"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Arnoldo IGUARAN",
+          "player_off": "Luis FAJARDO",
+          "minute": "63"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Boneventure DJONKEP",
+          "player_off": "Cyrille MAKANAKY",
+          "minute": "69"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Bernardo REDIN",
+          "player_off": "Gabriel GOMEZ",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas NKONO",
+          "Jules Denis ONANA",
+          "Bertin EBWELLE",
+          "Stephen TATAW",
+          "Victor NDIP",
+          "Andre KANA-BIYIK",
+          "Emile MBOUH",
+          "Louis MFEDE",
+          "Emmanuel MABOANG",
+          "Francois OMAM-BIYIK",
+          "Cyrille MAKANAKY"
+        ],
+        "away": [
+          "Rene HIGUITA",
+          "Andres ESCOBAR",
+          "Gildardo GOMEZ",
+          "Luis HERRERA",
+          "Luis Carlos PEREA",
+          "Gabriel GOMEZ",
+          "Carlos VALDERRAMA",
+          "Leonel ALVAREZ",
+          "Luis FAJARDO",
+          "Carlos ESTRADA",
+          "Freddy RINCON"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-23",
+      "stage": "Round of 16",
+      "venue": "Stadio San Paolo",
+      "city": "Naples",
+      "home_team": "Czechoslovakia",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Tomas SKUHRAVY",
+          "minute": "12"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Ronald GONZALEZ",
+          "minute": "55"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Tomas SKUHRAVY",
+          "minute": "63"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Lubos KUBIK",
+          "minute": "76"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Tomas SKUHRAVY",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Hernan MEDFORD",
+          "player_off": "Marvin OBANDO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Alexandre GUIMARAES",
+          "player_off": "German CHAVARRIA",
+          "minute": "65"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jan STEJSKAL",
+          "Miroslav KADLEC",
+          "Jan KOCIAN",
+          "Frantisek STRAKA",
+          "Michal BILEK",
+          "Ivan HASEK",
+          "Jozef CHOVANEC",
+          "Lubos KUBIK",
+          "Lubomir MORAVCIK",
+          "Tomas SKUHRAVY",
+          "Ivo KNOFLICEK"
+        ],
+        "away": [
+          "Hermidio BARRANTES",
+          "Roger FLORES",
+          "Ronald GONZALEZ",
+          "Marvin OBANDO",
+          "Jose CHAVES",
+          "Mauricio MONTERO",
+          "German CHAVARRIA",
+          "Oscar RAMIREZ",
+          "Hector MARCHENA",
+          "Claudio JARA",
+          "Juan CAYASSO"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-24",
+      "stage": "Round of 16",
+      "venue": "Stadio delle Alpi",
+      "city": "Turin",
+      "home_team": "Brazil",
+      "away_team": "Argentina",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Claudio CANIGGIA",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Gabriel CALDERON",
+          "player_off": "Pedro TROGLIO",
+          "minute": "61"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "SILAS",
+          "player_off": "ALEMAO",
+          "minute": "83"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RENATO PORTALUPPI",
+          "player_off": "MAURO GALVAO",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "JORGINHO",
+          "RICARDO GOMES",
+          "BRANCO",
+          "RICARDO ROCHA",
+          "MAURO GALVAO",
+          "DUNGA",
+          "ALEMAO",
+          "VALDO",
+          "CARECA",
+          "MULLER"
+        ],
+        "away": [
+          "Sergio GOYCOCHEA",
+          "Pedro MONZON",
+          "Oscar RUGGERI",
+          "Juan SIMON",
+          "Jose BASUALDO",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Julio OLARTICOECHEA",
+          "Pedro TROGLIO",
+          "Claudio CANIGGIA"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-24",
+      "stage": "Round of 16",
+      "venue": "Stadio Giuseppe Meazza",
+      "city": "Milan",
+      "home_team": "West Germany",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "51"
+        },
+        {
+          "team": "West Germany",
+          "player": "Andreas BREHME",
+          "minute": "85"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Ronald KOEMAN",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Wim KIEFT",
+          "player_off": "Berry VAN AERLE",
+          "minute": "66"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Karlheinz RIEDLE",
+          "player_off": "Juergen KLINSMANN",
+          "minute": "77"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Hans GILLHAUS",
+          "player_off": "Richard WITSCHGE",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Stefan REUTER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Pierre LITTBARSKI",
+          "Lothar MATTHAEUS",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Hans VAN BREUKELEN",
+          "Berry VAN AERLE",
+          "Ronald KOEMAN",
+          "Adri VAN TIGGELEN",
+          "Frank RIJKAARD",
+          "Jan WOUTERS",
+          "Ruud GULLIT",
+          "Richard WITSCHGE",
+          "Johnny VAN T SCHIP",
+          "Aron WINTER",
+          "Marco VAN BASTEN"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-25",
+      "stage": "Round of 16",
+      "venue": "Stadio Luigi Ferraris",
+      "city": "Genoa",
+      "home_team": "Republic of Ireland",
+      "away_team": "Romania",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 5,
+        "away": 4
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Tony CASCARINO",
+          "player_off": "John ALDRIDGE",
+          "minute": "22"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Danut LUPU",
+          "player_off": "Florin RADUCIOIU",
+          "minute": "75"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "David O LEARY",
+          "player_off": "Steve STAUNTON",
+          "minute": "94"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Daniel TIMOFTE",
+          "player_off": "Ioan SABAU",
+          "minute": "98"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pat BONNER",
+          "Chris MORRIS",
+          "Steve STAUNTON",
+          "Mick McCARTHY",
+          "Kevin MORAN",
+          "Paul McGRATH",
+          "Ray HOUGHTON",
+          "Kevin SHEEDY",
+          "Andy TOWNSEND",
+          "John ALDRIDGE",
+          "Niall QUINN"
+        ],
+        "away": [
+          "Silviu LUNG",
+          "Mircea REDNIC",
+          "Michael KLEIN",
+          "Ioan ANDONE",
+          "Iosif ROTARIU",
+          "Gheorghe POPESCU",
+          "Ioan SABAU",
+          "Gheorghe HAGI",
+          "Ioan LUPESCU",
+          "Florin RADUCIOIU",
+          "Gavril BALINT"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-25",
+      "stage": "Round of 16",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Salvatore SCHILLACI",
+          "minute": "65"
+        },
+        {
+          "team": "Italy",
+          "player": "Aldo SERENA",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Aldo SERENA",
+          "player_off": "Nicola BERTI",
+          "minute": "52"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Ruben SOSA",
+          "player_off": "Carlos AGUILERA",
+          "minute": "55"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Pietro VIERCHOWOD",
+          "player_off": "Roberto BAGGIO",
+          "minute": "79"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Antonio ALZAMENDI",
+          "player_off": "Santiago OSTOLAZA",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Luigi DE AGOSTINI",
+          "Riccardo FERRI",
+          "Paolo MALDINI",
+          "Nicola BERTI",
+          "Fernando DE NAPOLI",
+          "Giuseppe GIANNINI",
+          "Roberto BAGGIO",
+          "Salvatore SCHILLACI"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Hugo DE LEON",
+          "Alfonso DOMINGUEZ",
+          "Jose PINTOS",
+          "Jose PERDOMO",
+          "Santiago OSTOLAZA",
+          "Enzo FRANCESCOLI",
+          "Ruben PEREIRA",
+          "Carlos AGUILERA",
+          "Daniel FONSECA"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-26",
+      "stage": "Round of 16",
+      "venue": "Stadio Marc'Antonio Bentegodi",
+      "city": "Verona",
+      "home_team": "Yugoslavia",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Dragan STOJKOVIC",
+          "minute": "78"
+        },
+        {
+          "team": "Spain",
+          "player": "JULIO SALINAS",
+          "minute": "84"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Dragan STOJKOVIC",
+          "minute": "93"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Manuel JIMENEZ",
+          "player_off": "ANDRINUA",
+          "minute": "49"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dejan SAVICEVIC",
+          "player_off": "Darko PANCEV",
+          "minute": "55"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Zoran VULIC",
+          "player_off": "Srecko KATANEC",
+          "minute": "79"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RAFA PAZ",
+          "player_off": "Emilio BUTRAGUENO",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Tomislav IVKOVIC",
+          "Predrag SPASIC",
+          "Faruk HADZIBEGIC",
+          "Davor JOZIC",
+          "Srecko KATANEC",
+          "Dragoljub BRNOVIC",
+          "Safet SUSIC",
+          "Dragan STOJKOVIC",
+          "Refik SABANADZOVIC",
+          "Darko PANCEV",
+          "Zlatko VUJOVIC"
+        ],
+        "away": [
+          "Andoni ZUBIZARRETA",
+          "CHENDO",
+          "ANDRINUA",
+          "Manuel SANCHIS",
+          "Alberto GORRIZ",
+          "MARTIN VAZQUEZ",
+          "Francisco VILLARROYA",
+          "ROBERTO",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-26",
+      "stage": "Round of 16",
+      "venue": "Stadio Renato Dall'Ara",
+      "city": "Bologna",
+      "home_team": "England",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "England",
+          "player": "David PLATT",
+          "minute": "119"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Nico CLAESEN",
+          "player_off": "Marc DEGRYSE",
+          "minute": "64"
+        },
+        {
+          "team": "England",
+          "player_on": "David PLATT",
+          "player_off": "Steve McMAHON",
+          "minute": "71"
+        },
+        {
+          "team": "England",
+          "player_on": "Steve BULL",
+          "player_off": "John BARNES",
+          "minute": "74"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Patrick VERVOORT",
+          "player_off": "Bruno VERSAVEL",
+          "minute": "107"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Stuart PEARCE",
+          "Des WALKER",
+          "Terry BUTCHER",
+          "Paul PARKER",
+          "Mark WRIGHT",
+          "Chris WADDLE",
+          "John BARNES",
+          "Steve McMAHON",
+          "Paul GASCOIGNE",
+          "Gary LINEKER"
+        ],
+        "away": [
+          "Michel PREUDHOMME",
+          "Eric GERETS",
+          "Leo CLIJSTERS",
+          "Stephane DEMOL",
+          "Georges GRUN",
+          "Michel DE WOLF",
+          "Bruno VERSAVEL",
+          "Franky VAN DER ELST",
+          "Enzo SCIFO",
+          "Marc DEGRYSE",
+          "Jan CEULEMANS"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-30",
+      "stage": "Quarterfinal",
+      "venue": "Stadio Artemio Franchi",
+      "city": "Florence",
+      "home_team": "Argentina",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Pedro TROGLIO",
+          "player_off": "Julio OLARTICOECHEA",
+          "minute": "51"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dejan SAVICEVIC",
+          "player_off": "Safet SUSIC",
+          "minute": "61"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gustavo DEZOTTI",
+          "player_off": "Gabriel CALDERON",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio GOYCOCHEA",
+          "Jose SERRIZUELA",
+          "Oscar RUGGERI",
+          "Juan SIMON",
+          "Jose BASUALDO",
+          "Gabriel CALDERON",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Julio OLARTICOECHEA",
+          "Claudio CANIGGIA"
+        ],
+        "away": [
+          "Tomislav IVKOVIC",
+          "Predrag SPASIC",
+          "Zoran VULIC",
+          "Faruk HADZIBEGIC",
+          "Davor JOZIC",
+          "Dragoljub BRNOVIC",
+          "Safet SUSIC",
+          "Dragan STOJKOVIC",
+          "Robert PROSINECKI",
+          "Refik SABANADZOVIC",
+          "Zlatko VUJOVIC"
+        ]
+      }
+    },
+    {
+      "date": "1990-06-30",
+      "stage": "Quarterfinal",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "Republic of Ireland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Salvatore SCHILLACI",
+          "minute": "38"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Republic of Ireland",
+          "player_on": "Tony CASCARINO",
+          "player_off": "Niall QUINN",
+          "minute": "53"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Carlo ANCELOTTI",
+          "player_off": "Giuseppe GIANNINI",
+          "minute": "62"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Aldo SERENA",
+          "player_off": "Roberto BAGGIO",
+          "minute": "70"
+        },
+        {
+          "team": "Republic of Ireland",
+          "player_on": "John SHERIDAN",
+          "player_off": "John ALDRIDGE",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Luigi DE AGOSTINI",
+          "Riccardo FERRI",
+          "Paolo MALDINI",
+          "Fernando DE NAPOLI",
+          "Giuseppe GIANNINI",
+          "Roberto DONADONI",
+          "Roberto BAGGIO",
+          "Salvatore SCHILLACI"
+        ],
+        "away": [
+          "Pat BONNER",
+          "Chris MORRIS",
+          "Steve STAUNTON",
+          "Mick McCARTHY",
+          "Kevin MORAN",
+          "Paul McGRATH",
+          "Ray HOUGHTON",
+          "Kevin SHEEDY",
+          "Andy TOWNSEND",
+          "John ALDRIDGE",
+          "Niall QUINN"
+        ]
+      }
+    },
+    {
+      "date": "1990-07-01",
+      "stage": "Quarterfinal",
+      "venue": "Stadio Giuseppe Meazza",
+      "city": "Milan",
+      "home_team": "West Germany",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Lothar MATTHAEUS",
+          "minute": "25",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Vaclav NEMECEK",
+          "player_off": "Michal BILEK",
+          "minute": "67"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Stanislav GRIGA",
+          "player_off": "Lubos KUBIK",
+          "minute": "80"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Andreas MOELLER",
+          "player_off": "Uwe BEIN",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Pierre LITTBARSKI",
+          "Lothar MATTHAEUS",
+          "Uwe BEIN",
+          "Karlheinz RIEDLE",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Jan STEJSKAL",
+          "Miroslav KADLEC",
+          "Jan KOCIAN",
+          "Frantisek STRAKA",
+          "Michal BILEK",
+          "Ivan HASEK",
+          "Jozef CHOVANEC",
+          "Lubos KUBIK",
+          "Lubomir MORAVCIK",
+          "Tomas SKUHRAVY",
+          "Ivo KNOFLICEK"
+        ]
+      }
+    },
+    {
+      "date": "1990-07-01",
+      "stage": "Quarterfinal",
+      "venue": "Stadio San Paolo",
+      "city": "Naples",
+      "home_team": "England",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "England",
+          "player": "David PLATT",
+          "minute": "25"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Emmanuel KUNDE",
+          "minute": "61",
+          "penalty": true
+        },
+        {
+          "team": "Cameroon",
+          "player": "Eugene EKEKE",
+          "minute": "65"
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "83",
+          "penalty": true
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "105",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Peter BEARDSLEY",
+          "player_off": "John BARNES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Eugene EKEKE",
+          "player_off": "Louis MFEDE",
+          "minute": "62"
+        },
+        {
+          "team": "England",
+          "player_on": "Trevor STEVEN",
+          "player_off": "Terry BUTCHER",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Stuart PEARCE",
+          "Des WALKER",
+          "Terry BUTCHER",
+          "Paul PARKER",
+          "Mark WRIGHT",
+          "Chris WADDLE",
+          "John BARNES",
+          "David PLATT",
+          "Paul GASCOIGNE",
+          "Gary LINEKER"
+        ],
+        "away": [
+          "Thomas NKONO",
+          "Benjamin MASSING",
+          "Bertin EBWELLE",
+          "Emmanuel KUNDE",
+          "Stephen TATAW",
+          "Louis MFEDE",
+          "Jean Claude PAGAL",
+          "Thomas LIBIIH",
+          "Emmanuel MABOANG",
+          "Francois OMAM-BIYIK",
+          "Cyrille MAKANAKY"
+        ]
+      }
+    },
+    {
+      "date": "1990-07-03",
+      "stage": "Semifinal",
+      "venue": "Stadio San Paolo",
+      "city": "Naples",
+      "home_team": "Italy",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Salvatore SCHILLACI",
+          "minute": "17"
+        },
+        {
+          "team": "Argentina",
+          "player": "Claudio CANIGGIA",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Pedro TROGLIO",
+          "player_off": "Gabriel CALDERON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Aldo SERENA",
+          "player_off": "Gianluca VIALLI",
+          "minute": "70"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Roberto BAGGIO",
+          "player_off": "Giuseppe GIANNINI",
+          "minute": "73"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio BATISTA",
+          "player_off": "Jose BASUALDO",
+          "minute": "99"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Luigi DE AGOSTINI",
+          "Riccardo FERRI",
+          "Paolo MALDINI",
+          "Fernando DE NAPOLI",
+          "Giuseppe GIANNINI",
+          "Roberto DONADONI",
+          "Salvatore SCHILLACI",
+          "Gianluca VIALLI"
+        ],
+        "away": [
+          "Sergio GOYCOCHEA",
+          "Jose SERRIZUELA",
+          "Oscar RUGGERI",
+          "Juan SIMON",
+          "Jose BASUALDO",
+          "Gabriel CALDERON",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Julio OLARTICOECHEA",
+          "Claudio CANIGGIA"
+        ]
+      }
+    },
+    {
+      "date": "1990-07-04",
+      "stage": "Semifinal",
+      "venue": "Stadio delle Alpi",
+      "city": "Turin",
+      "home_team": "West Germany",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Andreas BREHME",
+          "minute": "60"
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Karlheinz RIEDLE",
+          "player_off": "Rudi VOELLER",
+          "minute": "38"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Stefan REUTER",
+          "player_off": "Thomas HAESSLER",
+          "minute": "67"
+        },
+        {
+          "team": "England",
+          "player_on": "Trevor STEVEN",
+          "player_off": "Terry BUTCHER",
+          "minute": "70"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Olaf THON",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Peter SHILTON",
+          "Stuart PEARCE",
+          "Des WALKER",
+          "Terry BUTCHER",
+          "Paul PARKER",
+          "Mark WRIGHT",
+          "Chris WADDLE",
+          "David PLATT",
+          "Paul GASCOIGNE",
+          "Peter BEARDSLEY",
+          "Gary LINEKER"
+        ]
+      }
+    },
+    {
+      "date": "1990-07-07",
+      "stage": "Third-place match",
+      "venue": "Stadio San Nicola",
+      "city": "Bari",
+      "home_team": "Italy",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "71"
+        },
+        {
+          "team": "England",
+          "player": "David PLATT",
+          "minute": "81"
+        },
+        {
+          "team": "Italy",
+          "player": "Salvatore SCHILLACI",
+          "minute": "86",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Nicola BERTI",
+          "player_off": "Luigi DE AGOSTINI",
+          "minute": "67"
+        },
+        {
+          "team": "England",
+          "player_on": "Chris WADDLE",
+          "player_off": "Steve McMAHON",
+          "minute": "72"
+        },
+        {
+          "team": "England",
+          "player_on": "Neil WEBB",
+          "player_off": "Mark WRIGHT",
+          "minute": "72"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Riccardo FERRI",
+          "player_off": "Giuseppe GIANNINI",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Walter ZENGA",
+          "Franco BARESI",
+          "Giuseppe BERGOMI",
+          "Luigi DE AGOSTINI",
+          "Ciro FERRARA",
+          "Paolo MALDINI",
+          "Pietro VIERCHOWOD",
+          "Carlo ANCELOTTI",
+          "Giuseppe GIANNINI",
+          "Roberto BAGGIO",
+          "Salvatore SCHILLACI"
+        ],
+        "away": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Des WALKER",
+          "Paul PARKER",
+          "Mark WRIGHT",
+          "Tony DORIGO",
+          "Steve McMAHON",
+          "David PLATT",
+          "Trevor STEVEN",
+          "Peter BEARDSLEY",
+          "Gary LINEKER"
+        ]
+      }
+    },
+    {
+      "date": "1990-07-08",
+      "stage": "Final",
+      "venue": "Stadio Olimpico",
+      "city": "Rome",
+      "home_team": "West Germany",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Andreas BREHME",
+          "minute": "85",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Pedro MONZON",
+          "player_off": "Oscar RUGGERI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gabriel CALDERON",
+          "player_off": "Jorge BURRUCHAGA",
+          "minute": "53"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Stefan REUTER",
+          "player_off": "Thomas BERTHOLD",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bodo ILLGNER",
+          "Andreas BREHME",
+          "Juergen KOHLER",
+          "Klaus AUGENTHALER",
+          "Guido BUCHWALD",
+          "Thomas BERTHOLD",
+          "Pierre LITTBARSKI",
+          "Thomas HAESSLER",
+          "Lothar MATTHAEUS",
+          "Rudi VOELLER",
+          "Juergen KLINSMANN"
+        ],
+        "away": [
+          "Sergio GOYCOCHEA",
+          "Nestor LORENZO",
+          "Roberto SENSINI",
+          "Jose SERRIZUELA",
+          "Oscar RUGGERI",
+          "Juan SIMON",
+          "Jose BASUALDO",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Pedro TROGLIO",
+          "Gustavo DEZOTTI"
+        ]
+      }
+    }
+  ]
+}

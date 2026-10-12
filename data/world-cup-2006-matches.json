@@ -1,0 +1,5788 @@
+{
+  "tournament": "FIFA World Cup 2006",
+  "host_country": "Germany",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/2006full.html",
+    "https://www.rsssf.org/tables/2006f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/2006/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "2006-06-09",
+      "stage": "Group A",
+      "venue": "Allianz Arena",
+      "city": "Munich",
+      "home_team": "Germany",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Philipp LAHM",
+          "minute": "6"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Paulo WANCHOPE",
+          "minute": "12"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "17"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "61"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Paulo WANCHOPE",
+          "minute": "73"
+        },
+        {
+          "team": "Germany",
+          "player": "Torsten FRINGS",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Jervis DRUMMOND",
+          "player_off": "Gilberto MARTINEZ",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Sebastian KEHL",
+          "player_off": "Tim BOROWSKI",
+          "minute": "72"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Christian BOLANOS",
+          "player_off": "Mauricio SOLIS",
+          "minute": "78"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "79"
+        },
+        {
+          "team": "Germany",
+          "player_on": "David ODONKOR",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "90+1"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Randall AZOFEIFA",
+          "player_off": "Ronald GOMEZ",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jens LEHMANN",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Christoph METZELDER",
+          "Bastian SCHWEINSTEIGER",
+          "Torsten FRINGS",
+          "Tim BOROWSKI",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ],
+        "away": [
+          "Jose PORRAS",
+          "Luis MARIN",
+          "Michael UMANA",
+          "Gilberto MARTINEZ",
+          "Leonardo GONZALEZ",
+          "Danny FONSECA",
+          "Mauricio SOLIS",
+          "Walter CENTENO",
+          "Douglas SEQUEIRA",
+          "Paulo WANCHOPE",
+          "Ronald GOMEZ"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-09",
+      "stage": "Group A",
+      "venue": "Arena AufSchalke",
+      "city": "Gelsenkirchen",
+      "home_team": "Poland",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Ecuador",
+          "player": "Carlos TENORIO",
+          "minute": "24"
+        },
+        {
+          "team": "Ecuador",
+          "player": "Agustin DELGADO",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Ivan KAVIEDES",
+          "player_off": "Carlos TENORIO",
+          "minute": "65"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Ireneusz JELEN",
+          "player_off": "Radoslaw SOBOLEWSKI",
+          "minute": "67"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Jorge GUAGUA",
+          "player_off": "Ivan HURTADO",
+          "minute": "69"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Kamil KOSOWSKI",
+          "player_off": "Jacek KRZYNOWEK",
+          "minute": "78"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Pawel BROZEK",
+          "player_off": "Maciej ZURAWSKI",
+          "minute": "83"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Patricio URRUTIA",
+          "player_off": "Agustin DELGADO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Artur BORUC",
+          "Mariusz JOP",
+          "Marcin BASZCZYNSKI",
+          "Jacek BAK",
+          "Michal ZEWLAKOW",
+          "Radoslaw SOBOLEWSKI",
+          "Jacek KRZYNOWEK",
+          "Miroslav SZYMKOWIAK",
+          "Ebi SMOLAREK",
+          "Arkadiusz RADOMSKI",
+          "Maciej ZURAWSKI"
+        ],
+        "away": [
+          "Cristian MORA",
+          "Ivan HURTADO",
+          "Ulises DE LA CRUZ",
+          "Giovanny ESPINOZA",
+          "Neicer REASCO",
+          "Edison MENDEZ",
+          "Segundo CASTILLO",
+          "Antonio VALENCIA",
+          "Edwin TENORIO",
+          "Agustin DELGADO",
+          "Carlos TENORIO"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-14",
+      "stage": "Group A",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Germany",
+      "away_team": "Poland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Oliver NEUVILLE",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "David ODONKOR",
+          "player_off": "Arne FRIEDRICH",
+          "minute": "64"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Lukas PODOLSKI",
+          "minute": "71"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Tim BOROWSKI",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "77"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Mariusz LEWANDOWSKI",
+          "player_off": "Jacek KRZYNOWEK",
+          "minute": "77"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Dariusz DUDKA",
+          "player_off": "Michal ZEWLAKOW",
+          "minute": "83"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Pawel BROZEK",
+          "player_off": "Ireneusz JELEN",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jens LEHMANN",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Christoph METZELDER",
+          "Bastian SCHWEINSTEIGER",
+          "Torsten FRINGS",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ],
+        "away": [
+          "Artur BORUC",
+          "Marcin BASZCZYNSKI",
+          "Jacek BAK",
+          "Michal ZEWLAKOW",
+          "Bartosz BOSACKI",
+          "Radoslaw SOBOLEWSKI",
+          "Jacek KRZYNOWEK",
+          "Ebi SMOLAREK",
+          "Arkadiusz RADOMSKI",
+          "Maciej ZURAWSKI",
+          "Ireneusz JELEN"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-15",
+      "stage": "Group A",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "Ecuador",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Ecuador",
+          "player": "Carlos TENORIO",
+          "minute": "8"
+        },
+        {
+          "team": "Ecuador",
+          "player": "Agustin DELGADO",
+          "minute": "54"
+        },
+        {
+          "team": "Ecuador",
+          "player": "Ivan KAVIEDES",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Alvaro SABORIO",
+          "player_off": "Danny FONSECA",
+          "minute": "29"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Ivan KAVIEDES",
+          "player_off": "Carlos TENORIO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Carlos HERNANDEZ",
+          "player_off": "Leonardo GONZALEZ",
+          "minute": "56"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Jorge GUAGUA",
+          "player_off": "Giovanny ESPINOZA",
+          "minute": "69"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Patricio URRUTIA",
+          "player_off": "Antonio VALENCIA",
+          "minute": "73"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Kurt BERNARD",
+          "player_off": "Walter CENTENO",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Cristian MORA",
+          "Ivan HURTADO",
+          "Ulises DE LA CRUZ",
+          "Giovanny ESPINOZA",
+          "Neicer REASCO",
+          "Edison MENDEZ",
+          "Segundo CASTILLO",
+          "Antonio VALENCIA",
+          "Edwin TENORIO",
+          "Agustin DELGADO",
+          "Carlos TENORIO"
+        ],
+        "away": [
+          "Jose PORRAS",
+          "Luis MARIN",
+          "Michael UMANA",
+          "Leonardo GONZALEZ",
+          "Harold WALLACE",
+          "Danny FONSECA",
+          "Mauricio SOLIS",
+          "Walter CENTENO",
+          "Douglas SEQUEIRA",
+          "Paulo WANCHOPE",
+          "Ronald GOMEZ"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-20",
+      "stage": "Group A",
+      "venue": "Olympiastadion",
+      "city": "Berlin",
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "4"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "44"
+        },
+        {
+          "team": "Germany",
+          "player": "Lukas PODOLSKI",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Cristian BENITEZ",
+          "player_off": "Felix BORJA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Christian LARA",
+          "player_off": "Antonio VALENCIA",
+          "minute": "63"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Tim BOROWSKI",
+          "player_off": "Torsten FRINGS",
+          "minute": "66"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Patricio URRUTIA",
+          "player_off": "Marlon AYOVI",
+          "minute": "68"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Gerald ASAMOAH",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Cristian MORA",
+          "Jorge GUAGUA",
+          "Ulises DE LA CRUZ",
+          "Paul AMBROSI",
+          "Giovanny ESPINOZA",
+          "Edison MENDEZ",
+          "Marlon AYOVI",
+          "Antonio VALENCIA",
+          "Edwin TENORIO",
+          "Felix BORJA",
+          "Ivan KAVIEDES"
+        ],
+        "away": [
+          "Jens LEHMANN",
+          "Arne FRIEDRICH",
+          "Robert HUTH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Bastian SCHWEINSTEIGER",
+          "Torsten FRINGS",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-20",
+      "stage": "Group A",
+      "venue": "AOL Arena",
+      "city": "Hamburg",
+      "home_team": "Costa Rica",
+      "away_team": "Poland",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Costa Rica",
+          "player": "Ronald GOMEZ",
+          "minute": "25"
+        },
+        {
+          "team": "Poland",
+          "player": "Bartosz BOSACKI",
+          "minute": "33"
+        },
+        {
+          "team": "Poland",
+          "player": "Bartosz BOSACKI",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Pawel BROZEK",
+          "player_off": "Maciej ZURAWSKI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Mariusz LEWANDOWSKI",
+          "player_off": "Arkadiusz RADOMSKI",
+          "minute": "64"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Harold WALLACE",
+          "player_off": "Jervis DRUMMOND",
+          "minute": "70"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Alvaro SABORIO",
+          "player_off": "Christian BOLANOS",
+          "minute": "78"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Carlos HERNANDEZ",
+          "player_off": "Ronald GOMEZ",
+          "minute": "82"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Grzegorz RASIAK",
+          "player_off": "Ebi SMOLAREK",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jose PORRAS",
+          "Jervis DRUMMOND",
+          "Luis MARIN",
+          "Michael UMANA",
+          "Leonardo GONZALEZ",
+          "Gabriel BADILLA",
+          "Christian BOLANOS",
+          "Mauricio SOLIS",
+          "Walter CENTENO",
+          "Paulo WANCHOPE",
+          "Ronald GOMEZ"
+        ],
+        "away": [
+          "Artur BORUC",
+          "Marcin BASZCZYNSKI",
+          "Jacek BAK",
+          "Michal ZEWLAKOW",
+          "Bartosz BOSACKI",
+          "Jacek KRZYNOWEK",
+          "Miroslav SZYMKOWIAK",
+          "Ebi SMOLAREK",
+          "Arkadiusz RADOMSKI",
+          "Maciej ZURAWSKI",
+          "Ireneusz JELEN"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-10",
+      "stage": "Group B",
+      "venue": "Commerzbank-Arena",
+      "city": "Frankfurt",
+      "home_team": "England",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Carlos GAMARRA",
+          "minute": "2",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Aldo BOBADILLA",
+          "player_off": "Justo VILLAR",
+          "minute": "8"
+        },
+        {
+          "team": "England",
+          "player_on": "Stewart DOWNING",
+          "player_off": "Michael OWEN",
+          "minute": "56"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Nelson CUEVAS",
+          "player_off": "Carlos BONET",
+          "minute": "68"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge NUNEZ",
+          "player_off": "Delio TOLEDO",
+          "minute": "82"
+        },
+        {
+          "team": "England",
+          "player_on": "Owen HARGREAVES",
+          "player_off": "Joe COLE",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Paul ROBINSON",
+          "Gary NEVILLE",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "John TERRY",
+          "Steven GERRARD",
+          "David BECKHAM",
+          "Frank LAMPARD",
+          "Joe COLE",
+          "Michael OWEN",
+          "Peter CROUCH"
+        ],
+        "away": [
+          "Justo VILLAR",
+          "Delio TOLEDO",
+          "Carlos GAMARRA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Carlos BONET",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Cristian RIVEROS",
+          "Roque SANTA CRUZ",
+          "Nelson VALDEZ"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-10",
+      "stage": "Group B",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Trinidad and Tobago",
+      "away_team": "Sweden",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Cornell GLEN",
+          "player_off": "Collin SAMUEL",
+          "minute": "52"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Marcus ALLBACK",
+          "player_off": "Anders SVENSSON",
+          "minute": "62"
+        },
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Aurtis WHITLEY",
+          "player_off": "Densill THEOBALD",
+          "minute": "66"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Mattias JONSON",
+          "player_off": "Christian WILHELMSSON",
+          "minute": "78"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Kim KALLSTROM",
+          "player_off": "Tobias LINDEROTH",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Shaka HISLOP",
+          "Avery JOHN",
+          "Brent SANCHO",
+          "Dennis LAWRENCE",
+          "Cyd GRAY",
+          "Christopher BIRCHALL",
+          "Carlos EDWARDS",
+          "Densill THEOBALD",
+          "Collin SAMUEL",
+          "Stern JOHN",
+          "Dwight YORKE"
+        ],
+        "away": [
+          "Rami SHAABAN",
+          "Olof MELLBERG",
+          "Teddy LUCIC",
+          "Erik EDMAN",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Anders SVENSSON",
+          "Fredrik LJUNGBERG",
+          "Christian WILHELMSSON",
+          "Zlatan IBRAHIMOVIC",
+          "Henrik LARSSON"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-15",
+      "stage": "Group B",
+      "venue": "Frankenstadion",
+      "city": "Nuremberg",
+      "home_team": "England",
+      "away_team": "Trinidad and Tobago",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Peter CROUCH",
+          "minute": "83"
+        },
+        {
+          "team": "England",
+          "player": "Steven GERRARD",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Wayne ROONEY",
+          "player_off": "Michael OWEN",
+          "minute": "58"
+        },
+        {
+          "team": "England",
+          "player_on": "Aaron LENNON",
+          "player_off": "Jamie CARRAGHER",
+          "minute": "58"
+        },
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Cornell GLEN",
+          "player_off": "Kenwyne JONES",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Stewart DOWNING",
+          "player_off": "Joe COLE",
+          "minute": "75"
+        },
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Evans WISE",
+          "player_off": "Densill THEOBALD",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Paul ROBINSON",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "John TERRY",
+          "Jamie CARRAGHER",
+          "Steven GERRARD",
+          "David BECKHAM",
+          "Frank LAMPARD",
+          "Joe COLE",
+          "Michael OWEN",
+          "Peter CROUCH"
+        ],
+        "away": [
+          "Shaka HISLOP",
+          "Brent SANCHO",
+          "Dennis LAWRENCE",
+          "Cyd GRAY",
+          "Christopher BIRCHALL",
+          "Aurtis WHITLEY",
+          "Carlos EDWARDS",
+          "Densill THEOBALD",
+          "Stern JOHN",
+          "Kenwyne JONES",
+          "Dwight YORKE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-15",
+      "stage": "Group B",
+      "venue": "Olympiastadion",
+      "city": "Berlin",
+      "home_team": "Sweden",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Fredrik LJUNGBERG",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Marcus ALLBACK",
+          "player_off": "Zlatan IBRAHIMOVIC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Julio DOS SANTOS",
+          "player_off": "Cristian RIVEROS",
+          "minute": "62"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Dante LOPEZ",
+          "player_off": "Roque SANTA CRUZ",
+          "minute": "63"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Mattias JONSON",
+          "player_off": "Christian WILHELMSSON",
+          "minute": "68"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Edgar BARRETO",
+          "player_off": "Carlos BONET",
+          "minute": "81"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Johan ELMANDER",
+          "player_off": "Kim KALLSTROM",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas ISAKSSON",
+          "Olof MELLBERG",
+          "Teddy LUCIC",
+          "Erik EDMAN",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Fredrik LJUNGBERG",
+          "Kim KALLSTROM",
+          "Christian WILHELMSSON",
+          "Zlatan IBRAHIMOVIC",
+          "Henrik LARSSON"
+        ],
+        "away": [
+          "Aldo BOBADILLA",
+          "Jorge NUNEZ",
+          "Carlos GAMARRA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Carlos BONET",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Cristian RIVEROS",
+          "Roque SANTA CRUZ",
+          "Nelson VALDEZ"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-20",
+      "stage": "Group B",
+      "venue": "RheinEnergieStadion",
+      "city": "Cologne",
+      "home_team": "Sweden",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Joe COLE",
+          "minute": "34"
+        },
+        {
+          "team": "Sweden",
+          "player": "Marcus ALLBACK",
+          "minute": "51"
+        },
+        {
+          "team": "England",
+          "player": "Steven GERRARD",
+          "minute": "85"
+        },
+        {
+          "team": "Sweden",
+          "player": "Henrik LARSSON",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Peter CROUCH",
+          "player_off": "Michael OWEN",
+          "minute": "4"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Christian WILHELMSSON",
+          "player_off": "Mattias JONSON",
+          "minute": "54"
+        },
+        {
+          "team": "England",
+          "player_on": "Sol CAMPBELL",
+          "player_off": "Rio FERDINAND",
+          "minute": "56"
+        },
+        {
+          "team": "England",
+          "player_on": "Steven GERRARD",
+          "player_off": "Wayne ROONEY",
+          "minute": "69"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Johan ELMANDER",
+          "player_off": "Marcus ALLBACK",
+          "minute": "75"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Daniel ANDERSSON",
+          "player_off": "Tobias LINDEROTH",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas ISAKSSON",
+          "Olof MELLBERG",
+          "Teddy LUCIC",
+          "Erik EDMAN",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Fredrik LJUNGBERG",
+          "Kim KALLSTROM",
+          "Henrik LARSSON",
+          "Mattias JONSON",
+          "Marcus ALLBACK"
+        ],
+        "away": [
+          "Paul ROBINSON",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "John TERRY",
+          "Jamie CARRAGHER",
+          "David BECKHAM",
+          "Frank LAMPARD",
+          "Joe COLE",
+          "Owen HARGREAVES",
+          "Wayne ROONEY",
+          "Michael OWEN"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-20",
+      "stage": "Group B",
+      "venue": "Kaiserslautern",
+      "city": "Kaiserslautern",
+      "home_team": "Paraguay",
+      "away_team": "Trinidad and Tobago",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Brent SANCHO",
+          "minute": "25",
+          "own_goal": true
+        },
+        {
+          "team": "Paraguay",
+          "player": "Nelson CUEVAS",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Kenwyne JONES",
+          "player_off": "Avery JOHN",
+          "minute": "31"
+        },
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Evans WISE",
+          "player_off": "Cornell GLEN",
+          "minute": "41"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Nelson CUEVAS",
+          "player_off": "Nelson VALDEZ",
+          "minute": "66"
+        },
+        {
+          "team": "Trinidad and Tobago",
+          "player_on": "Russell LATAPY",
+          "player_off": "Aurtis WHITLEY",
+          "minute": "67"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Julio MANZUR",
+          "player_off": "Julio Cesar CACERES",
+          "minute": "77"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Paulo DA SILVA",
+          "player_off": "Denis CANIZA",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Aldo BOBADILLA",
+          "Jorge NUNEZ",
+          "Carlos GAMARRA",
+          "Julio Cesar CACERES",
+          "Denis CANIZA",
+          "Edgar BARRETO",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Julio DOS SANTOS",
+          "Roque SANTA CRUZ",
+          "Nelson VALDEZ"
+        ],
+        "away": [
+          "Kelvin JACK",
+          "Avery JOHN",
+          "Brent SANCHO",
+          "Dennis LAWRENCE",
+          "Christopher BIRCHALL",
+          "Aurtis WHITLEY",
+          "Carlos EDWARDS",
+          "Densill THEOBALD",
+          "Cornell GLEN",
+          "Stern JOHN",
+          "Dwight YORKE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-10",
+      "stage": "Group C",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "Argentina",
+      "away_team": "Ivory Coast",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Hernan CRESPO",
+          "minute": "24"
+        },
+        {
+          "team": "Argentina",
+          "player": "Javier SAVIOLA",
+          "minute": "38"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Didier DROGBA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ivory Coast",
+          "player_on": "Aruna DINDANE",
+          "player_off": "Bonaventure KALOU",
+          "minute": "55"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Bakary KONE",
+          "player_off": "Kanga AKALE",
+          "minute": "62"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rodrigo PALACIO",
+          "player_off": "Hernan CRESPO",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Luis GONZALEZ",
+          "player_off": "Javier SAVIOLA",
+          "minute": "75"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Arouna KONE",
+          "player_off": "Kader KEITA",
+          "minute": "77"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Pablo AIMAR",
+          "player_off": "Juan RIQUELME",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Roberto ABBONDANZIERI",
+          "Roberto AYALA",
+          "Juan SORIN",
+          "Gabriel HEINZE",
+          "Nicolas BURDISSO",
+          "Esteban CAMBIASSO",
+          "Javier MASCHERANO",
+          "Juan RIQUELME",
+          "Maxi RODRIGUEZ",
+          "Javier SAVIOLA",
+          "Hernan CRESPO"
+        ],
+        "away": [
+          "Jean-Jacques TIZIE",
+          "Arthur BOKA",
+          "Kolo TOURÉ",
+          "Abdoulaye MEITE",
+          "Emmanuel EBOUE",
+          "Kanga AKALE",
+          "Didier ZOKORA",
+          "Kader KEITA",
+          "Yaya TOURE",
+          "Bonaventure KALOU",
+          "Didier DROGBA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-11",
+      "stage": "Group C",
+      "venue": "Zentralstadion",
+      "city": "Leipzig",
+      "home_team": "Serbia and Montenegro",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Arjen ROBBEN",
+          "minute": "18"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Ognjen KOROMAN",
+          "player_off": "Nenad DJORDJEVIC",
+          "minute": "43"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Nikola ZIGIC",
+          "player_off": "Savo MILOSEVIC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Denny LANDZAAT",
+          "player_off": "Mark VAN BOMMEL",
+          "minute": "60"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Danijel LJUBOJA",
+          "player_off": "Mateja KEZMAN",
+          "minute": "67"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Dirk KUYT",
+          "player_off": "Ruud VAN NISTELROOIJ",
+          "minute": "69"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Khalid BOULAHROUZ",
+          "player_off": "Joris MATHIJSEN",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dragoslav JEVRIC",
+          "Ivica DRAGUTINOVIC",
+          "Goran GAVRANCIC",
+          "Nenad DJORDJEVIC",
+          "Mladen KRSTAJIC",
+          "Igor DULJAJ",
+          "Dejan STANKOVIC",
+          "Predrag DJORDJEVIC",
+          "Albert NADJ",
+          "Mateja KEZMAN",
+          "Savo MILOSEVIC"
+        ],
+        "away": [
+          "Edwin VAN DER SAR",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Andre OOIJER",
+          "John HEITINGA",
+          "Phillip COCU",
+          "Mark VAN BOMMEL",
+          "Wesley SNEIJDER",
+          "Ruud VAN NISTELROOIJ",
+          "Arjen ROBBEN",
+          "Robin VAN PERSIE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-16",
+      "stage": "Group C",
+      "venue": "Veltins-Arena",
+      "city": "Gelsenkirchen",
+      "home_team": "Argentina",
+      "away_team": "Serbia and Montenegro",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Maxi RODRIGUEZ",
+          "minute": "6"
+        },
+        {
+          "team": "Argentina",
+          "player": "Esteban CAMBIASSO",
+          "minute": "31"
+        },
+        {
+          "team": "Argentina",
+          "player": "Maxi RODRIGUEZ",
+          "minute": "41"
+        },
+        {
+          "team": "Argentina",
+          "player": "Hernan CRESPO",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player": "Carlos TEVEZ",
+          "minute": "84"
+        },
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Esteban CAMBIASSO",
+          "player_off": "Luis GONZALEZ",
+          "minute": "17"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Ivan ERGIC",
+          "player_off": "Albert NADJ",
+          "minute": "45+1"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Danijel LJUBOJA",
+          "player_off": "Ognjen KOROMAN",
+          "minute": "50"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Carlos TEVEZ",
+          "player_off": "Javier SAVIOLA",
+          "minute": "59"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Zvonimir VUKIC",
+          "player_off": "Savo MILOSEVIC",
+          "minute": "70"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lionel MESSI",
+          "player_off": "Maxi RODRIGUEZ",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Roberto ABBONDANZIERI",
+          "Roberto AYALA",
+          "Juan SORIN",
+          "Gabriel HEINZE",
+          "Nicolas BURDISSO",
+          "Javier MASCHERANO",
+          "Juan RIQUELME",
+          "Maxi RODRIGUEZ",
+          "Luis GONZALEZ",
+          "Javier SAVIOLA",
+          "Hernan CRESPO"
+        ],
+        "away": [
+          "Dragoslav JEVRIC",
+          "Goran GAVRANCIC",
+          "Milan DUDIC",
+          "Mladen KRSTAJIC",
+          "Igor DULJAJ",
+          "Ognjen KOROMAN",
+          "Dejan STANKOVIC",
+          "Predrag DJORDJEVIC",
+          "Albert NADJ",
+          "Mateja KEZMAN",
+          "Savo MILOSEVIC"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-16",
+      "stage": "Group C",
+      "venue": "Gottlieb-Daimler-Stadion",
+      "city": "Stuttgart",
+      "home_team": "Netherlands",
+      "away_team": "Ivory Coast",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Robin VAN PERSIE",
+          "minute": "23"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Ruud VAN NISTELROOIJ",
+          "minute": "27"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Bakary KONE",
+          "minute": "38"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Khalid BOULAHROUZ",
+          "player_off": "John HEITINGA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Rafael VAN DER VAART",
+          "player_off": "Wesley SNEIJDER",
+          "minute": "50"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Aruna DINDANE",
+          "player_off": "Bakary KONE",
+          "minute": "62"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Gilles YAPI YAPO",
+          "player_off": "ROMARIC",
+          "minute": "62"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Denny LANDZAAT",
+          "player_off": "Ruud VAN NISTELROOIJ",
+          "minute": "73"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Kanga AKALE",
+          "player_off": "Arouna KONE",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Andre OOIJER",
+          "John HEITINGA",
+          "Phillip COCU",
+          "Mark VAN BOMMEL",
+          "Wesley SNEIJDER",
+          "Ruud VAN NISTELROOIJ",
+          "Arjen ROBBEN",
+          "Robin VAN PERSIE"
+        ],
+        "away": [
+          "Jean-Jacques TIZIE",
+          "Arthur BOKA",
+          "Kolo TOURÉ",
+          "Abdoulaye MEITE",
+          "Emmanuel EBOUE",
+          "Didier ZOKORA",
+          "Yaya TOURE",
+          "ROMARIC",
+          "Arouna KONE",
+          "Didier DROGBA",
+          "Bakary KONE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-21",
+      "stage": "Group C",
+      "venue": "Commerzbank-Arena",
+      "city": "Frankfurt",
+      "home_team": "Netherlands",
+      "away_team": "Argentina",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Fabricio COLOCCINI",
+          "player_off": "Nicolas BURDISSO",
+          "minute": "24"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Ryan BABEL",
+          "player_off": "Ruud VAN NISTELROOIJ",
+          "minute": "56"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Denny LANDZAAT",
+          "player_off": "Robin VAN PERSIE",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Julio CRUZ",
+          "player_off": "Lionel MESSI",
+          "minute": "70"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Pablo AIMAR",
+          "player_off": "Juan RIQUELME",
+          "minute": "80"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Hedwiges MADURO",
+          "player_off": "Wesley SNEIJDER",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Kew JALIENS",
+          "Khalid BOULAHROUZ",
+          "Andre OOIJER",
+          "Tim DE CLER",
+          "Phillip COCU",
+          "Rafael VAN DER VAART",
+          "Wesley SNEIJDER",
+          "Dirk KUYT",
+          "Ruud VAN NISTELROOIJ",
+          "Robin VAN PERSIE"
+        ],
+        "away": [
+          "Roberto ABBONDANZIERI",
+          "Roberto AYALA",
+          "Gabriel MILITO",
+          "Leandro CUFRE",
+          "Nicolas BURDISSO",
+          "Esteban CAMBIASSO",
+          "Javier MASCHERANO",
+          "Juan RIQUELME",
+          "Maxi RODRIGUEZ",
+          "Carlos TEVEZ",
+          "Lionel MESSI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-21",
+      "stage": "Group C",
+      "venue": "Allianz Arena",
+      "city": "Munich",
+      "home_team": "Ivory Coast",
+      "away_team": "Serbia and Montenegro",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Serbia and Montenegro",
+          "player": "Nikola ZIGIC",
+          "minute": "10"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player": "Sasa ILIC",
+          "minute": "20"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Aruna DINDANE",
+          "minute": "37",
+          "penalty": true
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Aruna DINDANE",
+          "minute": "67"
+        },
+        {
+          "team": "Ivory Coast",
+          "player": "Bonaventure KALOU",
+          "minute": "86",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Albert NADJ",
+          "player_off": "Mladen KRSTAJIC",
+          "minute": "16"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Bakary KONE",
+          "player_off": "Kanga AKALE",
+          "minute": "60"
+        },
+        {
+          "team": "Serbia and Montenegro",
+          "player_on": "Savo MILOSEVIC",
+          "player_off": "Nikola ZIGIC",
+          "minute": "67"
+        },
+        {
+          "team": "Ivory Coast",
+          "player_on": "Bonaventure KALOU",
+          "player_off": "Kader KEITA",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Boubacar BARRY",
+          "Arthur BOKA",
+          "Blaise KOUASSI",
+          "Cyrille DOMORAUD",
+          "Emmanuel EBOUE",
+          "Kanga AKALE",
+          "Didier ZOKORA",
+          "Kader KEITA",
+          "Yaya TOURE",
+          "Arouna KONE",
+          "Aruna DINDANE"
+        ],
+        "away": [
+          "Dragoslav JEVRIC",
+          "Goran GAVRANCIC",
+          "Nenad DJORDJEVIC",
+          "Milan DUDIC",
+          "Mladen KRSTAJIC",
+          "Ivan ERGIC",
+          "Igor DULJAJ",
+          "Dejan STANKOVIC",
+          "Predrag DJORDJEVIC",
+          "Sasa ILIC",
+          "Nikola ZIGIC"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-11",
+      "stage": "Group D",
+      "venue": "RheinEnergieStadion",
+      "city": "Cologne",
+      "home_team": "Mexico",
+      "away_team": "Iran",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Omar BRAVO",
+          "minute": "28"
+        },
+        {
+          "team": "Iran",
+          "player": "Yahya GOLMOHAMMADI",
+          "minute": "36"
+        },
+        {
+          "team": "Mexico",
+          "player": "Omar BRAVO",
+          "minute": "76"
+        },
+        {
+          "team": "Mexico",
+          "player": "ZINHA",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "ZINHA",
+          "player_off": "Guillermo FRANCO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Luis PEREZ",
+          "player_off": "Gerardo TORRADO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jose FONSECA",
+          "player_off": "Jared BORGETTI",
+          "minute": "52"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Mehrzad MADANCHI",
+          "player_off": "Ali KARIMI",
+          "minute": "63"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Arash BORHANI",
+          "player_off": "Mohammad NOSRATI",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oswaldo SANCHEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Gonzalo PINEDA",
+          "Mario MENDEZ",
+          "Gerardo TORRADO",
+          "Pavel PARDO",
+          "Jared BORGETTI",
+          "Guillermo FRANCO",
+          "Omar BRAVO"
+        ],
+        "away": [
+          "Ebrahim MIRZAPOUR",
+          "Yahya GOLMOHAMMADI",
+          "Rahman REZAEI",
+          "Hossein KAEBI",
+          "Mohammad NOSRATI",
+          "Mehdi MAHDAVIKIA",
+          "Javad NEKOUNAM",
+          "Ali KARIMI",
+          "Andranik TIMOTIAN",
+          "Vahid HASHEMIAN",
+          "Ali DAEI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-11",
+      "stage": "Group D",
+      "venue": "Rhein-Neckar-Arena",
+      "city": "Leipzig",
+      "home_team": "Angola",
+      "away_team": "Portugal",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "PAULETA",
+          "minute": "4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Angola",
+          "player_on": "MANTORRAS",
+          "player_off": "AKWA",
+          "minute": "60"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "COSTINHA",
+          "player_off": "CRISTIANO RONALDO",
+          "minute": "60"
+        },
+        {
+          "team": "Angola",
+          "player_on": "EDSON",
+          "player_off": "ZE KALANGA",
+          "minute": "70"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "MANICHE",
+          "player_off": "PETIT",
+          "minute": "72"
+        },
+        {
+          "team": "Angola",
+          "player_on": "MILOY",
+          "player_off": "FIGUEIREDO",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "HUGO VIANA",
+          "player_off": "TIAGO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JOAO RICARDO",
+          "JAMBA",
+          "KALI",
+          "LOCO",
+          "DELGADO",
+          "FIGUEIREDO",
+          "ANDRE",
+          "MATEUS",
+          "MENDONCA",
+          "ZE KALANGA",
+          "AKWA"
+        ],
+        "away": [
+          "RICARDO",
+          "FERNANDO MEIRA",
+          "MIGUEL",
+          "NUNO VALENTE",
+          "RICARDO CARVALHO",
+          "PETIT",
+          "TIAGO",
+          "Luis FIGO",
+          "PAULETA",
+          "SIMAO",
+          "CRISTIANO RONALDO"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-16",
+      "stage": "Group D",
+      "venue": "AWD-Arena",
+      "city": "Hannover",
+      "home_team": "Mexico",
+      "away_team": "Angola",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Jesus ARELLANO",
+          "player_off": "ZINHA",
+          "minute": "52"
+        },
+        {
+          "team": "Angola",
+          "player_on": "MANTORRAS",
+          "player_off": "MATEUS",
+          "minute": "68"
+        },
+        {
+          "team": "Angola",
+          "player_on": "RUI MARQUES",
+          "player_off": "FIGUEIREDO",
+          "minute": "73"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jose FONSECA",
+          "player_off": "Guillermo FRANCO",
+          "minute": "74"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Ramon MORALES",
+          "player_off": "Gonzalo PINEDA",
+          "minute": "78"
+        },
+        {
+          "team": "Angola",
+          "player_on": "MILOY",
+          "player_off": "ZE KALANGA",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oswaldo SANCHEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Gonzalo PINEDA",
+          "Mario MENDEZ",
+          "Gerardo TORRADO",
+          "ZINHA",
+          "Pavel PARDO",
+          "Guillermo FRANCO",
+          "Omar BRAVO"
+        ],
+        "away": [
+          "JOAO RICARDO",
+          "JAMBA",
+          "KALI",
+          "LOCO",
+          "DELGADO",
+          "FIGUEIREDO",
+          "ANDRE",
+          "MATEUS",
+          "MENDONCA",
+          "ZE KALANGA",
+          "AKWA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-17",
+      "stage": "Group D",
+      "venue": "Commerzbank-Arena",
+      "city": "Frankfurt",
+      "home_team": "Portugal",
+      "away_team": "Iran",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "DECO",
+          "minute": "63"
+        },
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "80",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Ferydoon ZANDI",
+          "player_off": "Ali KARIMI",
+          "minute": "65"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Rasoul KHATIBI",
+          "player_off": "Mehrzad MADANCHI",
+          "minute": "66"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "PETIT",
+          "player_off": "MANICHE",
+          "minute": "67"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "TIAGO",
+          "player_off": "DECO",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "SIMAO",
+          "player_off": "Luis FIGO",
+          "minute": "88"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Sohrab BAKHTIARIZADEH",
+          "player_off": "Yahya GOLMOHAMMADI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RICARDO",
+          "FERNANDO MEIRA",
+          "MIGUEL",
+          "NUNO VALENTE",
+          "RICARDO CARVALHO",
+          "COSTINHA",
+          "MANICHE",
+          "DECO",
+          "Luis FIGO",
+          "PAULETA",
+          "CRISTIANO RONALDO"
+        ],
+        "away": [
+          "Ebrahim MIRZAPOUR",
+          "Yahya GOLMOHAMMADI",
+          "Rahman REZAEI",
+          "Hossein KAEBI",
+          "Mohammad NOSRATI",
+          "Mehdi MAHDAVIKIA",
+          "Javad NEKOUNAM",
+          "Ali KARIMI",
+          "Andranik TIMOTIAN",
+          "Mehrzad MADANCHI",
+          "Vahid HASHEMIAN"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-21",
+      "stage": "Group D",
+      "venue": "Veltins-Arena",
+      "city": "Gelsenkirchen",
+      "home_team": "Portugal",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "MANICHE",
+          "minute": "6"
+        },
+        {
+          "team": "Portugal",
+          "player": "SIMAO",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "team": "Mexico",
+          "player": "Jose FONSECA",
+          "minute": "29"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "ZINHA",
+          "player_off": "Francisco RODRIGUEZ",
+          "minute": "45+1"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "PAULO FERREIRA",
+          "player_off": "MIGUEL",
+          "minute": "61"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "NUNO GOMES",
+          "player_off": "HELDER POSTIGA",
+          "minute": "69"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jose CASTRO",
+          "player_off": "Gonzalo PINEDA",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "BOA MORTE",
+          "player_off": "Luis FIGO",
+          "minute": "80"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Guillermo FRANCO",
+          "player_off": "Mario MENDEZ",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RICARDO",
+          "MARCO CANEIRA",
+          "FERNANDO MEIRA",
+          "MIGUEL",
+          "RICARDO CARVALHO",
+          "PETIT",
+          "MANICHE",
+          "TIAGO",
+          "Luis FIGO",
+          "SIMAO",
+          "HELDER POSTIGA"
+        ],
+        "away": [
+          "Oswaldo SANCHEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Gonzalo PINEDA",
+          "Mario MENDEZ",
+          "Francisco RODRIGUEZ",
+          "Pavel PARDO",
+          "Luis PEREZ",
+          "Jose FONSECA",
+          "Omar BRAVO"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-21",
+      "stage": "Group D",
+      "venue": "Zentralstadion",
+      "city": "Leipzig",
+      "home_team": "Iran",
+      "away_team": "Angola",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Angola",
+          "player": "FLAVIO",
+          "minute": "60"
+        },
+        {
+          "team": "Iran",
+          "player": "Sohrab BAKHTIARIZADEH",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Masoud SHOJAEI",
+          "player_off": "Mohammad NOSRATI",
+          "minute": "13"
+        },
+        {
+          "team": "Angola",
+          "player_on": "LOVE",
+          "player_off": "MATEUS",
+          "minute": "23"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Rasoul KHATIBI",
+          "player_off": "Vahid HASHEMIAN",
+          "minute": "39"
+        },
+        {
+          "team": "Angola",
+          "player_on": "FLAVIO",
+          "player_off": "AKWA",
+          "minute": "51"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Arash BORHANI",
+          "player_off": "Hossein KAEBI",
+          "minute": "67"
+        },
+        {
+          "team": "Angola",
+          "player_on": "RUI MARQUES",
+          "player_off": "FIGUEIREDO",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ebrahim MIRZAPOUR",
+          "Sohrab BAKHTIARIZADEH",
+          "Rahman REZAEI",
+          "Hossein KAEBI",
+          "Mohammad NOSRATI",
+          "Mehdi MAHDAVIKIA",
+          "Ferydoon ZANDI",
+          "Andranik TIMOTIAN",
+          "Mehrzad MADANCHI",
+          "Vahid HASHEMIAN",
+          "Ali DAEI"
+        ],
+        "away": [
+          "JOAO RICARDO",
+          "JAMBA",
+          "KALI",
+          "LOCO",
+          "DELGADO",
+          "MILOY",
+          "FIGUEIREDO",
+          "MATEUS",
+          "MENDONCA",
+          "ZE KALANGA",
+          "AKWA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-12",
+      "stage": "Group E",
+      "venue": "AWD-Arena",
+      "city": "Hannover",
+      "home_team": "Italy",
+      "away_team": "Ghana",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Andrea PIRLO",
+          "minute": "40"
+        },
+        {
+          "team": "Italy",
+          "player": "Vincenzo IAQUINTA",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ghana",
+          "player_on": "Illiasu SHILLA",
+          "player_off": "Emmanuel PAPPOE",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Mauro CAMORANESI",
+          "player_off": "Francesco TOTTI",
+          "minute": "56"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Vincenzo IAQUINTA",
+          "player_off": "Alberto GILARDINO",
+          "minute": "64"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Razak PIMPONG",
+          "player_off": "Matthew AMOAH",
+          "minute": "68"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Luca TONI",
+          "minute": "82"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Alex TACHIE-MENSAH",
+          "player_off": "Asamoah GYAN",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Cristian ZACCARDO",
+          "Fabio GROSSO",
+          "Fabio CANNAVARO",
+          "Alessandro NESTA",
+          "Daniele DE ROSSI",
+          "Francesco TOTTI",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Luca TONI",
+          "Alberto GILARDINO"
+        ],
+        "away": [
+          "Richard KINGSON",
+          "Samuel KUFFOUR",
+          "John MENSAH",
+          "Emmanuel PAPPOE",
+          "John PANTSIL",
+          "Michael ESSIEN",
+          "Stephen APPIAH",
+          "Sulley MUNTARI",
+          "Eric ADDO",
+          "Asamoah GYAN",
+          "Matthew AMOAH"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-12",
+      "stage": "Group E",
+      "venue": "Veltins-Arena",
+      "city": "Gelsenkirchen",
+      "home_team": "United States",
+      "away_team": "Czech Republic",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Czech Republic",
+          "player": "Jan KOLLER",
+          "minute": "5"
+        },
+        {
+          "team": "Czech Republic",
+          "player": "Tomas ROSICKY",
+          "minute": "36"
+        },
+        {
+          "team": "Czech Republic",
+          "player": "Tomas ROSICKY",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czech Republic",
+          "player_on": "Vratislav LOKVENC",
+          "player_off": "Jan KOLLER",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player_on": "Eddie JOHNSON",
+          "player_off": "Steve CHERUNDOLO",
+          "minute": "45+1"
+        },
+        {
+          "team": "United States",
+          "player_on": "John O BRIEN",
+          "player_off": "Pablo MASTROENI",
+          "minute": "45+1"
+        },
+        {
+          "team": "United States",
+          "player_on": "Josh WOLFF",
+          "player_off": "Brian McBRIDE",
+          "minute": "77"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "Jan POLAK",
+          "player_off": "Karel POBORSKY",
+          "minute": "82"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "Jiri STAJNER",
+          "player_off": "Tomas ROSICKY",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kasey KELLER",
+          "Pablo MASTROENI",
+          "Steve CHERUNDOLO",
+          "Eddie LEWIS",
+          "Oguchi ONYEWU",
+          "Eddie POPE",
+          "Claudio REYNA",
+          "Bobby CONVEY",
+          "DaMarcus BEASLEY",
+          "Landon DONOVAN",
+          "Brian McBRIDE"
+        ],
+        "away": [
+          "Petr CECH",
+          "Zdenek GRYGERA",
+          "Marek JANKULOVSKI",
+          "Tomas UJFALUSI",
+          "David ROZEHNAL",
+          "Tomas GALASEK",
+          "Karel POBORSKY",
+          "Tomas ROSICKY",
+          "Pavel NEDVED",
+          "Jaroslav PLASIL",
+          "Jan KOLLER"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-17",
+      "stage": "Group E",
+      "venue": "Fritz-Walter-Stadion",
+      "city": "Kaiserslautern",
+      "home_team": "Italy",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Alberto GILARDINO",
+          "minute": "22"
+        },
+        {
+          "team": "United States",
+          "player": "Cristian ZACCARDO",
+          "minute": "27",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Gennaro GATTUSO",
+          "player_off": "Francesco TOTTI",
+          "minute": "35"
+        },
+        {
+          "team": "United States",
+          "player_on": "Jimmy CONRAD",
+          "player_off": "Bobby CONVEY",
+          "minute": "52"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Cristian ZACCARDO",
+          "minute": "54"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Vincenzo IAQUINTA",
+          "player_off": "Luca TONI",
+          "minute": "61"
+        },
+        {
+          "team": "United States",
+          "player_on": "DaMarcus BEASLEY",
+          "player_off": "Clint DEMPSEY",
+          "minute": "62"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Cristian ZACCARDO",
+          "Fabio CANNAVARO",
+          "Alessandro NESTA",
+          "Gianluca ZAMBROTTA",
+          "Daniele DE ROSSI",
+          "Francesco TOTTI",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Luca TONI",
+          "Alberto GILARDINO"
+        ],
+        "away": [
+          "Kasey KELLER",
+          "Carlos BOCANEGRA",
+          "Pablo MASTROENI",
+          "Steve CHERUNDOLO",
+          "Oguchi ONYEWU",
+          "Eddie POPE",
+          "Clint DEMPSEY",
+          "Claudio REYNA",
+          "Bobby CONVEY",
+          "Landon DONOVAN",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-17",
+      "stage": "Group E",
+      "venue": "RheinEnergieStadion",
+      "city": "Cologne",
+      "home_team": "Czech Republic",
+      "away_team": "Ghana",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Ghana",
+          "player": "Asamoah GYAN",
+          "minute": "2"
+        },
+        {
+          "team": "Ghana",
+          "player": "Sulley MUNTARI",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czech Republic",
+          "player_on": "Jan POLAK",
+          "player_off": "Tomas GALASEK",
+          "minute": "45+1"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Derek BOATENG",
+          "player_off": "Otto ADDO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "Jiri STAJNER",
+          "player_off": "Karel POBORSKY",
+          "minute": "56"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "Libor SIONKO",
+          "player_off": "Jaroslav PLASIL",
+          "minute": "68"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Eric ADDO",
+          "player_off": "Matthew AMOAH",
+          "minute": "80"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Razak PIMPONG",
+          "player_off": "Asamoah GYAN",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Petr CECH",
+          "Zdenek GRYGERA",
+          "Marek JANKULOVSKI",
+          "Tomas UJFALUSI",
+          "David ROZEHNAL",
+          "Tomas GALASEK",
+          "Karel POBORSKY",
+          "Tomas ROSICKY",
+          "Pavel NEDVED",
+          "Jaroslav PLASIL",
+          "Vratislav LOKVENC"
+        ],
+        "away": [
+          "Richard KINGSON",
+          "John MENSAH",
+          "Illiasu SHILLA",
+          "Habib MOHAMED",
+          "John PANTSIL",
+          "Michael ESSIEN",
+          "Stephen APPIAH",
+          "Sulley MUNTARI",
+          "Otto ADDO",
+          "Asamoah GYAN",
+          "Matthew AMOAH"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-22",
+      "stage": "Group E",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "Czech Republic",
+      "away_team": "Italy",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Marco MATERAZZI",
+          "minute": "26"
+        },
+        {
+          "team": "Italy",
+          "player": "Filippo INZAGHI",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Marco MATERAZZI",
+          "player_off": "Alessandro NESTA",
+          "minute": "17"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "Jiri STAJNER",
+          "player_off": "Karel POBORSKY",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Filippo INZAGHI",
+          "player_off": "Alberto GILARDINO",
+          "minute": "60"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "David JAROLIM",
+          "player_off": "Milan BAROS",
+          "minute": "64"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Simone BARONE",
+          "player_off": "Mauro CAMORANESI",
+          "minute": "74"
+        },
+        {
+          "team": "Czech Republic",
+          "player_on": "Marek HEINZ",
+          "player_off": "Radoslav KOVAC",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Petr CECH",
+          "Zdenek GRYGERA",
+          "Marek JANKULOVSKI",
+          "David ROZEHNAL",
+          "Radoslav KOVAC",
+          "Karel POBORSKY",
+          "Tomas ROSICKY",
+          "Pavel NEDVED",
+          "Jan POLAK",
+          "Jaroslav PLASIL",
+          "Milan BAROS"
+        ],
+        "away": [
+          "Gianluigi BUFFON",
+          "Fabio GROSSO",
+          "Fabio CANNAVARO",
+          "Alessandro NESTA",
+          "Gianluca ZAMBROTTA",
+          "Gennaro GATTUSO",
+          "Francesco TOTTI",
+          "Mauro CAMORANESI",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Alberto GILARDINO"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-22",
+      "stage": "Group E",
+      "venue": "Fritz-Walter-Stadion",
+      "city": "Kaiserslautern",
+      "home_team": "Ghana",
+      "away_team": "United States",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Ghana",
+          "player": "Haminu DRAMAN",
+          "minute": "22"
+        },
+        {
+          "team": "United States",
+          "player": "Clint DEMPSEY",
+          "minute": "43"
+        },
+        {
+          "team": "Ghana",
+          "player": "Stephen APPIAH",
+          "minute": "45+2",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Ben OLSEN",
+          "player_off": "Claudio REYNA",
+          "minute": "40"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Otto ADDO",
+          "player_off": "Derek BOATENG",
+          "minute": "45+1"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Eric ADDO",
+          "player_off": "Matthew AMOAH",
+          "minute": "59"
+        },
+        {
+          "team": "United States",
+          "player_on": "Eddie JOHNSON",
+          "player_off": "Steve CHERUNDOLO",
+          "minute": "61"
+        },
+        {
+          "team": "United States",
+          "player_on": "Bobby CONVEY",
+          "player_off": "Eddie LEWIS",
+          "minute": "74"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Alex TACHIE-MENSAH",
+          "player_off": "Haminu DRAMAN",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Richard KINGSON",
+          "John MENSAH",
+          "Illiasu SHILLA",
+          "Habib MOHAMED",
+          "John PANTSIL",
+          "Michael ESSIEN",
+          "Derek BOATENG",
+          "Stephen APPIAH",
+          "Haminu DRAMAN",
+          "Matthew AMOAH",
+          "Razak PIMPONG"
+        ],
+        "away": [
+          "Kasey KELLER",
+          "Carlos BOCANEGRA",
+          "Steve CHERUNDOLO",
+          "Eddie LEWIS",
+          "Jimmy CONRAD",
+          "Oguchi ONYEWU",
+          "Clint DEMPSEY",
+          "Claudio REYNA",
+          "DaMarcus BEASLEY",
+          "Landon DONOVAN",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-12",
+      "stage": "Group F",
+      "venue": "Fritz-Walter-Stadion",
+      "city": "Kaiserslautern",
+      "home_team": "Australia",
+      "away_team": "Japan",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Shunsuke NAKAMURA",
+          "minute": "26"
+        },
+        {
+          "team": "Australia",
+          "player": "Tim CAHILL",
+          "minute": "84"
+        },
+        {
+          "team": "Australia",
+          "player": "Tim CAHILL",
+          "minute": "89"
+        },
+        {
+          "team": "Australia",
+          "player": "John ALOISI",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Tim CAHILL",
+          "player_off": "Mark BRESCIANO",
+          "minute": "53"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Teruyuki MONIWA",
+          "player_off": "Keisuke TSUBOI",
+          "minute": "56"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Joshua KENNEDY",
+          "player_off": "Craig MOORE",
+          "minute": "61"
+        },
+        {
+          "team": "Australia",
+          "player_on": "John ALOISI",
+          "player_off": "Luke WILKSHIRE",
+          "minute": "75"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji Ono",
+          "player_off": "Atsushi YANAGISAWA",
+          "minute": "79"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Masashi OGURO",
+          "player_off": "Teruyuki MONIWA",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mark SCHWARZER",
+          "Lucas NEILL",
+          "Craig MOORE",
+          "Scott CHIPPERFIELD",
+          "Jason CULINA",
+          "Brett EMERTON",
+          "Vince GRELLA",
+          "Luke WILKSHIRE",
+          "Mark BRESCIANO",
+          "Mark VIDUKA",
+          "Harry KEWELL"
+        ],
+        "away": [
+          "Yoshikatsu KAWAGUCHI",
+          "Yuichi KOMANO",
+          "Tsuneyasu MIYAMOTO",
+          "Alessandro SANTOS",
+          "Keisuke TSUBOI",
+          "Yuji NAKAZAWA",
+          "Hidetoshi NAKATA",
+          "Shunsuke NAKAMURA",
+          "Takashi FUKUNISHI",
+          "Naohiro TAKAHARA",
+          "Atsushi YANAGISAWA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-13",
+      "stage": "Group F",
+      "venue": "Olympiastadion",
+      "city": "Berlin",
+      "home_team": "Brazil",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "KAKA",
+          "minute": "44"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Jerko LEKO",
+          "player_off": "Niko KOVAC",
+          "minute": "41"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ivica OLIC",
+          "player_off": "Ivan KLASNIC",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBINHO",
+          "player_off": "RONALDO",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIDA",
+          "CAFU",
+          "LUCIO",
+          "JUAN",
+          "ROBERTO CARLOS",
+          "EMERSON",
+          "KAKA",
+          "RONALDINHO",
+          "ZE ROBERTO",
+          "ADRIANO",
+          "RONALDO"
+        ],
+        "away": [
+          "Stipe PLETIKOSA",
+          "Josip SIMUNIC",
+          "Robert KOVAC",
+          "Igor TUDOR",
+          "Dario SIMIC",
+          "Darijo SRNA",
+          "Marko BABIC",
+          "Niko KOVAC",
+          "Niko KRANJCAR",
+          "Dado PRSO",
+          "Ivan KLASNIC"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-18",
+      "stage": "Group F",
+      "venue": "Nuremberg",
+      "city": "Nuremberg",
+      "home_team": "Japan",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Junichi INAMOTO",
+          "player_off": "Takashi FUKUNISHI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Keiji TAMADA",
+          "player_off": "Atsushi YANAGISAWA",
+          "minute": "61"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ivica OLIC",
+          "player_off": "Igor TUDOR",
+          "minute": "70"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Luka MODRIC",
+          "player_off": "Niko KRANJCAR",
+          "minute": "78"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Masashi OGURO",
+          "player_off": "Naohiro TAKAHARA",
+          "minute": "85"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ivan BOSNJAK",
+          "player_off": "Darijo SRNA",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yoshikatsu KAWAGUCHI",
+          "Tsuneyasu MIYAMOTO",
+          "Alessandro SANTOS",
+          "Akira KAJI",
+          "Yuji NAKAZAWA",
+          "Hidetoshi NAKATA",
+          "Mitsuo OGASAWARA",
+          "Shunsuke NAKAMURA",
+          "Takashi FUKUNISHI",
+          "Naohiro TAKAHARA",
+          "Atsushi YANAGISAWA"
+        ],
+        "away": [
+          "Stipe PLETIKOSA",
+          "Josip SIMUNIC",
+          "Robert KOVAC",
+          "Igor TUDOR",
+          "Dario SIMIC",
+          "Darijo SRNA",
+          "Marko BABIC",
+          "Niko KOVAC",
+          "Niko KRANJCAR",
+          "Dado PRSO",
+          "Ivan KLASNIC"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-18",
+      "stage": "Group F",
+      "venue": "Allianz Arena",
+      "city": "Munich",
+      "home_team": "Brazil",
+      "away_team": "Australia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ADRIANO",
+          "minute": "49"
+        },
+        {
+          "team": "Brazil",
+          "player": "Fred",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Mark BRESCIANO",
+          "player_off": "Tony POPOVIC",
+          "minute": "41"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Harry KEWELL",
+          "player_off": "Tim CAHILL",
+          "minute": "56"
+        },
+        {
+          "team": "Australia",
+          "player_on": "John ALOISI",
+          "player_off": "Craig MOORE",
+          "minute": "69"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBINHO",
+          "player_off": "RONALDO",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GILBERTO SILVA",
+          "player_off": "EMERSON",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "Fred",
+          "player_off": "ADRIANO",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIDA",
+          "CAFU",
+          "LUCIO",
+          "JUAN",
+          "ROBERTO CARLOS",
+          "EMERSON",
+          "KAKA",
+          "RONALDINHO",
+          "ZE ROBERTO",
+          "ADRIANO",
+          "RONALDO"
+        ],
+        "away": [
+          "Mark SCHWARZER",
+          "Lucas NEILL",
+          "Craig MOORE",
+          "Tony POPOVIC",
+          "Scott CHIPPERFIELD",
+          "Tim CAHILL",
+          "Jason CULINA",
+          "Brett EMERTON",
+          "Vince GRELLA",
+          "Mile STERJOVSKI",
+          "Mark VIDUKA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-22",
+      "stage": "Group F",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Japan",
+      "away_team": "Brazil",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Keiji TAMADA",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player": "JUNINHO PERNAMBUCANO",
+          "minute": "53"
+        },
+        {
+          "team": "Brazil",
+          "player": "GILBERTO MELO",
+          "minute": "59"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Koji NAKATA",
+          "player_off": "Mitsuo OGASAWARA",
+          "minute": "56"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Naohiro TAKAHARA",
+          "player_off": "Seiichiro MAKI",
+          "minute": "60"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Masashi OGURO",
+          "player_off": "Naohiro TAKAHARA",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZE ROBERTO",
+          "player_off": "KAKA",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RICARDINHO",
+          "player_off": "RONALDINHO",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROGERIO CENI",
+          "player_off": "DIDA",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yoshikatsu KAWAGUCHI",
+          "Alessandro SANTOS",
+          "Keisuke TSUBOI",
+          "Akira KAJI",
+          "Yuji NAKAZAWA",
+          "Hidetoshi NAKATA",
+          "Mitsuo OGASAWARA",
+          "Shunsuke NAKAMURA",
+          "Junichi INAMOTO",
+          "Seiichiro MAKI",
+          "Keiji TAMADA"
+        ],
+        "away": [
+          "DIDA",
+          "LUCIO",
+          "JUAN",
+          "CICINHO",
+          "GILBERTO MELO",
+          "KAKA",
+          "RONALDINHO",
+          "GILBERTO SILVA",
+          "JUNINHO PERNAMBUCANO",
+          "RONALDO",
+          "ROBINHO"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-22",
+      "stage": "Group F",
+      "venue": "Gottlieb-Daimler-Stadion",
+      "city": "Stuttgart",
+      "home_team": "Croatia",
+      "away_team": "Australia",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Darijo SRNA",
+          "minute": "2"
+        },
+        {
+          "team": "Australia",
+          "player": "Craig MOORE",
+          "minute": "38",
+          "penalty": true
+        },
+        {
+          "team": "Croatia",
+          "player": "Niko KOVAC",
+          "minute": "56"
+        },
+        {
+          "team": "Australia",
+          "player": "Harry KEWELL",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "John ALOISI",
+          "player_off": "Vince GRELLA",
+          "minute": "63"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Jerko LEKO",
+          "player_off": "Niko KRANJCAR",
+          "minute": "65"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Mark BRESCIANO",
+          "player_off": "Mile STERJOVSKI",
+          "minute": "71"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Luka MODRIC",
+          "player_off": "Ivica OLIC",
+          "minute": "74"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Joshua KENNEDY",
+          "player_off": "Scott CHIPPERFIELD",
+          "minute": "75"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ivan KLASNIC",
+          "player_off": "Stjepan TOMAS",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Stipe PLETIKOSA",
+          "Josip SIMUNIC",
+          "Igor TUDOR",
+          "Dario SIMIC",
+          "Stjepan TOMAS",
+          "Darijo SRNA",
+          "Marko BABIC",
+          "Niko KOVAC",
+          "Niko KRANJCAR",
+          "Dado PRSO",
+          "Ivica OLIC"
+        ],
+        "away": [
+          "Zeljko KALAC",
+          "Lucas NEILL",
+          "Craig MOORE",
+          "Scott CHIPPERFIELD",
+          "Tim CAHILL",
+          "Jason CULINA",
+          "Brett EMERTON",
+          "Vince GRELLA",
+          "Mile STERJOVSKI",
+          "Mark VIDUKA",
+          "Harry KEWELL"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-13",
+      "stage": "Group G",
+      "venue": "Gottlieb-Daimler-Stadion",
+      "city": "Stuttgart",
+      "home_team": "France",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Daniel GYGAX",
+          "player_off": "Marco STRELLER",
+          "minute": "56"
+        },
+        {
+          "team": "France",
+          "player_on": "Louis SAHA",
+          "player_off": "Franck RIBÉRY",
+          "minute": "70"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Johan DJOUROU",
+          "player_off": "Patrick MUELLER",
+          "minute": "75"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Xavier MARGAIRAZ",
+          "player_off": "Raphael WICKY",
+          "minute": "82"
+        },
+        {
+          "team": "France",
+          "player_on": "Vikash DHORASOO",
+          "player_off": "Sylvain WILTORD",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Zinedine ZIDANE",
+          "Franck RIBÉRY",
+          "Sylvain WILTORD",
+          "Thierry HENRY"
+        ],
+        "away": [
+          "Pascal ZUBERBUEHLER",
+          "Ludovic MAGNIN",
+          "Philippe SENDEROS",
+          "Patrick MUELLER",
+          "Philipp DEGEN",
+          "Johann VOGEL",
+          "Ricardo CABANAS",
+          "Raphael WICKY",
+          "Tranquillo BARNETTA",
+          "Alexander FREI",
+          "Marco STRELLER"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-13",
+      "stage": "Group G",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "South Korea",
+      "away_team": "Togo",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Togo",
+          "player": "MOHAMED KADER",
+          "minute": "31"
+        },
+        {
+          "team": "South Korea",
+          "player": "LEE Chun Soo",
+          "minute": "54"
+        },
+        {
+          "team": "South Korea",
+          "player": "AHN Jung Hwan",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "AHN Jung Hwan",
+          "player_off": "KIM Jin Kyu",
+          "minute": "45+1"
+        },
+        {
+          "team": "Togo",
+          "player_on": "Assimiou TOURE",
+          "player_off": "Yao Junior SENAYA",
+          "minute": "55"
+        },
+        {
+          "team": "Togo",
+          "player_on": "Richmond FORSON",
+          "player_off": "Ludovic ASSEMOASSA",
+          "minute": "62"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Namil",
+          "player_off": "LEE Eul Yong",
+          "minute": "68"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Sangsik",
+          "player_off": "CHO Jae Jin",
+          "minute": "83"
+        },
+        {
+          "team": "Togo",
+          "player_on": "Yao AZIAWONOU",
+          "player_off": "Moustapha SALIFOU",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "LEE Woonjae",
+          "KIM Young Chul",
+          "CHOI Jincheul",
+          "KIM Jin Kyu",
+          "LEE Youngpyo",
+          "SONG Chong Gug",
+          "PARK Jisung",
+          "LEE Eul Yong",
+          "LEE Ho",
+          "LEE Chun Soo",
+          "CHO Jae Jin"
+        ],
+        "away": [
+          "Kossi AGASSA",
+          "Dare NIBOMBE",
+          "Jean-Paul ABALO",
+          "Massamasso TCHANGAI",
+          "Ludovic ASSEMOASSA",
+          "Cherif Toure MAMAM",
+          "Alaixys ROMAO",
+          "Emmanuel ADEBAYOR",
+          "Moustapha SALIFOU",
+          "MOHAMED KADER",
+          "Yao Junior SENAYA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-18",
+      "stage": "Group G",
+      "venue": "Zentralstadion",
+      "city": "Leipzig",
+      "home_team": "France",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Thierry HENRY",
+          "minute": "9"
+        },
+        {
+          "team": "South Korea",
+          "player": "PARK Jisung",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "SEOL Ki Hyeon",
+          "player_off": "LEE Eul Yong",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Franck RIBÉRY",
+          "player_off": "Sylvain WILTORD",
+          "minute": "60"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Sangsik",
+          "player_off": "LEE Ho",
+          "minute": "69"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "AHN Jung Hwan",
+          "player_off": "LEE Chun Soo",
+          "minute": "72"
+        },
+        {
+          "team": "France",
+          "player_on": "Vikash DHORASOO",
+          "player_off": "Florent MALOUDA",
+          "minute": "88"
+        },
+        {
+          "team": "France",
+          "player_on": "David TREZEGUET",
+          "player_off": "Zinedine ZIDANE",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Florent MALOUDA",
+          "Zinedine ZIDANE",
+          "Sylvain WILTORD",
+          "Thierry HENRY"
+        ],
+        "away": [
+          "LEE Woonjae",
+          "KIM Young Chul",
+          "KIM Dong Jin",
+          "CHOI Jincheul",
+          "LEE Youngpyo",
+          "KIM Namil",
+          "PARK Jisung",
+          "LEE Eul Yong",
+          "LEE Ho",
+          "LEE Chun Soo",
+          "CHO Jae Jin"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-19",
+      "stage": "Group G",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Togo",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Alexander FREI",
+          "minute": "16"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Tranquillo BARNETTA",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Togo",
+          "player_on": "Moustapha SALIFOU",
+          "player_off": "Kuami AGBOH",
+          "minute": "25"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Hakan YAKIN",
+          "player_off": "Daniel GYGAX",
+          "minute": "45+1"
+        },
+        {
+          "team": "Togo",
+          "player_on": "Yao Junior SENAYA",
+          "player_off": "Thomas DOSSEVI",
+          "minute": "69"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Marco STRELLER",
+          "player_off": "Ricardo CABANAS",
+          "minute": "77"
+        },
+        {
+          "team": "Togo",
+          "player_on": "Robert MALM",
+          "player_off": "Cherif Toure MAMAM",
+          "minute": "87"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Mauro LUSTRINELLI",
+          "player_off": "Alexander FREI",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kossi AGASSA",
+          "Dare NIBOMBE",
+          "Massamasso TCHANGAI",
+          "Assimiou TOURE",
+          "Kuami AGBOH",
+          "Thomas DOSSEVI",
+          "Cherif Toure MAMAM",
+          "Alaixys ROMAO",
+          "Emmanuel ADEBAYOR",
+          "Richmond FORSON",
+          "MOHAMED KADER"
+        ],
+        "away": [
+          "Pascal ZUBERBUEHLER",
+          "Ludovic MAGNIN",
+          "Philippe SENDEROS",
+          "Patrick MUELLER",
+          "Philipp DEGEN",
+          "Johann VOGEL",
+          "Ricardo CABANAS",
+          "Raphael WICKY",
+          "Tranquillo BARNETTA",
+          "Alexander FREI",
+          "Daniel GYGAX"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-23",
+      "stage": "Group G",
+      "venue": "RheinEnergieStadion",
+      "city": "Cologne",
+      "home_team": "Togo",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Patrick VIEIRA",
+          "minute": "55"
+        },
+        {
+          "team": "France",
+          "player": "Thierry HENRY",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Togo",
+          "player_on": "Adekanmi OLUFADE",
+          "player_off": "Cherif Toure MAMAM",
+          "minute": "59"
+        },
+        {
+          "team": "France",
+          "player_on": "Sylvain WILTORD",
+          "player_off": "Florent MALOUDA",
+          "minute": "74"
+        },
+        {
+          "team": "Togo",
+          "player_on": "Thomas DOSSEVI",
+          "player_off": "Emmanuel ADEBAYOR",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Sidney GOVOU",
+          "player_off": "Franck RIBÉRY",
+          "minute": "77"
+        },
+        {
+          "team": "France",
+          "player_on": "Alou DIARRA",
+          "player_off": "Patrick VIEIRA",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kossi AGASSA",
+          "Dare NIBOMBE",
+          "Jean-Paul ABALO",
+          "Massamasso TCHANGAI",
+          "Yao AZIAWONOU",
+          "Cherif Toure MAMAM",
+          "Emmanuel ADEBAYOR",
+          "Moustapha SALIFOU",
+          "Richmond FORSON",
+          "MOHAMED KADER",
+          "Yao Junior SENAYA"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "William GALLAS",
+          "Mikael SILVESTRE",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Florent MALOUDA",
+          "Franck RIBÉRY",
+          "Thierry HENRY",
+          "David TREZEGUET"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-23",
+      "stage": "Group G",
+      "venue": "AWD-Arena",
+      "city": "Hannover",
+      "home_team": "South Korea",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Philippe SENDEROS",
+          "minute": "23"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Alexander FREI",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Johan DJOUROU",
+          "player_off": "Philippe SENDEROS",
+          "minute": "53"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "AHN Jung Hwan",
+          "player_off": "LEE Youngpyo",
+          "minute": "63"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SEOL Ki Hyeon",
+          "player_off": "PARK Chuyoung",
+          "minute": "66"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Xavier MARGAIRAZ",
+          "player_off": "Hakan YAKIN",
+          "minute": "71"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Valon BEHRAMI",
+          "player_off": "Raphael WICKY",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "LEE Woonjae",
+          "KIM Dong Jin",
+          "CHOI Jincheul",
+          "KIM Jin Kyu",
+          "LEE Youngpyo",
+          "KIM Namil",
+          "PARK Jisung",
+          "LEE Ho",
+          "PARK Chuyoung",
+          "LEE Chun Soo",
+          "CHO Jae Jin"
+        ],
+        "away": [
+          "Pascal ZUBERBUEHLER",
+          "Philippe SENDEROS",
+          "Christoph SPYCHER",
+          "Patrick MUELLER",
+          "Philipp DEGEN",
+          "Johann VOGEL",
+          "Ricardo CABANAS",
+          "Raphael WICKY",
+          "Tranquillo BARNETTA",
+          "Hakan YAKIN",
+          "Alexander FREI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-14",
+      "stage": "Group H",
+      "venue": "Zentralstadion",
+      "city": "Leipzig",
+      "home_team": "Spain",
+      "away_team": "Ukraine",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Xabi ALONSO",
+          "minute": "13"
+        },
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "17"
+        },
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "48",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando TORRES",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ukraine",
+          "player_on": "Oleg SHELAYEV",
+          "player_off": "Andriy GUSIN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Andriy VOROBEY",
+          "player_off": "Oleg GUSEV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RAUL",
+          "player_off": "David VILLA",
+          "minute": "55"
+        },
+        {
+          "team": "Spain",
+          "player_on": "David ALBELDA",
+          "player_off": "Xabi ALONSO",
+          "minute": "55"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Serhiy REBROV",
+          "player_off": "Ruslan ROTAN",
+          "minute": "64"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Luis GARCIA",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Mariano PERNIA",
+          "Carles PUYOL",
+          "Sergio RAMOS",
+          "PABLO",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Marcos SENNA",
+          "Fernando TORRES",
+          "Luis GARCIA",
+          "David VILLA"
+        ],
+        "away": [
+          "Oleksandr SHOVKOVSKYI",
+          "Andriy NESMACHNYI",
+          "Vladimir YEZERSKYI",
+          "Andriy RUSOL",
+          "Vladyslav VASHCHUK",
+          "Anatoliy TYMOSHCHUK",
+          "Oleg GUSEV",
+          "Andriy GUSIN",
+          "Ruslan ROTAN",
+          "Andriy SHEVCHENKO",
+          "Andriy VORONIN"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-14",
+      "stage": "Group H",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "Tunisia",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Tunisia",
+          "player": "Zied JAZIRI",
+          "minute": "23"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "YASSER AL QAHTANI",
+          "minute": "57"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "Sami AL JABER",
+          "minute": "84"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Radhi JAIDI",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Mehdi NAFTI",
+          "player_off": "Riadh BOUAZIZI",
+          "minute": "55"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Malek AL HAWSAWI",
+          "player_off": "Nawaf AL TEMYAT",
+          "minute": "67"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Kais GHODHBANE",
+          "player_off": "Aadel CHEDLI",
+          "minute": "69"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MOHAMMED AMEEN",
+          "player_off": "Mohammed NOOR",
+          "minute": "75"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Karim ESSEDIRI",
+          "player_off": "CHIKHAOUI Yasin",
+          "minute": "82"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Sami AL JABER",
+          "player_off": "YASSER AL QAHTANI",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ali BOUMNIJEL",
+          "Karim HAGGUI",
+          "Hatem TRABELSI",
+          "Radhi JAIDI",
+          "David JEMMALI",
+          "Jaouhar MNARI",
+          "Riadh BOUAZIZI",
+          "Aadel CHEDLI",
+          "Hamed NAMOUCHI",
+          "Zied JAZIRI",
+          "CHIKHAOUI Yasin"
+        ],
+        "away": [
+          "Mabrouk ZAID",
+          "Ahmed AL DOSARI",
+          "Redha TUKAR",
+          "Hamad AL MONTASHARI",
+          "Hussein AL SULAIMANI",
+          "Omar AL GHAMDI",
+          "Mohammed NOOR",
+          "SAUD KARIRI",
+          "Khaled AZIZ",
+          "Nawaf AL TEMYAT",
+          "YASSER AL QAHTANI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-19",
+      "stage": "Group H",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "Saudi Arabia",
+      "away_team": "Ukraine",
+      "score": {
+        "home": 0,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Ukraine",
+          "player": "Andriy RUSOL",
+          "minute": "4"
+        },
+        {
+          "team": "Ukraine",
+          "player": "Serhiy REBROV",
+          "minute": "36"
+        },
+        {
+          "team": "Ukraine",
+          "player": "Andriy SHEVCHENKO",
+          "minute": "46"
+        },
+        {
+          "team": "Ukraine",
+          "player": "Maksym KALINICHENKO",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Malek AL HAWSAWI",
+          "player_off": "MOHAMMED AMEEN",
+          "minute": "55"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdulaziz KHATHRAN",
+          "player_off": "Ahmed AL DOSARI",
+          "minute": "55"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Ruslan ROTAN",
+          "player_off": "Serhiy REBROV",
+          "minute": "71"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Sami AL JABER",
+          "player_off": "Mohammed NOOR",
+          "minute": "77"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Andriy GUSIN",
+          "player_off": "Andriy VORONIN",
+          "minute": "79"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Artem MILEVSKIY",
+          "player_off": "Andriy SHEVCHENKO",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mabrouk ZAID",
+          "Ahmed AL DOSARI",
+          "Redha TUKAR",
+          "Hamad AL MONTASHARI",
+          "Hussein AL SULAIMANI",
+          "Omar AL GHAMDI",
+          "MOHAMMED AMEEN",
+          "Mohammed NOOR",
+          "SAUD KARIRI",
+          "Khaled AZIZ",
+          "YASSER AL QAHTANI"
+        ],
+        "away": [
+          "Oleksandr SHOVKOVSKYI",
+          "Andriy NESMACHNYI",
+          "Andriy RUSOL",
+          "Vyacheslav SVIDERSKYI",
+          "Anatoliy TYMOSHCHUK",
+          "Oleg SHELAYEV",
+          "Oleg GUSEV",
+          "Serhiy REBROV",
+          "Maksym KALINICHENKO",
+          "Andriy SHEVCHENKO",
+          "Andriy VORONIN"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-19",
+      "stage": "Group H",
+      "venue": "Gottlieb-Daimler-Stadion",
+      "city": "Stuttgart",
+      "home_team": "Spain",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Tunisia",
+          "player": "Jaouhar MNARI",
+          "minute": "8"
+        },
+        {
+          "team": "Spain",
+          "player": "RAUL",
+          "minute": "71"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando TORRES",
+          "minute": "76"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando TORRES",
+          "minute": "90+1",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "RAUL",
+          "player_off": "Luis GARCIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Cesc FABREGAS",
+          "player_off": "Marcos SENNA",
+          "minute": "46"
+        },
+        {
+          "team": "Spain",
+          "player_on": "JOAQUÍN",
+          "player_off": "David VILLA",
+          "minute": "57"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Kais GHODHBANE",
+          "player_off": "Riadh BOUAZIZI",
+          "minute": "57"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Alaeddine YAHIA",
+          "player_off": "Anis AYARI",
+          "minute": "57"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Haykel GUEMAMDIA",
+          "player_off": "Aadel CHEDLI",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Mariano PERNIA",
+          "Carles PUYOL",
+          "Sergio RAMOS",
+          "PABLO",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Marcos SENNA",
+          "Fernando TORRES",
+          "Luis GARCIA",
+          "David VILLA"
+        ],
+        "away": [
+          "Ali BOUMNIJEL",
+          "Karim HAGGUI",
+          "Hatem TRABELSI",
+          "Radhi JAIDI",
+          "Anis AYARI",
+          "Mehdi NAFTI",
+          "Jaouhar MNARI",
+          "Riadh BOUAZIZI",
+          "Aadel CHEDLI",
+          "Hamed NAMOUCHI",
+          "Zied JAZIRI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-23",
+      "stage": "Group H",
+      "venue": "Kaiserslautern",
+      "city": "Kaiserslautern",
+      "home_team": "Saudi Arabia",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "JUANITO",
+          "minute": "36"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Nawaf AL TEMYAT",
+          "player_off": "Khaled AZIZ",
+          "minute": "13"
+        },
+        {
+          "team": "Spain",
+          "player_on": "David VILLA",
+          "player_off": "RAUL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Xavi HERNANDEZ",
+          "player_off": "Cesc FABREGAS",
+          "minute": "66"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Malek AL HAWSAWI",
+          "player_off": "Sami AL JABER",
+          "minute": "68"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando TORRES",
+          "player_off": "Jose Antonio REYES",
+          "minute": "70"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Mohammed AL MOWALLAD",
+          "player_off": "Hussein AL SULAIMANI",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mabrouk ZAID",
+          "Ahmed AL DOSARI",
+          "Redha TUKAR",
+          "Hamad AL MONTASHARI",
+          "Abdulaziz KHATHRAN",
+          "Hussein AL SULAIMANI",
+          "Mohammed NOOR",
+          "SAUD KARIRI",
+          "Khaled AZIZ",
+          "Sami AL JABER",
+          "Saad AL HARTHI"
+        ],
+        "away": [
+          "Santiago CANIZARES",
+          "Michel SALGADO",
+          "Carlos MARCHENA",
+          "Antonio LOPEZ",
+          "JUANITO",
+          "David ALBELDA",
+          "Jose Antonio REYES",
+          "Andres INIESTA",
+          "JOAQUÍN",
+          "Cesc FABREGAS",
+          "RAUL"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-23",
+      "stage": "Group H",
+      "venue": "Olympiastadion",
+      "city": "Berlin",
+      "home_team": "Ukraine",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Ukraine",
+          "player": "Andriy SHEVCHENKO",
+          "minute": "70",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ukraine",
+          "player_on": "Andriy VOROBEY",
+          "player_off": "Serhiy REBROV",
+          "minute": "55"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Andriy GUSIN",
+          "player_off": "Maksym KALINICHENKO",
+          "minute": "75"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Chaouki BEN SAADA",
+          "player_off": "Riadh BOUAZIZI",
+          "minute": "79"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "SANTOS",
+          "player_off": "Aadel CHEDLI",
+          "minute": "79"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Artem MILEVSKIY",
+          "player_off": "Andriy SHEVCHENKO",
+          "minute": "88"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Kais GHODHBANE",
+          "player_off": "Mehdi NAFTI",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oleksandr SHOVKOVSKYI",
+          "Andriy NESMACHNYI",
+          "Andriy RUSOL",
+          "Vyacheslav SVIDERSKYI",
+          "Anatoliy TYMOSHCHUK",
+          "Oleg SHELAYEV",
+          "Oleg GUSEV",
+          "Serhiy REBROV",
+          "Maksym KALINICHENKO",
+          "Andriy SHEVCHENKO",
+          "Andriy VORONIN"
+        ],
+        "away": [
+          "Ali BOUMNIJEL",
+          "Karim HAGGUI",
+          "Hatem TRABELSI",
+          "Radhi JAIDI",
+          "Anis AYARI",
+          "Mehdi NAFTI",
+          "Jaouhar MNARI",
+          "Riadh BOUAZIZI",
+          "Aadel CHEDLI",
+          "Hamed NAMOUCHI",
+          "Zied JAZIRI"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-24",
+      "stage": "Round of 16",
+      "venue": "Allianz Arena",
+      "city": "Munich",
+      "home_team": "Germany",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Lukas PODOLSKI",
+          "minute": "4"
+        },
+        {
+          "team": "Germany",
+          "player": "Lukas PODOLSKI",
+          "minute": "12"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Petter HANSSON",
+          "player_off": "Kim KALLSTROM",
+          "minute": "39"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Christian WILHELMSSON",
+          "player_off": "Mattias JONSON",
+          "minute": "52"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Tim BOROWSKI",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "72"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Marcus ALLBACK",
+          "player_off": "Zlatan IBRAHIMOVIC",
+          "minute": "72"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Lukas PODOLSKI",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Sebastian KEHL",
+          "player_off": "Torsten FRINGS",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jens LEHMANN",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Christoph METZELDER",
+          "Bastian SCHWEINSTEIGER",
+          "Torsten FRINGS",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ],
+        "away": [
+          "Andreas ISAKSSON",
+          "Olof MELLBERG",
+          "Teddy LUCIC",
+          "Erik EDMAN",
+          "Tobias LINDEROTH",
+          "Niclas ALEXANDERSSON",
+          "Fredrik LJUNGBERG",
+          "Kim KALLSTROM",
+          "Zlatan IBRAHIMOVIC",
+          "Henrik LARSSON",
+          "Mattias JONSON"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-24",
+      "stage": "Round of 16",
+      "venue": "Zentralstadion",
+      "city": "Leipzig",
+      "home_team": "Argentina",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Rafael MARQUEZ",
+          "minute": "6"
+        },
+        {
+          "team": "Argentina",
+          "player": "Hernan CRESPO",
+          "minute": "10"
+        },
+        {
+          "team": "Argentina",
+          "player": "Maxi RODRIGUEZ",
+          "minute": "98"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Gerardo TORRADO",
+          "player_off": "Pavel PARDO",
+          "minute": "38"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Gonzalo PINEDA",
+          "player_off": "Andres GUARDADO",
+          "minute": "66"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "ZINHA",
+          "player_off": "Ramon MORALES",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Carlos TEVEZ",
+          "player_off": "Hernan CRESPO",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Pablo AIMAR",
+          "player_off": "Esteban CAMBIASSO",
+          "minute": "76"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lionel MESSI",
+          "player_off": "Javier SAVIOLA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Roberto ABBONDANZIERI",
+          "Roberto AYALA",
+          "Juan SORIN",
+          "Gabriel HEINZE",
+          "Lionel SCALONI",
+          "Esteban CAMBIASSO",
+          "Javier MASCHERANO",
+          "Juan RIQUELME",
+          "Maxi RODRIGUEZ",
+          "Javier SAVIOLA",
+          "Hernan CRESPO"
+        ],
+        "away": [
+          "Oswaldo SANCHEZ",
+          "Carlos SALCIDO",
+          "Rafael MARQUEZ",
+          "Ricardo OSORIO",
+          "Jose CASTRO",
+          "Mario MENDEZ",
+          "Andres GUARDADO",
+          "Pavel PARDO",
+          "Jared BORGETTI",
+          "Ramon MORALES",
+          "Jose FONSECA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-25",
+      "stage": "Round of 16",
+      "venue": "Gottlieb-Daimler-Stadion",
+      "city": "Stuttgart",
+      "home_team": "England",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "David BECKHAM",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Christian LARA",
+          "player_off": "Edwin TENORIO",
+          "minute": "69"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Ivan KAVIEDES",
+          "player_off": "Carlos TENORIO",
+          "minute": "72"
+        },
+        {
+          "team": "England",
+          "player_on": "Jamie CARRAGHER",
+          "player_off": "Joe COLE",
+          "minute": "77"
+        },
+        {
+          "team": "England",
+          "player_on": "Aaron LENNON",
+          "player_off": "David BECKHAM",
+          "minute": "87"
+        },
+        {
+          "team": "England",
+          "player_on": "Stewart DOWNING",
+          "player_off": "Steven GERRARD",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Paul ROBINSON",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "John TERRY",
+          "Steven GERRARD",
+          "David BECKHAM",
+          "Frank LAMPARD",
+          "Joe COLE",
+          "Owen HARGREAVES",
+          "Michael CARRICK",
+          "Wayne ROONEY"
+        ],
+        "away": [
+          "Cristian MORA",
+          "Ivan HURTADO",
+          "Ulises DE LA CRUZ",
+          "Giovanny ESPINOZA",
+          "Neicer REASCO",
+          "Edison MENDEZ",
+          "Segundo CASTILLO",
+          "Antonio VALENCIA",
+          "Edwin TENORIO",
+          "Agustin DELGADO",
+          "Carlos TENORIO"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-25",
+      "stage": "Round of 16",
+      "venue": "Frankenstadion",
+      "city": "Nuremberg",
+      "home_team": "Portugal",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "MANICHE",
+          "minute": "23"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "SIMAO",
+          "player_off": "CRISTIANO RONALDO",
+          "minute": "34"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "PETIT",
+          "player_off": "PAULETA",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Rafael VAN DER VAART",
+          "player_off": "Joris MATHIJSEN",
+          "minute": "56"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "John HEITINGA",
+          "player_off": "Mark VAN BOMMEL",
+          "minute": "67"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "TIAGO",
+          "player_off": "Luis FIGO",
+          "minute": "84"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Jan VENNEGOOR OF HESSELINK",
+          "player_off": "Phillip COCU",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RICARDO",
+          "FERNANDO MEIRA",
+          "MIGUEL",
+          "NUNO VALENTE",
+          "RICARDO CARVALHO",
+          "COSTINHA",
+          "MANICHE",
+          "DECO",
+          "Luis FIGO",
+          "PAULETA",
+          "CRISTIANO RONALDO"
+        ],
+        "away": [
+          "Edwin VAN DER SAR",
+          "Khalid BOULAHROUZ",
+          "Joris MATHIJSEN",
+          "Giovanni VAN BRONCKHORST",
+          "Andre OOIJER",
+          "Phillip COCU",
+          "Mark VAN BOMMEL",
+          "Wesley SNEIJDER",
+          "Dirk KUYT",
+          "Arjen ROBBEN",
+          "Robin VAN PERSIE"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-26",
+      "stage": "Round of 16",
+      "venue": "Fritz-Walter-Stadion",
+      "city": "Kaiserslautern",
+      "home_team": "Italy",
+      "away_team": "Australia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Francesco TOTTI",
+          "minute": "90+5",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Vincenzo IAQUINTA",
+          "player_off": "Alberto GILARDINO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Andrea BARZAGLI",
+          "player_off": "Luca TONI",
+          "minute": "56"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Francesco TOTTI",
+          "player_off": "Alessandro DEL PIERO",
+          "minute": "75"
+        },
+        {
+          "team": "Australia",
+          "player_on": "John ALOISI",
+          "player_off": "Mile STERJOVSKI",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Fabio GROSSO",
+          "Fabio CANNAVARO",
+          "Gianluca ZAMBROTTA",
+          "Marco MATERAZZI",
+          "Gennaro GATTUSO",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Alessandro DEL PIERO",
+          "Luca TONI",
+          "Alberto GILARDINO"
+        ],
+        "away": [
+          "Mark SCHWARZER",
+          "Lucas NEILL",
+          "Craig MOORE",
+          "Scott CHIPPERFIELD",
+          "Tim CAHILL",
+          "Jason CULINA",
+          "Vince GRELLA",
+          "Luke WILKSHIRE",
+          "Mile STERJOVSKI",
+          "Mark BRESCIANO",
+          "Mark VIDUKA"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-26",
+      "stage": "Round of 16",
+      "venue": "RheinEnergieStadion",
+      "city": "Cologne",
+      "home_team": "Switzerland",
+      "away_team": "Ukraine",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Stephane GRICHTING",
+          "player_off": "Johan DJOUROU",
+          "minute": "34"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Marco STRELLER",
+          "player_off": "Hakan YAKIN",
+          "minute": "64"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Ruslan ROTAN",
+          "player_off": "Maksym KALINICHENKO",
+          "minute": "75"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Serhiy REBROV",
+          "player_off": "Andriy VOROBEY",
+          "minute": "90+4"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Artem MILEVSKIY",
+          "player_off": "Andriy VORONIN",
+          "minute": "111"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Mauro LUSTRINELLI",
+          "player_off": "Alexander FREI",
+          "minute": "117"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pascal ZUBERBUEHLER",
+          "Johan DJOUROU",
+          "Ludovic MAGNIN",
+          "Patrick MUELLER",
+          "Philipp DEGEN",
+          "Johann VOGEL",
+          "Ricardo CABANAS",
+          "Raphael WICKY",
+          "Tranquillo BARNETTA",
+          "Hakan YAKIN",
+          "Alexander FREI"
+        ],
+        "away": [
+          "Oleksandr SHOVKOVSKYI",
+          "Andriy NESMACHNYI",
+          "Vladyslav VASHCHUK",
+          "Anatoliy TYMOSHCHUK",
+          "Oleg SHELAYEV",
+          "Oleg GUSEV",
+          "Andriy GUSIN",
+          "Maksym KALINICHENKO",
+          "Andriy SHEVCHENKO",
+          "Andriy VORONIN",
+          "Andriy VOROBEY"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-27",
+      "stage": "Round of 16",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Brazil",
+      "away_team": "Ghana",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "5"
+        },
+        {
+          "team": "Brazil",
+          "player": "ADRIANO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZE ROBERTO",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "GILBERTO SILVA",
+          "player_off": "EMERSON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Derek BOATENG",
+          "player_off": "Eric ADDO",
+          "minute": "60"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "JUNINHO PERNAMBUCANO",
+          "player_off": "ADRIANO",
+          "minute": "61"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Alex TACHIE-MENSAH",
+          "player_off": "Matthew AMOAH",
+          "minute": "70"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RICARDINHO",
+          "player_off": "KAKA",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIDA",
+          "CAFU",
+          "LUCIO",
+          "JUAN",
+          "ROBERTO CARLOS",
+          "EMERSON",
+          "KAKA",
+          "RONALDINHO",
+          "ZE ROBERTO",
+          "ADRIANO",
+          "RONALDO"
+        ],
+        "away": [
+          "Richard KINGSON",
+          "John MENSAH",
+          "Emmanuel PAPPOE",
+          "Illiasu SHILLA",
+          "John PANTSIL",
+          "Stephen APPIAH",
+          "Sulley MUNTARI",
+          "Eric ADDO",
+          "Haminu DRAMAN",
+          "Asamoah GYAN",
+          "Matthew AMOAH"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-27",
+      "stage": "Round of 16",
+      "venue": "AWD-Arena",
+      "city": "Hannover",
+      "home_team": "Spain",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "David VILLA",
+          "minute": "28",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Franck RIBÉRY",
+          "minute": "41"
+        },
+        {
+          "team": "France",
+          "player": "Patrick VIEIRA",
+          "minute": "83"
+        },
+        {
+          "team": "France",
+          "player": "Zinedine ZIDANE",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Luis GARCIA",
+          "player_off": "RAUL",
+          "minute": "54"
+        },
+        {
+          "team": "Spain",
+          "player_on": "JOAQUÍN",
+          "player_off": "David VILLA",
+          "minute": "54"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Marcos SENNA",
+          "player_off": "Xavi HERNANDEZ",
+          "minute": "72"
+        },
+        {
+          "team": "France",
+          "player_on": "Sidney GOVOU",
+          "player_off": "Florent MALOUDA",
+          "minute": "74"
+        },
+        {
+          "team": "France",
+          "player_on": "Sylvain WILTORD",
+          "player_off": "Thierry HENRY",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Iker CASILLAS",
+          "Mariano PERNIA",
+          "Carles PUYOL",
+          "Sergio RAMOS",
+          "PABLO",
+          "Xavi HERNANDEZ",
+          "Xabi ALONSO",
+          "Cesc FABREGAS",
+          "RAUL",
+          "Fernando TORRES",
+          "David VILLA"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Florent MALOUDA",
+          "Zinedine ZIDANE",
+          "Franck RIBÉRY",
+          "Thierry HENRY"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-30",
+      "stage": "Quarterfinal",
+      "venue": "Olympiastadion",
+      "city": "Berlin",
+      "home_team": "Germany",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Roberto AYALA",
+          "minute": "49"
+        },
+        {
+          "team": "Germany",
+          "player": "Miroslav KLOSE",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "David ODONKOR",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "62"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Leonardo FRANCO",
+          "player_off": "Roberto ABBONDANZIERI",
+          "minute": "71"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Esteban CAMBIASSO",
+          "player_off": "Juan RIQUELME",
+          "minute": "72"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Tim BOROWSKI",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Julio CRUZ",
+          "player_off": "Hernan CRESPO",
+          "minute": "79"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jens LEHMANN",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Christoph METZELDER",
+          "Bastian SCHWEINSTEIGER",
+          "Torsten FRINGS",
+          "Michael BALLACK",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ],
+        "away": [
+          "Roberto ABBONDANZIERI",
+          "Roberto AYALA",
+          "Juan SORIN",
+          "Fabricio COLOCCINI",
+          "Gabriel HEINZE",
+          "Javier MASCHERANO",
+          "Juan RIQUELME",
+          "Maxi RODRIGUEZ",
+          "Luis GONZALEZ",
+          "Hernan CRESPO",
+          "Carlos TEVEZ"
+        ]
+      }
+    },
+    {
+      "date": "2006-06-30",
+      "stage": "Quarterfinal",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "Italy",
+      "away_team": "Ukraine",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Gianluca ZAMBROTTA",
+          "minute": "6"
+        },
+        {
+          "team": "Italy",
+          "player": "Luca TONI",
+          "minute": "59"
+        },
+        {
+          "team": "Italy",
+          "player": "Luca TONI",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ukraine",
+          "player_on": "Andriy VOROBEY",
+          "player_off": "Vyacheslav SVIDERSKYI",
+          "minute": "20"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Vladyslav VASHCHUK",
+          "player_off": "Andriy RUSOL",
+          "minute": "45+2"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Massimo ODDO",
+          "player_off": "Mauro CAMORANESI",
+          "minute": "68"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Simone BARONE",
+          "player_off": "Andrea PIRLO",
+          "minute": "68"
+        },
+        {
+          "team": "Ukraine",
+          "player_on": "Oleksiy BELIK",
+          "player_off": "Artem MILEVSKIY",
+          "minute": "72"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Cristian ZACCARDO",
+          "player_off": "Gennaro GATTUSO",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Fabio GROSSO",
+          "Fabio CANNAVARO",
+          "Andrea BARZAGLI",
+          "Gianluca ZAMBROTTA",
+          "Gennaro GATTUSO",
+          "Francesco TOTTI",
+          "Mauro CAMORANESI",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Luca TONI"
+        ],
+        "away": [
+          "Oleksandr SHOVKOVSKYI",
+          "Andriy NESMACHNYI",
+          "Andriy RUSOL",
+          "Vyacheslav SVIDERSKYI",
+          "Anatoliy TYMOSHCHUK",
+          "Oleg SHELAYEV",
+          "Oleg GUSEV",
+          "Andriy GUSIN",
+          "Maksym KALINICHENKO",
+          "Andriy SHEVCHENKO",
+          "Artem MILEVSKIY"
+        ]
+      }
+    },
+    {
+      "date": "2006-07-01",
+      "stage": "Quarterfinal",
+      "venue": "Arena AufSchalke",
+      "city": "Gelsenkirchen",
+      "home_team": "England",
+      "away_team": "Portugal",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Aaron LENNON",
+          "player_off": "David BECKHAM",
+          "minute": "52"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "SIMAO",
+          "player_off": "PAULETA",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Peter CROUCH",
+          "player_off": "Joe COLE",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "HUGO VIANA",
+          "player_off": "TIAGO",
+          "minute": "74"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "HELDER POSTIGA",
+          "player_off": "Luis FIGO",
+          "minute": "86"
+        },
+        {
+          "team": "England",
+          "player_on": "Jamie CARRAGHER",
+          "player_off": "Aaron LENNON",
+          "minute": "119"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Paul ROBINSON",
+          "Gary NEVILLE",
+          "Ashley COLE",
+          "Rio FERDINAND",
+          "John TERRY",
+          "Steven GERRARD",
+          "David BECKHAM",
+          "Frank LAMPARD",
+          "Joe COLE",
+          "Owen HARGREAVES",
+          "Wayne ROONEY"
+        ],
+        "away": [
+          "RICARDO",
+          "FERNANDO MEIRA",
+          "MIGUEL",
+          "NUNO VALENTE",
+          "RICARDO CARVALHO",
+          "PETIT",
+          "MANICHE",
+          "TIAGO",
+          "Luis FIGO",
+          "PAULETA",
+          "CRISTIANO RONALDO"
+        ]
+      }
+    },
+    {
+      "date": "2006-07-01",
+      "stage": "Quarterfinal",
+      "venue": "Commerzbank-Arena",
+      "city": "Frankfurt",
+      "home_team": "Brazil",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Thierry HENRY",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "ADRIANO",
+          "player_off": "JUNINHO PERNAMBUCANO",
+          "minute": "63"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "CICINHO",
+          "player_off": "CAFU",
+          "minute": "76"
+        },
+        {
+          "team": "France",
+          "player_on": "Sidney GOVOU",
+          "player_off": "Franck RIBÉRY",
+          "minute": "77"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBINHO",
+          "player_off": "KAKA",
+          "minute": "79"
+        },
+        {
+          "team": "France",
+          "player_on": "Sylvain WILTORD",
+          "player_off": "Florent MALOUDA",
+          "minute": "81"
+        },
+        {
+          "team": "France",
+          "player_on": "Louis SAHA",
+          "player_off": "Thierry HENRY",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIDA",
+          "CAFU",
+          "LUCIO",
+          "JUAN",
+          "ROBERTO CARLOS",
+          "KAKA",
+          "RONALDINHO",
+          "ZE ROBERTO",
+          "GILBERTO SILVA",
+          "JUNINHO PERNAMBUCANO",
+          "RONALDO"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Florent MALOUDA",
+          "Zinedine ZIDANE",
+          "Franck RIBÉRY",
+          "Thierry HENRY"
+        ]
+      }
+    },
+    {
+      "date": "2006-07-04",
+      "stage": "Semifinal",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Germany",
+      "away_team": "Italy",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Fabio GROSSO",
+          "minute": "119"
+        },
+        {
+          "team": "Italy",
+          "player": "Alessandro DEL PIERO",
+          "minute": "120+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Bastian SCHWEINSTEIGER",
+          "player_off": "Tim BOROWSKI",
+          "minute": "73"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alberto GILARDINO",
+          "player_off": "Luca TONI",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player_on": "David ODONKOR",
+          "player_off": "Bernd SCHNEIDER",
+          "minute": "83"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Vincenzo IAQUINTA",
+          "player_off": "Mauro CAMORANESI",
+          "minute": "91"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Simone PERROTTA",
+          "minute": "104"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "111"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jens LEHMANN",
+          "Arne FRIEDRICH",
+          "Philipp LAHM",
+          "Per MERTESACKER",
+          "Christoph METZELDER",
+          "Sebastian KEHL",
+          "Michael BALLACK",
+          "Tim BOROWSKI",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ],
+        "away": [
+          "Gianluigi BUFFON",
+          "Fabio GROSSO",
+          "Fabio CANNAVARO",
+          "Gianluca ZAMBROTTA",
+          "Marco MATERAZZI",
+          "Gennaro GATTUSO",
+          "Francesco TOTTI",
+          "Mauro CAMORANESI",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Luca TONI"
+        ]
+      }
+    },
+    {
+      "date": "2006-07-05",
+      "stage": "Semifinal",
+      "venue": "Allianz Arena",
+      "city": "Munich",
+      "home_team": "Portugal",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Zinedine ZIDANE",
+          "minute": "33",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "PAULO FERREIRA",
+          "player_off": "MIGUEL",
+          "minute": "62"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "SIMAO",
+          "player_off": "PAULETA",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player_on": "Sylvain WILTORD",
+          "player_off": "Florent MALOUDA",
+          "minute": "69"
+        },
+        {
+          "team": "France",
+          "player_on": "Sidney GOVOU",
+          "player_off": "Franck RIBÉRY",
+          "minute": "72"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "HELDER POSTIGA",
+          "player_off": "COSTINHA",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Louis SAHA",
+          "player_off": "Thierry HENRY",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RICARDO",
+          "FERNANDO MEIRA",
+          "MIGUEL",
+          "NUNO VALENTE",
+          "RICARDO CARVALHO",
+          "COSTINHA",
+          "MANICHE",
+          "DECO",
+          "Luis FIGO",
+          "PAULETA",
+          "CRISTIANO RONALDO"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Florent MALOUDA",
+          "Zinedine ZIDANE",
+          "Franck RIBÉRY",
+          "Thierry HENRY"
+        ]
+      }
+    },
+    {
+      "date": "2006-07-08",
+      "stage": "Third-place match",
+      "venue": "Gottlieb-Daimler-Stadion",
+      "city": "Stuttgart",
+      "home_team": "Germany",
+      "away_team": "Portugal",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Bastian SCHWEINSTEIGER",
+          "minute": "56"
+        },
+        {
+          "team": "Germany",
+          "player": "PETIT",
+          "minute": "60",
+          "own_goal": true
+        },
+        {
+          "team": "Germany",
+          "player": "Bastian SCHWEINSTEIGER",
+          "minute": "78"
+        },
+        {
+          "team": "Portugal",
+          "player": "NUNO GOMES",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "PETIT",
+          "player_off": "COSTINHA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Oliver NEUVILLE",
+          "player_off": "Miroslav KLOSE",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "NUNO GOMES",
+          "player_off": "NUNO VALENTE",
+          "minute": "69"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mike HANKE",
+          "player_off": "Lukas PODOLSKI",
+          "minute": "71"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "Luis FIGO",
+          "player_off": "PAULETA",
+          "minute": "77"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Thomas HITZLSPERGER",
+          "player_off": "Bastian SCHWEINSTEIGER",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Oliver KAHN",
+          "Marcell JANSEN",
+          "Jens NOWOTNY",
+          "Philipp LAHM",
+          "Christoph METZELDER",
+          "Sebastian KEHL",
+          "Bastian SCHWEINSTEIGER",
+          "Torsten FRINGS",
+          "Bernd SCHNEIDER",
+          "Miroslav KLOSE",
+          "Lukas PODOLSKI"
+        ],
+        "away": [
+          "RICARDO",
+          "PAULO FERREIRA",
+          "RICARDO COSTA",
+          "FERNANDO MEIRA",
+          "NUNO VALENTE",
+          "COSTINHA",
+          "MANICHE",
+          "DECO",
+          "PAULETA",
+          "SIMAO",
+          "CRISTIANO RONALDO"
+        ]
+      }
+    },
+    {
+      "date": "2006-07-09",
+      "stage": "Final",
+      "venue": "Olympiastadion",
+      "city": "Berlin",
+      "home_team": "Italy",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 5,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Zinedine ZIDANE",
+          "minute": "7",
+          "penalty": true
+        },
+        {
+          "team": "Italy",
+          "player": "Marco MATERAZZI",
+          "minute": "19"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Alou DIARRA",
+          "player_off": "Patrick VIEIRA",
+          "minute": "56"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Vincenzo IAQUINTA",
+          "player_off": "Simone PERROTTA",
+          "minute": "61"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Daniele DE ROSSI",
+          "player_off": "Francesco TOTTI",
+          "minute": "61"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Mauro CAMORANESI",
+          "minute": "86"
+        },
+        {
+          "team": "France",
+          "player_on": "David TREZEGUET",
+          "player_off": "Franck RIBÉRY",
+          "minute": "100"
+        },
+        {
+          "team": "France",
+          "player_on": "Sylvain WILTORD",
+          "player_off": "Thierry HENRY",
+          "minute": "107"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluigi BUFFON",
+          "Fabio GROSSO",
+          "Fabio CANNAVARO",
+          "Gianluca ZAMBROTTA",
+          "Marco MATERAZZI",
+          "Gennaro GATTUSO",
+          "Francesco TOTTI",
+          "Mauro CAMORANESI",
+          "Simone PERROTTA",
+          "Andrea PIRLO",
+          "Luca TONI"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Eric ABIDAL",
+          "William GALLAS",
+          "Lilian THURAM",
+          "Willy SAGNOL",
+          "Patrick VIEIRA",
+          "Claude MAKELELE",
+          "Florent MALOUDA",
+          "Zinedine ZIDANE",
+          "Franck RIBÉRY",
+          "Thierry HENRY"
+        ]
+      }
+    }
+  ]
+}

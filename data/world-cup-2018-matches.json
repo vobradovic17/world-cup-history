@@ -1,0 +1,5948 @@
+{
+  "tournament": "FIFA World Cup 2018",
+  "host_country": "Russia",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/2018full.html",
+    "https://www.rsssf.org/tables/2018f.html",
+    "https://fixturedownload.com/results/fifa-world-cup-2018",
+    "https://github.com/openfootball/worldcup.json/blob/master/2018/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "2018-06-14",
+      "stage": "Group A",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "Russia",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "Iury GAZINSKY",
+          "minute": "12"
+        },
+        {
+          "team": "Russia",
+          "player": "Denis CHERYSHEV",
+          "minute": "43"
+        },
+        {
+          "team": "Russia",
+          "player": "Artem DZYUBA",
+          "minute": "71"
+        },
+        {
+          "team": "Russia",
+          "player": "Denis CHERYSHEV",
+          "minute": "90+1"
+        },
+        {
+          "team": "Russia",
+          "player": "Aleksandr GOLOVIN",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Denis CHERYSHEV",
+          "player_off": "Alan DZAGOEV",
+          "minute": "24"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Daler KUZIAEV",
+          "player_off": "Alexander SAMEDOV",
+          "minute": "64"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "FAHAD ALMUWALLAD",
+          "player_off": "ABDULLAH OTAYF",
+          "minute": "64"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Artem DZYUBA",
+          "player_off": "Fedor SMOLOV",
+          "minute": "70"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "HATAN BAHBRI",
+          "player_off": "YAHIA ALSHEHRI",
+          "minute": "72"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MUHANNAD ASIRI",
+          "player_off": "MOHAMMED ALSAHLAWI",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Igor AKINFEEV",
+          "MARIO FERNANDES",
+          "Ilya KUTEPOV",
+          "Sergey IGNASHEVICH",
+          "Yury ZHIRKOV",
+          "Iury GAZINSKY",
+          "Alan DZAGOEV",
+          "Roman ZOBNIN",
+          "Aleksandr GOLOVIN",
+          "Alexander SAMEDOV",
+          "Fedor SMOLOV"
+        ],
+        "away": [
+          "ABDULLAH ALMUAIOUF",
+          "OSAMA HAWSAWI",
+          "OMAR HAWSAWI",
+          "MOHAMMED ALBURAYK",
+          "YASIR ALSHAHRANI",
+          "SALMAN ALFARAJ",
+          "YAHIA ALSHEHRI",
+          "ABDULLAH OTAYF",
+          "TAISEER ALJASSAM",
+          "SALEM ALDAWSARI",
+          "MOHAMMED ALSAHLAWI"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-15",
+      "stage": "Group A",
+      "venue": "Ekaterinburg Stadium",
+      "home_team": "Egypt",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Jose GIMENEZ",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Egypt",
+          "player_on": "SAM MORSY",
+          "player_off": "TAREK HAMED",
+          "minute": "50"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Carlos SANCHEZ",
+          "player_off": "Nahitan NANDEZ",
+          "minute": "58"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Cristian RODRIGUEZ",
+          "player_off": "Giorgian DE ARRASCAETA",
+          "minute": "59"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "KAHRABA",
+          "player_off": "MARWAN MOHSEN",
+          "minute": "63"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "RAMADAN SOBHI",
+          "player_off": "AMR WARDA",
+          "minute": "82"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Lucas TORREIRA",
+          "player_off": "Matias VECINO",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MOHAMED ELSHENAWY",
+          "ALI GABR",
+          "AHMED HEGAZY",
+          "AHMED FATHI",
+          "MOHAMED ABDELSHAFY",
+          "TAREK HAMED",
+          "MOHAMED ELNENY",
+          "ABDALLA SAID",
+          "TREZEGUET",
+          "AMR WARDA",
+          "MARWAN MOHSEN"
+        ],
+        "away": [
+          "Fernando MUSLERA",
+          "Jose GIMENEZ",
+          "Diego GODIN",
+          "Guillermo VARELA",
+          "Martin CACERES",
+          "Rodrigo BENTANCUR",
+          "Nahitan NANDEZ",
+          "Giorgian DE ARRASCAETA",
+          "Matias VECINO",
+          "Luis SUAREZ",
+          "Edinson CAVANI"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-15",
+      "stage": "Group B",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "Morocco",
+      "away_team": "Iran",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Iran",
+          "player": "Aziz BOUHADDOUZ",
+          "minute": "90+5",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Mehdi TAREMI",
+          "player_off": "Masoud SHOJAEI",
+          "minute": "68"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Sofyan AMRABAT",
+          "player_off": "Noureddine AMRABAT",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Aziz BOUHADDOUZ",
+          "player_off": "Ayoub EL KAABI",
+          "minute": "77"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Majid HOSSEINI",
+          "player_off": "Omid EBRAHIMI",
+          "minute": "79"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Manuel DA COSTA",
+          "player_off": "Amine HARIT",
+          "minute": "82"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Saman GHODDOS",
+          "player_off": "Alireza JAHANBAKHSH",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Monir EL KAJOUI",
+          "Achraf HAKIMI",
+          "Mehdi BENATIA",
+          "Romain SAISS",
+          "Noureddine AMRABAT",
+          "Hakim ZIYECH",
+          "Karim EL AHMADI",
+          "Younes BELHANDA",
+          "Mbark BOUSSOUFA",
+          "Amine HARIT",
+          "Ayoub EL KAABI"
+        ],
+        "away": [
+          "Ali BEIRANVAND",
+          "Ehsan HAJI SAFI",
+          "Roozbeh CHESHMI",
+          "Morteza POURALIGANJI",
+          "Ramin REZAEIAN",
+          "Masoud SHOJAEI",
+          "Omid EBRAHIMI",
+          "Karim ANSARIFARD",
+          "Vahid AMIRI",
+          "Alireza JAHANBAKHSH",
+          "Sardar AZMOUN"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-15",
+      "stage": "Group B",
+      "venue": "Fisht Stadium",
+      "city": "Sochi",
+      "home_team": "Portugal",
+      "away_team": "Spain",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "4"
+        },
+        {
+          "team": "Spain",
+          "player": "Diego COSTA",
+          "minute": "24"
+        },
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "44"
+        },
+        {
+          "team": "Spain",
+          "player": "Diego COSTA",
+          "minute": "55"
+        },
+        {
+          "team": "Spain",
+          "player": "NACHO",
+          "minute": "58"
+        },
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "JOAO MARIO",
+          "player_off": "BRUNO FERNANDES",
+          "minute": "68"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RICARDO QUARESMA",
+          "player_off": "BERNARDO SILVA",
+          "minute": "69"
+        },
+        {
+          "team": "Spain",
+          "player_on": "THIAGO",
+          "player_off": "Andres INIESTA",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Iago ASPAS",
+          "player_off": "Diego COSTA",
+          "minute": "77"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "ANDRE SILVA",
+          "player_off": "GONCALO GUEDES",
+          "minute": "80"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Lucas VAZQUEZ",
+          "player_off": "David SILVA",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RUI PATRICIO",
+          "PEPE",
+          "RAPHAEL GUERREIRO",
+          "JOSE FONTE",
+          "CEDRIC",
+          "JOAO MOUTINHO",
+          "BERNARDO SILVA",
+          "WILLIAM",
+          "BRUNO FERNANDES",
+          "CRISTIANO RONALDO",
+          "GONCALO GUEDES"
+        ],
+        "away": [
+          "David DE GEA",
+          "Gerard PIQUE",
+          "NACHO",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "Sergio BUSQUETS",
+          "Andres INIESTA",
+          "KOKE",
+          "David SILVA",
+          "ISCO",
+          "Diego COSTA"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-16",
+      "stage": "Group C",
+      "venue": "Kazan Arena",
+      "home_team": "France",
+      "away_team": "Australia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Antoine GRIEZMANN",
+          "minute": "58"
+        },
+        {
+          "team": "Australia",
+          "player": "Mile JEDINAK",
+          "minute": "62"
+        },
+        {
+          "team": "France",
+          "player": "Paul POGBA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Tomi JURIC",
+          "player_off": "Andrew NABBOUT",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player_on": "Olivier GIROUD",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "70"
+        },
+        {
+          "team": "France",
+          "player_on": "Nabil FEKIR",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "70"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jackson IRVINE",
+          "player_off": "Tom ROGIC",
+          "minute": "72"
+        },
+        {
+          "team": "France",
+          "player_on": "Blaise MATUIDI",
+          "player_off": "Corentin TOLISSO",
+          "minute": "78"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Daniel ARZANI",
+          "player_off": "Robbie KRUSE",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Raphael VARANE",
+          "Samuel UMTITI",
+          "Lucas HERNANDEZ",
+          "Paul POGBA",
+          "Corentin TOLISSO",
+          "Ngolo KANTE",
+          "Antoine GRIEZMANN",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE"
+        ],
+        "away": [
+          "Mathew RYAN",
+          "Mark MILLIGAN",
+          "Aziz BEHICH",
+          "Joshua RISDON",
+          "Trent SAINSBURY",
+          "Mathew LECKIE",
+          "Robbie KRUSE",
+          "Aaron MOOY",
+          "Mile JEDINAK",
+          "Tom ROGIC",
+          "Andrew NABBOUT"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-16",
+      "stage": "Group C",
+      "venue": "Saransk Stadium",
+      "home_team": "Peru",
+      "away_team": "Denmark",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Yussuf Yurary POULSEN",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Lasse SCHONE",
+          "player_off": "William KVIST",
+          "minute": "36"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Paolo GUERRERO",
+          "player_off": "Edison FLORES",
+          "minute": "62"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Martin BRAITHWAITE",
+          "player_off": "Pione SISTO",
+          "minute": "67"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Mathias JORGENSEN",
+          "player_off": "Andreas CHRISTENSEN",
+          "minute": "81"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Raul RUIDIAZ",
+          "player_off": "Jefferson FARFAN",
+          "minute": "85"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Pedro AQUINO",
+          "player_off": "Renato TAPIA",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pedro GALLESE",
+          "Alberto RODRIGUEZ",
+          "Miguel TRAUCO",
+          "Christian RAMOS",
+          "Luis ADVINCULA",
+          "Christian CUEVA",
+          "Renato TAPIA",
+          "Andre CARRILLO",
+          "Yoshimar YOTUN",
+          "Edison FLORES",
+          "Jefferson FARFAN"
+        ],
+        "away": [
+          "Kasper SCHMEICHEL",
+          "Simon KJAER",
+          "Andreas CHRISTENSEN",
+          "Henrik DALSGAARD",
+          "Jens Stryger LARSEN",
+          "William KVIST",
+          "Thomas DELANEY",
+          "Christian ERIKSEN",
+          "Yussuf Yurary POULSEN",
+          "Pione SISTO",
+          "Nicolai JORGENSEN"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-16",
+      "stage": "Group D",
+      "venue": "Otkrytiye Arena",
+      "city": "Moscow",
+      "home_team": "Argentina",
+      "away_team": "Iceland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Sergio AGUERO",
+          "minute": "19"
+        },
+        {
+          "team": "Iceland",
+          "player": "Alfred FINNBOGASON",
+          "minute": "23"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ever BANEGA",
+          "player_off": "Lucas BIGLIA",
+          "minute": "54"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Rurik GISLASON",
+          "player_off": "Johann GUDMUNDSSON",
+          "minute": "63"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Cristian PAVON",
+          "player_off": "Angel DI MARIA",
+          "minute": "75"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Ari SKULASON",
+          "player_off": "Aron GUNNARSSON",
+          "minute": "76"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gonzalo HIGUAIN",
+          "player_off": "Maximiliano MEZA",
+          "minute": "84"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Bjorn SIGURDARSON",
+          "player_off": "Alfred FINNBOGASON",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wilfredo CABALLERO",
+          "Nicolas TAGLIAFICO",
+          "Marcos ROJO",
+          "Nicolas OTAMENDI",
+          "Eduardo SALVIO",
+          "Lucas BIGLIA",
+          "Lionel MESSI",
+          "Angel DI MARIA",
+          "Maximiliano MEZA",
+          "Javier MASCHERANO",
+          "Sergio AGUERO"
+        ],
+        "away": [
+          "Hannes HALLDORSSON",
+          "Birkir SAEVARSSON",
+          "Ragnar SIGURDSSON",
+          "Kari ARNASON",
+          "Hordur MAGNUSSON",
+          "Johann GUDMUNDSSON",
+          "Birkir BJARNASON",
+          "Aron GUNNARSSON",
+          "Emil HALLFREDSSON",
+          "Gylfi SIGURDSSON",
+          "Alfred FINNBOGASON"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-16",
+      "stage": "Group D",
+      "venue": "Kaliningrad Stadium",
+      "home_team": "Croatia",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Oghenekaro ETEBO",
+          "minute": "33",
+          "own_goal": true
+        },
+        {
+          "team": "Croatia",
+          "player": "Luka MODRIC",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Marcelo BROZOVIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "60"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Ahmed MUSA",
+          "player_off": "Alex IWOBI",
+          "minute": "62"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Kelechi IHEANACHO",
+          "player_off": "Odion IGHALO",
+          "minute": "72"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mateo KOVACIC",
+          "player_off": "Ante REBIC",
+          "minute": "78"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Marko PJACA",
+          "player_off": "Mario MANDZUKIC",
+          "minute": "85"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Simeon NWANKWO",
+          "player_off": "John Obi MIKEL",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Danijel SUBASIC",
+          "Sime VRSALJKO",
+          "Ivan STRINIC",
+          "Dejan LOVREN",
+          "Domagoj VIDA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Andrej KRAMARIC",
+          "Luka MODRIC",
+          "Ante REBIC",
+          "Mario MANDZUKIC"
+        ],
+        "away": [
+          "Francis UZOHO",
+          "Bryan IDOWU",
+          "William EKONG",
+          "Leon BALOGUN",
+          "Abdullahi SHEHU",
+          "Wilfred NDIDI",
+          "Oghenekaro ETEBO",
+          "Victor MOSES",
+          "Alex IWOBI",
+          "Odion IGHALO",
+          "John Obi MIKEL"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-17",
+      "stage": "Group E",
+      "venue": "Samara Stadium",
+      "home_team": "Costa Rica",
+      "away_team": "Serbia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Serbia",
+          "player": "Aleksandar KOLAROV",
+          "minute": "56"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Christian BOLANOS",
+          "player_off": "Johan VENEGAS",
+          "minute": "60"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Joel CAMPBELL",
+          "player_off": "Marcos URENA",
+          "minute": "66"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Filip KOSTIC",
+          "player_off": "Adem LJAJIC",
+          "minute": "70"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Daniel COLINDRES",
+          "player_off": "David GUZMAN",
+          "minute": "73"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Antonio RUKAVINA",
+          "player_off": "Dusan TADIC",
+          "minute": "82"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Aleksandar PRIJOVIC",
+          "player_off": "Aleksandar MITROVIC",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Keylor NAVAS",
+          "Johnny ACOSTA",
+          "Giancarlo GONZALEZ",
+          "Oscar DUARTE",
+          "Celso BORGES",
+          "Bryan RUIZ",
+          "Johan VENEGAS",
+          "Francisco CALVO",
+          "Cristian GAMBOA",
+          "David GUZMAN",
+          "Marcos URENA"
+        ],
+        "away": [
+          "Vladimir STOJKOVIC",
+          "Dusko TOSIC",
+          "Branislav IVANOVIC",
+          "Aleksandar KOLAROV",
+          "Nikola MILENKOVIC",
+          "Luka MILIVOJEVIC",
+          "Dusan TADIC",
+          "Sergej MILINKOVIC-SAVIC",
+          "Nemanja MATIC",
+          "Adem LJAJIC",
+          "Aleksandar MITROVIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-17",
+      "stage": "Group F",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "Germany",
+      "away_team": "Mexico",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Hirving LOZANO",
+          "minute": "35"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Edson ALVAREZ",
+          "player_off": "Carlos VELA",
+          "minute": "58"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Marco REUS",
+          "player_off": "Sami KHEDIRA",
+          "minute": "60"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul JIMENEZ",
+          "player_off": "Hirving LOZANO",
+          "minute": "66"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Rafael MARQUEZ",
+          "player_off": "Andres GUARDADO",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Marvin PLATTENHARDT",
+          "minute": "79"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Julian BRANDT",
+          "player_off": "Timo WERNER",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Manuel NEUER",
+          "Marvin PLATTENHARDT",
+          "Mats HUMMELS",
+          "Jerome BOATENG",
+          "Joshua KIMMICH",
+          "Sami KHEDIRA",
+          "Julian DRAXLER",
+          "Toni KROOS",
+          "Mesut OEZIL",
+          "Thomas MUELLER",
+          "Timo WERNER"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Hugo AYALA",
+          "Carlos SALCEDO",
+          "Hector MORENO",
+          "Jesus GALLARDO",
+          "Miguel LAYUN",
+          "Carlos VELA",
+          "Hector HERRERA",
+          "Andres GUARDADO",
+          "Hirving LOZANO",
+          "Javier HERNANDEZ"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-17",
+      "stage": "Group E",
+      "venue": "Rostov-on-Don Stadium",
+      "home_team": "Brazil",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PHILIPPE COUTINHO",
+          "minute": "20"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Steven ZUBER",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "FERNANDINHO",
+          "player_off": "CASEMIRO",
+          "minute": "60"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RENATO AUGUSTO",
+          "player_off": "PAULINHO",
+          "minute": "67"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Denis ZAKARIA",
+          "player_off": "Valon BEHRAMI",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBERTO FIRMINO",
+          "player_off": "GABRIEL JESUS",
+          "minute": "79"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Breel EMBOLO",
+          "player_off": "Haris SEFEROVIC",
+          "minute": "80"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Michael LANG",
+          "player_off": "Stephan LICHTSTEINER",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "THIAGO SILVA",
+          "MIRANDA",
+          "MARCELO",
+          "DANILO",
+          "CASEMIRO",
+          "PHILIPPE COUTINHO",
+          "PAULINHO",
+          "GABRIEL JESUS",
+          "NEYMAR",
+          "WILLIAN"
+        ],
+        "away": [
+          "Yann SOMMER",
+          "Stephan LICHTSTEINER",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Fabian SCHAER",
+          "Granit XHAKA",
+          "Valon BEHRAMI",
+          "Steven ZUBER",
+          "Blerim DZEMAILI",
+          "Xherdan SHAQIRI",
+          "Haris SEFEROVIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-18",
+      "stage": "Group F",
+      "venue": "Nizhny Novgorod Stadium",
+      "home_team": "Sweden",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Andreas GRANQVIST",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "KIM Minwoo",
+          "player_off": "PARK Jooho",
+          "minute": "28"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JUNG Wooyoung",
+          "player_off": "KIM Shinwook",
+          "minute": "66"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Oscar HILJEMARK",
+          "player_off": "Albin EKDAL",
+          "minute": "71"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Seungwoo",
+          "player_off": "KOO Jacheol",
+          "minute": "72"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Isaac Kiese THELIN",
+          "player_off": "Ola TOIVONEN",
+          "minute": "77"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Gustav SVENSSON",
+          "player_off": "Sebastian LARSSON",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Robin OLSEN",
+          "Mikael LUSTIG",
+          "Andreas GRANQVIST",
+          "Ludwig AUGUSTINSSON",
+          "Pontus JANSSON",
+          "Sebastian LARSSON",
+          "Albin EKDAL",
+          "Emil FORSBERG",
+          "Viktor CLAESSON",
+          "Marcus BERG",
+          "Ola TOIVONEN"
+        ],
+        "away": [
+          "JO Hyeonwoo",
+          "LEE Yong",
+          "PARK Jooho",
+          "KIM Younggwon",
+          "JANG Hyunsoo",
+          "KOO Jacheol",
+          "KI Sungyueng",
+          "LEE Jaesung",
+          "SON Heungmin",
+          "KIM Shinwook",
+          "HWANG Heechan"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-18",
+      "stage": "Group G",
+      "venue": "Fisht Stadium",
+      "city": "Sochi",
+      "home_team": "Belgium",
+      "away_team": "Panama",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Dries MERTENS",
+          "minute": "47"
+        },
+        {
+          "team": "Belgium",
+          "player": "Romelu LUKAKU",
+          "minute": "69"
+        },
+        {
+          "team": "Belgium",
+          "player": "Romelu LUKAKU",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Panama",
+          "player_on": "Ismael DIAZ",
+          "player_off": "Jose Luis RODRIGUEZ",
+          "minute": "63"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Gabriel TORRES",
+          "player_off": "Edgar BARCENAS",
+          "minute": "63"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Luis TEJADA",
+          "player_off": "Blas PEREZ",
+          "minute": "73"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Moussa DEMBELE",
+          "player_off": "Yannick CARRASCO",
+          "minute": "74"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Thorgan HAZARD",
+          "player_off": "Dries MERTENS",
+          "minute": "83"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Nacer CHADLI",
+          "player_off": "Axel WITSEL",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Jan VERTONGHEN",
+          "Dedryck BOYATA",
+          "Axel WITSEL",
+          "Kevin DE BRUYNE",
+          "Yannick CARRASCO",
+          "Thomas MEUNIER",
+          "Romelu LUKAKU",
+          "Eden HAZARD",
+          "Dries MERTENS"
+        ],
+        "away": [
+          "Jaime PENEDO",
+          "Michael MURILLO",
+          "Fidel ESCOBAR",
+          "Roman TORRES",
+          "Eric DAVIS",
+          "Gabriel GOMEZ",
+          "Edgar BARCENAS",
+          "Armando COOPER",
+          "Anibal GODOY",
+          "Jose Luis RODRIGUEZ",
+          "Blas PEREZ"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-18",
+      "stage": "Group G",
+      "venue": "Volgograd Stadium",
+      "home_team": "Tunisia",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "11"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Ferjani SASSI",
+          "minute": "35"
+        },
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Farouk BEN MUSTAPHA",
+          "player_off": "Mouez HASSEN",
+          "minute": "15"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Raheem STERLING",
+          "minute": "68"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Mohamed BEN AMOR",
+          "player_off": "Naim SLITI",
+          "minute": "74"
+        },
+        {
+          "team": "England",
+          "player_on": "Ruben LOFTUS-CHEEK",
+          "player_off": "Dele ALLI",
+          "minute": "80"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Saber KHALIFA",
+          "player_off": "Wahbi KHAZRI",
+          "minute": "85"
+        },
+        {
+          "team": "England",
+          "player_on": "Eric DIER",
+          "player_off": "Jesse LINGARD",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mouez HASSEN",
+          "Syam BEN YOUSSEF",
+          "Yassine MERIAH",
+          "Dylan BRONN",
+          "Ali MAALOUL",
+          "Fakhreddine BEN YOUSSEF",
+          "Anice BADRI",
+          "Ferjani SASSI",
+          "Ellyes SKHIRI",
+          "Naim SLITI",
+          "Wahbi KHAZRI"
+        ],
+        "away": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Jesse LINGARD",
+          "Jordan HENDERSON",
+          "Kieran TRIPPIER",
+          "Ashley YOUNG",
+          "Dele ALLI",
+          "Harry KANE",
+          "Raheem STERLING"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-19",
+      "stage": "Group H",
+      "venue": "Otkrytiye Arena",
+      "city": "Moscow",
+      "home_team": "Poland",
+      "away_team": "Senegal",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Senegal",
+          "player": "Thiago CIONEK",
+          "minute": "37",
+          "own_goal": true
+        },
+        {
+          "team": "Senegal",
+          "player": "Mbaye NIANG",
+          "minute": "61"
+        },
+        {
+          "team": "Poland",
+          "player": "Grzegorz KRYCHOWIAK",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Jan BEDNAREK",
+          "player_off": "Jakub BLASZCZYKOWSKI",
+          "minute": "46"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikh NDOYE",
+          "player_off": "Mame DIOUF",
+          "minute": "62"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Dawid KOWNACKI",
+          "player_off": "Arkadiusz MILIK",
+          "minute": "73"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Moussa KONATE",
+          "player_off": "Mbaye NIANG",
+          "minute": "75"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Bartosz BERESZYNSKI",
+          "player_off": "Lukasz PISZCZEK",
+          "minute": "83"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikhou KOUYATE",
+          "player_off": "Alfred NDIAYE",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wojciech SZCZESNY",
+          "Michal PAZDAN",
+          "Thiago CIONEK",
+          "Maciej RYBUS",
+          "Lukasz PISZCZEK",
+          "Grzegorz KRYCHOWIAK",
+          "Kamil GROSICKI",
+          "Jakub BLASZCZYKOWSKI",
+          "Piotr ZIELINSKI",
+          "Arkadiusz MILIK",
+          "Robert LEWANDOWSKI"
+        ],
+        "away": [
+          "Khadim NDIAYE",
+          "Kalidou KOULIBALY",
+          "Salif SANE",
+          "Youssouf SABALY",
+          "Moussa WAGUE",
+          "Idrissa Gana GUEYE",
+          "Sadio MANE",
+          "Alfred NDIAYE",
+          "Ismaila SARR",
+          "Mame DIOUF",
+          "Mbaye NIANG"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-19",
+      "stage": "Group H",
+      "venue": "Saransk Stadium",
+      "home_team": "Colombia",
+      "away_team": "Japan",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Shinji KAGAWA",
+          "minute": "6"
+        },
+        {
+          "team": "Colombia",
+          "player": "Juan QUINTERO",
+          "minute": "39"
+        },
+        {
+          "team": "Japan",
+          "player": "Yuya OSAKO",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Wilmar BARRIOS",
+          "player_off": "Juan CUADRADO",
+          "minute": "31"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "James RODRIGUEZ",
+          "player_off": "Juan QUINTERO",
+          "minute": "59"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Carlos BACCA",
+          "player_off": "Jose IZQUIERDO",
+          "minute": "70"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Keisuke HONDA",
+          "player_off": "Shinji KAGAWA",
+          "minute": "70"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hotaru YAMAGUCHI",
+          "player_off": "Gaku SHIBASAKI",
+          "minute": "80"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji OKAZAKI",
+          "player_off": "Yuya OSAKO",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David OSPINA",
+          "Oscar MURILLO",
+          "Santiago ARIAS",
+          "Johan MOJICA",
+          "Davinson SANCHEZ",
+          "Carlos SANCHEZ",
+          "Juan CUADRADO",
+          "Jefferson LERMA",
+          "Juan QUINTERO",
+          "Jose IZQUIERDO",
+          "Radamel FALCAO"
+        ],
+        "away": [
+          "Eiji KAWASHIMA",
+          "Gen SHOJI",
+          "Yuto NAGATOMO",
+          "Hiroki SAKAI",
+          "Maya YOSHIDA",
+          "Gaku SHIBASAKI",
+          "Genki HARAGUCHI",
+          "Shinji KAGAWA",
+          "Takashi INUI",
+          "Makoto HASEBE",
+          "Yuya OSAKO"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-19",
+      "stage": "Group A",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "Russia",
+      "away_team": "Egypt",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "AHMED FATHI",
+          "minute": "47",
+          "own_goal": true
+        },
+        {
+          "team": "Russia",
+          "player": "Denis CHERYSHEV",
+          "minute": "59"
+        },
+        {
+          "team": "Russia",
+          "player": "Artem DZYUBA",
+          "minute": "62"
+        },
+        {
+          "team": "Egypt",
+          "player": "MOHAMED SALAH",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Egypt",
+          "player_on": "AMR WARDA",
+          "player_off": "MOHAMED ELNENY",
+          "minute": "64"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "RAMADAN SOBHI",
+          "player_off": "TREZEGUET",
+          "minute": "68"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Daler KUZIAEV",
+          "player_off": "Denis CHERYSHEV",
+          "minute": "74"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Fedor SMOLOV",
+          "player_off": "Artem DZYUBA",
+          "minute": "79"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "KAHRABA",
+          "player_off": "MARWAN MOHSEN",
+          "minute": "82"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Fedor KUDRIASHOV",
+          "player_off": "Yury ZHIRKOV",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Igor AKINFEEV",
+          "MARIO FERNANDES",
+          "Ilya KUTEPOV",
+          "Sergey IGNASHEVICH",
+          "Yury ZHIRKOV",
+          "Denis CHERYSHEV",
+          "Iury GAZINSKY",
+          "Roman ZOBNIN",
+          "Aleksandr GOLOVIN",
+          "Alexander SAMEDOV",
+          "Artem DZYUBA"
+        ],
+        "away": [
+          "MOHAMED ELSHENAWY",
+          "ALI GABR",
+          "AHMED HEGAZY",
+          "AHMED FATHI",
+          "MOHAMED ABDELSHAFY",
+          "TAREK HAMED",
+          "MOHAMED SALAH",
+          "MOHAMED ELNENY",
+          "ABDALLA SAID",
+          "TREZEGUET",
+          "MARWAN MOHSEN"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-20",
+      "stage": "Group A",
+      "venue": "Rostov-on-Don Stadium",
+      "home_team": "Uruguay",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "23"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "HUSSAIN ALMOQAHWI",
+          "player_off": "TAISEER ALJASSAM",
+          "minute": "44"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Diego LAXALT",
+          "player_off": "Cristian RODRIGUEZ",
+          "minute": "59"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Lucas TORREIRA",
+          "player_off": "Matias VECINO",
+          "minute": "59"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MOHAMED KANNO",
+          "player_off": "HATAN BAHBRI",
+          "minute": "75"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MOHAMMED ALSAHLAWI",
+          "player_off": "FAHAD ALMUWALLAD",
+          "minute": "78"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Nahitan NANDEZ",
+          "player_off": "Carlos SANCHEZ",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Jose GIMENEZ",
+          "Diego GODIN",
+          "Guillermo VARELA",
+          "Martin CACERES",
+          "Carlos SANCHEZ",
+          "Rodrigo BENTANCUR",
+          "Cristian RODRIGUEZ",
+          "Matias VECINO",
+          "Luis SUAREZ",
+          "Edinson CAVANI"
+        ],
+        "away": [
+          "MOHAMMED ALOWAIS",
+          "OSAMA HAWSAWI",
+          "ALI AL BULAYHI",
+          "MOHAMMED ALBURAYK",
+          "YASIR ALSHAHRANI",
+          "SALMAN ALFARAJ",
+          "HATAN BAHBRI",
+          "ABDULLAH OTAYF",
+          "TAISEER ALJASSAM",
+          "SALEM ALDAWSARI",
+          "FAHAD ALMUWALLAD"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-20",
+      "stage": "Group B",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "Portugal",
+      "away_team": "Morocco",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "GELSON MARTINS",
+          "player_off": "BERNARDO SILVA",
+          "minute": "59"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ayoub EL KAABI",
+          "player_off": "Khalid BOUTAIB",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "BRUNO FERNANDES",
+          "player_off": "JOAO MARIO",
+          "minute": "70"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Mehdi CARCELA",
+          "player_off": "Younes BELHANDA",
+          "minute": "75"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Faycal FAJR",
+          "player_off": "Karim EL AHMADI",
+          "minute": "86"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "ADRIEN SILVA",
+          "player_off": "JOAO MOUTINHO",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "RUI PATRICIO",
+          "PEPE",
+          "RAPHAEL GUERREIRO",
+          "JOSE FONTE",
+          "CEDRIC",
+          "JOAO MOUTINHO",
+          "JOAO MARIO",
+          "BERNARDO SILVA",
+          "WILLIAM",
+          "CRISTIANO RONALDO",
+          "GONCALO GUEDES"
+        ],
+        "away": [
+          "Monir EL KAJOUI",
+          "Achraf HAKIMI",
+          "Manuel DA COSTA",
+          "Mehdi BENATIA",
+          "Nabil DIRAR",
+          "Hakim ZIYECH",
+          "Karim EL AHMADI",
+          "Younes BELHANDA",
+          "Mbark BOUSSOUFA",
+          "Noureddine AMRABAT",
+          "Khalid BOUTAIB"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-20",
+      "stage": "Group B",
+      "venue": "Kazan Arena",
+      "home_team": "Iran",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Diego COSTA",
+          "minute": "54"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Milad MOHAMMADI",
+          "player_off": "Ehsan HAJI SAFI",
+          "minute": "69"
+        },
+        {
+          "team": "Spain",
+          "player_on": "KOKE",
+          "player_off": "Andres INIESTA",
+          "minute": "71"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Alireza JAHANBAKHSH",
+          "player_off": "Karim ANSARIFARD",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Marco ASENSIO",
+          "player_off": "Lucas VAZQUEZ",
+          "minute": "79"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Saman GHODDOS",
+          "player_off": "Vahid AMIRI",
+          "minute": "86"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RODRIGO",
+          "player_off": "Diego COSTA",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ali BEIRANVAND",
+          "Ehsan HAJI SAFI",
+          "Morteza POURALIGANJI",
+          "Majid HOSSEINI",
+          "Ramin REZAEIAN",
+          "Saeid EZATOLAHI",
+          "Omid EBRAHIMI",
+          "Karim ANSARIFARD",
+          "Vahid AMIRI",
+          "Mehdi TAREMI",
+          "Sardar AZMOUN"
+        ],
+        "away": [
+          "David DE GEA",
+          "Dani CARVAJAL",
+          "Gerard PIQUE",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "Sergio BUSQUETS",
+          "Andres INIESTA",
+          "Lucas VAZQUEZ",
+          "David SILVA",
+          "ISCO",
+          "Diego COSTA"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-21",
+      "stage": "Group C",
+      "venue": "Samara Stadium",
+      "home_team": "Denmark",
+      "away_team": "Australia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Christian ERIKSEN",
+          "minute": "7"
+        },
+        {
+          "team": "Australia",
+          "player": "Mile JEDINAK",
+          "minute": "38"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Martin BRAITHWAITE",
+          "player_off": "Yussuf Yurary POULSEN",
+          "minute": "59"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Andreas CORNELIUS",
+          "player_off": "Nicolai JORGENSEN",
+          "minute": "68"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Daniel ARZANI",
+          "player_off": "Robbie KRUSE",
+          "minute": "68"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Tomi JURIC",
+          "player_off": "Andrew NABBOUT",
+          "minute": "75"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jackson IRVINE",
+          "player_off": "Tom ROGIC",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kasper SCHMEICHEL",
+          "Simon KJAER",
+          "Andreas CHRISTENSEN",
+          "Henrik DALSGAARD",
+          "Jens Stryger LARSEN",
+          "Thomas DELANEY",
+          "Christian ERIKSEN",
+          "Lasse SCHONE",
+          "Yussuf Yurary POULSEN",
+          "Pione SISTO",
+          "Nicolai JORGENSEN"
+        ],
+        "away": [
+          "Mathew RYAN",
+          "Mark MILLIGAN",
+          "Aziz BEHICH",
+          "Joshua RISDON",
+          "Trent SAINSBURY",
+          "Mathew LECKIE",
+          "Robbie KRUSE",
+          "Aaron MOOY",
+          "Mile JEDINAK",
+          "Tom ROGIC",
+          "Andrew NABBOUT"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-21",
+      "stage": "Group C",
+      "venue": "Ekaterinburg Stadium",
+      "home_team": "France",
+      "away_team": "Peru",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "34"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Jefferson FARFAN",
+          "player_off": "Yoshimar YOTUN",
+          "minute": "46"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Anderson SANTAMARIA",
+          "player_off": "Alberto RODRIGUEZ",
+          "minute": "46"
+        },
+        {
+          "team": "France",
+          "player_on": "Ousmane DEMBELE",
+          "player_off": "Kylian MBAPPE",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Nabil FEKIR",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "80"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Raul RUIDIAZ",
+          "player_off": "Christian CUEVA",
+          "minute": "82"
+        },
+        {
+          "team": "France",
+          "player_on": "Steven NZONZI",
+          "player_off": "Paul POGBA",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Raphael VARANE",
+          "Samuel UMTITI",
+          "Lucas HERNANDEZ",
+          "Paul POGBA",
+          "Antoine GRIEZMANN",
+          "Kylian MBAPPE",
+          "Ngolo KANTE",
+          "Blaise MATUIDI",
+          "Olivier GIROUD"
+        ],
+        "away": [
+          "Pedro GALLESE",
+          "Alberto RODRIGUEZ",
+          "Miguel TRAUCO",
+          "Christian RAMOS",
+          "Luis ADVINCULA",
+          "Christian CUEVA",
+          "Andre CARRILLO",
+          "Yoshimar YOTUN",
+          "Edison FLORES",
+          "Pedro AQUINO",
+          "Paolo GUERRERO"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-21",
+      "stage": "Group D",
+      "venue": "Nizhny Novgorod Stadium",
+      "home_team": "Argentina",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Ante REBIC",
+          "minute": "53"
+        },
+        {
+          "team": "Croatia",
+          "player": "Luka MODRIC",
+          "minute": "80"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan RAKITIC",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Gonzalo HIGUAIN",
+          "player_off": "Sergio AGUERO",
+          "minute": "54"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Cristian PAVON",
+          "player_off": "Eduardo SALVIO",
+          "minute": "56"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Andrej KRAMARIC",
+          "player_off": "Ante REBIC",
+          "minute": "57"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Paulo DYBALA",
+          "player_off": "Enzo PEREZ",
+          "minute": "68"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mateo KOVACIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "82"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Vedran CORLUKA",
+          "player_off": "Mario MANDZUKIC",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wilfredo CABALLERO",
+          "Gabriel MERCADO",
+          "Nicolas TAGLIAFICO",
+          "Nicolas OTAMENDI",
+          "Marcos ACUNA",
+          "Javier MASCHERANO",
+          "Enzo PEREZ",
+          "Eduardo SALVIO",
+          "Lionel MESSI",
+          "Maximiliano MEZA",
+          "Sergio AGUERO"
+        ],
+        "away": [
+          "Danijel SUBASIC",
+          "Sime VRSALJKO",
+          "Ivan STRINIC",
+          "Dejan LOVREN",
+          "Domagoj VIDA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ante REBIC",
+          "Mario MANDZUKIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-22",
+      "stage": "Group E",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "Brazil",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PHILIPPE COUTINHO",
+          "minute": "90+1"
+        },
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "90+7"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "DOUGLAS COSTA",
+          "player_off": "WILLIAN",
+          "minute": "46"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Christian BOLANOS",
+          "player_off": "Marcos URENA",
+          "minute": "54"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBERTO FIRMINO",
+          "player_off": "PAULINHO",
+          "minute": "68"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Francisco CALVO",
+          "player_off": "Cristian GAMBOA",
+          "minute": "75"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Yeltsin TEJEDA",
+          "player_off": "David GUZMAN",
+          "minute": "83"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "FERNANDINHO",
+          "player_off": "GABRIEL JESUS",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "THIAGO SILVA",
+          "MIRANDA",
+          "MARCELO",
+          "FAGNER",
+          "CASEMIRO",
+          "PHILIPPE COUTINHO",
+          "PAULINHO",
+          "GABRIEL JESUS",
+          "NEYMAR",
+          "WILLIAN"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Johnny ACOSTA",
+          "Giancarlo GONZALEZ",
+          "Oscar DUARTE",
+          "Celso BORGES",
+          "Bryan OVIEDO",
+          "Bryan RUIZ",
+          "Johan VENEGAS",
+          "Cristian GAMBOA",
+          "David GUZMAN",
+          "Marcos URENA"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-22",
+      "stage": "Group D",
+      "venue": "Volgograd Stadium",
+      "home_team": "Nigeria",
+      "away_team": "Iceland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Ahmed MUSA",
+          "minute": "49"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Ahmed MUSA",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Tyronne EBUEHI",
+          "player_off": "Bryan IDOWU",
+          "minute": "46"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Sverrir INGASON",
+          "player_off": "Ragnar SIGURDSSON",
+          "minute": "65"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Bjorn SIGURDARSON",
+          "player_off": "Jon BODVARSSON",
+          "minute": "71"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Odion IGHALO",
+          "player_off": "Kelechi IHEANACHO",
+          "minute": "85"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Ari SKULASON",
+          "player_off": "Aron GUNNARSSON",
+          "minute": "87"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Alex IWOBI",
+          "player_off": "Oghenekaro ETEBO",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Francis UZOHO",
+          "William EKONG",
+          "Leon BALOGUN",
+          "Kenneth OMERUO",
+          "Bryan IDOWU",
+          "Wilfred NDIDI",
+          "Oghenekaro ETEBO",
+          "John Obi MIKEL",
+          "Victor MOSES",
+          "Ahmed MUSA",
+          "Kelechi IHEANACHO"
+        ],
+        "away": [
+          "Hannes HALLDORSSON",
+          "Birkir SAEVARSSON",
+          "Ragnar SIGURDSSON",
+          "Kari ARNASON",
+          "Hordur MAGNUSSON",
+          "Birkir BJARNASON",
+          "Gylfi SIGURDSSON",
+          "Aron GUNNARSSON",
+          "Rurik GISLASON",
+          "Alfred FINNBOGASON",
+          "Jon BODVARSSON"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-22",
+      "stage": "Group E",
+      "venue": "Kaliningrad Stadium",
+      "home_team": "Serbia",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Serbia",
+          "player": "Aleksandar MITROVIC",
+          "minute": "5"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Granit XHAKA",
+          "minute": "52"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Xherdan SHAQIRI",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Mario GAVRANOVIC",
+          "player_off": "Haris SEFEROVIC",
+          "minute": "46"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Adem LJAJIC",
+          "player_off": "Filip KOSTIC",
+          "minute": "65"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Breel EMBOLO",
+          "player_off": "Blerim DZEMAILI",
+          "minute": "73"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja RADONJIC",
+          "player_off": "Luka MILIVOJEVIC",
+          "minute": "81"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Josip DRMIC",
+          "player_off": "Steven ZUBER",
+          "minute": "90+4"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vladimir STOJKOVIC",
+          "Dusko TOSIC",
+          "Branislav IVANOVIC",
+          "Aleksandar KOLAROV",
+          "Nikola MILENKOVIC",
+          "Luka MILIVOJEVIC",
+          "Dusan TADIC",
+          "Filip KOSTIC",
+          "Sergej MILINKOVIC-SAVIC",
+          "Nemanja MATIC",
+          "Aleksandar MITROVIC"
+        ],
+        "away": [
+          "Yann SOMMER",
+          "Stephan LICHTSTEINER",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Fabian SCHAER",
+          "Granit XHAKA",
+          "Valon BEHRAMI",
+          "Steven ZUBER",
+          "Blerim DZEMAILI",
+          "Xherdan SHAQIRI",
+          "Haris SEFEROVIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-23",
+      "stage": "Group G",
+      "venue": "Otkrytiye Arena",
+      "city": "Moscow",
+      "home_team": "Belgium",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Eden HAZARD",
+          "minute": "6"
+        },
+        {
+          "team": "Belgium",
+          "player": "Romelu LUKAKU",
+          "minute": "16"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Dylan BRONN",
+          "minute": "18"
+        },
+        {
+          "team": "Belgium",
+          "player": "Romelu LUKAKU",
+          "minute": "45+3"
+        },
+        {
+          "team": "Belgium",
+          "player": "Eden HAZARD",
+          "minute": "51"
+        },
+        {
+          "team": "Belgium",
+          "player": "Michy BATSHUAYI",
+          "minute": "90"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Wahbi KHAZRI",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Hamdi NAGUEZ",
+          "player_off": "Dylan BRONN",
+          "minute": "24"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Yohan BEN ALOUANE",
+          "player_off": "Syam BEN YOUSSEF",
+          "minute": "41"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Marouane FELLAINI",
+          "player_off": "Romelu LUKAKU",
+          "minute": "59"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Naim SLITI",
+          "player_off": "Ferjani SASSI",
+          "minute": "59"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Michy BATSHUAYI",
+          "player_off": "Eden HAZARD",
+          "minute": "68"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Youri TIELEMANS",
+          "player_off": "Dries MERTENS",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Jan VERTONGHEN",
+          "Dedryck BOYATA",
+          "Axel WITSEL",
+          "Kevin DE BRUYNE",
+          "Yannick CARRASCO",
+          "Thomas MEUNIER",
+          "Romelu LUKAKU",
+          "Eden HAZARD",
+          "Dries MERTENS"
+        ],
+        "away": [
+          "Farouk BEN MUSTAPHA",
+          "Syam BEN YOUSSEF",
+          "Yassine MERIAH",
+          "Dylan BRONN",
+          "Ali MAALOUL",
+          "Saifeddine KHAOUI",
+          "Fakhreddine BEN YOUSSEF",
+          "Anice BADRI",
+          "Ferjani SASSI",
+          "Ellyes SKHIRI",
+          "Wahbi KHAZRI"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-23",
+      "stage": "Group F",
+      "venue": "Rostov-on-Don Stadium",
+      "home_team": "South Korea",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Carlos VELA",
+          "minute": "26"
+        },
+        {
+          "team": "Mexico",
+          "player": "Javier HERNANDEZ",
+          "minute": "66"
+        },
+        {
+          "team": "South Korea",
+          "player": "SON Heungmin",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "LEE Seungwoo",
+          "player_off": "JU Sejong",
+          "minute": "64"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Rafael MARQUEZ",
+          "player_off": "Andres GUARDADO",
+          "minute": "68"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jesus CORONA",
+          "player_off": "Hirving LOZANO",
+          "minute": "71"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JUNG Wooyoung",
+          "player_off": "MOON Seonmin",
+          "minute": "77"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Giovani DOS SANTOS",
+          "player_off": "Carlos VELA",
+          "minute": "77"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HONG Chul",
+          "player_off": "KIM Minwoo",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JO Hyeonwoo",
+          "LEE Yong",
+          "KIM Minwoo",
+          "KIM Younggwon",
+          "JANG Hyunsoo",
+          "JU Sejong",
+          "HWANG Heechan",
+          "KI Sungyueng",
+          "LEE Jaesung",
+          "MOON Seonmin",
+          "SON Heungmin"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Carlos SALCEDO",
+          "Hector MORENO",
+          "Edson ALVAREZ",
+          "Jesus GALLARDO",
+          "Miguel LAYUN",
+          "Carlos VELA",
+          "Hector HERRERA",
+          "Andres GUARDADO",
+          "Hirving LOZANO",
+          "Javier HERNANDEZ"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-23",
+      "stage": "Group F",
+      "venue": "Fisht Stadium",
+      "city": "Sochi",
+      "home_team": "Germany",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Ola TOIVONEN",
+          "minute": "32"
+        },
+        {
+          "team": "Germany",
+          "player": "Marco REUS",
+          "minute": "48"
+        },
+        {
+          "team": "Germany",
+          "player": "Toni KROOS",
+          "minute": "90+5"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Ilkay GUENDOGAN",
+          "player_off": "Sebastian RUDY",
+          "minute": "31"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Julian DRAXLER",
+          "minute": "46"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Jimmy DURMAZ",
+          "player_off": "Viktor CLAESSON",
+          "minute": "74"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "John GUIDETTI",
+          "player_off": "Ola TOIVONEN",
+          "minute": "78"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Julian BRANDT",
+          "player_off": "Jonas HECTOR",
+          "minute": "87"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Isaac Kiese THELIN",
+          "player_off": "Marcus BERG",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Manuel NEUER",
+          "Jonas HECTOR",
+          "Antonio RUEDIGER",
+          "Jerome BOATENG",
+          "Joshua KIMMICH",
+          "Julian DRAXLER",
+          "Toni KROOS",
+          "Marco REUS",
+          "Thomas MUELLER",
+          "Sebastian RUDY",
+          "Timo WERNER"
+        ],
+        "away": [
+          "Robin OLSEN",
+          "Mikael LUSTIG",
+          "Victor LINDELOF",
+          "Andreas GRANQVIST",
+          "Ludwig AUGUSTINSSON",
+          "Sebastian LARSSON",
+          "Albin EKDAL",
+          "Emil FORSBERG",
+          "Viktor CLAESSON",
+          "Marcus BERG",
+          "Ola TOIVONEN"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-24",
+      "stage": "Group G",
+      "venue": "Nizhny Novgorod Stadium",
+      "home_team": "England",
+      "away_team": "Panama",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "John STONES",
+          "minute": "8"
+        },
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "22"
+        },
+        {
+          "team": "England",
+          "player": "Jesse LINGARD",
+          "minute": "36"
+        },
+        {
+          "team": "England",
+          "player": "John STONES",
+          "minute": "40"
+        },
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "45+1"
+        },
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "62"
+        },
+        {
+          "team": "Panama",
+          "player": "Felipe BALOY",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Jamie VARDY",
+          "player_off": "Harry KANE",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Fabian DELPH",
+          "player_off": "Jesse LINGARD",
+          "minute": "63"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Ricardo AVILA",
+          "player_off": "Anibal GODOY",
+          "minute": "64"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Abdiel ARROYO",
+          "player_off": "Edgar BARCENAS",
+          "minute": "69"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Felipe BALOY",
+          "player_off": "Gabriel GOMEZ",
+          "minute": "69"
+        },
+        {
+          "team": "England",
+          "player_on": "Danny ROSE",
+          "player_off": "Kieran TRIPPIER",
+          "minute": "70"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Jesse LINGARD",
+          "Jordan HENDERSON",
+          "Kieran TRIPPIER",
+          "Ashley YOUNG",
+          "Ruben LOFTUS-CHEEK",
+          "Harry KANE",
+          "Raheem STERLING"
+        ],
+        "away": [
+          "Jaime PENEDO",
+          "Michael MURILLO",
+          "Fidel ESCOBAR",
+          "Roman TORRES",
+          "Eric DAVIS",
+          "Gabriel GOMEZ",
+          "Edgar BARCENAS",
+          "Armando COOPER",
+          "Anibal GODOY",
+          "Jose Luis RODRIGUEZ",
+          "Blas PEREZ"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-24",
+      "stage": "Group H",
+      "venue": "Ekaterinburg Stadium",
+      "home_team": "Japan",
+      "away_team": "Senegal",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Senegal",
+          "player": "Sadio MANE",
+          "minute": "12"
+        },
+        {
+          "team": "Japan",
+          "player": "Takashi INUI",
+          "minute": "34"
+        },
+        {
+          "team": "Senegal",
+          "player": "Moussa WAGUE",
+          "minute": "71"
+        },
+        {
+          "team": "Japan",
+          "player": "Keisuke HONDA",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Senegal",
+          "player_on": "Cheikhou KOUYATE",
+          "player_off": "Alfred NDIAYE",
+          "minute": "65"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Keisuke HONDA",
+          "player_off": "Shinji KAGAWA",
+          "minute": "72"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji OKAZAKI",
+          "player_off": "Genki HARAGUCHI",
+          "minute": "75"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikh NDOYE",
+          "player_off": "Pape Alioune NDIAYE",
+          "minute": "81"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Mame DIOUF",
+          "player_off": "Mbaye NIANG",
+          "minute": "86"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takashi USAMI",
+          "player_off": "Takashi INUI",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Eiji KAWASHIMA",
+          "Gen SHOJI",
+          "Yuto NAGATOMO",
+          "Hiroki SAKAI",
+          "Maya YOSHIDA",
+          "Gaku SHIBASAKI",
+          "Genki HARAGUCHI",
+          "Shinji KAGAWA",
+          "Takashi INUI",
+          "Makoto HASEBE",
+          "Yuya OSAKO"
+        ],
+        "away": [
+          "Khadim NDIAYE",
+          "Kalidou KOULIBALY",
+          "Salif SANE",
+          "Youssouf SABALY",
+          "Moussa WAGUE",
+          "Idrissa Gana GUEYE",
+          "Sadio MANE",
+          "Alfred NDIAYE",
+          "Pape Alioune NDIAYE",
+          "Ismaila SARR",
+          "Mbaye NIANG"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-24",
+      "stage": "Group H",
+      "venue": "Kazan Arena",
+      "home_team": "Poland",
+      "away_team": "Colombia",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Yerry MINA",
+          "minute": "40"
+        },
+        {
+          "team": "Colombia",
+          "player": "Radamel FALCAO",
+          "minute": "70"
+        },
+        {
+          "team": "Colombia",
+          "player": "Juan CUADRADO",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Mateus URIBE",
+          "player_off": "Abel AGUILAR",
+          "minute": "32"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Kamil GROSICKI",
+          "player_off": "Dawid KOWNACKI",
+          "minute": "57"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Lukasz TEODORCZYK",
+          "player_off": "Bartosz BERESZYNSKI",
+          "minute": "72"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Jefferson LERMA",
+          "player_off": "Juan QUINTERO",
+          "minute": "73"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Carlos BACCA",
+          "player_off": "Radamel FALCAO",
+          "minute": "78"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Kamil GLIK",
+          "player_off": "Michal PAZDAN",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wojciech SZCZESNY",
+          "Michal PAZDAN",
+          "Jan BEDNAREK",
+          "Lukasz PISZCZEK",
+          "Jacek GORALSKI",
+          "Grzegorz KRYCHOWIAK",
+          "Maciej RYBUS",
+          "Bartosz BERESZYNSKI",
+          "Robert LEWANDOWSKI",
+          "Piotr ZIELINSKI",
+          "Dawid KOWNACKI"
+        ],
+        "away": [
+          "David OSPINA",
+          "Santiago ARIAS",
+          "Yerry MINA",
+          "Johan MOJICA",
+          "Davinson SANCHEZ",
+          "Wilmar BARRIOS",
+          "Abel AGUILAR",
+          "James RODRIGUEZ",
+          "Juan CUADRADO",
+          "Juan QUINTERO",
+          "Radamel FALCAO"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-25",
+      "stage": "Group A",
+      "venue": "Samara Stadium",
+      "home_team": "Uruguay",
+      "away_team": "Russia",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Luis SUAREZ",
+          "minute": "10"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Denis CHERYSHEV",
+          "minute": "23",
+          "own_goal": true
+        },
+        {
+          "team": "Uruguay",
+          "player": "Edinson CAVANI",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "MARIO FERNANDES",
+          "player_off": "Denis CHERYSHEV",
+          "minute": "38"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Daler KUZIAEV",
+          "player_off": "Iury GAZINSKY",
+          "minute": "46"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Fedor SMOLOV",
+          "player_off": "Alexey MIRANCHUK",
+          "minute": "60"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Giorgian DE ARRASCAETA",
+          "player_off": "Rodrigo BENTANCUR",
+          "minute": "63"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Cristian RODRIGUEZ",
+          "player_off": "Nahitan NANDEZ",
+          "minute": "73"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Maximiliano GOMEZ",
+          "player_off": "Edinson CAVANI",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Diego GODIN",
+          "Diego LAXALT",
+          "Sebastian COATES",
+          "Martin CACERES",
+          "Rodrigo BENTANCUR",
+          "Nahitan NANDEZ",
+          "Lucas TORREIRA",
+          "Matias VECINO",
+          "Luis SUAREZ",
+          "Edinson CAVANI"
+        ],
+        "away": [
+          "Igor AKINFEEV",
+          "Ilya KUTEPOV",
+          "Sergey IGNASHEVICH",
+          "Fedor KUDRIASHOV",
+          "Igor SMOLNIKOV",
+          "Denis CHERYSHEV",
+          "Iury GAZINSKY",
+          "Roman ZOBNIN",
+          "Alexey MIRANCHUK",
+          "Alexander SAMEDOV",
+          "Artem DZYUBA"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-25",
+      "stage": "Group A",
+      "venue": "Volgograd Stadium",
+      "home_team": "Saudi Arabia",
+      "away_team": "Egypt",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Egypt",
+          "player": "MOHAMED SALAH",
+          "minute": "22"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "SALMAN ALFARAJ",
+          "minute": "45+6"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "SALEM ALDAWSARI",
+          "minute": "90+5"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Egypt",
+          "player_on": "AMR WARDA",
+          "player_off": "ABDALLA SAID",
+          "minute": "45+7"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "RAMADAN SOBHI",
+          "player_off": "MARWAN MOHSEN",
+          "minute": "64"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MUHANNAD ASIRI",
+          "player_off": "HATAN BAHBRI",
+          "minute": "65"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "YAHIA ALSHEHRI",
+          "player_off": "FAHAD ALMUWALLAD",
+          "minute": "79"
+        },
+        {
+          "team": "Egypt",
+          "player_on": "KAHRABA",
+          "player_off": "TREZEGUET",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "YASSER ALMOSAILEM",
+          "OSAMA HAWSAWI",
+          "MOHAMMED ALBURAYK",
+          "YASIR ALSHAHRANI",
+          "MOTAZ HAWSAWI",
+          "SALMAN ALFARAJ",
+          "HATAN BAHBRI",
+          "ABDULLAH OTAYF",
+          "HUSSAIN ALMOQAHWI",
+          "SALEM ALDAWSARI",
+          "FAHAD ALMUWALLAD"
+        ],
+        "away": [
+          "ESSAM ELHADARY",
+          "ALI GABR",
+          "AHMED HEGAZY",
+          "AHMED FATHI",
+          "MOHAMED ABDELSHAFY",
+          "TAREK HAMED",
+          "MOHAMED ELNENY",
+          "ABDALLA SAID",
+          "TREZEGUET",
+          "MARWAN MOHSEN",
+          "MOHAMED SALAH"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-25",
+      "stage": "Group B",
+      "venue": "Saransk Stadium",
+      "home_team": "Iran",
+      "away_team": "Portugal",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "RICARDO QUARESMA",
+          "minute": "45"
+        },
+        {
+          "team": "Iran",
+          "player": "Karim ANSARIFARD",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Milad MOHAMMADI",
+          "player_off": "Ehsan HAJI SAFI",
+          "minute": "56"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Saman GHODDOS",
+          "player_off": "Alireza JAHANBAKHSH",
+          "minute": "70"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "BERNARDO SILVA",
+          "player_off": "RICARDO QUARESMA",
+          "minute": "70"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Karim ANSARIFARD",
+          "player_off": "Saeid EZATOLAHI",
+          "minute": "76"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JOAO MOUTINHO",
+          "player_off": "JOAO MARIO",
+          "minute": "84"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "GONCALO GUEDES",
+          "player_off": "ANDRE SILVA",
+          "minute": "90+6"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ali BEIRANVAND",
+          "Ehsan HAJI SAFI",
+          "Morteza POURALIGANJI",
+          "Majid HOSSEINI",
+          "Ramin REZAEIAN",
+          "Saeid EZATOLAHI",
+          "Omid EBRAHIMI",
+          "Vahid AMIRI",
+          "Mehdi TAREMI",
+          "Alireza JAHANBAKHSH",
+          "Sardar AZMOUN"
+        ],
+        "away": [
+          "RUI PATRICIO",
+          "PEPE",
+          "RAPHAEL GUERREIRO",
+          "JOSE FONTE",
+          "CEDRIC",
+          "JOAO MARIO",
+          "WILLIAM",
+          "RICARDO QUARESMA",
+          "ADRIEN SILVA",
+          "CRISTIANO RONALDO",
+          "ANDRE SILVA"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-25",
+      "stage": "Group B",
+      "venue": "Kaliningrad Stadium",
+      "home_team": "Spain",
+      "away_team": "Morocco",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Khalid BOUTAIB",
+          "minute": "14"
+        },
+        {
+          "team": "Spain",
+          "player": "ISCO",
+          "minute": "19"
+        },
+        {
+          "team": "Morocco",
+          "player": "Youssef EN NESYRI",
+          "minute": "81"
+        },
+        {
+          "team": "Spain",
+          "player": "Iago ASPAS",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Morocco",
+          "player_on": "Faycal FAJR",
+          "player_off": "Younes BELHANDA",
+          "minute": "64"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Youssef EN NESYRI",
+          "player_off": "Khalid BOUTAIB",
+          "minute": "72"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Iago ASPAS",
+          "player_off": "Diego COSTA",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Marco ASENSIO",
+          "player_off": "THIAGO",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RODRIGO",
+          "player_off": "David SILVA",
+          "minute": "84"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Aziz BOUHADDOUZ",
+          "player_off": "Hakim ZIYECH",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David DE GEA",
+          "Dani CARVAJAL",
+          "Gerard PIQUE",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "Sergio BUSQUETS",
+          "Andres INIESTA",
+          "THIAGO",
+          "David SILVA",
+          "ISCO",
+          "Diego COSTA"
+        ],
+        "away": [
+          "Monir EL KAJOUI",
+          "Achraf HAKIMI",
+          "Manuel DA COSTA",
+          "Romain SAISS",
+          "Nabil DIRAR",
+          "Hakim ZIYECH",
+          "Karim EL AHMADI",
+          "Younes BELHANDA",
+          "Mbark BOUSSOUFA",
+          "Noureddine AMRABAT",
+          "Khalid BOUTAIB"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-26",
+      "stage": "Group C",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "Denmark",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Benjamin MENDY",
+          "player_off": "Lucas HERNANDEZ",
+          "minute": "50"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Viktor FISCHER",
+          "player_off": "Pione SISTO",
+          "minute": "60"
+        },
+        {
+          "team": "France",
+          "player_on": "Nabil FEKIR",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "69"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Kasper DOLBERG",
+          "player_off": "Andreas CORNELIUS",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Kylian MBAPPE",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "78"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Lukas LERAGER",
+          "player_off": "Thomas DELANEY",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kasper SCHMEICHEL",
+          "Simon KJAER",
+          "Mathias JORGENSEN",
+          "Henrik DALSGAARD",
+          "Jens Stryger LARSEN",
+          "Andreas CHRISTENSEN",
+          "Thomas DELANEY",
+          "Christian ERIKSEN",
+          "Martin BRAITHWAITE",
+          "Pione SISTO",
+          "Andreas CORNELIUS"
+        ],
+        "away": [
+          "Steve MANDANDA",
+          "Presnel KIMPEMBE",
+          "Raphael VARANE",
+          "Djibril SIDIBE",
+          "Lucas HERNANDEZ",
+          "Antoine GRIEZMANN",
+          "Thomas LEMAR",
+          "Ousmane DEMBELE",
+          "Ngolo KANTE",
+          "Steven NZONZI",
+          "Olivier GIROUD"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-26",
+      "stage": "Group C",
+      "venue": "Fisht Stadium",
+      "city": "Sochi",
+      "home_team": "Australia",
+      "away_team": "Peru",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Peru",
+          "player": "Andre CARRILLO",
+          "minute": "18"
+        },
+        {
+          "team": "Peru",
+          "player": "Paolo GUERRERO",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Pedro AQUINO",
+          "player_off": "Yoshimar YOTUN",
+          "minute": "46"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Tim CAHILL",
+          "player_off": "Tomi JURIC",
+          "minute": "53"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Daniel ARZANI",
+          "player_off": "Robbie KRUSE",
+          "minute": "58"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Paolo HURTADO",
+          "player_off": "Renato TAPIA",
+          "minute": "63"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jackson IRVINE",
+          "player_off": "Tom ROGIC",
+          "minute": "72"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Wilder CARTAGENA",
+          "player_off": "Andre CARRILLO",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mathew RYAN",
+          "Mark MILLIGAN",
+          "Aziz BEHICH",
+          "Joshua RISDON",
+          "Trent SAINSBURY",
+          "Mathew LECKIE",
+          "Robbie KRUSE",
+          "Aaron MOOY",
+          "Mile JEDINAK",
+          "Tom ROGIC",
+          "Tomi JURIC"
+        ],
+        "away": [
+          "Pedro GALLESE",
+          "Anderson SANTAMARIA",
+          "Miguel TRAUCO",
+          "Christian RAMOS",
+          "Luis ADVINCULA",
+          "Christian CUEVA",
+          "Renato TAPIA",
+          "Andre CARRILLO",
+          "Yoshimar YOTUN",
+          "Edison FLORES",
+          "Paolo GUERRERO"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-26",
+      "stage": "Group D",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "Nigeria",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "14"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Victor MOSES",
+          "minute": "51"
+        },
+        {
+          "team": "Argentina",
+          "player": "Marcos ROJO",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Odion IGHALO",
+          "player_off": "Kelechi IHEANACHO",
+          "minute": "46"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Cristian PAVON",
+          "player_off": "Enzo PEREZ",
+          "minute": "61"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Maximiliano MEZA",
+          "player_off": "Angel DI MARIA",
+          "minute": "72"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio AGUERO",
+          "player_off": "Nicolas TAGLIAFICO",
+          "minute": "80"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Alex IWOBI",
+          "player_off": "Kenneth OMERUO",
+          "minute": "90"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Simeon NWANKWO",
+          "player_off": "Ahmed MUSA",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Francis UZOHO",
+          "William EKONG",
+          "Leon BALOGUN",
+          "Kenneth OMERUO",
+          "Bryan IDOWU",
+          "Wilfred NDIDI",
+          "Oghenekaro ETEBO",
+          "John Obi MIKEL",
+          "Victor MOSES",
+          "Ahmed MUSA",
+          "Kelechi IHEANACHO"
+        ],
+        "away": [
+          "Franco ARMANI",
+          "Gabriel MERCADO",
+          "Nicolas TAGLIAFICO",
+          "Marcos ROJO",
+          "Nicolas OTAMENDI",
+          "Ever BANEGA",
+          "Javier MASCHERANO",
+          "Enzo PEREZ",
+          "Gonzalo HIGUAIN",
+          "Lionel MESSI",
+          "Angel DI MARIA"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-26",
+      "stage": "Group D",
+      "venue": "Rostov-on-Don Stadium",
+      "home_team": "Iceland",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Milan BADELJ",
+          "minute": "53"
+        },
+        {
+          "team": "Iceland",
+          "player": "Gylfi SIGURDSSON",
+          "minute": "76"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan PERISIC",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Filip BRADARIC",
+          "player_off": "Luka MODRIC",
+          "minute": "65"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Bjorn SIGURDARSON",
+          "player_off": "Ragnar SIGURDSSON",
+          "minute": "70"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Dejan LOVREN",
+          "player_off": "Marko PJACA",
+          "minute": "70"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ivan RAKITIC",
+          "player_off": "Mateo KOVACIC",
+          "minute": "81"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Albert GUDMUNDSSON",
+          "player_off": "Alfred FINNBOGASON",
+          "minute": "85"
+        },
+        {
+          "team": "Iceland",
+          "player_on": "Arnor TRAUSTASON",
+          "player_off": "Birkir BJARNASON",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hannes HALLDORSSON",
+          "Birkir SAEVARSSON",
+          "Sverrir INGASON",
+          "Ragnar SIGURDSSON",
+          "Hordur MAGNUSSON",
+          "Johann GUDMUNDSSON",
+          "Birkir BJARNASON",
+          "Gylfi SIGURDSSON",
+          "Aron GUNNARSSON",
+          "Emil HALLFREDSSON",
+          "Alfred FINNBOGASON"
+        ],
+        "away": [
+          "Lovre KALINIC",
+          "Vedran CORLUKA",
+          "Tin JEDVAJ",
+          "Duje CALETA-CAR",
+          "Josip PIVARIC",
+          "Ivan PERISIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Milan BADELJ",
+          "Marko PJACA",
+          "Andrej KRAMARIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-27",
+      "stage": "Group F",
+      "venue": "Kazan Arena",
+      "home_team": "South Korea",
+      "away_team": "Germany",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "South Korea",
+          "player": "KIM Younggwon",
+          "minute": "90+4"
+        },
+        {
+          "team": "South Korea",
+          "player": "SON Heungmin",
+          "minute": "90+6"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Heechan",
+          "player_off": "KOO Jacheol",
+          "minute": "56"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOMEZ",
+          "player_off": "Sami KHEDIRA",
+          "minute": "58"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Thomas MUELLER",
+          "player_off": "Leon GORETZKA",
+          "minute": "63"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JU Sejong",
+          "player_off": "MOON Seonmin",
+          "minute": "69"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Julian BRANDT",
+          "player_off": "Jonas HECTOR",
+          "minute": "78"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "GO Yohan",
+          "player_off": "HWANG Heechan",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "JO Hyeonwoo",
+          "LEE Yong",
+          "YUN Youngsun",
+          "HONG Chul",
+          "KIM Younggwon",
+          "KOO Jacheol",
+          "JUNG Wooyoung",
+          "LEE Jaesung",
+          "MOON Seonmin",
+          "JANG Hyunsoo",
+          "SON Heungmin"
+        ],
+        "away": [
+          "Manuel NEUER",
+          "Jonas HECTOR",
+          "Mats HUMMELS",
+          "Niklas SUELE",
+          "Joshua KIMMICH",
+          "Sami KHEDIRA",
+          "Toni KROOS",
+          "Mesut OEZIL",
+          "Marco REUS",
+          "Leon GORETZKA",
+          "Timo WERNER"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-27",
+      "stage": "Group F",
+      "venue": "Ekaterinburg Stadium",
+      "home_team": "Mexico",
+      "away_team": "Sweden",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Ludwig AUGUSTINSSON",
+          "minute": "50"
+        },
+        {
+          "team": "Sweden",
+          "player": "Andreas GRANQVIST",
+          "minute": "62"
+        },
+        {
+          "team": "Sweden",
+          "player": "Edson ALVAREZ",
+          "minute": "74",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Gustav SVENSSON",
+          "player_off": "Sebastian LARSSON",
+          "minute": "57"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Marco FABIAN",
+          "player_off": "Jesus GALLARDO",
+          "minute": "65"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Isaac Kiese THELIN",
+          "player_off": "Marcus BERG",
+          "minute": "68"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jesus CORONA",
+          "player_off": "Andres GUARDADO",
+          "minute": "75"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Oscar HILJEMARK",
+          "player_off": "Albin EKDAL",
+          "minute": "80"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Oribe PERALTA",
+          "player_off": "Miguel LAYUN",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Guillermo OCHOA",
+          "Carlos SALCEDO",
+          "Hector MORENO",
+          "Edson ALVAREZ",
+          "Jesus GALLARDO",
+          "Miguel LAYUN",
+          "Carlos VELA",
+          "Hector HERRERA",
+          "Andres GUARDADO",
+          "Hirving LOZANO",
+          "Javier HERNANDEZ"
+        ],
+        "away": [
+          "Robin OLSEN",
+          "Mikael LUSTIG",
+          "Victor LINDELOF",
+          "Andreas GRANQVIST",
+          "Ludwig AUGUSTINSSON",
+          "Sebastian LARSSON",
+          "Albin EKDAL",
+          "Emil FORSBERG",
+          "Viktor CLAESSON",
+          "Marcus BERG",
+          "Ola TOIVONEN"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-27",
+      "stage": "Group E",
+      "venue": "Otkrytiye Arena",
+      "city": "Moscow",
+      "home_team": "Serbia",
+      "away_team": "Brazil",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PAULINHO",
+          "minute": "36"
+        },
+        {
+          "team": "Brazil",
+          "player": "THIAGO SILVA",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "FILIPE LUIS",
+          "player_off": "MARCELO",
+          "minute": "10"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "FERNANDINHO",
+          "player_off": "PAULINHO",
+          "minute": "66"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Andrija ZIVKOVIC",
+          "player_off": "Adem LJAJIC",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RENATO AUGUSTO",
+          "player_off": "PHILIPPE COUTINHO",
+          "minute": "80"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja RADONJIC",
+          "player_off": "Filip KOSTIC",
+          "minute": "82"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Luka JOVIC",
+          "player_off": "Aleksandar MITROVIC",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vladimir STOJKOVIC",
+          "Antonio RUKAVINA",
+          "Aleksandar KOLAROV",
+          "Milos VELJKOVIC",
+          "Nikola MILENKOVIC",
+          "Dusan TADIC",
+          "Filip KOSTIC",
+          "Sergej MILINKOVIC-SAVIC",
+          "Nemanja MATIC",
+          "Adem LJAJIC",
+          "Aleksandar MITROVIC"
+        ],
+        "away": [
+          "ALISSON",
+          "THIAGO SILVA",
+          "MIRANDA",
+          "MARCELO",
+          "FAGNER",
+          "CASEMIRO",
+          "PHILIPPE COUTINHO",
+          "PAULINHO",
+          "GABRIEL JESUS",
+          "NEYMAR",
+          "WILLIAN"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-27",
+      "stage": "Group E",
+      "venue": "Nizhny Novgorod Stadium",
+      "home_team": "Switzerland",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Blerim DZEMAILI",
+          "minute": "31"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Kendall WASTON",
+          "minute": "56"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Josip DRMIC",
+          "minute": "88"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Bryan RUIZ",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Denis ZAKARIA",
+          "player_off": "Valon BEHRAMI",
+          "minute": "60"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Josip DRMIC",
+          "player_off": "Mario GAVRANOVIC",
+          "minute": "69"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Michael LANG",
+          "player_off": "Xherdan SHAQIRI",
+          "minute": "81"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Rodney WALLACE",
+          "player_off": "Daniel COLINDRES",
+          "minute": "81"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Randall AZOFEIFA",
+          "player_off": "David GUZMAN",
+          "minute": "90+1"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Ian SMITH",
+          "player_off": "Cristian GAMBOA",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yann SOMMER",
+          "Stephan LICHTSTEINER",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Fabian SCHAER",
+          "Breel EMBOLO",
+          "Granit XHAKA",
+          "Valon BEHRAMI",
+          "Blerim DZEMAILI",
+          "Xherdan SHAQIRI",
+          "Mario GAVRANOVIC"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Johnny ACOSTA",
+          "Giancarlo GONZALEZ",
+          "Kendall WASTON",
+          "Celso BORGES",
+          "Bryan OVIEDO",
+          "Daniel COLINDRES",
+          "Bryan RUIZ",
+          "Cristian GAMBOA",
+          "David GUZMAN",
+          "Joel CAMPBELL"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-28",
+      "stage": "Group H",
+      "venue": "Volgograd Stadium",
+      "home_team": "Japan",
+      "away_team": "Poland",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Jan BEDNAREK",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Yuya OSAKO",
+          "player_off": "Shinji OKAZAKI",
+          "minute": "47"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takashi INUI",
+          "player_off": "Takashi USAMI",
+          "minute": "65"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Lukasz TEODORCZYK",
+          "player_off": "Piotr ZIELINSKI",
+          "minute": "79"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Slawomir PESZKO",
+          "player_off": "Rafal KURZAWA",
+          "minute": "79"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Makoto HASEBE",
+          "player_off": "Yoshinori MUTO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Eiji KAWASHIMA",
+          "Yuto NAGATOMO",
+          "Hiroki SAKAI",
+          "Tomoaki MAKINO",
+          "Maya YOSHIDA",
+          "Gaku SHIBASAKI",
+          "Takashi USAMI",
+          "Hotaru YAMAGUCHI",
+          "Gotoku SAKAI",
+          "Shinji OKAZAKI",
+          "Yoshinori MUTO"
+        ],
+        "away": [
+          "Lukasz FABIANSKI",
+          "Artur JEDRZEJCZYK",
+          "Jan BEDNAREK",
+          "Kamil GLIK",
+          "Bartosz BERESZYNSKI",
+          "Jacek GORALSKI",
+          "Grzegorz KRYCHOWIAK",
+          "Kamil GROSICKI",
+          "Rafal KURZAWA",
+          "Robert LEWANDOWSKI",
+          "Piotr ZIELINSKI"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-28",
+      "stage": "Group H",
+      "venue": "Samara Stadium",
+      "home_team": "Senegal",
+      "away_team": "Colombia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Yerry MINA",
+          "minute": "74"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Luis MURIEL",
+          "player_off": "James RODRIGUEZ",
+          "minute": "31"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Moussa WAGUE",
+          "player_off": "Youssouf SABALY",
+          "minute": "74"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Moussa KONATE",
+          "player_off": "Keita BALDE",
+          "minute": "80"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Jefferson LERMA",
+          "player_off": "Mateus URIBE",
+          "minute": "83"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Diafra SAKHO",
+          "player_off": "Mbaye NIANG",
+          "minute": "86"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Miguel BORJA",
+          "player_off": "Radamel FALCAO",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Khadim NDIAYE",
+          "Kalidou KOULIBALY",
+          "Salif SANE",
+          "Youssouf SABALY",
+          "Lamine GASSAMA",
+          "Idrissa Gana GUEYE",
+          "Cheikhou KOUYATE",
+          "Ismaila SARR",
+          "Keita BALDE",
+          "Sadio MANE",
+          "Mbaye NIANG"
+        ],
+        "away": [
+          "David OSPINA",
+          "Santiago ARIAS",
+          "Yerry MINA",
+          "Johan MOJICA",
+          "Davinson SANCHEZ",
+          "Carlos SANCHEZ",
+          "James RODRIGUEZ",
+          "Juan CUADRADO",
+          "Mateus URIBE",
+          "Juan QUINTERO",
+          "Radamel FALCAO"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-28",
+      "stage": "Group G",
+      "venue": "Kaliningrad Stadium",
+      "home_team": "England",
+      "away_team": "Belgium",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Adnan JANUZAJ",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Harry MAGUIRE",
+          "player_off": "John STONES",
+          "minute": "46"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Vincent KOMPANY",
+          "player_off": "Thomas VERMAELEN",
+          "minute": "75"
+        },
+        {
+          "team": "England",
+          "player_on": "Danny WELBECK",
+          "player_off": "Trent ALEXANDER-ARNOLD",
+          "minute": "79"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Dries MERTENS",
+          "player_off": "Adnan JANUZAJ",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jordan PICKFORD",
+          "John STONES",
+          "Gary CAHILL",
+          "Phil JONES",
+          "Danny ROSE",
+          "Eric DIER",
+          "Fabian DELPH",
+          "Ruben LOFTUS-CHEEK",
+          "Trent ALEXANDER-ARNOLD",
+          "Jamie VARDY",
+          "Marcus RASHFORD"
+        ],
+        "away": [
+          "Thibaut COURTOIS",
+          "Thomas VERMAELEN",
+          "Dedryck BOYATA",
+          "Leander DENDONCKER",
+          "Marouane FELLAINI",
+          "Thorgan HAZARD",
+          "Youri TIELEMANS",
+          "Adnan JANUZAJ",
+          "Moussa DEMBELE",
+          "Nacer CHADLI",
+          "Michy BATSHUAYI"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-28",
+      "stage": "Group G",
+      "venue": "Saransk Stadium",
+      "home_team": "Panama",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Panama",
+          "player": "Yassine MERIAH",
+          "minute": "33",
+          "own_goal": true
+        },
+        {
+          "team": "Tunisia",
+          "player": "Fakhreddine BEN YOUSSEF",
+          "minute": "51"
+        },
+        {
+          "team": "Tunisia",
+          "player": "Wahbi KHAZRI",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Panama",
+          "player_on": "Harold CUMMINGS",
+          "player_off": "Gabriel TORRES",
+          "minute": "46"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Anice BADRI",
+          "player_off": "Ferjani SASSI",
+          "minute": "46"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Luis TEJADA",
+          "player_off": "Roman TORRES",
+          "minute": "56"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ahmed KHALIL",
+          "player_off": "Naim SLITI",
+          "minute": "76"
+        },
+        {
+          "team": "Panama",
+          "player_on": "Abdiel ARROYO",
+          "player_off": "Ricardo AVILA",
+          "minute": "81"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Bassem SRARFI",
+          "player_off": "Wahbi KHAZRI",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jaime PENEDO",
+          "Fidel ESCOBAR",
+          "Roman TORRES",
+          "Adolfo MACHADO",
+          "Luis OVALLE",
+          "Gabriel GOMEZ",
+          "Edgar BARCENAS",
+          "Ricardo AVILA",
+          "Anibal GODOY",
+          "Jose Luis RODRIGUEZ",
+          "Gabriel TORRES"
+        ],
+        "away": [
+          "Aymen MATHLOUTHI",
+          "Yassine MERIAH",
+          "Oussama HADDADI",
+          "Rami BEDOUI",
+          "Hamdi NAGUEZ",
+          "Ferjani SASSI",
+          "Ellyes SKHIRI",
+          "Ghaylen CHAALELI",
+          "Fakhreddine BEN YOUSSEF",
+          "Wahbi KHAZRI",
+          "Naim SLITI"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-30",
+      "stage": "Round of 16",
+      "venue": "Kazan Arena",
+      "home_team": "France",
+      "away_team": "Argentina",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Antoine GRIEZMANN",
+          "minute": "13"
+        },
+        {
+          "team": "Argentina",
+          "player": "Angel DI MARIA",
+          "minute": "41"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel MERCADO",
+          "minute": "48"
+        },
+        {
+          "team": "France",
+          "player": "Benjamin PAVARD",
+          "minute": "57"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "68"
+        },
+        {
+          "team": "Argentina",
+          "player": "Sergio AGUERO",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Federico FAZIO",
+          "player_off": "Marcos ROJO",
+          "minute": "46"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio AGUERO",
+          "player_off": "Enzo PEREZ",
+          "minute": "66"
+        },
+        {
+          "team": "France",
+          "player_on": "Corentin TOLISSO",
+          "player_off": "Blaise MATUIDI",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Maximiliano MEZA",
+          "player_off": "Cristian PAVON",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Nabil FEKIR",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "83"
+        },
+        {
+          "team": "France",
+          "player_on": "Florian THAUVIN",
+          "player_off": "Kylian MBAPPE",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Raphael VARANE",
+          "Samuel UMTITI",
+          "Lucas HERNANDEZ",
+          "Paul POGBA",
+          "Antoine GRIEZMANN",
+          "Kylian MBAPPE",
+          "Ngolo KANTE",
+          "Blaise MATUIDI",
+          "Olivier GIROUD"
+        ],
+        "away": [
+          "Franco ARMANI",
+          "Gabriel MERCADO",
+          "Nicolas TAGLIAFICO",
+          "Marcos ROJO",
+          "Nicolas OTAMENDI",
+          "Ever BANEGA",
+          "Javier MASCHERANO",
+          "Enzo PEREZ",
+          "Lionel MESSI",
+          "Angel DI MARIA",
+          "Cristian PAVON"
+        ]
+      }
+    },
+    {
+      "date": "2018-06-30",
+      "stage": "Round of 16",
+      "venue": "Fisht Stadium",
+      "city": "Sochi",
+      "home_team": "Uruguay",
+      "away_team": "Portugal",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Edinson CAVANI",
+          "minute": "7"
+        },
+        {
+          "team": "Portugal",
+          "player": "PEPE",
+          "minute": "55"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Edinson CAVANI",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Cristian RODRIGUEZ",
+          "player_off": "Rodrigo BENTANCUR",
+          "minute": "63"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RICARDO QUARESMA",
+          "player_off": "ADRIEN SILVA",
+          "minute": "65"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Cristhian STUANI",
+          "player_off": "Edinson CAVANI",
+          "minute": "74"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "ANDRE SILVA",
+          "player_off": "GONCALO GUEDES",
+          "minute": "74"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Carlos SANCHEZ",
+          "player_off": "Nahitan NANDEZ",
+          "minute": "81"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "MANUEL FERNANDES",
+          "player_off": "JOAO MARIO",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Jose GIMENEZ",
+          "Diego GODIN",
+          "Diego LAXALT",
+          "Martin CACERES",
+          "Rodrigo BENTANCUR",
+          "Nahitan NANDEZ",
+          "Lucas TORREIRA",
+          "Matias VECINO",
+          "Luis SUAREZ",
+          "Edinson CAVANI"
+        ],
+        "away": [
+          "RUI PATRICIO",
+          "PEPE",
+          "RAPHAEL GUERREIRO",
+          "JOSE FONTE",
+          "RICARDO",
+          "JOAO MARIO",
+          "BERNARDO SILVA",
+          "WILLIAM",
+          "ADRIEN SILVA",
+          "CRISTIANO RONALDO",
+          "GONCALO GUEDES"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-01",
+      "stage": "Round of 16",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "Spain",
+      "away_team": "Russia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "winner": "Russia",
+        "score": "3-4"
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Sergey IGNASHEVICH",
+          "minute": "12",
+          "own_goal": true
+        },
+        {
+          "team": "Russia",
+          "player": "Artem DZYUBA",
+          "minute": "41"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Vladimir GRANAT",
+          "player_off": "Yury ZHIRKOV",
+          "minute": "46"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Denis CHERYSHEV",
+          "player_off": "Alexander SAMEDOV",
+          "minute": "61"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Fedor SMOLOV",
+          "player_off": "Artem DZYUBA",
+          "minute": "65"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Andres INIESTA",
+          "player_off": "David SILVA",
+          "minute": "67"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Dani CARVAJAL",
+          "player_off": "NACHO",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Iago ASPAS",
+          "player_off": "Diego COSTA",
+          "minute": "80"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Aleksandr EROKHIN",
+          "player_off": "Daler KUZIAEV",
+          "minute": "97"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RODRIGO",
+          "player_off": "Marco ASENSIO",
+          "minute": "104"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David DE GEA",
+          "Gerard PIQUE",
+          "NACHO",
+          "Sergio RAMOS",
+          "Jordi ALBA",
+          "Sergio BUSQUETS",
+          "KOKE",
+          "Marco ASENSIO",
+          "David SILVA",
+          "ISCO",
+          "Diego COSTA"
+        ],
+        "away": [
+          "Igor AKINFEEV",
+          "MARIO FERNANDES",
+          "Ilya KUTEPOV",
+          "Sergey IGNASHEVICH",
+          "Fedor KUDRIASHOV",
+          "Yury ZHIRKOV",
+          "Daler KUZIAEV",
+          "Roman ZOBNIN",
+          "Aleksandr GOLOVIN",
+          "Alexander SAMEDOV",
+          "Artem DZYUBA"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-01",
+      "stage": "Round of 16",
+      "venue": "Nizhny Novgorod Stadium",
+      "home_team": "Croatia",
+      "away_team": "Denmark",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "winner": "Croatia",
+        "score": "3-2"
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Mathias JORGENSEN",
+          "minute": "1"
+        },
+        {
+          "team": "Croatia",
+          "player": "Mario MANDZUKIC",
+          "minute": "4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Lasse SCHONE",
+          "player_off": "Andreas CHRISTENSEN",
+          "minute": "46"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Nicolai JORGENSEN",
+          "player_off": "Andreas CORNELIUS",
+          "minute": "66"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mateo KOVACIC",
+          "player_off": "Marcelo BROZOVIC",
+          "minute": "71"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Josip PIVARIC",
+          "player_off": "Ivan STRINIC",
+          "minute": "81"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Andrej KRAMARIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "97"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Michael KROHN-DEHLI",
+          "player_off": "Thomas DELANEY",
+          "minute": "98"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Pione SISTO",
+          "player_off": "Martin BRAITHWAITE",
+          "minute": "106"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Milan BADELJ",
+          "player_off": "Mario MANDZUKIC",
+          "minute": "108"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Danijel SUBASIC",
+          "Sime VRSALJKO",
+          "Ivan STRINIC",
+          "Dejan LOVREN",
+          "Domagoj VIDA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ante REBIC",
+          "Mario MANDZUKIC"
+        ],
+        "away": [
+          "Kasper SCHMEICHEL",
+          "Simon KJAER",
+          "Jonas KNUDSEN",
+          "Mathias JORGENSEN",
+          "Henrik DALSGAARD",
+          "Andreas CHRISTENSEN",
+          "Thomas DELANEY",
+          "Martin BRAITHWAITE",
+          "Yussuf Yurary POULSEN",
+          "Christian ERIKSEN",
+          "Andreas CORNELIUS"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-02",
+      "stage": "Round of 16",
+      "venue": "Samara Stadium",
+      "home_team": "Brazil",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "51"
+        },
+        {
+          "team": "Brazil",
+          "player": "ROBERTO FIRMINO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Miguel LAYUN",
+          "player_off": "Rafael MARQUEZ",
+          "minute": "46"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jonathan DOS SANTOS",
+          "player_off": "Edson ALVAREZ",
+          "minute": "55"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul JIMENEZ",
+          "player_off": "Javier HERNANDEZ",
+          "minute": "60"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "FERNANDINHO",
+          "player_off": "PAULINHO",
+          "minute": "80"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBERTO FIRMINO",
+          "player_off": "PHILIPPE COUTINHO",
+          "minute": "86"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MARQUINHOS",
+          "player_off": "WILLIAN",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "THIAGO SILVA",
+          "MIRANDA",
+          "FILIPE LUIS",
+          "FAGNER",
+          "CASEMIRO",
+          "PHILIPPE COUTINHO",
+          "PAULINHO",
+          "GABRIEL JESUS",
+          "NEYMAR",
+          "WILLIAN"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Hugo AYALA",
+          "Carlos SALCEDO",
+          "Edson ALVAREZ",
+          "Jesus GALLARDO",
+          "Rafael MARQUEZ",
+          "Hector HERRERA",
+          "Andres GUARDADO",
+          "Carlos VELA",
+          "Javier HERNANDEZ",
+          "Hirving LOZANO"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-02",
+      "stage": "Round of 16",
+      "venue": "Rostov-on-Don Stadium",
+      "home_team": "Belgium",
+      "away_team": "Japan",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Genki HARAGUCHI",
+          "minute": "48"
+        },
+        {
+          "team": "Japan",
+          "player": "Takashi INUI",
+          "minute": "52"
+        },
+        {
+          "team": "Belgium",
+          "player": "Jan VERTONGHEN",
+          "minute": "69"
+        },
+        {
+          "team": "Belgium",
+          "player": "Marouane FELLAINI",
+          "minute": "74"
+        },
+        {
+          "team": "Belgium",
+          "player": "Nacer CHADLI",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Marouane FELLAINI",
+          "player_off": "Dries MERTENS",
+          "minute": "65"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Nacer CHADLI",
+          "player_off": "Yannick CARRASCO",
+          "minute": "65"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Keisuke HONDA",
+          "player_off": "Genki HARAGUCHI",
+          "minute": "81"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hotaru YAMAGUCHI",
+          "player_off": "Gaku SHIBASAKI",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Axel WITSEL",
+          "Kevin DE BRUYNE",
+          "Yannick CARRASCO",
+          "Thomas MEUNIER",
+          "Romelu LUKAKU",
+          "Eden HAZARD",
+          "Dries MERTENS"
+        ],
+        "away": [
+          "Eiji KAWASHIMA",
+          "Gen SHOJI",
+          "Yuto NAGATOMO",
+          "Hiroki SAKAI",
+          "Maya YOSHIDA",
+          "Gaku SHIBASAKI",
+          "Genki HARAGUCHI",
+          "Shinji KAGAWA",
+          "Takashi INUI",
+          "Makoto HASEBE",
+          "Yuya OSAKO"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-03",
+      "stage": "Round of 16",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "Sweden",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Emil FORSBERG",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Blerim DZEMAILI",
+          "minute": "73"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Breel EMBOLO",
+          "player_off": "Steven ZUBER",
+          "minute": "73"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Martin OLSSON",
+          "player_off": "Emil FORSBERG",
+          "minute": "82"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Emil KRAFTH",
+          "player_off": "Mikael LUSTIG",
+          "minute": "82"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Isaac Kiese THELIN",
+          "player_off": "Marcus BERG",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Robin OLSEN",
+          "Mikael LUSTIG",
+          "Victor LINDELOF",
+          "Andreas GRANQVIST",
+          "Ludwig AUGUSTINSSON",
+          "Albin EKDAL",
+          "Emil FORSBERG",
+          "Gustav SVENSSON",
+          "Viktor CLAESSON",
+          "Marcus BERG",
+          "Ola TOIVONEN"
+        ],
+        "away": [
+          "Yann SOMMER",
+          "Manuel AKANJI",
+          "Michael LANG",
+          "Ricardo RODRIGUEZ",
+          "Johan DJOUROU",
+          "Granit XHAKA",
+          "Valon BEHRAMI",
+          "Steven ZUBER",
+          "Blerim DZEMAILI",
+          "Xherdan SHAQIRI",
+          "Josip DRMIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-03",
+      "stage": "Round of 16",
+      "venue": "Otkrytiye Arena",
+      "city": "Moscow",
+      "home_team": "Colombia",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "winner": "England",
+        "score": "3-4"
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "57"
+        },
+        {
+          "team": "Colombia",
+          "player": "Yerry MINA",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Carlos BACCA",
+          "player_off": "Jefferson LERMA",
+          "minute": "62"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Mateus URIBE",
+          "player_off": "Carlos SANCHEZ",
+          "minute": "79"
+        },
+        {
+          "team": "England",
+          "player_on": "Eric DIER",
+          "player_off": "Dele ALLI",
+          "minute": "81"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Luis MURIEL",
+          "player_off": "Juan QUINTERO",
+          "minute": "88"
+        },
+        {
+          "team": "England",
+          "player_on": "Jamie VARDY",
+          "player_off": "Raheem STERLING",
+          "minute": "88"
+        },
+        {
+          "team": "England",
+          "player_on": "Danny ROSE",
+          "player_off": "Ashley YOUNG",
+          "minute": "102"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Kyle WALKER",
+          "minute": "113"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Cristian ZAPATA",
+          "player_off": "Santiago ARIAS",
+          "minute": "116"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David OSPINA",
+          "Santiago ARIAS",
+          "Yerry MINA",
+          "Johan MOJICA",
+          "Davinson SANCHEZ",
+          "Wilmar BARRIOS",
+          "Carlos SANCHEZ",
+          "Jefferson LERMA",
+          "Juan QUINTERO",
+          "Radamel FALCAO",
+          "Juan CUADRADO"
+        ],
+        "away": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Jesse LINGARD",
+          "Jordan HENDERSON",
+          "Kieran TRIPPIER",
+          "Ashley YOUNG",
+          "Dele ALLI",
+          "Harry KANE",
+          "Raheem STERLING"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-06",
+      "stage": "Quarterfinal",
+      "venue": "Nizhny Novgorod Stadium",
+      "home_team": "Uruguay",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Raphael VARANE",
+          "minute": "40"
+        },
+        {
+          "team": "France",
+          "player": "Antoine GRIEZMANN",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Maximiliano GOMEZ",
+          "player_off": "Cristhian STUANI",
+          "minute": "59"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Cristian RODRIGUEZ",
+          "player_off": "Rodrigo BENTANCUR",
+          "minute": "59"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Jonathan URRETAVISCAYA",
+          "player_off": "Nahitan NANDEZ",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Steven NZONZI",
+          "player_off": "Corentin TOLISSO",
+          "minute": "80"
+        },
+        {
+          "team": "France",
+          "player_on": "Ousmane DEMBELE",
+          "player_off": "Kylian MBAPPE",
+          "minute": "88"
+        },
+        {
+          "team": "France",
+          "player_on": "Nabil FEKIR",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fernando MUSLERA",
+          "Jose GIMENEZ",
+          "Diego GODIN",
+          "Diego LAXALT",
+          "Martin CACERES",
+          "Rodrigo BENTANCUR",
+          "Nahitan NANDEZ",
+          "Lucas TORREIRA",
+          "Matias VECINO",
+          "Luis SUAREZ",
+          "Cristhian STUANI"
+        ],
+        "away": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Raphael VARANE",
+          "Samuel UMTITI",
+          "Lucas HERNANDEZ",
+          "Paul POGBA",
+          "Antoine GRIEZMANN",
+          "Kylian MBAPPE",
+          "Corentin TOLISSO",
+          "Ngolo KANTE",
+          "Olivier GIROUD"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-06",
+      "stage": "Quarterfinal",
+      "venue": "Kazan Arena",
+      "home_team": "Brazil",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "FERNANDINHO",
+          "minute": "13",
+          "own_goal": true
+        },
+        {
+          "team": "Belgium",
+          "player": "Kevin DE BRUYNE",
+          "minute": "31"
+        },
+        {
+          "team": "Brazil",
+          "player": "RENATO AUGUSTO",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "ROBERTO FIRMINO",
+          "player_off": "WILLIAN",
+          "minute": "46"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DOUGLAS COSTA",
+          "player_off": "GABRIEL JESUS",
+          "minute": "58"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RENATO AUGUSTO",
+          "player_off": "PAULINHO",
+          "minute": "73"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Thomas VERMAELEN",
+          "player_off": "Nacer CHADLI",
+          "minute": "83"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Youri TIELEMANS",
+          "player_off": "Romelu LUKAKU",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "THIAGO SILVA",
+          "MIRANDA",
+          "MARCELO",
+          "FAGNER",
+          "PHILIPPE COUTINHO",
+          "PAULINHO",
+          "FERNANDINHO",
+          "GABRIEL JESUS",
+          "NEYMAR",
+          "WILLIAN"
+        ],
+        "away": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Thomas MEUNIER",
+          "Axel WITSEL",
+          "Marouane FELLAINI",
+          "Nacer CHADLI",
+          "Kevin DE BRUYNE",
+          "Romelu LUKAKU",
+          "Eden HAZARD"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-07",
+      "stage": "Quarterfinal",
+      "venue": "Samara Stadium",
+      "home_team": "Sweden",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Harry MAGUIRE",
+          "minute": "30"
+        },
+        {
+          "team": "England",
+          "player": "Dele ALLI",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Martin OLSSON",
+          "player_off": "Emil FORSBERG",
+          "minute": "65"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "John GUIDETTI",
+          "player_off": "Ola TOIVONEN",
+          "minute": "65"
+        },
+        {
+          "team": "England",
+          "player_on": "Fabian DELPH",
+          "player_off": "Dele ALLI",
+          "minute": "76"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Pontus JANSSON",
+          "player_off": "Emil KRAFTH",
+          "minute": "85"
+        },
+        {
+          "team": "England",
+          "player_on": "Eric DIER",
+          "player_off": "Jordan HENDERSON",
+          "minute": "85"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Raheem STERLING",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Robin OLSEN",
+          "Victor LINDELOF",
+          "Andreas GRANQVIST",
+          "Ludwig AUGUSTINSSON",
+          "Emil KRAFTH",
+          "Sebastian LARSSON",
+          "Albin EKDAL",
+          "Emil FORSBERG",
+          "Viktor CLAESSON",
+          "Marcus BERG",
+          "Ola TOIVONEN"
+        ],
+        "away": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Jesse LINGARD",
+          "Jordan HENDERSON",
+          "Kieran TRIPPIER",
+          "Ashley YOUNG",
+          "Dele ALLI",
+          "Harry KANE",
+          "Raheem STERLING"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-07",
+      "stage": "Quarterfinal",
+      "venue": "Fisht Stadium",
+      "city": "Sochi",
+      "home_team": "Russia",
+      "away_team": "Croatia",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "extra_time": true,
+      "penalty_shootout": {
+        "winner": "Croatia",
+        "score": "3-4"
+      },
+      "scorers": [
+        {
+          "team": "Russia",
+          "player": "Denis CHERYSHEV",
+          "minute": "31"
+        },
+        {
+          "team": "Croatia",
+          "player": "Andrej KRAMARIC",
+          "minute": "40"
+        },
+        {
+          "team": "Croatia",
+          "player": "Domagoj VIDA",
+          "minute": "101"
+        },
+        {
+          "team": "Russia",
+          "player": "MARIO FERNANDES",
+          "minute": "115"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Russia",
+          "player_on": "Aleksandr EROKHIN",
+          "player_off": "Alexander SAMEDOV",
+          "minute": "54"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Marcelo BROZOVIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "63"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Fedor SMOLOV",
+          "player_off": "Denis CHERYSHEV",
+          "minute": "67"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Josip PIVARIC",
+          "player_off": "Ivan STRINIC",
+          "minute": "74"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Iury GAZINSKY",
+          "player_off": "Artem DZYUBA",
+          "minute": "79"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mateo KOVACIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "88"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Vedran CORLUKA",
+          "player_off": "Sime VRSALJKO",
+          "minute": "97"
+        },
+        {
+          "team": "Russia",
+          "player_on": "Alan DZAGOEV",
+          "player_off": "Aleksandr GOLOVIN",
+          "minute": "102"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Igor AKINFEEV",
+          "MARIO FERNANDES",
+          "Ilya KUTEPOV",
+          "Sergey IGNASHEVICH",
+          "Fedor KUDRIASHOV",
+          "Denis CHERYSHEV",
+          "Daler KUZIAEV",
+          "Roman ZOBNIN",
+          "Alexander SAMEDOV",
+          "Aleksandr GOLOVIN",
+          "Artem DZYUBA"
+        ],
+        "away": [
+          "Danijel SUBASIC",
+          "Sime VRSALJKO",
+          "Ivan STRINIC",
+          "Dejan LOVREN",
+          "Domagoj VIDA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Andrej KRAMARIC",
+          "Luka MODRIC",
+          "Ante REBIC",
+          "Mario MANDZUKIC"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-10",
+      "stage": "Semifinal",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "France",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Samuel UMTITI",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Dries MERTENS",
+          "player_off": "Moussa DEMBELE",
+          "minute": "60"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Yannick CARRASCO",
+          "player_off": "Marouane FELLAINI",
+          "minute": "80"
+        },
+        {
+          "team": "France",
+          "player_on": "Steven NZONZI",
+          "player_off": "Olivier GIROUD",
+          "minute": "85"
+        },
+        {
+          "team": "France",
+          "player_on": "Corentin TOLISSO",
+          "player_off": "Blaise MATUIDI",
+          "minute": "86"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Michy BATSHUAYI",
+          "player_off": "Nacer CHADLI",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Raphael VARANE",
+          "Samuel UMTITI",
+          "Lucas HERNANDEZ",
+          "Paul POGBA",
+          "Antoine GRIEZMANN",
+          "Kylian MBAPPE",
+          "Ngolo KANTE",
+          "Blaise MATUIDI",
+          "Olivier GIROUD"
+        ],
+        "away": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Nacer CHADLI",
+          "Axel WITSEL",
+          "Marouane FELLAINI",
+          "Moussa DEMBELE",
+          "Kevin DE BRUYNE",
+          "Romelu LUKAKU",
+          "Eden HAZARD"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-11",
+      "stage": "Semifinal",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "Croatia",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Kieran TRIPPIER",
+          "minute": "5"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan PERISIC",
+          "minute": "68"
+        },
+        {
+          "team": "Croatia",
+          "player": "Mario MANDZUKIC",
+          "minute": "109"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Raheem STERLING",
+          "minute": "74"
+        },
+        {
+          "team": "England",
+          "player_on": "Danny ROSE",
+          "player_off": "Ashley YOUNG",
+          "minute": "91"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Josip PIVARIC",
+          "player_off": "Ivan STRINIC",
+          "minute": "95"
+        },
+        {
+          "team": "England",
+          "player_on": "Eric DIER",
+          "player_off": "Jordan HENDERSON",
+          "minute": "97"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Andrej KRAMARIC",
+          "player_off": "Ante REBIC",
+          "minute": "101"
+        },
+        {
+          "team": "England",
+          "player_on": "Jamie VARDY",
+          "player_off": "Kyle WALKER",
+          "minute": "112"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Vedran CORLUKA",
+          "player_off": "Mario MANDZUKIC",
+          "minute": "115"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Milan BADELJ",
+          "player_off": "Luka MODRIC",
+          "minute": "119"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Danijel SUBASIC",
+          "Sime VRSALJKO",
+          "Ivan STRINIC",
+          "Dejan LOVREN",
+          "Domagoj VIDA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ante REBIC",
+          "Mario MANDZUKIC"
+        ],
+        "away": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Jesse LINGARD",
+          "Jordan HENDERSON",
+          "Kieran TRIPPIER",
+          "Ashley YOUNG",
+          "Dele ALLI",
+          "Harry KANE",
+          "Raheem STERLING"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-14",
+      "stage": "Third-place match",
+      "venue": "Saint Petersburg Stadium",
+      "home_team": "Belgium",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Thomas MEUNIER",
+          "minute": "4"
+        },
+        {
+          "team": "Belgium",
+          "player": "Eden HAZARD",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Thomas VERMAELEN",
+          "player_off": "Nacer CHADLI",
+          "minute": "39"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Raheem STERLING",
+          "minute": "46"
+        },
+        {
+          "team": "England",
+          "player_on": "Jesse LINGARD",
+          "player_off": "Danny ROSE",
+          "minute": "46"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Dries MERTENS",
+          "player_off": "Romelu LUKAKU",
+          "minute": "60"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Moussa DEMBELE",
+          "player_off": "Youri TIELEMANS",
+          "minute": "78"
+        },
+        {
+          "team": "England",
+          "player_on": "Dele ALLI",
+          "player_off": "Ruben LOFTUS-CHEEK",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Vincent KOMPANY",
+          "Jan VERTONGHEN",
+          "Axel WITSEL",
+          "Thomas MEUNIER",
+          "Youri TIELEMANS",
+          "Nacer CHADLI",
+          "Kevin DE BRUYNE",
+          "Romelu LUKAKU",
+          "Eden HAZARD"
+        ],
+        "away": [
+          "Jordan PICKFORD",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Phil JONES",
+          "Danny ROSE",
+          "Eric DIER",
+          "Kieran TRIPPIER",
+          "Fabian DELPH",
+          "Ruben LOFTUS-CHEEK",
+          "Harry KANE",
+          "Raheem STERLING"
+        ]
+      }
+    },
+    {
+      "date": "2018-07-15",
+      "stage": "Final",
+      "venue": "Luzhniki Stadium",
+      "city": "Moscow",
+      "home_team": "France",
+      "away_team": "Croatia",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Mario MANDZUKIC",
+          "minute": "18",
+          "own_goal": true
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan PERISIC",
+          "minute": "28"
+        },
+        {
+          "team": "France",
+          "player": "Antoine GRIEZMANN",
+          "minute": "38"
+        },
+        {
+          "team": "France",
+          "player": "Paul POGBA",
+          "minute": "59"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "65"
+        },
+        {
+          "team": "Croatia",
+          "player": "Mario MANDZUKIC",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Steven NZONZI",
+          "player_off": "Ngolo KANTE",
+          "minute": "55"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Andrej KRAMARIC",
+          "player_off": "Ante REBIC",
+          "minute": "71"
+        },
+        {
+          "team": "France",
+          "player_on": "Corentin TOLISSO",
+          "player_off": "Blaise MATUIDI",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Nabil FEKIR",
+          "player_off": "Olivier GIROUD",
+          "minute": "81"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Marko PJACA",
+          "player_off": "Ivan STRINIC",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Raphael VARANE",
+          "Samuel UMTITI",
+          "Lucas HERNANDEZ",
+          "Paul POGBA",
+          "Antoine GRIEZMANN",
+          "Kylian MBAPPE",
+          "Ngolo KANTE",
+          "Blaise MATUIDI",
+          "Olivier GIROUD"
+        ],
+        "away": [
+          "Danijel SUBASIC",
+          "Sime VRSALJKO",
+          "Ivan STRINIC",
+          "Dejan LOVREN",
+          "Domagoj VIDA",
+          "Ivan PERISIC",
+          "Ivan RAKITIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ante REBIC",
+          "Mario MANDZUKIC"
+        ]
+      }
+    }
+  ]
+}

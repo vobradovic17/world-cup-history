@@ -1,0 +1,4020 @@
+{
+  "tournament": "FIFA World Cup 1982",
+  "host_country": "Spain",
+  "matches_played": 52,
+  "format": "Six first-round groups of four teams, followed by four second-phase groups of three teams; the group winners advanced to semifinals, followed by a third-place match and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/82full.html",
+    "https://www.rsssf.org/tables/82f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1982/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1982-06-14",
+      "stage": "Group A",
+      "venue": "Estadio Balaidos",
+      "city": "Vigo",
+      "home_team": "Poland",
+      "away_team": "Italy",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Marek KUSTO",
+          "player_off": "Andrzej IWAN",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozef MLYNARCZYK",
+          "Pawel JANAS",
+          "Jan JALOCHA",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Waldemar MATYSIK",
+          "Andrzej BUNCOL",
+          "Wlodimierz SMOLAREK",
+          "Grzegorz LATO",
+          "Andrzej IWAN",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Giampiero MARINI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-15",
+      "stage": "Group A",
+      "venue": "Estadio Riazor",
+      "city": "La Coruña",
+      "home_team": "Peru",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Geronimo BARBADILLO",
+          "player_off": "German LEGUIA",
+          "minute": "57"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Guillermo LA ROSA",
+          "player_off": "Teofilo CUBILLAS",
+          "minute": "57"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Paul BAHOKEN",
+          "player_off": "Jacques NGUEA",
+          "minute": "73"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Jean Pierre TOKOTO",
+          "player_off": "Roger MILLA",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rafael SALGUERO",
+          "Ruben DIAZ",
+          "Jorge OLAECHEA",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Julio Cesar URIBE",
+          "Teofilo CUBILLAS",
+          "German LEGUIA",
+          "Juan Carlos OBLITAS"
+        ],
+        "away": [
+          "Thomas NKONO",
+          "Michel KAHAM",
+          "Rene NDJEYA",
+          "Jean ONANA",
+          "Emmanuel KUNDE",
+          "Ephrem MBOM",
+          "Ibrahim AOUDOU",
+          "Gregoire MBIDA",
+          "Theophile ABEGA",
+          "Roger MILLA",
+          "Jacques NGUEA"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-18",
+      "stage": "Group A",
+      "venue": "Estadio Balaidos",
+      "city": "Vigo",
+      "home_team": "Italy",
+      "away_team": "Peru",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Bruno CONTI",
+          "minute": "18"
+        },
+        {
+          "team": "Peru",
+          "player": "Ruben DIAZ",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Franco CAUSIO",
+          "player_off": "Paolo ROSSI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Peru",
+          "player_on": "German LEGUIA",
+          "player_off": "Geronimo BARBADILLO",
+          "minute": "65"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Guillermo LA ROSA",
+          "player_off": "Julio Cesar URIBE",
+          "minute": "65"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Giampiero MARINI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rafael SALGUERO",
+          "Ruben DIAZ",
+          "Jorge OLAECHEA",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Julio Cesar URIBE",
+          "Teofilo CUBILLAS",
+          "Geronimo BARBADILLO",
+          "Juan Carlos OBLITAS"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-19",
+      "stage": "Group A",
+      "venue": "Estadio Riazor",
+      "city": "La Coruña",
+      "home_team": "Cameroon",
+      "away_team": "Poland",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Andrzej SZARMACH",
+          "player_off": "Andrzej IWAN",
+          "minute": "25"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Jean Pierre TOKOTO",
+          "player_off": "Jacques NGUEA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Marek KUSTO",
+          "player_off": "Andrzej PALASZ",
+          "minute": "66"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thomas NKONO",
+          "Michel KAHAM",
+          "Rene NDJEYA",
+          "Jean ONANA",
+          "Emmanuel KUNDE",
+          "Ephrem MBOM",
+          "Ibrahim AOUDOU",
+          "Gregoire MBIDA",
+          "Theophile ABEGA",
+          "Roger MILLA",
+          "Jacques NGUEA"
+        ],
+        "away": [
+          "Jozef MLYNARCZYK",
+          "Pawel JANAS",
+          "Jan JALOCHA",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Andrzej BUNCOL",
+          "Andrzej PALASZ",
+          "Wlodimierz SMOLAREK",
+          "Grzegorz LATO",
+          "Andrzej IWAN",
+          "Zbigniew BONIEK"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-22",
+      "stage": "Group A",
+      "venue": "Estadio Riazor",
+      "city": "La Coruña",
+      "home_team": "Poland",
+      "away_team": "Peru",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Wlodimierz SMOLAREK",
+          "minute": "55"
+        },
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "58"
+        },
+        {
+          "team": "Poland",
+          "player": "Zbigniew BONIEK",
+          "minute": "61"
+        },
+        {
+          "team": "Poland",
+          "player": "Andrzej BUNCOL",
+          "minute": "68"
+        },
+        {
+          "team": "Poland",
+          "player": "Wlodzimierz CIOLEK",
+          "minute": "76"
+        },
+        {
+          "team": "Peru",
+          "player": "Guillermo LA ROSA",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Marek DZIUBA",
+          "player_off": "Jan JALOCHA",
+          "minute": "26"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Geronimo BARBADILLO",
+          "player_off": "Juan Carlos OBLITAS",
+          "minute": "50"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Julio Cesar URIBE",
+          "player_off": "Teofilo CUBILLAS",
+          "minute": "50"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz CIOLEK",
+          "player_off": "Wlodimierz SMOLAREK",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozef MLYNARCZYK",
+          "Janusz KUPCEWICZ",
+          "Pawel JANAS",
+          "Jan JALOCHA",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Waldemar MATYSIK",
+          "Andrzej BUNCOL",
+          "Wlodimierz SMOLAREK",
+          "Grzegorz LATO",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Ramon QUIROGA",
+          "Jaime DUARTE",
+          "Rafael SALGUERO",
+          "Ruben DIAZ",
+          "Jorge OLAECHEA",
+          "Jose VELASQUEZ",
+          "Cesar CUETO",
+          "Teofilo CUBILLAS",
+          "German LEGUIA",
+          "Juan Carlos OBLITAS",
+          "Guillermo LA ROSA"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-23",
+      "stage": "Group A",
+      "venue": "Estadio Balaidos",
+      "city": "Vigo",
+      "home_team": "Italy",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Francesco GRAZIANI",
+          "minute": "60"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Gregoire MBIDA",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [],
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Gabriele ORIALI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Thomas NKONO",
+          "Michel KAHAM",
+          "Rene NDJEYA",
+          "Jean ONANA",
+          "Emmanuel KUNDE",
+          "Ephrem MBOM",
+          "Ibrahim AOUDOU",
+          "Gregoire MBIDA",
+          "Theophile ABEGA",
+          "Roger MILLA",
+          "Jean Pierre TOKOTO"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-16",
+      "stage": "Group B",
+      "venue": "Estadio El Molinón",
+      "city": "Gijón",
+      "home_team": "Algeria",
+      "away_team": "West Germany",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Algeria",
+          "player": "Rabah MADJER",
+          "minute": "54"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "67"
+        },
+        {
+          "team": "Algeria",
+          "player": "Lakhdar BELLOUMI",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Algeria",
+          "player_on": "Tedj BENSAOULA",
+          "player_off": "Djamel ZIDANE",
+          "minute": "64"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Klaus FISCHER",
+          "player_off": "Felix MAGATH",
+          "minute": "83"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Salah LARBES",
+          "player_off": "Rabah MADJER",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mahdi CERBAH",
+          "Mahmoud GUENDOUZ",
+          "Nordine KOURICHI",
+          "Chaabane MERZEKANE",
+          "Faouzi MANSOURI",
+          "Ali FERGANI",
+          "Lakhdar BELLOUMI",
+          "Djamel ZIDANE",
+          "Mustafa DAHLEB",
+          "Salah ASSAD",
+          "Rabah MADJER"
+        ],
+        "away": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Pierre LITTBARSKI",
+          "Felix MAGATH",
+          "Horst HRUBESCH",
+          "Karl-Heinz RUMMENIGGE"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-17",
+      "stage": "Group B",
+      "venue": "Estadio Carlos Tartiere",
+      "city": "Oviedo",
+      "home_team": "Austria",
+      "away_team": "Chile",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Walter SCHACHNER",
+          "minute": "22"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Miguel GAMBOA",
+          "player_off": "Gustavo MOSCOSO",
+          "minute": "69"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Manuel ROJAS",
+          "player_off": "Miguel NEIRA",
+          "minute": "71"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Ernst BAUMEISTER",
+          "player_off": "Josef DEGEORGI",
+          "minute": "78"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Gernot JURTIN",
+          "player_off": "Heribert WEBER",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Friedl KONCILIA",
+          "Bernd KRAUSS",
+          "Erich OBERMAYER",
+          "Josef DEGEORGI",
+          "Bruno PEZZEY",
+          "Heribert WEBER",
+          "Roland HATTENBERGER",
+          "Herbert PROHASKA",
+          "Reinhold HINTERMAIER",
+          "Walter SCHACHNER",
+          "Hans KRANKL"
+        ],
+        "away": [
+          "Mario OSBEN",
+          "Lizardo GARRIDO",
+          "Rene VALENZUELA",
+          "Vladimir BIGORRA",
+          "Elias FIGUEROA",
+          "Rodolfo DUBO",
+          "Eduardo BONVALLET",
+          "Miguel NEIRA",
+          "Gustavo MOSCOSO",
+          "Carlos CASZELY",
+          "Patricio YANEZ"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-20",
+      "stage": "Group B",
+      "venue": "Estadio El Molinón",
+      "city": "Gijón",
+      "home_team": "West Germany",
+      "away_team": "Chile",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "9"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "57"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "66"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe REINDERS",
+          "minute": "83"
+        },
+        {
+          "team": "Chile",
+          "player": "Gustavo MOSCOSO",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Juan LETELIER",
+          "player_off": "Mario SOTO",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Lothar MATTHAEUS",
+          "player_off": "Paul BREITNER",
+          "minute": "61"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Miguel NEIRA",
+          "player_off": "Miguel GAMBOA",
+          "minute": "66"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Uwe REINDERS",
+          "player_off": "Pierre LITTBARSKI",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Pierre LITTBARSKI",
+          "Felix MAGATH",
+          "Horst HRUBESCH",
+          "Karl-Heinz RUMMENIGGE"
+        ],
+        "away": [
+          "Mario OSBEN",
+          "Lizardo GARRIDO",
+          "Rene VALENZUELA",
+          "Vladimir BIGORRA",
+          "Elias FIGUEROA",
+          "Mario SOTO",
+          "Rodolfo DUBO",
+          "Eduardo BONVALLET",
+          "Gustavo MOSCOSO",
+          "Patricio YANEZ",
+          "Miguel GAMBOA"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-21",
+      "stage": "Group B",
+      "venue": "Estadio Carlos Tartiere",
+      "city": "Oviedo",
+      "home_team": "Austria",
+      "away_team": "Algeria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Walter SCHACHNER",
+          "minute": "55"
+        },
+        {
+          "team": "Austria",
+          "player": "Hans KRANKL",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Austria",
+          "player_on": "Kurt WELZL",
+          "player_off": "Ernst BAUMEISTER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Tedj BENSAOULA",
+          "player_off": "Lakhdar BELLOUMI",
+          "minute": "65"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Djamel TLEMCANI",
+          "player_off": "Mustafa DAHLEB",
+          "minute": "76"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Heribert WEBER",
+          "player_off": "Herbert PROHASKA",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Friedl KONCILIA",
+          "Bernd KRAUSS",
+          "Erich OBERMAYER",
+          "Josef DEGEORGI",
+          "Bruno PEZZEY",
+          "Roland HATTENBERGER",
+          "Herbert PROHASKA",
+          "Reinhold HINTERMAIER",
+          "Ernst BAUMEISTER",
+          "Walter SCHACHNER",
+          "Hans KRANKL"
+        ],
+        "away": [
+          "Mahdi CERBAH",
+          "Mahmoud GUENDOUZ",
+          "Nordine KOURICHI",
+          "Chaabane MERZEKANE",
+          "Faouzi MANSOURI",
+          "Ali FERGANI",
+          "Lakhdar BELLOUMI",
+          "Djamel ZIDANE",
+          "Mustafa DAHLEB",
+          "Salah ASSAD",
+          "Rabah MADJER"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-24",
+      "stage": "Group B",
+      "venue": "Estadio Carlos Tartiere",
+      "city": "Oviedo",
+      "home_team": "Algeria",
+      "away_team": "Chile",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Algeria",
+          "player": "Salah ASSAD",
+          "minute": "7"
+        },
+        {
+          "team": "Algeria",
+          "player": "Salah ASSAD",
+          "minute": "31"
+        },
+        {
+          "team": "Algeria",
+          "player": "Tedj BENSAOULA",
+          "minute": "35"
+        },
+        {
+          "team": "Chile",
+          "player": "Miguel NEIRA",
+          "minute": "59",
+          "penalty": true
+        },
+        {
+          "team": "Chile",
+          "player": "Juan LETELIER",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Algeria",
+          "player_on": "Hocine YAHI",
+          "player_off": "Abdelmajid BOUREBBOU",
+          "minute": "31"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Mario SOTO",
+          "player_off": "Eduardo BONVALLET",
+          "minute": "37"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Juan LETELIER",
+          "player_off": "Carlos CASZELY",
+          "minute": "58"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Mustafa DAHLEB",
+          "player_off": "Faouzi MANSOURI",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mahdi CERBAH",
+          "Mahmoud GUENDOUZ",
+          "Nordine KOURICHI",
+          "Chaabane MERZEKANE",
+          "Salah LARBES",
+          "Faouzi MANSOURI",
+          "Ali FERGANI",
+          "Salah ASSAD",
+          "Tedj BENSAOULA",
+          "Rabah MADJER",
+          "Abdelmajid BOUREBBOU"
+        ],
+        "away": [
+          "Mario OSBEN",
+          "Rene VALENZUELA",
+          "Vladimir BIGORRA",
+          "Elias FIGUEROA",
+          "Mario GALINDO",
+          "Rodolfo DUBO",
+          "Eduardo BONVALLET",
+          "Miguel NEIRA",
+          "Gustavo MOSCOSO",
+          "Carlos CASZELY",
+          "Patricio YANEZ"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-25",
+      "stage": "Group B",
+      "venue": "Estadio Balaidos",
+      "city": "Vigo",
+      "home_team": "West Germany",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Horst HRUBESCH",
+          "minute": "10"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Lothar MATTHAEUS",
+          "player_off": "Karl-Heinz RUMMENIGGE",
+          "minute": "66"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Klaus FISCHER",
+          "player_off": "Horst HRUBESCH",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Pierre LITTBARSKI",
+          "Felix MAGATH",
+          "Horst HRUBESCH",
+          "Karl-Heinz RUMMENIGGE"
+        ],
+        "away": [
+          "Friedl KONCILIA",
+          "Bernd KRAUSS",
+          "Erich OBERMAYER",
+          "Josef DEGEORGI",
+          "Bruno PEZZEY",
+          "Heribert WEBER",
+          "Roland HATTENBERGER",
+          "Herbert PROHASKA",
+          "Reinhold HINTERMAIER",
+          "Walter SCHACHNER",
+          "Hans KRANKL"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-13",
+      "stage": "Group C",
+      "venue": "Estadio Nou Camp",
+      "city": "Barcelona",
+      "home_team": "Belgium",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Erwin VANDENBERGH",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Jorge VALDANO",
+          "player_off": "Ramon DIAZ",
+          "minute": "63"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Luc MILLECAMPS",
+          "Marc BAECKE",
+          "Maurits DE SCHRIJVER",
+          "Frank VERCAUTEREN",
+          "Ludo COECK",
+          "Erwin VANDENBERGH",
+          "Jan CEULEMANS",
+          "Guy VANDERSMISSEN",
+          "Alex CZERNIATYNSKI"
+        ],
+        "away": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Diego MARADONA",
+          "Daniel BERTONI",
+          "Ramon DIAZ",
+          "Mario KEMPES"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-15",
+      "stage": "Group C",
+      "venue": "Nuevo Estadio",
+      "city": "Elche",
+      "home_team": "Hungary",
+      "away_team": "El Salvador",
+      "score": {
+        "home": 10,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Tibor NYILASI",
+          "minute": "4"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gabor POLOSKEI",
+          "minute": "11"
+        },
+        {
+          "team": "Hungary",
+          "player": "Laszlo FAZEKAS",
+          "minute": "23"
+        },
+        {
+          "team": "Hungary",
+          "player": "Jozsef TOTH",
+          "minute": "50"
+        },
+        {
+          "team": "Hungary",
+          "player": "Laszlo FAZEKAS",
+          "minute": "54"
+        },
+        {
+          "team": "El Salvador",
+          "player": "Luis RAMIREZ",
+          "minute": "64"
+        },
+        {
+          "team": "Hungary",
+          "player": "Laszlo KISS",
+          "minute": "69"
+        },
+        {
+          "team": "Hungary",
+          "player": "Lazar SZENTES",
+          "minute": "70"
+        },
+        {
+          "team": "Hungary",
+          "player": "Laszlo KISS",
+          "minute": "72"
+        },
+        {
+          "team": "Hungary",
+          "player": "Laszlo KISS",
+          "minute": "76"
+        },
+        {
+          "team": "Hungary",
+          "player": "Tibor NYILASI",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "El Salvador",
+          "player_on": "Luis RAMIREZ",
+          "player_off": "Jose RUGAMAS",
+          "minute": "26"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Laszlo KISS",
+          "player_off": "Andras TOROCSIK",
+          "minute": "56"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Lazar SZENTES",
+          "player_off": "Sandor MULLER",
+          "minute": "68"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Ramon FAGOAGA",
+          "player_off": "Joaquin VENTURA",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ferenc MESZAROS",
+          "Gyozo MARTOS",
+          "Laszlo BALINT",
+          "Jozsef TOTH",
+          "Imre GARABA",
+          "Sandor SALLAI",
+          "Sandor MULLER",
+          "Tibor NYILASI",
+          "Laszlo FAZEKAS",
+          "Andras TOROCSIK",
+          "Gabor POLOSKEI"
+        ],
+        "away": [
+          "Luis GUEVARA MORA",
+          "Mario CASTILLO",
+          "Jose JOVEL",
+          "Carlos RECINOS",
+          "Jaime RODRIGUEZ",
+          "Joaquin VENTURA",
+          "Jose RUGAMAS",
+          "Jose HUEZO",
+          "Francisco HERNANDEZ",
+          "Jorge GONZALEZ",
+          "Jose RIVAS"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-18",
+      "stage": "Group C",
+      "venue": "Estadio José Rico Pérez",
+      "city": "Alicante",
+      "home_team": "Argentina",
+      "away_team": "Hungary",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Daniel BERTONI",
+          "minute": "26"
+        },
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "28"
+        },
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "57"
+        },
+        {
+          "team": "Argentina",
+          "player": "Osvaldo ARDILES",
+          "minute": "60"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gabor POLOSKEI",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Gabriel CALDERON",
+          "player_off": "Jorge VALDANO",
+          "minute": "24"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Laszlo FAZEKAS",
+          "player_off": "Gyozo MARTOS",
+          "minute": "46"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Juan BARBAS",
+          "player_off": "Alberto TARANTINI",
+          "minute": "51"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Lazar SZENTES",
+          "player_off": "Laszlo KISS",
+          "minute": "61"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Diego MARADONA",
+          "Daniel BERTONI",
+          "Mario KEMPES",
+          "Jorge VALDANO"
+        ],
+        "away": [
+          "Ferenc MESZAROS",
+          "Gyozo MARTOS",
+          "Laszlo BALINT",
+          "Jozsef TOTH",
+          "Imre GARABA",
+          "Tibor RAB",
+          "Sandor SALLAI",
+          "Jozsef VARGA",
+          "Tibor NYILASI",
+          "Laszlo KISS",
+          "Gabor POLOSKEI"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-19",
+      "stage": "Group C",
+      "venue": "Nuevo Estadio",
+      "city": "Elche",
+      "home_team": "Belgium",
+      "away_team": "El Salvador",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Ludo COECK",
+          "minute": "19"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "El Salvador",
+          "player_on": "Miguel Angel DIAZ",
+          "player_off": "Francisco OSORTO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Wilfried VAN MOER",
+          "player_off": "Jan CEULEMANS",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Luc MILLECAMPS",
+          "Walter MEEUWS",
+          "Marc BAECKE",
+          "Frank VERCAUTEREN",
+          "Ludo COECK",
+          "Erwin VANDENBERGH",
+          "Jan CEULEMANS",
+          "Guy VANDERSMISSEN",
+          "Alex CZERNIATYNSKI"
+        ],
+        "away": [
+          "Luis GUEVARA MORA",
+          "Jose JOVEL",
+          "Carlos RECINOS",
+          "Ramon FAGOAGA",
+          "Francisco OSORTO",
+          "Jaime RODRIGUEZ",
+          "Joaquin VENTURA",
+          "Jose HUEZO",
+          "Jorge GONZALEZ",
+          "Jose RIVAS",
+          "Luis RAMIREZ"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-22",
+      "stage": "Group C",
+      "venue": "Nuevo Estadio",
+      "city": "Elche",
+      "home_team": "Belgium",
+      "away_team": "Hungary",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Jozsef VARGA",
+          "minute": "27"
+        },
+        {
+          "team": "Belgium",
+          "player": "Alex CZERNIATYNSKI",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Wilfried VAN MOER",
+          "player_off": "Guy VANDERSMISSEN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Gerard PLESSERS",
+          "player_off": "Eric GERETS",
+          "minute": "62"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Sandor SALLAI",
+          "player_off": "Sandor MULLER",
+          "minute": "67"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Ferenc CSONGRADI",
+          "player_off": "Laszlo KISS",
+          "minute": "70"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Luc MILLECAMPS",
+          "Walter MEEUWS",
+          "Marc BAECKE",
+          "Frank VERCAUTEREN",
+          "Ludo COECK",
+          "Erwin VANDENBERGH",
+          "Jan CEULEMANS",
+          "Guy VANDERSMISSEN",
+          "Alex CZERNIATYNSKI"
+        ],
+        "away": [
+          "Ferenc MESZAROS",
+          "Gyozo MARTOS",
+          "Imre GARABA",
+          "Attila KEREKES",
+          "Jozsef VARGA",
+          "Sandor MULLER",
+          "Tibor NYILASI",
+          "Laszlo FAZEKAS",
+          "Andras TOROCSIK",
+          "Laszlo KISS",
+          "Gabor POLOSKEI"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-23",
+      "stage": "Group C",
+      "venue": "Estadio José Rico Pérez",
+      "city": "Alicante",
+      "home_team": "Argentina",
+      "away_team": "El Salvador",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Daniel PASSARELLA",
+          "minute": "22",
+          "penalty": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Daniel BERTONI",
+          "minute": "54"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "El Salvador",
+          "player_on": "Miguel Angel DIAZ",
+          "player_off": "Francisco OSORTO",
+          "minute": "33"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Ramon DIAZ",
+          "player_off": "Daniel BERTONI",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Santiago SANTAMARIA",
+          "player_off": "Gabriel CALDERON",
+          "minute": "78"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Mauricio ALFARO",
+          "player_off": "Joaquin VENTURA",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Diego MARADONA",
+          "Daniel BERTONI",
+          "Gabriel CALDERON",
+          "Mario KEMPES"
+        ],
+        "away": [
+          "Luis GUEVARA MORA",
+          "Jose JOVEL",
+          "Carlos RECINOS",
+          "Francisco OSORTO",
+          "Jaime RODRIGUEZ",
+          "Joaquin VENTURA",
+          "Jose RUGAMAS",
+          "Jose HUEZO",
+          "Jorge GONZALEZ",
+          "Jose RIVAS",
+          "Luis RAMIREZ"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-16",
+      "stage": "Group D",
+      "venue": "Estadio San Mamés",
+      "city": "Bilbao",
+      "home_team": "England",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Bryan ROBSON",
+          "minute": "1"
+        },
+        {
+          "team": "France",
+          "player": "Gerard SOLER",
+          "minute": "24"
+        },
+        {
+          "team": "England",
+          "player": "Bryan ROBSON",
+          "minute": "67"
+        },
+        {
+          "team": "England",
+          "player": "Paul MARINER",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Didier SIX",
+          "player_off": "Dominique ROCHETEAU",
+          "minute": "71"
+        },
+        {
+          "team": "France",
+          "player_on": "Jean TIGANA",
+          "player_off": "Jean Francois LARIOS",
+          "minute": "74"
+        },
+        {
+          "team": "England",
+          "player_on": "Philip NEAL",
+          "player_off": "Kenny SANSOM",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Terry BUTCHER",
+          "Mick MILLS",
+          "Kenny SANSOM",
+          "Phil THOMPSON",
+          "Steve COPPELL",
+          "Graham RIX",
+          "Bryan ROBSON",
+          "Ray WILKINS",
+          "Trevor FRANCIS",
+          "Paul MARINER"
+        ],
+        "away": [
+          "Jean Luc ETTORI",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Christian LOPEZ",
+          "Marius TRESOR",
+          "Michel PLATINI",
+          "Rene GIRARD",
+          "Alain GIRESSE",
+          "Jean Francois LARIOS",
+          "Dominique ROCHETEAU",
+          "Gerard SOLER"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-17",
+      "stage": "Group D",
+      "venue": "Nuevo Estadio José Zorilla",
+      "city": "Valladolid",
+      "home_team": "Czechoslovakia",
+      "away_team": "Kuwait",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Antonin PANENKA",
+          "minute": "21",
+          "penalty": true
+        },
+        {
+          "team": "Kuwait",
+          "player": "Faisal AL DAKHIL",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Kuwait",
+          "player_on": "Fathi MATAR",
+          "player_off": "Mohamed KARAM",
+          "minute": "57"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Premysl BICOVSKY",
+          "player_off": "Tomas KRIZ",
+          "minute": "61"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Vlastimil PETRZELA",
+          "player_off": "Petr JANECKA",
+          "minute": "68"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Zdenek HRUSKA",
+          "Jan FIALA",
+          "Ladislav JURKEMIK",
+          "Jozef BARMOS",
+          "Jozef KUKUCKA",
+          "Antonin PANENKA",
+          "Jan BERGER",
+          "Ladislav VIZEK",
+          "Tomas KRIZ",
+          "Zdenek NEHODA",
+          "Petr JANECKA"
+        ],
+        "away": [
+          "Ahmed AL TARABULSI",
+          "Naim FAJAH",
+          "MAHBOUB MUBARAK",
+          "Walid AL MUBARAK",
+          "Abdullah MAYUF",
+          "Saad AL HUTTI",
+          "Abdulaziz AL BALUSHI",
+          "Mohamed KARAM",
+          "Jasem SULTAN",
+          "Abdulaziz AL ANBARI",
+          "Faisal AL DAKHIL"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-20",
+      "stage": "Group D",
+      "venue": "Estadio San Mamés",
+      "city": "Bilbao",
+      "home_team": "England",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Trevor FRANCIS",
+          "minute": "62"
+        },
+        {
+          "team": "England",
+          "player": "Jozef BARMOS",
+          "minute": "66",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Glenn HODDLE",
+          "player_off": "Bryan ROBSON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Karel STROMSIK",
+          "player_off": "Stanislav SEMAN",
+          "minute": "75"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Marian MASNY",
+          "player_off": "Petr JANECKA",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Terry BUTCHER",
+          "Mick MILLS",
+          "Kenny SANSOM",
+          "Phil THOMPSON",
+          "Steve COPPELL",
+          "Graham RIX",
+          "Bryan ROBSON",
+          "Ray WILKINS",
+          "Trevor FRANCIS",
+          "Paul MARINER"
+        ],
+        "away": [
+          "Stanislav SEMAN",
+          "Jan FIALA",
+          "Ladislav JURKEMIK",
+          "Jozef BARMOS",
+          "Rostilav VOJACEK",
+          "Libor RADIMEC",
+          "Jan BERGER",
+          "Pavel CHALOUPKA",
+          "Ladislav VIZEK",
+          "Zdenek NEHODA",
+          "Petr JANECKA"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-21",
+      "stage": "Group D",
+      "venue": "Nuevo Estadio José Zorilla",
+      "city": "Valladolid",
+      "home_team": "France",
+      "away_team": "Kuwait",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Bernard GENGHINI",
+          "minute": "31"
+        },
+        {
+          "team": "France",
+          "player": "Michel PLATINI",
+          "minute": "43"
+        },
+        {
+          "team": "France",
+          "player": "Didier SIX",
+          "minute": "48"
+        },
+        {
+          "team": "Kuwait",
+          "player": "Abdulaziz AL BALUSHI",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player": "Maxime BOSSIS",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Kuwait",
+          "player_on": "Fathi MATAR",
+          "player_off": "Mohamed KARAM",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Christian LOPEZ",
+          "player_off": "Gerard JANVION",
+          "minute": "59"
+        },
+        {
+          "team": "Kuwait",
+          "player_on": "Hamud AL SHEMMARI",
+          "player_off": "Walid AL MUBARAK",
+          "minute": "78"
+        },
+        {
+          "team": "France",
+          "player_on": "Rene GIRARD",
+          "player_off": "Michel PLATINI",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Luc ETTORI",
+          "Manuel AMOROS",
+          "Maxime BOSSIS",
+          "Gerard JANVION",
+          "Marius TRESOR",
+          "Bernard GENGHINI",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Bernard LACOMBE",
+          "Didier SIX",
+          "Gerard SOLER"
+        ],
+        "away": [
+          "Ahmed AL TARABULSI",
+          "Naim FAJAH",
+          "MAHBOUB MUBARAK",
+          "Walid AL MUBARAK",
+          "Abdullah MAYUF",
+          "Saad AL HUTTI",
+          "Abdulaziz AL BALUSHI",
+          "Mohamed KARAM",
+          "Jasem SULTAN",
+          "Abdulaziz AL ANBARI",
+          "Faisal AL DAKHIL"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-24",
+      "stage": "Group D",
+      "venue": "Nuevo Estadio José Zorilla",
+      "city": "Valladolid",
+      "home_team": "Czechoslovakia",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Didier SIX",
+          "minute": "66"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Antonin PANENKA",
+          "minute": "84",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Marian MASNY",
+          "player_off": "Tomas KRIZ",
+          "minute": "31"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Antonin PANENKA",
+          "player_off": "Petr JANECKA",
+          "minute": "70"
+        },
+        {
+          "team": "France",
+          "player_on": "Alain COURIOL",
+          "player_off": "Bernard LACOMBE",
+          "minute": "70"
+        },
+        {
+          "team": "France",
+          "player_on": "Rene GIRARD",
+          "player_off": "Gerard SOLER",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Karel STROMSIK",
+          "Jan FIALA",
+          "Jozef BARMOS",
+          "Rostilav VOJACEK",
+          "Libor RADIMEC",
+          "Premysl BICOVSKY",
+          "Frantisek STAMBACHER",
+          "Ladislav VIZEK",
+          "Tomas KRIZ",
+          "Zdenek NEHODA",
+          "Petr JANECKA"
+        ],
+        "away": [
+          "Jean Luc ETTORI",
+          "Manuel AMOROS",
+          "Maxime BOSSIS",
+          "Gerard JANVION",
+          "Marius TRESOR",
+          "Bernard GENGHINI",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Bernard LACOMBE",
+          "Didier SIX",
+          "Gerard SOLER"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-25",
+      "stage": "Group D",
+      "venue": "Estadio San Mamés",
+      "city": "Bilbao",
+      "home_team": "England",
+      "away_team": "Kuwait",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Trevor FRANCIS",
+          "minute": "27"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Kuwait",
+          "player_on": "Hamud AL SHEMMARI",
+          "player_off": "Walid AL MUBARAK",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Steve FOSTER",
+          "Mick MILLS",
+          "Philip NEAL",
+          "Phil THOMPSON",
+          "Steve COPPELL",
+          "Glenn HODDLE",
+          "Graham RIX",
+          "Ray WILKINS",
+          "Trevor FRANCIS",
+          "Paul MARINER"
+        ],
+        "away": [
+          "Ahmed AL TARABULSI",
+          "Naim FAJAH",
+          "MAHBOUB MUBARAK",
+          "Walid AL MUBARAK",
+          "Abdullah MAYUF",
+          "Saad AL HUTTI",
+          "Fathi MATAR",
+          "Abdulaziz AL BALUSHI",
+          "Yusuf FARAJ",
+          "Abdulaziz AL ANBARI",
+          "Faisal AL DAKHIL"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-16",
+      "stage": "Group E",
+      "venue": "Estadio Luis Casanova",
+      "city": "Valencia",
+      "home_team": "Honduras",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Honduras",
+          "player": "Hector ZELAYA",
+          "minute": "7"
+        },
+        {
+          "team": "Spain",
+          "player": "LOPEZ UFARTE",
+          "minute": "65",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Enrique SAURA",
+          "player_off": "JUANITO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jose SANCHEZ",
+          "player_off": "Joaquin ALONSO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Carlos CABELLERO",
+          "player_off": "Prudencio NORALES",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Julio Cesar ARZU",
+          "Cesar GUTIERREZ",
+          "Jaime VILLEGAS",
+          "Jose BULNES",
+          "Allan COSTLY",
+          "Ramon MARADIAGA",
+          "Hector ZELAYA",
+          "Gilberto YEARWOOD",
+          "Porfirio BETANCOURT",
+          "Jose FIGUEROA",
+          "Prudencio NORALES"
+        ],
+        "away": [
+          "Luis ARCONADA",
+          "Jose Antonio CAMACHO",
+          "Rafael GORDILLO",
+          "Miguel TENDILLO",
+          "Jose ALEXANKO",
+          "Miguel ALONSO",
+          "Joaquin ALONSO",
+          "Jesus ZAMORA",
+          "JUANITO",
+          "Jesus SATRUSTEGUI",
+          "LOPEZ UFARTE"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-17",
+      "stage": "Group E",
+      "venue": "Estadio La Romereda",
+      "city": "Zaragoza",
+      "home_team": "Northern Ireland",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [],
+      "lineup": {
+        "home": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "Chris NICHOLL",
+          "John McCLELLAND",
+          "David McCREERY",
+          "Martin O NEILL",
+          "Sam McILROY",
+          "Gerry ARMSTRONG",
+          "Billy HAMILTON",
+          "Norman WHITESIDE"
+        ],
+        "away": [
+          "Dragan PANTELIC",
+          "Velimir ZAJEC",
+          "Nenad STOJKOVIC",
+          "Nikola JOVANOVIC",
+          "Milos HRSTIC",
+          "Ivan GUDELJ",
+          "Vladimir PETROVIC",
+          "Edhem SLJIVO",
+          "Zlatko VUJOVIC",
+          "Safet SUSIC",
+          "Ivica SURJAK"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-20",
+      "stage": "Group E",
+      "venue": "Estadio Luis Casanova",
+      "city": "Valencia",
+      "home_team": "Spain",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Ivan GUDELJ",
+          "minute": "10"
+        },
+        {
+          "team": "Spain",
+          "player": "JUANITO",
+          "minute": "14",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "Enrique SAURA",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Enrique SAURA",
+          "player_off": "Jesus SATRUSTEGUI",
+          "minute": "63"
+        },
+        {
+          "team": "Spain",
+          "player_on": "QUINI",
+          "player_off": "Jose SANCHEZ",
+          "minute": "63"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Vahid HALILHODZIC",
+          "player_off": "Nikola JOVANOVIC",
+          "minute": "74"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Milos SESTIC",
+          "player_off": "Zlatko VUJOVIC",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Luis ARCONADA",
+          "Jose Antonio CAMACHO",
+          "Rafael GORDILLO",
+          "Miguel TENDILLO",
+          "Jose ALEXANKO",
+          "Miguel ALONSO",
+          "Jesus ZAMORA",
+          "Jose SANCHEZ",
+          "JUANITO",
+          "Jesus SATRUSTEGUI",
+          "LOPEZ UFARTE"
+        ],
+        "away": [
+          "Dragan PANTELIC",
+          "Velimir ZAJEC",
+          "Nenad STOJKOVIC",
+          "Zlatko KRMPOTIC",
+          "Nikola JOVANOVIC",
+          "Ivan GUDELJ",
+          "Vladimir PETROVIC",
+          "Edhem SLJIVO",
+          "Zlatko VUJOVIC",
+          "Safet SUSIC",
+          "Ivica SURJAK"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-21",
+      "stage": "Group E",
+      "venue": "Estadio La Romereda",
+      "city": "Zaragoza",
+      "home_team": "Honduras",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Gerry ARMSTRONG",
+          "minute": "9"
+        },
+        {
+          "team": "Honduras",
+          "player": "Eduardo LAING",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Honduras",
+          "player_on": "Eduardo LAING",
+          "player_off": "Prudencio NORALES",
+          "minute": "58"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Noel BROTHERSTON",
+          "player_off": "Norman WHITESIDE",
+          "minute": "66"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Felix HEALEY",
+          "player_off": "Martin O NEILL",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Julio Cesar ARZU",
+          "Cesar GUTIERREZ",
+          "Jaime VILLEGAS",
+          "Allan COSTLY",
+          "Jose CRUZ",
+          "Ramon MARADIAGA",
+          "Hector ZELAYA",
+          "Gilberto YEARWOOD",
+          "Porfirio BETANCOURT",
+          "Jose FIGUEROA",
+          "Prudencio NORALES"
+        ],
+        "away": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "Chris NICHOLL",
+          "John McCLELLAND",
+          "David McCREERY",
+          "Martin O NEILL",
+          "Sam McILROY",
+          "Gerry ARMSTRONG",
+          "Billy HAMILTON",
+          "Norman WHITESIDE"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-24",
+      "stage": "Group E",
+      "venue": "Estadio La Romereda",
+      "city": "Zaragoza",
+      "home_team": "Yugoslavia",
+      "away_team": "Honduras",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Vladimir PETROVIC",
+          "minute": "88",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Vahid HALILHODZIC",
+          "player_off": "Nikola JOVANOVIC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Milos SESTIC",
+          "player_off": "Zlatko VUJOVIC",
+          "minute": "62"
+        },
+        {
+          "team": "Honduras",
+          "player_on": "Eduardo LAING",
+          "player_off": "Juan CRUZ",
+          "minute": "65"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dragan PANTELIC",
+          "Velimir ZAJEC",
+          "Nenad STOJKOVIC",
+          "Zlatko KRMPOTIC",
+          "Nikola JOVANOVIC",
+          "Ivan GUDELJ",
+          "Vladimir PETROVIC",
+          "Edhem SLJIVO",
+          "Zlatko VUJOVIC",
+          "Safet SUSIC",
+          "Ivica SURJAK"
+        ],
+        "away": [
+          "Julio Cesar ARZU",
+          "Jaime VILLEGAS",
+          "Jose BULNES",
+          "Allan COSTLY",
+          "Domingo DRUMMOND",
+          "Ramon MARADIAGA",
+          "Juan CRUZ",
+          "Hector ZELAYA",
+          "Gilberto YEARWOOD",
+          "Porfirio BETANCOURT",
+          "Jose FIGUEROA"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-25",
+      "stage": "Group E",
+      "venue": "Estadio Luis Casanova",
+      "city": "Valencia",
+      "home_team": "Northern Ireland",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Gerry ARMSTRONG",
+          "minute": "47"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "QUINI",
+          "player_off": "Jesus SATRUSTEGUI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Tommy CASSIDY",
+          "player_off": "Sam McILROY",
+          "minute": "50"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Sammy NELSON",
+          "player_off": "Norman WHITESIDE",
+          "minute": "73"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Ricardo GALLEGO",
+          "player_off": "LOPEZ UFARTE",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "Chris NICHOLL",
+          "John McCLELLAND",
+          "David McCREERY",
+          "Martin O NEILL",
+          "Sam McILROY",
+          "Gerry ARMSTRONG",
+          "Billy HAMILTON",
+          "Norman WHITESIDE"
+        ],
+        "away": [
+          "Luis ARCONADA",
+          "Jose Antonio CAMACHO",
+          "Rafael GORDILLO",
+          "Miguel TENDILLO",
+          "Jose ALEXANKO",
+          "Miguel ALONSO",
+          "Enrique SAURA",
+          "Jose SANCHEZ",
+          "JUANITO",
+          "Jesus SATRUSTEGUI",
+          "LOPEZ UFARTE"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-14",
+      "stage": "Group F",
+      "venue": "Estadio Sanchez Pizjuan",
+      "city": "Seville",
+      "home_team": "Brazil",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Andrei BAL",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player": "SOCRATES",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player": "EDER",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "PAULO ISIDORO",
+          "player_off": "DIRCEU",
+          "minute": "45+1"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Yuri SUSLOPAROV",
+          "player_off": "Yuri GAVRILOV",
+          "minute": "74"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei ANDREYEV",
+          "player_off": "Ramaz SHENGELIA",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "WALDIR PERES",
+          "LEANDRO",
+          "OSCAR",
+          "LUIZINHO",
+          "JUNIOR",
+          "SOCRATES",
+          "ZICO",
+          "EDER",
+          "FALCAO",
+          "SERGINHO",
+          "DIRCEU"
+        ],
+        "away": [
+          "Rinat DASAEV",
+          "Tengiz SULAKVELIDZE",
+          "Aleksandre CHIVADZE",
+          "Sergei BALTACHA",
+          "Anatoli DEMYANENKO",
+          "Vladimir BESSONOV",
+          "Yuri GAVRILOV",
+          "Andrei BAL",
+          "Vitali DARASELIA",
+          "Ramaz SHENGELIA",
+          "Oleg BLOKHIN"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-15",
+      "stage": "Group F",
+      "venue": "Estadio La Rosaleda",
+      "city": "Malaga",
+      "home_team": "Scotland",
+      "away_team": "New Zealand",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Kenny DALGLISH",
+          "minute": "18"
+        },
+        {
+          "team": "Scotland",
+          "player": "John WARK",
+          "minute": "29"
+        },
+        {
+          "team": "Scotland",
+          "player": "John WARK",
+          "minute": "32"
+        },
+        {
+          "team": "New Zealand",
+          "player": "Steve SUMNER",
+          "minute": "54"
+        },
+        {
+          "team": "New Zealand",
+          "player": "Steve WOODDIN",
+          "minute": "64"
+        },
+        {
+          "team": "Scotland",
+          "player": "John ROBERTSON",
+          "minute": "73"
+        },
+        {
+          "team": "Scotland",
+          "player": "Steve ARCHIBALD",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Steve ARCHIBALD",
+          "player_off": "Alan BRAZIL",
+          "minute": "53"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Ricki HERBERT",
+          "player_off": "Robert ALMOND",
+          "minute": "66"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Duncan COLE",
+          "player_off": "Sam MALCOLMSON",
+          "minute": "77"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "David NAREY",
+          "player_off": "Gordon STRACHAN",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alan ROUGH",
+          "Danny McGRAIN",
+          "Frank GRAY",
+          "Alan HANSEN",
+          "Allan EVANS",
+          "Graeme SOUNESS",
+          "Gordon STRACHAN",
+          "John WARK",
+          "Kenny DALGLISH",
+          "Alan BRAZIL",
+          "John ROBERTSON"
+        ],
+        "away": [
+          "Frank VAN HATTUM",
+          "Robert ALMOND",
+          "Sam MALCOLMSON",
+          "Adrian ELRICK",
+          "John HILL",
+          "Steve SUMNER",
+          "Keith McKAY",
+          "Kenny CRESSWELL",
+          "Allan BOATH",
+          "Wynton RUFER",
+          "Steve WOODDIN"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-18",
+      "stage": "Group F",
+      "venue": "Estadio Benito Villamarin",
+      "city": "Seville",
+      "home_team": "Brazil",
+      "away_team": "Scotland",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "David NAREY",
+          "minute": "18"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZICO",
+          "minute": "33"
+        },
+        {
+          "team": "Brazil",
+          "player": "OSCAR",
+          "minute": "48"
+        },
+        {
+          "team": "Brazil",
+          "player": "EDER",
+          "minute": "63"
+        },
+        {
+          "team": "Brazil",
+          "player": "FALCAO",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Kenny DALGLISH",
+          "player_off": "Gordon STRACHAN",
+          "minute": "65"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Alex McLEISH",
+          "player_off": "Asa HARTFORD",
+          "minute": "68"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO ISIDORO",
+          "player_off": "SERGINHO",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "WALDIR PERES",
+          "LEANDRO",
+          "OSCAR",
+          "LUIZINHO",
+          "JUNIOR",
+          "TONINHO CEREZO",
+          "SOCRATES",
+          "ZICO",
+          "EDER",
+          "FALCAO",
+          "SERGINHO"
+        ],
+        "away": [
+          "Alan ROUGH",
+          "Frank GRAY",
+          "Alan HANSEN",
+          "Willie MILLER",
+          "David NAREY",
+          "Graeme SOUNESS",
+          "Gordon STRACHAN",
+          "John WARK",
+          "Asa HARTFORD",
+          "John ROBERTSON",
+          "Steve ARCHIBALD"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-19",
+      "stage": "Group F",
+      "venue": "Estadio La Rosaleda",
+      "city": "Malaga",
+      "home_team": "Soviet Union",
+      "away_team": "New Zealand",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Yuri GAVRILOV",
+          "minute": "24"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Oleg BLOKHIN",
+          "minute": "48"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Sergei BALTACHA",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Khoren OGANESIAN",
+          "player_off": "Vitali DARASELIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei RODIONOV",
+          "player_off": "Yuri GAVRILOV",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Rinat DASAEV",
+          "Tengiz SULAKVELIDZE",
+          "Aleksandre CHIVADZE",
+          "Sergei BALTACHA",
+          "Anatoli DEMYANENKO",
+          "Vladimir BESSONOV",
+          "Yuri GAVRILOV",
+          "Andrei BAL",
+          "Vitali DARASELIA",
+          "Ramaz SHENGELIA",
+          "Oleg BLOKHIN"
+        ],
+        "away": [
+          "Frank VAN HATTUM",
+          "Glen DODS",
+          "Ricki HERBERT",
+          "Adrian ELRICK",
+          "Duncan COLE",
+          "Steve SUMNER",
+          "Keith McKAY",
+          "Kenny CRESSWELL",
+          "Allan BOATH",
+          "Wynton RUFER",
+          "Steve WOODDIN"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-22",
+      "stage": "Group F",
+      "venue": "Estadio La Rosaleda",
+      "city": "Malaga",
+      "home_team": "Scotland",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Joe JORDAN",
+          "minute": "15"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Aleksandre CHIVADZE",
+          "minute": "59"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Ramaz SHENGELIA",
+          "minute": "84"
+        },
+        {
+          "team": "Scotland",
+          "player": "Graeme SOUNESS",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Danny McGRAIN",
+          "player_off": "Joe JORDAN",
+          "minute": "71"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Alan BRAZIL",
+          "player_off": "Gordon STRACHAN",
+          "minute": "71"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei ANDREYEV",
+          "player_off": "Ramaz SHENGELIA",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Alan ROUGH",
+          "Frank GRAY",
+          "Alan HANSEN",
+          "Willie MILLER",
+          "David NAREY",
+          "Graeme SOUNESS",
+          "Gordon STRACHAN",
+          "John WARK",
+          "John ROBERTSON",
+          "Joe JORDAN",
+          "Steve ARCHIBALD"
+        ],
+        "away": [
+          "Rinat DASAEV",
+          "Tengiz SULAKVELIDZE",
+          "Aleksandre CHIVADZE",
+          "Sergei BALTACHA",
+          "Anatoli DEMYANENKO",
+          "Sergei BOROVSKI",
+          "Vladimir BESSONOV",
+          "Yuri GAVRILOV",
+          "Andrei BAL",
+          "Ramaz SHENGELIA",
+          "Oleg BLOKHIN"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-23",
+      "stage": "Group F",
+      "venue": "Estadio Benito Villamarin",
+      "city": "Seville",
+      "home_team": "Brazil",
+      "away_team": "New Zealand",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ZICO",
+          "minute": "28"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZICO",
+          "minute": "31"
+        },
+        {
+          "team": "Brazil",
+          "player": "FALCAO",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player": "SERGINHO",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "EDINHO",
+          "player_off": "SERGINHO",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO ISIDORO",
+          "player_off": "OSCAR",
+          "minute": "75"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Brian TURNER",
+          "player_off": "Wynton RUFER",
+          "minute": "78"
+        },
+        {
+          "team": "New Zealand",
+          "player_on": "Duncan COLE",
+          "player_off": "Kenny CRESSWELL",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "WALDIR PERES",
+          "LEANDRO",
+          "OSCAR",
+          "LUIZINHO",
+          "JUNIOR",
+          "TONINHO CEREZO",
+          "SOCRATES",
+          "ZICO",
+          "EDER",
+          "FALCAO",
+          "SERGINHO"
+        ],
+        "away": [
+          "Frank VAN HATTUM",
+          "Glen DODS",
+          "Ricki HERBERT",
+          "Robert ALMOND",
+          "Adrian ELRICK",
+          "Steve SUMNER",
+          "Keith McKAY",
+          "Kenny CRESSWELL",
+          "Allan BOATH",
+          "Wynton RUFER",
+          "Steve WOODDIN"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-28",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Nou Camp",
+      "city": "Barcelona",
+      "home_team": "Poland",
+      "away_team": "Belgium",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Zbigniew BONIEK",
+          "minute": "4"
+        },
+        {
+          "team": "Poland",
+          "player": "Zbigniew BONIEK",
+          "minute": "26"
+        },
+        {
+          "team": "Poland",
+          "player": "Zbigniew BONIEK",
+          "minute": "53"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Francois VAN DER ELST",
+          "player_off": "Wilfried VAN MOER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz CIOLEK",
+          "player_off": "Janusz KUPCEWICZ",
+          "minute": "82"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Marc BAECKE",
+          "player_off": "Gerard PLESSERS",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozef MLYNARCZYK",
+          "Marek DZIUBA",
+          "Janusz KUPCEWICZ",
+          "Pawel JANAS",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Waldemar MATYSIK",
+          "Andrzej BUNCOL",
+          "Wlodimierz SMOLAREK",
+          "Grzegorz LATO",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Theo CUSTERS",
+          "Luc MILLECAMPS",
+          "Walter MEEUWS",
+          "Michel RENQUIN",
+          "Gerard PLESSERS",
+          "Frank VERCAUTEREN",
+          "Wilfried VAN MOER",
+          "Ludo COECK",
+          "Erwin VANDENBERGH",
+          "Jan CEULEMANS",
+          "Alex CZERNIATYNSKI"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-01",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Nou Camp",
+      "city": "Barcelona",
+      "home_team": "Soviet Union",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Khoren OGANESIAN",
+          "minute": "48"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Marc MILLECAMPS",
+          "player_off": "Maurits DE SCHRIJVER",
+          "minute": "65"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Alex CZERNIATYNSKI",
+          "player_off": "Guy VANDERSMISSEN",
+          "minute": "67"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Vitali DARASELIA",
+          "player_off": "Andrei BAL",
+          "minute": "87"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei RODIONOV",
+          "player_off": "Ramaz SHENGELIA",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Rinat DASAEV",
+          "Aleksandre CHIVADZE",
+          "Sergei BALTACHA",
+          "Anatoli DEMYANENKO",
+          "Sergei BOROVSKI",
+          "Vladimir BESSONOV",
+          "Yuri GAVRILOV",
+          "Khoren OGANESIAN",
+          "Andrei BAL",
+          "Ramaz SHENGELIA",
+          "Oleg BLOKHIN"
+        ],
+        "away": [
+          "Jacques MUNARON",
+          "Luc MILLECAMPS",
+          "Walter MEEUWS",
+          "Michel RENQUIN",
+          "Maurits DE SCHRIJVER",
+          "Frank VERCAUTEREN",
+          "Ludo COECK",
+          "Rene VERHEYEN",
+          "Erwin VANDENBERGH",
+          "Jan CEULEMANS",
+          "Guy VANDERSMISSEN"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-04",
+      "stage": "Second-phase Group 1",
+      "venue": "Estadio Nou Camp",
+      "city": "Barcelona",
+      "home_team": "Poland",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Wlodzimierz CIOLEK",
+          "player_off": "Janusz KUPCEWICZ",
+          "minute": "52"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei ANDREYEV",
+          "player_off": "Ramaz SHENGELIA",
+          "minute": "57"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Vitali DARASELIA",
+          "player_off": "Yuri GAVRILOV",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozef MLYNARCZYK",
+          "Marek DZIUBA",
+          "Janusz KUPCEWICZ",
+          "Pawel JANAS",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Waldemar MATYSIK",
+          "Andrzej BUNCOL",
+          "Wlodimierz SMOLAREK",
+          "Grzegorz LATO",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Rinat DASAEV",
+          "Tengiz SULAKVELIDZE",
+          "Aleksandre CHIVADZE",
+          "Sergei BALTACHA",
+          "Anatoli DEMYANENKO",
+          "Sergei BOROVSKI",
+          "Vladimir BESSONOV",
+          "Yuri GAVRILOV",
+          "Khoren OGANESIAN",
+          "Ramaz SHENGELIA",
+          "Oleg BLOKHIN"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-29",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Santiago Bernabéu",
+      "city": "Madrid",
+      "home_team": "England",
+      "away_team": "West Germany",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Uwe REINDERS",
+          "minute": "63"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Klaus FISCHER",
+          "player_off": "Hansi MUELLER",
+          "minute": "74"
+        },
+        {
+          "team": "England",
+          "player_on": "Tony WOODCOCK",
+          "player_off": "Trevor FRANCIS",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Terry BUTCHER",
+          "Mick MILLS",
+          "Kenny SANSOM",
+          "Phil THOMPSON",
+          "Steve COPPELL",
+          "Graham RIX",
+          "Bryan ROBSON",
+          "Ray WILKINS",
+          "Trevor FRANCIS",
+          "Paul MARINER"
+        ],
+        "away": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Bernd FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Hansi MUELLER",
+          "Karl-Heinz RUMMENIGGE",
+          "Uwe REINDERS"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-02",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Santiago Bernabéu",
+      "city": "Madrid",
+      "home_team": "West Germany",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Pierre LITTBARSKI",
+          "minute": "50"
+        },
+        {
+          "team": "West Germany",
+          "player": "Klaus FISCHER",
+          "minute": "75"
+        },
+        {
+          "team": "Spain",
+          "player": "Jesus ZAMORA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "LOPEZ UFARTE",
+          "player_off": "JUANITO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jose SANCHEZ",
+          "player_off": "QUINI",
+          "minute": "65"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Bernd FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Pierre LITTBARSKI",
+          "Klaus FISCHER",
+          "Karl-Heinz RUMMENIGGE"
+        ],
+        "away": [
+          "Luis ARCONADA",
+          "Jose Antonio CAMACHO",
+          "Rafael GORDILLO",
+          "Miguel TENDILLO",
+          "Jose ALEXANKO",
+          "Santiago URQUIAGA",
+          "Miguel ALONSO",
+          "Jesus ZAMORA",
+          "JUANITO",
+          "SANTILLANA",
+          "QUINI"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-05",
+      "stage": "Second-phase Group 2",
+      "venue": "Estadio Santiago Bernabéu",
+      "city": "Madrid",
+      "home_team": "England",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Trevor BROOKING",
+          "player_off": "Graham RIX",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Kevin KEEGAN",
+          "player_off": "Tony WOODCOCK",
+          "minute": "64"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Pedro URALDE",
+          "player_off": "Enrique SAURA",
+          "minute": "67"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Antonio MACEDA",
+          "player_off": "Miguel TENDILLO",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Terry BUTCHER",
+          "Mick MILLS",
+          "Kenny SANSOM",
+          "Phil THOMPSON",
+          "Graham RIX",
+          "Bryan ROBSON",
+          "Ray WILKINS",
+          "Trevor FRANCIS",
+          "Paul MARINER",
+          "Tony WOODCOCK"
+        ],
+        "away": [
+          "Luis ARCONADA",
+          "Jose Antonio CAMACHO",
+          "Rafael GORDILLO",
+          "Miguel TENDILLO",
+          "Jose ALEXANKO",
+          "Santiago URQUIAGA",
+          "Miguel ALONSO",
+          "Jesus ZAMORA",
+          "Enrique SAURA",
+          "Jesus SATRUSTEGUI",
+          "SANTILLANA"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-29",
+      "stage": "Second-phase Group 3",
+      "venue": "Estadio Sarrià",
+      "city": "Barcelona",
+      "home_team": "Italy",
+      "away_team": "Argentina",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Marco TARDELLI",
+          "minute": "57"
+        },
+        {
+          "team": "Italy",
+          "player": "Antonio CABRINI",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player": "Daniel PASSARELLA",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Gabriel CALDERON",
+          "player_off": "Mario KEMPES",
+          "minute": "58"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Jose VALENCIA",
+          "player_off": "Ramon DIAZ",
+          "minute": "58"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giampiero MARINI",
+          "player_off": "Gabriele ORIALI",
+          "minute": "75"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro ALTOBELLI",
+          "player_off": "Paolo ROSSI",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Gabriele ORIALI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Americo GALLEGO",
+          "Diego MARADONA",
+          "Daniel BERTONI",
+          "Ramon DIAZ",
+          "Mario KEMPES"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-02",
+      "stage": "Second-phase Group 3",
+      "venue": "Estadio Sarrià",
+      "city": "Barcelona",
+      "home_team": "Brazil",
+      "away_team": "Argentina",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ZICO",
+          "minute": "11"
+        },
+        {
+          "team": "Brazil",
+          "player": "SERGINHO",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player": "JUNIOR",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player": "Ramon DIAZ",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ramon DIAZ",
+          "player_off": "Mario KEMPES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Santiago SANTAMARIA",
+          "player_off": "Daniel BERTONI",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EDEVALDO",
+          "player_off": "LEANDRO",
+          "minute": "82"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "BATISTA",
+          "player_off": "ZICO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "WALDIR PERES",
+          "LEANDRO",
+          "OSCAR",
+          "LUIZINHO",
+          "JUNIOR",
+          "TONINHO CEREZO",
+          "SOCRATES",
+          "ZICO",
+          "EDER",
+          "FALCAO",
+          "SERGINHO"
+        ],
+        "away": [
+          "Ubaldo FILLOL",
+          "Luis GALVAN",
+          "Jorge OLGUIN",
+          "Daniel PASSARELLA",
+          "Alberto TARANTINI",
+          "Osvaldo ARDILES",
+          "Juan BARBAS",
+          "Diego MARADONA",
+          "Daniel BERTONI",
+          "Gabriel CALDERON",
+          "Mario KEMPES"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-05",
+      "stage": "Second-phase Group 3",
+      "venue": "Estadio Sarrià",
+      "city": "Barcelona",
+      "home_team": "Italy",
+      "away_team": "Brazil",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "5"
+        },
+        {
+          "team": "Brazil",
+          "player": "SOCRATES",
+          "minute": "12"
+        },
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "25"
+        },
+        {
+          "team": "Brazil",
+          "player": "FALCAO",
+          "minute": "68"
+        },
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "74"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe BERGOMI",
+          "player_off": "Fulvio COLLOVATI",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO ISIDORO",
+          "player_off": "SERGINHO",
+          "minute": "69"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giampiero MARINI",
+          "player_off": "Marco TARDELLI",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Gabriele ORIALI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "WALDIR PERES",
+          "LEANDRO",
+          "OSCAR",
+          "LUIZINHO",
+          "JUNIOR",
+          "TONINHO CEREZO",
+          "SOCRATES",
+          "ZICO",
+          "EDER",
+          "FALCAO",
+          "SERGINHO"
+        ]
+      }
+    },
+    {
+      "date": "1982-06-28",
+      "stage": "Second-phase Group 4",
+      "venue": "Estadio Vicente Calderón",
+      "city": "Madrid",
+      "home_team": "France",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Bernard GENGHINI",
+          "minute": "39"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Dominique ROCHETEAU",
+          "player_off": "Bernard LACOMBE",
+          "minute": "15"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Ernst BAUMEISTER",
+          "player_off": "Kurt JARA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Kurt WELZL",
+          "player_off": "Josef DEGEORGI",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Rene GIRARD",
+          "player_off": "Bernard GENGHINI",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Luc ETTORI",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Gerard JANVION",
+          "Marius TRESOR",
+          "Bernard GENGHINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Bernard LACOMBE",
+          "Didier SIX",
+          "Gerard SOLER"
+        ],
+        "away": [
+          "Friedl KONCILIA",
+          "Bernd KRAUSS",
+          "Erich OBERMAYER",
+          "Josef DEGEORGI",
+          "Bruno PEZZEY",
+          "Roland HATTENBERGER",
+          "Herbert PROHASKA",
+          "Reinhold HINTERMAIER",
+          "Kurt JARA",
+          "Walter SCHACHNER",
+          "Hans KRANKL"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-01",
+      "stage": "Second-phase Group 4",
+      "venue": "Estadio Vicente Calderón",
+      "city": "Madrid",
+      "home_team": "Austria",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Billy HAMILTON",
+          "minute": "27"
+        },
+        {
+          "team": "Austria",
+          "player": "Bruno PEZZEY",
+          "minute": "50"
+        },
+        {
+          "team": "Austria",
+          "player": "Reinhold HINTERMAIER",
+          "minute": "68"
+        },
+        {
+          "team": "Northern Ireland",
+          "player": "Billy HAMILTON",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Austria",
+          "player_on": "Reinhold HINTERMAIER",
+          "player_off": "Max HAGMAYR",
+          "minute": "45+1"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Kurt WELZL",
+          "player_off": "Johann PREGESBAUER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Noel BROTHERSTON",
+          "player_off": "Norman WHITESIDE",
+          "minute": "68"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Friedl KONCILIA",
+          "Bernd KRAUSS",
+          "Erich OBERMAYER",
+          "Bruno PEZZEY",
+          "Johann PREGESBAUER",
+          "Herbert PROHASKA",
+          "Andy PICHLER",
+          "Ernst BAUMEISTER",
+          "Walter SCHACHNER",
+          "Max HAGMAYR",
+          "Gernot JURTIN"
+        ],
+        "away": [
+          "Jim PLATT",
+          "Jimmy NICHOLL",
+          "Chris NICHOLL",
+          "John McCLELLAND",
+          "Sammy NELSON",
+          "David McCREERY",
+          "Martin O NEILL",
+          "Sam McILROY",
+          "Gerry ARMSTRONG",
+          "Billy HAMILTON",
+          "Norman WHITESIDE"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-04",
+      "stage": "Second-phase Group 4",
+      "venue": "Estadio Vicente Calderón",
+      "city": "Madrid",
+      "home_team": "France",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Alain GIRESSE",
+          "minute": "33"
+        },
+        {
+          "team": "France",
+          "player": "Dominique ROCHETEAU",
+          "minute": "46"
+        },
+        {
+          "team": "France",
+          "player": "Dominique ROCHETEAU",
+          "minute": "68"
+        },
+        {
+          "team": "Northern Ireland",
+          "player": "Gerry ARMSTRONG",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player": "Alain GIRESSE",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Didier SIX",
+          "player_off": "Gerard SOLER",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player_on": "Alain COURIOL",
+          "player_off": "Dominique ROCHETEAU",
+          "minute": "83"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "John O NEILL",
+          "player_off": "David McCREERY",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Luc ETTORI",
+          "Manuel AMOROS",
+          "Maxime BOSSIS",
+          "Gerard JANVION",
+          "Marius TRESOR",
+          "Bernard GENGHINI",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Dominique ROCHETEAU",
+          "Gerard SOLER"
+        ],
+        "away": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "Chris NICHOLL",
+          "John McCLELLAND",
+          "David McCREERY",
+          "Martin O NEILL",
+          "Sam McILROY",
+          "Gerry ARMSTRONG",
+          "Billy HAMILTON",
+          "Norman WHITESIDE"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-08",
+      "stage": "Semifinal",
+      "venue": "Estadio Nou Camp",
+      "city": "Barcelona",
+      "home_team": "Italy",
+      "away_team": "Poland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "22"
+        },
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Giampiero MARINI",
+          "player_off": "Giancarlo ANTOGNONI",
+          "minute": "28"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Andrzej PALASZ",
+          "player_off": "Wlodzimierz CIOLEK",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro ALTOBELLI",
+          "player_off": "Francesco GRAZIANI",
+          "minute": "70"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Marek KUSTO",
+          "player_off": "Wlodimierz SMOLAREK",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Giuseppe BERGOMI",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Gaetano SCIREA",
+          "Giancarlo ANTOGNONI",
+          "Gabriele ORIALI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Jozef MLYNARCZYK",
+          "Marek DZIUBA",
+          "Janusz KUPCEWICZ",
+          "Pawel JANAS",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Waldemar MATYSIK",
+          "Andrzej BUNCOL",
+          "Wlodzimierz CIOLEK",
+          "Wlodimierz SMOLAREK",
+          "Grzegorz LATO"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-08",
+      "stage": "Semifinal",
+      "venue": "Estadio Sanchez Pizjuan",
+      "city": "Seville",
+      "home_team": "West Germany",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "extra_time": true,
+      "penalty_shootout": {
+        "home": 5,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Pierre LITTBARSKI",
+          "minute": "17"
+        },
+        {
+          "team": "France",
+          "player": "Michel PLATINI",
+          "minute": "26",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Marius TRESOR",
+          "minute": "92"
+        },
+        {
+          "team": "France",
+          "player": "Alain GIRESSE",
+          "minute": "98"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "102"
+        },
+        {
+          "team": "West Germany",
+          "player": "Klaus FISCHER",
+          "minute": "108"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Patrick BATTISTON",
+          "player_off": "Bernard GENGHINI",
+          "minute": "50"
+        },
+        {
+          "team": "France",
+          "player_on": "Christian LOPEZ",
+          "player_off": "Patrick BATTISTON",
+          "minute": "60"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Horst HRUBESCH",
+          "player_off": "Felix MAGATH",
+          "minute": "73"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Karl-Heinz RUMMENIGGE",
+          "player_off": "Hans Peter BRIEGEL",
+          "minute": "97"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Bernd FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Pierre LITTBARSKI",
+          "Felix MAGATH",
+          "Klaus FISCHER"
+        ],
+        "away": [
+          "Jean Luc ETTORI",
+          "Manuel AMOROS",
+          "Maxime BOSSIS",
+          "Gerard JANVION",
+          "Marius TRESOR",
+          "Bernard GENGHINI",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Dominique ROCHETEAU",
+          "Didier SIX"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-10",
+      "stage": "Third-place match",
+      "venue": "Estadio José Rico Pérez",
+      "city": "Alicante",
+      "home_team": "Poland",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Rene GIRARD",
+          "minute": "13"
+        },
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "40"
+        },
+        {
+          "team": "Poland",
+          "player": "Stefan MAJEWSKI",
+          "minute": "44"
+        },
+        {
+          "team": "Poland",
+          "player": "Janusz KUPCEWICZ",
+          "minute": "46"
+        },
+        {
+          "team": "France",
+          "player": "Alain COURIOL",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Roman WOJCICKI",
+          "player_off": "Waldemar MATYSIK",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Christian LOPEZ",
+          "player_off": "Gerard JANVION",
+          "minute": "66"
+        },
+        {
+          "team": "France",
+          "player_on": "Didier SIX",
+          "player_off": "Jean TIGANA",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozef MLYNARCZYK",
+          "Marek DZIUBA",
+          "Janusz KUPCEWICZ",
+          "Pawel JANAS",
+          "Wladyslaw ZMUDA",
+          "Stefan MAJEWSKI",
+          "Waldemar MATYSIK",
+          "Andrzej BUNCOL",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "Jean CASTANEDA",
+          "Manuel AMOROS",
+          "Gerard JANVION",
+          "Philippe MAHUT",
+          "Marius TRESOR",
+          "Rene GIRARD",
+          "Jean Francois LARIOS",
+          "Jean TIGANA",
+          "Bruno BELLONE",
+          "Alain COURIOL",
+          "Gerard SOLER"
+        ]
+      }
+    },
+    {
+      "date": "1982-07-11",
+      "stage": "Final",
+      "venue": "Estadio Santiago Bernabéu",
+      "city": "Madrid",
+      "home_team": "Italy",
+      "away_team": "West Germany",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Paolo ROSSI",
+          "minute": "57"
+        },
+        {
+          "team": "Italy",
+          "player": "Marco TARDELLI",
+          "minute": "69"
+        },
+        {
+          "team": "Italy",
+          "player": "Alessandro ALTOBELLI",
+          "minute": "81"
+        },
+        {
+          "team": "West Germany",
+          "player": "Paul BREITNER",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Alessandro ALTOBELLI",
+          "player_off": "Francesco GRAZIANI",
+          "minute": "7"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Horst HRUBESCH",
+          "player_off": "Wolfgang DREMMLER",
+          "minute": "62"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Hansi MUELLER",
+          "player_off": "Karl-Heinz RUMMENIGGE",
+          "minute": "70"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Franco CAUSIO",
+          "player_off": "Alessandro ALTOBELLI",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Giuseppe BERGOMI",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Claudio GENTILE",
+          "Gaetano SCIREA",
+          "Gabriele ORIALI",
+          "Marco TARDELLI",
+          "Bruno CONTI",
+          "Francesco GRAZIANI",
+          "Paolo ROSSI"
+        ],
+        "away": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Bernd FOERSTER",
+          "Uli STIELIKE",
+          "Manfred KALTZ",
+          "Paul BREITNER",
+          "Wolfgang DREMMLER",
+          "Pierre LITTBARSKI",
+          "Klaus FISCHER",
+          "Karl-Heinz RUMMENIGGE"
+        ]
+      }
+    }
+  ]
+}

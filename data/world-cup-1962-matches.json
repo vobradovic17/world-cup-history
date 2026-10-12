@@ -1,0 +1,1860 @@
+{
+  "tournament": "FIFA World Cup 1962",
+  "host_country": "Chile",
+  "matches_played": 32,
+  "format": "Four first-round groups of four teams, followed by quarter-finals, semi-finals, a third-place match and a final.",
+  "substitution_policy": "No in-match substitutions were permitted in the 1962 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.rsssf.org/tables/62full.html",
+    "https://www.rsssf.org/tables/62f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1962/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1962-05-30",
+      "stage": "Group A",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Uruguay",
+      "away_team": "Colombia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Roberto Eduardo SOSA",
+          "Horacio TROCHE",
+          "Emilio ALVAREZ",
+          "Mario MENDEZ",
+          "Nestor GONCALVES",
+          "Eliseo ALVAREZ",
+          "Pedro ROCHA",
+          "Domingo PEREZ",
+          "Jose SASIA",
+          "Luis CUBILLA",
+          "Ronald LANGON"
+        ],
+        "away": [
+          "Efrain SANCHEZ",
+          "Francisco ZULUAGA",
+          "Jaime GONZALEZ",
+          "Hector ECHEVERRI",
+          "Oscar LOPEZ",
+          "Jaime SILVA",
+          "Marcos COLL",
+          "German ACEROS",
+          "Marino KLINGER",
+          "Delio GAMBOA",
+          "Jairo ARIAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Francisco ZULUAGA",
+          "minute": "19",
+          "penalty": true
+        },
+        {
+          "team": "Uruguay",
+          "player": "Luis CUBILLA",
+          "minute": "56"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Jose SASIA",
+          "minute": "75"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-05-31",
+      "stage": "Group A",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Soviet Union",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Eduard DUBINSKI",
+          "Leonid OSTROVSKI",
+          "Anatoli MASLYONKIN",
+          "Igor NETTO",
+          "Valeri VORONIN",
+          "Valentin IVANOV",
+          "Viktor KANEVSKI",
+          "Mikhail MESKHI",
+          "Slava METREVELI",
+          "Viktor PONEDELNIK"
+        ],
+        "away": [
+          "Milutin SOSKIC",
+          "Vladimir DURKOVIC",
+          "Fahrudin JUSUFI",
+          "Vlatko MARKOVIC",
+          "Vladica POPOVIC",
+          "Dragoslav SEKULARAC",
+          "Zeljko MATUS",
+          "Muhamed MUJIC",
+          "Drazen JERKOVIC",
+          "Milan GALIC",
+          "Josip SKOBLAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Valentin IVANOV",
+          "minute": "51"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Viktor PONEDELNIK",
+          "minute": "83"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-02",
+      "stage": "Group A",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Yugoslavia",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Milutin SOSKIC",
+          "Vladimir DURKOVIC",
+          "Fahrudin JUSUFI",
+          "Vlatko MARKOVIC",
+          "Petar RADAKOVIC",
+          "Vladica POPOVIC",
+          "Dragoslav SEKULARAC",
+          "Drazen JERKOVIC",
+          "Milan GALIC",
+          "Josip SKOBLAR",
+          "Vojislav MELIC"
+        ],
+        "away": [
+          "Roberto Eduardo SOSA",
+          "Horacio TROCHE",
+          "Emilio ALVAREZ",
+          "Mario MENDEZ",
+          "Nestor GONCALVES",
+          "Eliseo ALVAREZ",
+          "Pedro ROCHA",
+          "Angel Ruben CABRERA",
+          "Domingo PEREZ",
+          "Jose SASIA",
+          "Mario BERGARA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Angel Ruben CABRERA",
+          "minute": "19"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Josip SKOBLAR",
+          "minute": "25",
+          "penalty": true
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Milan GALIC",
+          "minute": "29"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Drazen JERKOVIC",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Vladimir Popović and Rubén Cabrera were sent off in the 71st minute."
+      ]
+    },
+    {
+      "date": "1962-06-03",
+      "stage": "Group A",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Soviet Union",
+      "away_team": "Colombia",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Georgi CHOKHELI",
+          "Leonid OSTROVSKI",
+          "Anatoli MASLYONKIN",
+          "Igor NETTO",
+          "Valeri VORONIN",
+          "Valentin IVANOV",
+          "Viktor KANEVSKI",
+          "Mikhail MESKHI",
+          "Viktor PONEDELNIK",
+          "Igor CHISLENKO"
+        ],
+        "away": [
+          "Efrain SANCHEZ",
+          "Anibal ALZATE",
+          "Jaime GONZALEZ",
+          "Hector ECHEVERRI",
+          "Oscar LOPEZ",
+          "Rolando SERRANO",
+          "Marcos COLL",
+          "German ACEROS",
+          "Marino KLINGER",
+          "Antonio RADA",
+          "Hector GONZALEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Valentin IVANOV",
+          "minute": "8"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Igor CHISLENKO",
+          "minute": "10"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Valentin IVANOV",
+          "minute": "11"
+        },
+        {
+          "team": "Colombia",
+          "player": "German ACEROS",
+          "minute": "21"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Viktor PONEDELNIK",
+          "minute": "56"
+        },
+        {
+          "team": "Colombia",
+          "player": "Marcos COLL",
+          "minute": "68"
+        },
+        {
+          "team": "Colombia",
+          "player": "Antonio RADA",
+          "minute": "72"
+        },
+        {
+          "team": "Colombia",
+          "player": "Marino KLINGER",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The RSSSF archive marks the 63rd-minute goal as an own goal by Coll."
+      ]
+    },
+    {
+      "date": "1962-06-06",
+      "stage": "Group A",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Soviet Union",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Georgi CHOKHELI",
+          "Leonid OSTROVSKI",
+          "Anatoli MASLYONKIN",
+          "Igor NETTO",
+          "Valeri VORONIN",
+          "Valentin IVANOV",
+          "Aleksei MAMYKIN",
+          "Viktor PONEDELNIK",
+          "Galimzyan KHUSAINOV",
+          "Igor CHISLENKO"
+        ],
+        "away": [
+          "Roberto Eduardo SOSA",
+          "Horacio TROCHE",
+          "Emilio ALVAREZ",
+          "Mario MENDEZ",
+          "Nestor GONCALVES",
+          "Eliseo ALVAREZ",
+          "Julio CORTES",
+          "Angel Ruben CABRERA",
+          "Domingo PEREZ",
+          "Jose SASIA",
+          "Luis CUBILLA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Aleksei MAMYKIN",
+          "minute": "38"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Jose SASIA",
+          "minute": "54"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Valentin IVANOV",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-07",
+      "stage": "Group A",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Yugoslavia",
+      "away_team": "Colombia",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Milutin SOSKIC",
+          "Vladimir DURKOVIC",
+          "Fahrudin JUSUFI",
+          "Vlatko MARKOVIC",
+          "Petar RADAKOVIC",
+          "Vladica POPOVIC",
+          "Andrija ANKOVIC",
+          "Dragoslav SEKULARAC",
+          "Drazen JERKOVIC",
+          "Milan GALIC",
+          "Vojislav MELIC"
+        ],
+        "away": [
+          "Efrain SANCHEZ",
+          "Anibal ALZATE",
+          "Jaime GONZALEZ",
+          "Hector ECHEVERRI",
+          "Oscar LOPEZ",
+          "Rolando SERRANO",
+          "Marcos COLL",
+          "German ACEROS",
+          "Marino KLINGER",
+          "Antonio RADA",
+          "Hector GONZALEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Milan GALIC",
+          "minute": "20"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Drazen JERKOVIC",
+          "minute": "25"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Milan GALIC",
+          "minute": "61"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Vojislav MELIC",
+          "minute": "82"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Drazen JERKOVIC",
+          "minute": "87"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-05-30",
+      "stage": "Group B",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Chile",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Misael ESCUTI",
+          "Luis EYZAGUIRRE",
+          "Raul SANCHEZ",
+          "Sergio NAVARRO",
+          "Carlos CONTRERAS",
+          "Eladio ROJAS",
+          "Jorge TORO",
+          "Alberto FOUILLOUX",
+          "Jaime RAMIREZ",
+          "Honorino LANDA",
+          "Leonel SANCHEZ"
+        ],
+        "away": [
+          "Charly ELSENER",
+          "Fritz MORF",
+          "Heinz SCHNEITER",
+          "Ely TACCHELLA",
+          "Andre GROBETY",
+          "Hans WEBER",
+          "Rolf WUETHRICH",
+          "Toni ALLEMANN",
+          "Kiki ANTENEN",
+          "Norbert ESCHMANN",
+          "Philippe POTTIER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Rolf WUETHRICH",
+          "minute": "6"
+        },
+        {
+          "team": "Chile",
+          "player": "Leonel SANCHEZ",
+          "minute": "44"
+        },
+        {
+          "team": "Chile",
+          "player": "Jaime RAMIREZ",
+          "minute": "51"
+        },
+        {
+          "team": "Chile",
+          "player": "Leonel SANCHEZ",
+          "minute": "55"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The match was preceded by the World Cup opening ceremony."
+      ]
+    },
+    {
+      "date": "1962-05-31",
+      "stage": "Group B",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Italy",
+      "away_team": "West Germany",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Lorenzo BUFFON",
+          "Giacomo LOSI",
+          "Sandro SALVADORE",
+          "Cesare MALDINI",
+          "Enzo ROBOTTI",
+          "Luigi RADICE",
+          "Giorgio FERRINI",
+          "Jose ALTAFINI",
+          "Omar SIVORI",
+          "Giampaolo MENICHELLI",
+          "Gianni RIVERA"
+        ],
+        "away": [
+          "Wolfgang FAHRIAN",
+          "Herbert ERHARDT",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Hans NOWAK",
+          "Horst SZYMANIAK",
+          "Helmut HALLER",
+          "Albert BRUELLS",
+          "Hans STURM",
+          "Uwe SEELER",
+          "Hans SCHAEFER"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-02",
+      "stage": "Group B",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Chile",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Misael ESCUTI",
+          "Luis EYZAGUIRRE",
+          "Raul SANCHEZ",
+          "Sergio NAVARRO",
+          "Carlos CONTRERAS",
+          "Eladio ROJAS",
+          "Jorge TORO",
+          "Alberto FOUILLOUX",
+          "Jaime RAMIREZ",
+          "Honorino LANDA",
+          "Leonel SANCHEZ"
+        ],
+        "away": [
+          "Carlo MATTREL",
+          "Sandro SALVADORE",
+          "Enzo ROBOTTI",
+          "Mario DAVID",
+          "Francesco JANICH",
+          "Paride TUMBURUS",
+          "Giorgio FERRINI",
+          "Bruno MORA",
+          "Humberto MASCHIO",
+          "Jose ALTAFINI",
+          "Giampaolo MENICHELLI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Jaime RAMIREZ",
+          "minute": "73"
+        },
+        {
+          "team": "Chile",
+          "player": "Jorge TORO",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Italy's Giorgio Ferrini was sent off in the 8th minute and Mario David in the 41st minute."
+      ]
+    },
+    {
+      "date": "1962-06-03",
+      "stage": "Group B",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "West Germany",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Wolfgang FAHRIAN",
+          "Herbert ERHARDT",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Hans NOWAK",
+          "Horst SZYMANIAK",
+          "Helmut HALLER",
+          "Albert BRUELLS",
+          "Willi KOSLOWSKI",
+          "Uwe SEELER",
+          "Hans SCHAEFER"
+        ],
+        "away": [
+          "Charly ELSENER",
+          "Heinz SCHNEITER",
+          "Ely TACCHELLA",
+          "Andre GROBETY",
+          "Hans WEBER",
+          "Richard DUERR",
+          "Rolf WUETHRICH",
+          "Toni ALLEMANN",
+          "Kiki ANTENEN",
+          "Norbert ESCHMANN",
+          "Roger VONLANTHEN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Albert BRUELLS",
+          "minute": "45"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "59"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Heinz SCHNEITER",
+          "minute": "73"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-06",
+      "stage": "Group B",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "West Germany",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Wolfgang FAHRIAN",
+          "Herbert ERHARDT",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Hans NOWAK",
+          "Horst SZYMANIAK",
+          "Albert BRUELLS",
+          "Willy GIESEMANN",
+          "Uwe SEELER",
+          "Hans SCHAEFER",
+          "Engelbert KRAUS"
+        ],
+        "away": [
+          "Misael ESCUTI",
+          "Luis EYZAGUIRRE",
+          "Raul SANCHEZ",
+          "Sergio NAVARRO",
+          "Carlos CONTRERAS",
+          "Eladio ROJAS",
+          "Jaime RAMIREZ",
+          "Honorino LANDA",
+          "Leonel SANCHEZ",
+          "Mario MORENO",
+          "Armando TOBAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Horst SZYMANIAK",
+          "minute": "21",
+          "penalty": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "82"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-07",
+      "stage": "Group B",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Italy",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Lorenzo BUFFON",
+          "Giacomo LOSI",
+          "Sandro SALVADORE",
+          "Cesare MALDINI",
+          "Enzo ROBOTTI",
+          "Luigi RADICE",
+          "Bruno MORA",
+          "Omar SIVORI",
+          "Angelo SORMANI",
+          "Ezio PASCUTTI",
+          "Giacomo BULGARELLI"
+        ],
+        "away": [
+          "Charly ELSENER",
+          "Heinz SCHNEITER",
+          "Ely TACCHELLA",
+          "Andre GROBETY",
+          "Eugen MEIER",
+          "Hans WEBER",
+          "Richard DUERR",
+          "Rolf WUETHRICH",
+          "Toni ALLEMANN",
+          "Kiki ANTENEN",
+          "Roger VONLANTHEN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Bruno MORA",
+          "minute": "2"
+        },
+        {
+          "team": "Italy",
+          "player": "Giacomo BULGARELLI",
+          "minute": "65"
+        },
+        {
+          "team": "Italy",
+          "player": "Giacomo BULGARELLI",
+          "minute": "67"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-05-30",
+      "stage": "Group C",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Brazil",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "MAURO RAMOS",
+          "ZOZIMO",
+          "NILTON SANTOS",
+          "ZITO",
+          "DIDI",
+          "GARRINCHA",
+          "PELE",
+          "VAVA",
+          "Mario ZAGALLO"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Jesus DEL MURO",
+          "Guillermo SEPULVEDA",
+          "Jose VILLEGAS",
+          "Raul CARDENAS",
+          "Pedro NAJERA",
+          "Alfredo DEL AGUILA",
+          "Salvador REYES",
+          "Hector HERNANDEZ",
+          "Isidoro DIAZ",
+          "Antonio JASSO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "Mario ZAGALLO",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "73"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-05-31",
+      "stage": "Group C",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Czechoslovakia",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Viliam SCHROJF",
+          "Jan LALA",
+          "Jan POPLUHAR",
+          "Ladislav NOVAK",
+          "Svatopluk PLUSKAL",
+          "Josef MASOPUST",
+          "Josef STIBRANYI",
+          "Andrej KVASNAK",
+          "Adolf SCHERER",
+          "Jozef ADAMEC",
+          "Josef JELINEK"
+        ],
+        "away": [
+          "CARMELO",
+          "Feliciano RIVILLA",
+          "Severino REIJA",
+          "Jose SANTAMARIA",
+          "Joan SEGARRA",
+          "Luis DEL SOL",
+          "GARAY",
+          "Luis SUAREZ",
+          "Francisco GENTO",
+          "Ferenc PUSKAS",
+          "Eulogio MARTINEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Josef STIBRANYI",
+          "minute": "80"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-02",
+      "stage": "Group C",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Brazil",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "MAURO RAMOS",
+          "ZOZIMO",
+          "NILTON SANTOS",
+          "ZITO",
+          "DIDI",
+          "GARRINCHA",
+          "PELE",
+          "VAVA",
+          "Mario ZAGALLO"
+        ],
+        "away": [
+          "Viliam SCHROJF",
+          "Jan LALA",
+          "Jan POPLUHAR",
+          "Ladislav NOVAK",
+          "Svatopluk PLUSKAL",
+          "Josef MASOPUST",
+          "Josef STIBRANYI",
+          "Andrej KVASNAK",
+          "Adolf SCHERER",
+          "Jozef ADAMEC",
+          "Josef JELINEK"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-03",
+      "stage": "Group C",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Spain",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "CARMELO",
+          "GRACIA",
+          "PACHIN",
+          "RODRI",
+          "Jose SANTAMARIA",
+          "Luis DEL SOL",
+          "Luis SUAREZ",
+          "MARTI VERGES",
+          "Francisco GENTO",
+          "Joaquin PEIRO",
+          "Ferenc PUSKAS"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Jesus DEL MURO",
+          "Guillermo SEPULVEDA",
+          "Ignacio JAUREGUI",
+          "Raul CARDENAS",
+          "Pedro NAJERA",
+          "Alfredo DEL AGUILA",
+          "Salvador REYES",
+          "Hector HERNANDEZ",
+          "Isidoro DIAZ",
+          "Antonio JASSO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Joaquin PEIRO",
+          "minute": "90"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-06",
+      "stage": "Group C",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Brazil",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "MAURO RAMOS",
+          "ZOZIMO",
+          "NILTON SANTOS",
+          "ZITO",
+          "DIDI",
+          "GARRINCHA",
+          "VAVA",
+          "AMARILDO",
+          "Mario ZAGALLO"
+        ],
+        "away": [
+          "Jose ARAQUISTAIN",
+          "Luis Maria ECHEBERRIA",
+          "GRACIA",
+          "PACHIN",
+          "RODRI",
+          "MARTI VERGES",
+          "Enrique COLLAR",
+          "Francisco GENTO",
+          "Joaquin PEIRO",
+          "Ferenc PUSKAS",
+          "ADELARDO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "ADELARDO",
+          "minute": "35"
+        },
+        {
+          "team": "Brazil",
+          "player": "AMARILDO",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player": "AMARILDO",
+          "minute": "86"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-07",
+      "stage": "Group C",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Mexico",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Antonio CARBAJAL",
+          "Jesus DEL MURO",
+          "Guillermo SEPULVEDA",
+          "Ignacio JAUREGUI",
+          "Raul CARDENAS",
+          "Pedro NAJERA",
+          "Alfredo HERNANDEZ",
+          "Alfredo DEL AGUILA",
+          "Salvador REYES",
+          "Hector HERNANDEZ",
+          "Isidoro DIAZ"
+        ],
+        "away": [
+          "Viliam SCHROJF",
+          "Jan LALA",
+          "Jan POPLUHAR",
+          "Ladislav NOVAK",
+          "Svatopluk PLUSKAL",
+          "Josef MASOPUST",
+          "Josef STIBRANYI",
+          "Andrej KVASNAK",
+          "Adolf SCHERER",
+          "Jozef ADAMEC",
+          "Vaclav MASEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Vaclav MASEK",
+          "minute": "1"
+        },
+        {
+          "team": "Mexico",
+          "player": "Isidoro DIAZ",
+          "minute": "12"
+        },
+        {
+          "team": "Mexico",
+          "player": "Alfredo DEL AGUILA",
+          "minute": "29"
+        },
+        {
+          "team": "Mexico",
+          "player": "Hector HERNANDEZ",
+          "minute": "90",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-05-30",
+      "stage": "Group D",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "Argentina",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Antonio ROMA",
+          "Silvio MARZOLINI",
+          "Alberto SAINZ",
+          "Raul PAEZ",
+          "Ruben NAVARRO",
+          "Federico SACCHI",
+          "Oscar ROSSI",
+          "Hector FACUNDO",
+          "Marcelo PAGANI",
+          "Jose SANFILIPPO",
+          "Raul BELEN"
+        ],
+        "away": [
+          "Georgi NAIDENOV",
+          "Kiril RAKAROV",
+          "Ivan DIMITROV",
+          "Stoyan KITOV",
+          "Dimitar KOSTOV",
+          "Nikola KOVACHEV",
+          "Todor DIEV",
+          "Hristo ILIEV",
+          "Ivan KOLEV",
+          "Dimitar YAKIMOV",
+          "Petar VELICHKOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Hector FACUNDO",
+          "minute": "4"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-05-31",
+      "stage": "Group D",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "Hungary",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Gyula GROSICS",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Laszlo SAROSI",
+          "Erno SOLYMOSI",
+          "Ferenc SIPOS",
+          "Karoly SANDOR",
+          "Florian ALBERT",
+          "Lajos TICHY",
+          "Mate FENYVESI",
+          "Gyula RAKOSI"
+        ],
+        "away": [
+          "Ron SPRINGETT",
+          "Jimmy ARMFIELD",
+          "Ray WILSON",
+          "Maurice NORMAN",
+          "Bobby MOORE",
+          "Ron FLOWERS",
+          "Jimmy GREAVES",
+          "Gerry HITCHENS",
+          "John HAYNES",
+          "Bobby CHARLTON",
+          "Bryan DOUGLAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "17"
+        },
+        {
+          "team": "England",
+          "player": "Ron FLOWERS",
+          "minute": "60",
+          "penalty": true
+        },
+        {
+          "team": "Hungary",
+          "player": "Florian ALBERT",
+          "minute": "71"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-02",
+      "stage": "Group D",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "England",
+      "away_team": "Argentina",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ron SPRINGETT",
+          "Jimmy ARMFIELD",
+          "Ray WILSON",
+          "Maurice NORMAN",
+          "Bobby MOORE",
+          "Ron FLOWERS",
+          "Jimmy GREAVES",
+          "John HAYNES",
+          "Bobby CHARLTON",
+          "Bryan DOUGLAS",
+          "Alan PEACOCK"
+        ],
+        "away": [
+          "Antonio ROMA",
+          "Silvio MARZOLINI",
+          "Raul PAEZ",
+          "Ruben NAVARRO",
+          "Vladislao CAP",
+          "Federico SACCHI",
+          "Antonio RATTIN",
+          "Jose SANFILIPPO",
+          "Raul BELEN",
+          "Ruben SOSA",
+          "Juan OLENIAK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Ron FLOWERS",
+          "minute": "17",
+          "penalty": true
+        },
+        {
+          "team": "England",
+          "player": "Bobby CHARLTON",
+          "minute": "42"
+        },
+        {
+          "team": "England",
+          "player": "Jimmy GREAVES",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player": "Jose SANFILIPPO",
+          "minute": "81"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-03",
+      "stage": "Group D",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "Hungary",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Istvan ILKU",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Laszlo SAROSI",
+          "Erno SOLYMOSI",
+          "Ferenc SIPOS",
+          "Janos GOROCS",
+          "Karoly SANDOR",
+          "Florian ALBERT",
+          "Lajos TICHY",
+          "Mate FENYVESI"
+        ],
+        "away": [
+          "Georgi NAIDENOV",
+          "Kiril RAKAROV",
+          "Ivan DIMITROV",
+          "Stoyan KITOV",
+          "Dimitar KOSTOV",
+          "Nikola KOVACHEV",
+          "Ivan KOLEV",
+          "Petar VELICHKOV",
+          "Georgi SOKOLOV",
+          "Georgi ASPARUKHOV",
+          "Dinko DERMENDZHIEV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Florian ALBERT",
+          "minute": "1"
+        },
+        {
+          "team": "Hungary",
+          "player": "Florian ALBERT",
+          "minute": "6"
+        },
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "8"
+        },
+        {
+          "team": "Hungary",
+          "player": "Erno SOLYMOSI",
+          "minute": "12"
+        },
+        {
+          "team": "Hungary",
+          "player": "Florian ALBERT",
+          "minute": "53"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Georgi SOKOLOV",
+          "minute": "64"
+        },
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some sources award Bulgaria's goal to Sokolov."
+      ]
+    },
+    {
+      "date": "1962-06-06",
+      "stage": "Group D",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "Argentina",
+      "away_team": "Hungary",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Rogelio DOMINGUEZ",
+          "Jose RAMOS DELGADO",
+          "Silvio MARZOLINI",
+          "Alberto SAINZ",
+          "Vladislao CAP",
+          "Federico SACCHI",
+          "Hector FACUNDO",
+          "Martin PANDO",
+          "Marcelo PAGANI",
+          "Juan OLENIAK",
+          "Alberto GONZALEZ"
+        ],
+        "away": [
+          "Gyula GROSICS",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Laszlo SAROSI",
+          "Erno SOLYMOSI",
+          "Ferenc SIPOS",
+          "Janos GOROCS",
+          "Lajos TICHY",
+          "Gyula RAKOSI",
+          "Tivadar MONOSTORI",
+          "Bela KUHARSZKI"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-07",
+      "stage": "Group D",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "Bulgaria",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Georgi NAIDENOV",
+          "Ivan DIMITROV",
+          "Dimitar KOSTOV",
+          "Dimitar DIMOV",
+          "Dobromir JECHEV",
+          "Nikola KOVACHEV",
+          "Aleksandar KOSTOV",
+          "Ivan KOLEV",
+          "Petar VELICHKOV",
+          "Georgi SOKOLOV",
+          "Dinko DERMENDZHIEV"
+        ],
+        "away": [
+          "Ron SPRINGETT",
+          "Jimmy ARMFIELD",
+          "Ray WILSON",
+          "Maurice NORMAN",
+          "Bobby MOORE",
+          "Ron FLOWERS",
+          "Jimmy GREAVES",
+          "John HAYNES",
+          "Bobby CHARLTON",
+          "Bryan DOUGLAS",
+          "Alan PEACOCK"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-10",
+      "stage": "Quarter-final",
+      "venue": "Estadio Carlos Dittborn",
+      "city": "Arica",
+      "home_team": "Chile",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Misael ESCUTI",
+          "Luis EYZAGUIRRE",
+          "Raul SANCHEZ",
+          "Sergio NAVARRO",
+          "Carlos CONTRERAS",
+          "Eladio ROJAS",
+          "Jorge TORO",
+          "Jaime RAMIREZ",
+          "Honorino LANDA",
+          "Leonel SANCHEZ",
+          "Armando TOBAR"
+        ],
+        "away": [
+          "Lev YASHIN",
+          "Georgi CHOKHELI",
+          "Leonid OSTROVSKI",
+          "Anatoli MASLYONKIN",
+          "Igor NETTO",
+          "Valeri VORONIN",
+          "Valentin IVANOV",
+          "Aleksei MAMYKIN",
+          "Mikhail MESKHI",
+          "Viktor PONEDELNIK",
+          "Igor CHISLENKO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Leonel SANCHEZ",
+          "minute": "11"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Igor CHISLENKO",
+          "minute": "26"
+        },
+        {
+          "team": "Chile",
+          "player": "Eladio ROJAS",
+          "minute": "29"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-10",
+      "stage": "Quarter-final",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Yugoslavia",
+      "away_team": "West Germany",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Milutin SOSKIC",
+          "Vladimir DURKOVIC",
+          "Fahrudin JUSUFI",
+          "Vlatko MARKOVIC",
+          "Petar RADAKOVIC",
+          "Vladica POPOVIC",
+          "Dragoslav SEKULARAC",
+          "Drazen JERKOVIC",
+          "Milan GALIC",
+          "Josip SKOBLAR",
+          "Vladimir KOVACEVIC"
+        ],
+        "away": [
+          "Wolfgang FAHRIAN",
+          "Herbert ERHARDT",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Hans NOWAK",
+          "Horst SZYMANIAK",
+          "Helmut HALLER",
+          "Albert BRUELLS",
+          "Willy GIESEMANN",
+          "Uwe SEELER",
+          "Hans SCHAEFER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Petar RADAKOVIC",
+          "minute": "85"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-10",
+      "stage": "Quarter-final",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Brazil",
+      "away_team": "England",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "MAURO RAMOS",
+          "ZOZIMO",
+          "NILTON SANTOS",
+          "ZITO",
+          "DIDI",
+          "GARRINCHA",
+          "VAVA",
+          "AMARILDO",
+          "Mario ZAGALLO"
+        ],
+        "away": [
+          "Ron SPRINGETT",
+          "Jimmy ARMFIELD",
+          "Ray WILSON",
+          "Maurice NORMAN",
+          "Bobby MOORE",
+          "Ron FLOWERS",
+          "Jimmy GREAVES",
+          "Gerry HITCHENS",
+          "John HAYNES",
+          "Bobby CHARLTON",
+          "Bryan DOUGLAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "GARRINCHA",
+          "minute": "31"
+        },
+        {
+          "team": "England",
+          "player": "Gerry HITCHENS",
+          "minute": "38"
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "53"
+        },
+        {
+          "team": "Brazil",
+          "player": "GARRINCHA",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "England goalkeeper Ron Springett saved a penalty from Garrincha in the 66th minute."
+      ]
+    },
+    {
+      "date": "1962-06-10",
+      "stage": "Quarter-final",
+      "venue": "Estadio Braden",
+      "city": "Rancagua",
+      "home_team": "Czechoslovakia",
+      "away_team": "Hungary",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Viliam SCHROJF",
+          "Jan LALA",
+          "Jan POPLUHAR",
+          "Ladislav NOVAK",
+          "Svatopluk PLUSKAL",
+          "Josef MASOPUST",
+          "Andrej KVASNAK",
+          "Adolf SCHERER",
+          "Josef JELINEK",
+          "Tomas POSPICHAL",
+          "Josef KADRABA"
+        ],
+        "away": [
+          "Gyula GROSICS",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Laszlo SAROSI",
+          "Erno SOLYMOSI",
+          "Ferenc SIPOS",
+          "Karoly SANDOR",
+          "Florian ALBERT",
+          "Lajos TICHY",
+          "Mate FENYVESI",
+          "Gyula RAKOSI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Adolf SCHERER",
+          "minute": "13"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-13",
+      "stage": "Semi-final",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Brazil",
+      "away_team": "Chile",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "MAURO RAMOS",
+          "ZOZIMO",
+          "NILTON SANTOS",
+          "ZITO",
+          "DIDI",
+          "GARRINCHA",
+          "VAVA",
+          "AMARILDO",
+          "Mario ZAGALLO"
+        ],
+        "away": [
+          "Misael ESCUTI",
+          "Luis EYZAGUIRRE",
+          "Raul SANCHEZ",
+          "Carlos CONTRERAS",
+          "Manuel RODRIGUEZ",
+          "Eladio ROJAS",
+          "Jorge TORO",
+          "Jaime RAMIREZ",
+          "Honorino LANDA",
+          "Leonel SANCHEZ",
+          "Armando TOBAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "GARRINCHA",
+          "minute": "9"
+        },
+        {
+          "team": "Brazil",
+          "player": "GARRINCHA",
+          "minute": "32"
+        },
+        {
+          "team": "Chile",
+          "player": "Jorge TORO",
+          "minute": "42"
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "47"
+        },
+        {
+          "team": "Chile",
+          "player": "Leonel SANCHEZ",
+          "minute": "61",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Garrincha and Fernando Landa were sent off in the second half."
+      ]
+    },
+    {
+      "date": "1962-06-13",
+      "stage": "Semi-final",
+      "venue": "Estadio Sausalito",
+      "city": "Viña del Mar",
+      "home_team": "Czechoslovakia",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Viliam SCHROJF",
+          "Jan LALA",
+          "Jan POPLUHAR",
+          "Ladislav NOVAK",
+          "Svatopluk PLUSKAL",
+          "Josef MASOPUST",
+          "Andrej KVASNAK",
+          "Adolf SCHERER",
+          "Josef JELINEK",
+          "Tomas POSPICHAL",
+          "Josef KADRABA"
+        ],
+        "away": [
+          "Milutin SOSKIC",
+          "Vladimir DURKOVIC",
+          "Fahrudin JUSUFI",
+          "Vlatko MARKOVIC",
+          "Vasilije SIJAKOVIC",
+          "Petar RADAKOVIC",
+          "Vladica POPOVIC",
+          "Dragoslav SEKULARAC",
+          "Drazen JERKOVIC",
+          "Milan GALIC",
+          "Josip SKOBLAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Josef KADRABA",
+          "minute": "48"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Drazen JERKOVIC",
+          "minute": "69"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Adolf SCHERER",
+          "minute": "80"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Adolf SCHERER",
+          "minute": "84",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-16",
+      "stage": "Third-place match",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Chile",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Adan GODOY",
+          "Luis EYZAGUIRRE",
+          "Raul SANCHEZ",
+          "Manuel RODRIGUEZ",
+          "Humberto CRUZ",
+          "Eladio ROJAS",
+          "Jorge TORO",
+          "Jaime RAMIREZ",
+          "Leonel SANCHEZ",
+          "Carlos CAMPOS",
+          "Armando TOBAR"
+        ],
+        "away": [
+          "Milutin SOSKIC",
+          "Vladimir DURKOVIC",
+          "Vlatko MARKOVIC",
+          "Slavko SVINJAREVIC",
+          "Petar RADAKOVIC",
+          "Vladica POPOVIC",
+          "Dragoslav SEKULARAC",
+          "Drazen JERKOVIC",
+          "Milan GALIC",
+          "Josip SKOBLAR",
+          "Vladimir KOVACEVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Eladio ROJAS",
+          "minute": "90"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1962-06-17",
+      "stage": "Final",
+      "venue": "Estadio Nacional",
+      "city": "Santiago",
+      "home_team": "Brazil",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "MAURO RAMOS",
+          "ZOZIMO",
+          "NILTON SANTOS",
+          "ZITO",
+          "DIDI",
+          "GARRINCHA",
+          "VAVA",
+          "AMARILDO",
+          "Mario ZAGALLO"
+        ],
+        "away": [
+          "Viliam SCHROJF",
+          "Jan POPLUHAR",
+          "Ladislav NOVAK",
+          "Svatopluk PLUSKAL",
+          "Jiri TICHY",
+          "Josef MASOPUST",
+          "Andrej KVASNAK",
+          "Adolf SCHERER",
+          "Josef JELINEK",
+          "Tomas POSPICHAL",
+          "Josef KADRABA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Josef MASOPUST",
+          "minute": "15"
+        },
+        {
+          "team": "Brazil",
+          "player": "AMARILDO",
+          "minute": "17"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZITO",
+          "minute": "69"
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "78"
+        }
+      ],
+      "substitutions": []
+    }
+  ]
+}

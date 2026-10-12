@@ -1,0 +1,2181 @@
+{
+  "tournament": "FIFA World Cup 1958",
+  "host_country": "Sweden",
+  "matches_played": 35,
+  "format": "First-round groups with playoffs where points were tied, followed by quarter-finals, semi-finals, a third-place match and a final.",
+  "substitution_policy": "No in-match substitutions were permitted in the 1958 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.rsssf.org/tables/58full.html",
+    "https://fbref.com/en/comps/1/1958/schedule/1958-World-Cup-Scores-and-Fixtures",
+    "https://github.com/openfootball/worldcup.json/blob/master/1958/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1958-06-08",
+      "stage": "Group A",
+      "venue": "Örjans Vall",
+      "city": "Halmstad",
+      "home_team": "Northern Ireland",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Harry GREGG",
+          "Willie CUNNINGHAM",
+          "Alfred McMICHAEL",
+          "Richard KEITH",
+          "Danny BLANCHFLOWER",
+          "Bertie PEACOCK",
+          "Jimmy McILROY",
+          "Billy BINGHAM",
+          "Wilbur CUSH",
+          "Peter McPARLAND",
+          "Derek DOUGAN"
+        ],
+        "away": [
+          "Bretislav DOLEJSI",
+          "Gustav MRAZ",
+          "Ladislav NOVAK",
+          "Jiri CADEK",
+          "Josef MASOPUST",
+          "Svatopluk PLUSKAL",
+          "Jan HERTL",
+          "Milan DVORAK",
+          "Jaroslav BOROVICKA",
+          "Tadeas KRAUS",
+          "Vaclav HOVORKA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Wilbur CUSH",
+          "minute": "20"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group A",
+      "venue": "Malmö Stadion",
+      "city": "Malmö",
+      "home_team": "West Germany",
+      "away_team": "Argentina",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Fritz HERKENRATH",
+          "Herbert ERHARDT",
+          "Erich JUSKOWIAK",
+          "Georg STOLLENWERK",
+          "Horst ECKEL",
+          "Horst SZYMANIAK",
+          "Fritz WALTER",
+          "Alfred SCHMIDT",
+          "Helmut RAHN",
+          "Hans SCHAEFER",
+          "Uwe SEELER"
+        ],
+        "away": [
+          "Amadeo CARRIZO",
+          "Federico VAIRO",
+          "Juan Francesco LOMBARDO",
+          "Pedro DELLACHA",
+          "Nestor ROSSI",
+          "Jose VARACKA",
+          "Oreste Omar CORBATTA",
+          "Eliseo PRADO",
+          "Norberto MENENDEZ",
+          "Alfredo ROJAS",
+          "Osvaldo CRUZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Oreste Omar CORBATTA",
+          "minute": "2"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "32"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "40"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "79"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group A",
+      "venue": "Örjans Vall",
+      "city": "Halmstad",
+      "home_team": "Argentina",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Amadeo CARRIZO",
+          "Federico VAIRO",
+          "Juan Francesco LOMBARDO",
+          "Pedro DELLACHA",
+          "Nestor ROSSI",
+          "Jose VARACKA",
+          "Oreste Omar CORBATTA",
+          "Norberto MENENDEZ",
+          "Angel LABRUNA",
+          "Norberto BOGGIO",
+          "Ludovico AVIO"
+        ],
+        "away": [
+          "Harry GREGG",
+          "Willie CUNNINGHAM",
+          "Alfred McMICHAEL",
+          "Richard KEITH",
+          "Danny BLANCHFLOWER",
+          "Bertie PEACOCK",
+          "Jimmy McILROY",
+          "Billy BINGHAM",
+          "Wilbur CUSH",
+          "Peter McPARLAND",
+          "Fay COYLE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Peter McPARLAND",
+          "minute": "3"
+        },
+        {
+          "team": "Argentina",
+          "player": "Oreste Omar CORBATTA",
+          "minute": "38",
+          "penalty": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Norberto MENENDEZ",
+          "minute": "55"
+        },
+        {
+          "team": "Argentina",
+          "player": "Ludovico AVIO",
+          "minute": "59"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group A",
+      "venue": "Olympiavalle",
+      "city": "Hälsingborg",
+      "home_team": "West Germany",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Fritz HERKENRATH",
+          "Herbert ERHARDT",
+          "Erich JUSKOWIAK",
+          "Georg STOLLENWERK",
+          "Karl-Heinz SCHNELLINGER",
+          "Horst SZYMANIAK",
+          "Fritz WALTER",
+          "Helmut RAHN",
+          "Hans SCHAEFER",
+          "Uwe SEELER",
+          "Berni KLODT"
+        ],
+        "away": [
+          "Bretislav DOLEJSI",
+          "Gustav MRAZ",
+          "Ladislav NOVAK",
+          "Jan POPLUHAR",
+          "Josef MASOPUST",
+          "Svatopluk PLUSKAL",
+          "Milan DVORAK",
+          "Pavol MOLNAR",
+          "Zdenek ZIKAN",
+          "Vaclav HOVORKA",
+          "Jiri FEUREISL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Milan DVORAK",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Zdenek ZIKAN",
+          "minute": "43"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "59"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "70"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group A",
+      "venue": "Malmö Stadion",
+      "city": "Malmö",
+      "home_team": "West Germany",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Fritz HERKENRATH",
+          "Herbert ERHARDT",
+          "Erich JUSKOWIAK",
+          "Georg STOLLENWERK",
+          "Horst ECKEL",
+          "Horst SZYMANIAK",
+          "Fritz WALTER",
+          "Helmut RAHN",
+          "Hans SCHAEFER",
+          "Uwe SEELER",
+          "Berni KLODT"
+        ],
+        "away": [
+          "Harry GREGG",
+          "Willie CUNNINGHAM",
+          "Alfred McMICHAEL",
+          "Richard KEITH",
+          "Danny BLANCHFLOWER",
+          "Bertie PEACOCK",
+          "Jimmy McILROY",
+          "Billy BINGHAM",
+          "Wilbur CUSH",
+          "Peter McPARLAND",
+          "Tommy CASEY"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Peter McPARLAND",
+          "minute": "19"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "20"
+        },
+        {
+          "team": "Northern Ireland",
+          "player": "Peter McPARLAND",
+          "minute": "60"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "79"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group A",
+      "venue": "Olympiavalle",
+      "city": "Hälsingborg",
+      "home_team": "Czechoslovakia",
+      "away_team": "Argentina",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Bretislav DOLEJSI",
+          "Gustav MRAZ",
+          "Ladislav NOVAK",
+          "Jan POPLUHAR",
+          "Josef MASOPUST",
+          "Milan DVORAK",
+          "Pavol MOLNAR",
+          "Jaroslav BOROVICKA",
+          "Zdenek ZIKAN",
+          "Vaclav HOVORKA",
+          "Jiri FEUREISL"
+        ],
+        "away": [
+          "Amadeo CARRIZO",
+          "Federico VAIRO",
+          "Juan Francesco LOMBARDO",
+          "Pedro DELLACHA",
+          "Nestor ROSSI",
+          "Jose VARACKA",
+          "Oreste Omar CORBATTA",
+          "Norberto MENENDEZ",
+          "Angel LABRUNA",
+          "Ludovico AVIO",
+          "Osvaldo CRUZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Milan DVORAK",
+          "minute": "8"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Zdenek ZIKAN",
+          "minute": "17"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Zdenek ZIKAN",
+          "minute": "40"
+        },
+        {
+          "team": "Argentina",
+          "player": "Oreste Omar CORBATTA",
+          "minute": "65",
+          "penalty": true
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Jiri FEUREISL",
+          "minute": "69"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Vaclav HOVORKA",
+          "minute": "82"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Vaclav HOVORKA",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-17",
+      "stage": "Group A playoff",
+      "venue": "Malmö Stadion",
+      "city": "Malmö",
+      "home_team": "Northern Ireland",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Norman UPRICHARD",
+          "Willie CUNNINGHAM",
+          "Alfred McMICHAEL",
+          "Richard KEITH",
+          "Danny BLANCHFLOWER",
+          "Bertie PEACOCK",
+          "Jimmy McILROY",
+          "Billy BINGHAM",
+          "Wilbur CUSH",
+          "Peter McPARLAND",
+          "Jackie SCOTT"
+        ],
+        "away": [
+          "Bretislav DOLEJSI",
+          "Gustav MRAZ",
+          "Ladislav NOVAK",
+          "Jan POPLUHAR",
+          "Titus BUBERNIK",
+          "Josef MASOPUST",
+          "Milan DVORAK",
+          "Pavol MOLNAR",
+          "Jaroslav BOROVICKA",
+          "Zdenek ZIKAN",
+          "Jiri FEUREISL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Zdenek ZIKAN",
+          "minute": "19"
+        },
+        {
+          "team": "Northern Ireland",
+          "player": "Peter McPARLAND",
+          "minute": "44"
+        },
+        {
+          "team": "Northern Ireland",
+          "player": "Peter McPARLAND",
+          "minute": "99"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Jozef Buberník was sent off in the 102nd minute."
+      ]
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group B",
+      "venue": "Arosvallen",
+      "city": "Västerås",
+      "home_team": "Scotland",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Tommy YOUNGER",
+          "Eric CALDOW",
+          "John HEWIE",
+          "Bobby EVANS",
+          "Doug COWIE",
+          "Eddie TURNBULL",
+          "Graham LEGGAT",
+          "Jimmy MURRAY",
+          "Jackie MUDIE",
+          "Bobby COLLINS",
+          "Stuart IMLACH"
+        ],
+        "away": [
+          "Vladimir BEARA",
+          "Vasilije SIJAKOVIC",
+          "Tomislav CRNKOVIC",
+          "Branko ZEBEC",
+          "Dobrosav KRSTIC",
+          "Vujadin BOSKOV",
+          "Dragoslav SEKULARAC",
+          "Milos MILUTINOVIC",
+          "Aleksandar PETAKOVIC",
+          "Toza VESELINOVIC",
+          "Zdravko RAJKOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Aleksandar PETAKOVIC",
+          "minute": "6"
+        },
+        {
+          "team": "Scotland",
+          "player": "Jimmy MURRAY",
+          "minute": "49"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group B",
+      "venue": "Idrottsparken",
+      "city": "Norrköping",
+      "home_team": "France",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 7,
+        "away": 3
+      },
+      "lineup": {
+        "home": [
+          "Francois REMETTER",
+          "Raymond KAELBEL",
+          "Andre LEROND",
+          "Robert JONQUET",
+          "Jean-Jacques MARCEL",
+          "Armand PENVERNE",
+          "Just FONTAINE",
+          "Raymond KOPA",
+          "Roger PIANTONI",
+          "Jean VINCENT",
+          "Maryan WISNIEWSKI"
+        ],
+        "away": [
+          "Ramon MAYEREGGER",
+          "Edelmiro AREVALO",
+          "Juan Vicente LEZCANO",
+          "Ignacio ACHUCARRO",
+          "Agustin MIRANDA",
+          "Salvador VILLALBA",
+          "Juan AGUERO",
+          "Jose PARODI",
+          "Jorge ROMERO",
+          "Florencio AMARILLA",
+          "Cayetano RE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Florencio AMARILLA",
+          "minute": "20"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "24"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "30"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Florencio AMARILLA",
+          "minute": "44",
+          "penalty": true
+        },
+        {
+          "team": "Paraguay",
+          "player": "Jorge ROMERO",
+          "minute": "50"
+        },
+        {
+          "team": "France",
+          "player": "Roger PIANTONI",
+          "minute": "52"
+        },
+        {
+          "team": "France",
+          "player": "Maryan WISNIEWSKI",
+          "minute": "61"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "67"
+        },
+        {
+          "team": "France",
+          "player": "Raymond KOPA",
+          "minute": "70"
+        },
+        {
+          "team": "France",
+          "player": "Jean VINCENT",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The RSSSF archive prints the fifth French goal as 5:2 at minute 66; the score progression establishes it as 5:3."
+      ]
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group B",
+      "venue": "Idrottsparken",
+      "city": "Norrköping",
+      "home_team": "Paraguay",
+      "away_team": "Scotland",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Samuel AGUILAR",
+          "Edelmiro AREVALO",
+          "Juan Vicente LEZCANO",
+          "Ignacio ACHUCARRO",
+          "Eligio ECHAGUE",
+          "Salvador VILLALBA",
+          "Juan AGUERO",
+          "Jose PARODI",
+          "Jorge ROMERO",
+          "Florencio AMARILLA",
+          "Cayetano RE"
+        ],
+        "away": [
+          "Tommy YOUNGER",
+          "Alex PARKER",
+          "Eric CALDOW",
+          "Bobby EVANS",
+          "Doug COWIE",
+          "Eddie TURNBULL",
+          "Graham LEGGAT",
+          "Jackie MUDIE",
+          "Bobby COLLINS",
+          "Archie ROBERTSON",
+          "Willie FERNIE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Juan AGUERO",
+          "minute": "4"
+        },
+        {
+          "team": "Scotland",
+          "player": "Jackie MUDIE",
+          "minute": "24"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Cayetano RE",
+          "minute": "45"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Jose PARODI",
+          "minute": "73"
+        },
+        {
+          "team": "Scotland",
+          "player": "Bobby COLLINS",
+          "minute": "76"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group B",
+      "venue": "Arosvallen",
+      "city": "Västerås",
+      "home_team": "Yugoslavia",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Vladimir BEARA",
+          "Tomislav CRNKOVIC",
+          "Novak TOMIC",
+          "Branko ZEBEC",
+          "Dobrosav KRSTIC",
+          "Vujadin BOSKOV",
+          "Dragoslav SEKULARAC",
+          "Milos MILUTINOVIC",
+          "Aleksandar PETAKOVIC",
+          "Toza VESELINOVIC",
+          "Zdravko RAJKOV"
+        ],
+        "away": [
+          "Francois REMETTER",
+          "Raymond KAELBEL",
+          "Andre LEROND",
+          "Roger MARCHE",
+          "Robert JONQUET",
+          "Armand PENVERNE",
+          "Just FONTAINE",
+          "Raymond KOPA",
+          "Roger PIANTONI",
+          "Jean VINCENT",
+          "Maryan WISNIEWSKI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "4"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Aleksandar PETAKOVIC",
+          "minute": "16"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Toza VESELINOVIC",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "85"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Toza VESELINOVIC",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group B",
+      "venue": "Eyravallen",
+      "city": "Örebro",
+      "home_team": "France",
+      "away_team": "Scotland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Claude ABBES",
+          "Raymond KAELBEL",
+          "Andre LEROND",
+          "Robert JONQUET",
+          "Jean-Jacques MARCEL",
+          "Armand PENVERNE",
+          "Just FONTAINE",
+          "Raymond KOPA",
+          "Roger PIANTONI",
+          "Jean VINCENT",
+          "Maryan WISNIEWSKI"
+        ],
+        "away": [
+          "Bill BROWN",
+          "Eric CALDOW",
+          "John HEWIE",
+          "Bobby EVANS",
+          "Dave MACKAY",
+          "Sammy BAIRD",
+          "Eddie TURNBULL",
+          "Jimmy MURRAY",
+          "Jackie MUDIE",
+          "Bobby COLLINS",
+          "Stuart IMLACH"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Raymond KOPA",
+          "minute": "22"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "44"
+        },
+        {
+          "team": "Scotland",
+          "player": "Sammy BAIRD",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Scotland missed a penalty in the 23rd minute; the RSSSF archive attributes the miss to Howie."
+      ]
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group B",
+      "venue": "Tunavallen",
+      "city": "Eskilstuna",
+      "home_team": "Paraguay",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "lineup": {
+        "home": [
+          "Samuel AGUILAR",
+          "Edelmiro AREVALO",
+          "Juan Vicente LEZCANO",
+          "Ignacio ACHUCARRO",
+          "Eligio ECHAGUE",
+          "Salvador VILLALBA",
+          "Juan AGUERO",
+          "Jose PARODI",
+          "Jorge ROMERO",
+          "Florencio AMARILLA",
+          "Cayetano RE"
+        ],
+        "away": [
+          "Vladimir BEARA",
+          "Tomislav CRNKOVIC",
+          "Novak TOMIC",
+          "Branko ZEBEC",
+          "Dobrosav KRSTIC",
+          "Vujadin BOSKOV",
+          "Dragoslav SEKULARAC",
+          "Aleksandar PETAKOVIC",
+          "Toza VESELINOVIC",
+          "Zdravko RAJKOV",
+          "Radivoje OGNJANOVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Radivoje OGNJANOVIC",
+          "minute": "12"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Jose PARODI",
+          "minute": "20"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Toza VESELINOVIC",
+          "minute": "29"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Juan AGUERO",
+          "minute": "49"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Zdravko RAJKOV",
+          "minute": "73"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Jorge ROMERO",
+          "minute": "80"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group C",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Sweden",
+      "away_team": "Mexico",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Orvar BERGMARK",
+          "Sven AXBOM",
+          "Nils LIEDHOLM",
+          "Sigge PARLING",
+          "Gunnar GREN",
+          "Bengt GUSTAVSSON",
+          "Kurt HAMRIN",
+          "Agne SIMONSSON",
+          "Lennart SKOGLUND",
+          "Bror MELLBERG"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Jesus DEL MURO",
+          "Jorge ROMO",
+          "Jose VILLEGAS",
+          "Alfonso PORTUGAL",
+          "Francisco FLORES",
+          "Alfredo HERNANDEZ",
+          "Salvador REYES",
+          "Carlos CALDERON DE LA BARCA",
+          "Crescencio GUTIERREZ",
+          "Enrique SESMA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Agne SIMONSSON",
+          "minute": "17"
+        },
+        {
+          "team": "Sweden",
+          "player": "Nils LIEDHOLM",
+          "minute": "57",
+          "penalty": true
+        },
+        {
+          "team": "Sweden",
+          "player": "Agne SIMONSSON",
+          "minute": "64"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The Liedholm penalty was retaken.",
+        "The match was preceded by the World Cup opening ceremony."
+      ]
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group C",
+      "venue": "Jernvallen",
+      "city": "Sandviken",
+      "home_team": "Hungary",
+      "away_team": "Wales",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Gyula GROSICS",
+          "Sandor MATRAI",
+          "Ferenc SIPOS",
+          "Laszlo SAROSI",
+          "Jozsef BOZSIK",
+          "Pal BERENDY",
+          "Lajos TICHY",
+          "Nandor HIDEGKUTI",
+          "Dezso BUNDZSAK",
+          "Karoly SANDOR",
+          "Mate FENYVESI"
+        ],
+        "away": [
+          "Jack KELSEY",
+          "Stuart WILLIAMS",
+          "Mel HOPKINS",
+          "Derek SULLIVAN",
+          "Mel CHARLES",
+          "David BOWEN",
+          "Terry MEDWIN",
+          "John CHARLES",
+          "Ivor ALLCHURCH",
+          "Cliff JONES",
+          "Colin WEBSTER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Jozsef BOZSIK",
+          "minute": "5"
+        },
+        {
+          "team": "Wales",
+          "player": "John CHARLES",
+          "minute": "27"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group C",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Mexico",
+      "away_team": "Wales",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Antonio CARBAJAL",
+          "Jesus DEL MURO",
+          "Jorge ROMO",
+          "Miguel GUTIERREZ",
+          "Francisco FLORES",
+          "Raul CARDENAS",
+          "Carlos BLANCO",
+          "Salvador REYES",
+          "Enrique SESMA",
+          "Jaime BELMONTE",
+          "Carlos GONZALEZ"
+        ],
+        "away": [
+          "Jack KELSEY",
+          "Stuart WILLIAMS",
+          "Mel HOPKINS",
+          "Mel CHARLES",
+          "David BOWEN",
+          "Colin BAKER",
+          "Terry MEDWIN",
+          "John CHARLES",
+          "Ivor ALLCHURCH",
+          "Cliff JONES",
+          "Colin WEBSTER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Wales",
+          "player": "Ivor ALLCHURCH",
+          "minute": "32"
+        },
+        {
+          "team": "Mexico",
+          "player": "Jaime BELMONTE",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-12",
+      "stage": "Group C",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Sweden",
+      "away_team": "Hungary",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Orvar BERGMARK",
+          "Sven AXBOM",
+          "Nils LIEDHOLM",
+          "Sigge PARLING",
+          "Gunnar GREN",
+          "Bengt GUSTAVSSON",
+          "Kurt HAMRIN",
+          "Agne SIMONSSON",
+          "Lennart SKOGLUND",
+          "Bror MELLBERG"
+        ],
+        "away": [
+          "Gyula GROSICS",
+          "Sandor MATRAI",
+          "Ferenc SIPOS",
+          "Laszlo SAROSI",
+          "Ferenc SZOJKA",
+          "Jozsef BOZSIK",
+          "Pal BERENDY",
+          "Lajos TICHY",
+          "Dezso BUNDZSAK",
+          "Karoly SANDOR",
+          "Mate FENYVESI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Kurt HAMRIN",
+          "minute": "34"
+        },
+        {
+          "team": "Sweden",
+          "player": "Kurt HAMRIN",
+          "minute": "55"
+        },
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Sweden missed a penalty in the 69th minute; the RSSSF archive credits the miss to Nils Liedholm."
+      ]
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group C",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Sweden",
+      "away_team": "Wales",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Orvar BERGMARK",
+          "Sven AXBOM",
+          "Sigge PARLING",
+          "Bengt GUSTAVSSON",
+          "Reino BORJESSON",
+          "Arne SELMOSSON",
+          "Lennart SKOGLUND",
+          "Gosta LOFGREN",
+          "Henry KALLGREN",
+          "Bengt BERNDTSSON"
+        ],
+        "away": [
+          "Jack KELSEY",
+          "Stuart WILLIAMS",
+          "Mel HOPKINS",
+          "Derek SULLIVAN",
+          "Mel CHARLES",
+          "David BOWEN",
+          "Ron HEWITT",
+          "John CHARLES",
+          "Ivor ALLCHURCH",
+          "Cliff JONES",
+          "Roy VERNON"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group C",
+      "venue": "Jernvallen",
+      "city": "Sandviken",
+      "home_team": "Hungary",
+      "away_team": "Mexico",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Istvan ILKU",
+          "Sandor MATRAI",
+          "Ferenc SIPOS",
+          "Laszlo SAROSI",
+          "Ferenc SZOJKA",
+          "Antal KOTASZ",
+          "Laszlo BUDAI",
+          "Lajos TICHY",
+          "Nandor HIDEGKUTI",
+          "Karoly SANDOR",
+          "Jozsef BENCSIS"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Jesus DEL MURO",
+          "Miguel GUTIERREZ",
+          "Guillermo SEPULVEDA",
+          "Francisco FLORES",
+          "Raul CARDENAS",
+          "Carlos BLANCO",
+          "Salvador REYES",
+          "Enrique SESMA",
+          "Jaime BELMONTE",
+          "Carlos GONZALEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "19"
+        },
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "46"
+        },
+        {
+          "team": "Hungary",
+          "player": "Karoly SANDOR",
+          "minute": "54"
+        },
+        {
+          "team": "Hungary",
+          "player": "Jozsef BENCSIS",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-17",
+      "stage": "Group C playoff",
+      "venue": "Malmö Stadion",
+      "city": "Malmö",
+      "home_team": "Wales",
+      "away_team": "Hungary",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jack KELSEY",
+          "Stuart WILLIAMS",
+          "Mel HOPKINS",
+          "Derek SULLIVAN",
+          "Mel CHARLES",
+          "David BOWEN",
+          "Terry MEDWIN",
+          "Ron HEWITT",
+          "John CHARLES",
+          "Ivor ALLCHURCH",
+          "Cliff JONES"
+        ],
+        "away": [
+          "Gyula GROSICS",
+          "Sandor MATRAI",
+          "Ferenc SIPOS",
+          "Laszlo SAROSI",
+          "Jozsef BOZSIK",
+          "Antal KOTASZ",
+          "Laszlo BUDAI",
+          "Lajos TICHY",
+          "Dezso BUNDZSAK",
+          "Jozsef BENCSIS",
+          "Mate FENYVESI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Lajos TICHY",
+          "minute": "33"
+        },
+        {
+          "team": "Wales",
+          "player": "Ivor ALLCHURCH",
+          "minute": "55"
+        },
+        {
+          "team": "Wales",
+          "player": "Terry MEDWIN",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "József Sipos was sent off in the 79th minute."
+      ]
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group D",
+      "venue": "Rimnersvallen",
+      "city": "Uddevalla",
+      "home_team": "Brazil",
+      "away_team": "Austria",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "BELLINI",
+          "NILTON SANTOS",
+          "DE SORDI",
+          "ORLANDO",
+          "DINO SANI",
+          "DIDI",
+          "Mario ZAGALLO",
+          "JOEL",
+          "Jose ALTAFINI",
+          "DIDA"
+        ],
+        "away": [
+          "Rudolf SZANWALD",
+          "Paul HALLA",
+          "Ernst HAPPEL",
+          "Franz SWOBODA",
+          "Gerhard HANAPPI",
+          "Karl KOLLER",
+          "Walter HORAK",
+          "Hans BUZEK",
+          "Alfred KOERNER",
+          "Helmut SENEKOWITSCH",
+          "Walter SCHLEGER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "Jose ALTAFINI",
+          "minute": "38"
+        },
+        {
+          "team": "Brazil",
+          "player": "NILTON SANTOS",
+          "minute": "49"
+        },
+        {
+          "team": "Brazil",
+          "player": "Jose ALTAFINI",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-08",
+      "stage": "Group D",
+      "venue": "Nya Ullevi Stadion",
+      "city": "Gothenburg",
+      "home_team": "England",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Colin MC DONALD",
+          "Don HOWE",
+          "Tommy BANKS",
+          "Eddie CLAMP",
+          "Billy WRIGHT",
+          "Bill SLATER",
+          "Bryan DOUGLAS",
+          "Bobby ROBSON",
+          "Derek KEVAN",
+          "John HAYNES",
+          "Tom FINNEY"
+        ],
+        "away": [
+          "Lev YASHIN",
+          "Vladimir KESAREV",
+          "Konstantin KRIZHEVSKI",
+          "Boris KUZNETSOV",
+          "Juri VOINOV",
+          "Viktor TSARYOV",
+          "Valentin IVANOV",
+          "Nikita SIMONYAN",
+          "Sergei SALNIKOV",
+          "Anatoli ILYIN",
+          "Aleksandr IVANOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Nikita SIMONYAN",
+          "minute": "13"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Aleksandr IVANOV",
+          "minute": "55"
+        },
+        {
+          "team": "England",
+          "player": "Derek KEVAN",
+          "minute": "66"
+        },
+        {
+          "team": "England",
+          "player": "Tom FINNEY",
+          "minute": "85",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group D",
+      "venue": "Ryavallen",
+      "city": "Borås",
+      "home_team": "Soviet Union",
+      "away_team": "Austria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Vladimir KESAREV",
+          "Konstantin KRIZHEVSKI",
+          "Boris KUZNETSOV",
+          "Juri VOINOV",
+          "Viktor TSARYOV",
+          "Valentin IVANOV",
+          "Nikita SIMONYAN",
+          "Sergei SALNIKOV",
+          "Anatoli ILYIN",
+          "Aleksandr IVANOV"
+        ],
+        "away": [
+          "Kurt SCHMIED",
+          "Franz SWOBODA",
+          "Gerhard HANAPPI",
+          "Karl KOLLER",
+          "Karl STOTZ",
+          "Ernst KOZLICEK",
+          "Walter HORAK",
+          "Paul KOZLICEK",
+          "Hans BUZEK",
+          "Alfred KOERNER",
+          "Helmut SENEKOWITSCH"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Anatoli ILYIN",
+          "minute": "15"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Valentin IVANOV",
+          "minute": "63"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some sources award the second Soviet goal to Valentin Ivanov.",
+        "Austria missed a penalty in the 55th minute; Lev Yashin saved Erich Buzek's attempt."
+      ]
+    },
+    {
+      "date": "1958-06-11",
+      "stage": "Group D",
+      "venue": "Nya Ullevi Stadion",
+      "city": "Gothenburg",
+      "home_team": "Brazil",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "BELLINI",
+          "NILTON SANTOS",
+          "DE SORDI",
+          "ORLANDO",
+          "DINO SANI",
+          "DIDI",
+          "Mario ZAGALLO",
+          "JOEL",
+          "Jose ALTAFINI",
+          "VAVA"
+        ],
+        "away": [
+          "Colin MC DONALD",
+          "Don HOWE",
+          "Tommy BANKS",
+          "Eddie CLAMP",
+          "Billy WRIGHT",
+          "Bill SLATER",
+          "Bryan DOUGLAS",
+          "Bobby ROBSON",
+          "Derek KEVAN",
+          "John HAYNES",
+          "Alan A COURT"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group D",
+      "venue": "Ryavallen",
+      "city": "Borås",
+      "home_team": "Austria",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Rudolf SZANWALD",
+          "Ernst HAPPEL",
+          "Franz SWOBODA",
+          "Gerhard HANAPPI",
+          "Walter KOLLMANN",
+          "Karl KOLLER",
+          "Ernst KOZLICEK",
+          "Paul KOZLICEK",
+          "Hans BUZEK",
+          "Alfred KOERNER",
+          "Helmut SENEKOWITSCH"
+        ],
+        "away": [
+          "Colin MC DONALD",
+          "Don HOWE",
+          "Tommy BANKS",
+          "Eddie CLAMP",
+          "Billy WRIGHT",
+          "Bill SLATER",
+          "Bryan DOUGLAS",
+          "Bobby ROBSON",
+          "Derek KEVAN",
+          "John HAYNES",
+          "Alan A COURT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Karl KOLLER",
+          "minute": "16"
+        },
+        {
+          "team": "England",
+          "player": "John HAYNES",
+          "minute": "56"
+        },
+        {
+          "team": "Austria",
+          "player": "Alfred KOERNER",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player": "Derek KEVAN",
+          "minute": "73"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-15",
+      "stage": "Group D",
+      "venue": "Nya Ullevi Stadion",
+      "city": "Gothenburg",
+      "home_team": "Brazil",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "BELLINI",
+          "NILTON SANTOS",
+          "DE SORDI",
+          "ORLANDO",
+          "DIDI",
+          "ZITO",
+          "Mario ZAGALLO",
+          "PELE",
+          "GARRINCHA",
+          "VAVA"
+        ],
+        "away": [
+          "Lev YASHIN",
+          "Vladimir KESAREV",
+          "Konstantin KRIZHEVSKI",
+          "Boris KUZNETSOV",
+          "Juri VOINOV",
+          "Igor NETTO",
+          "Viktor TSARYOV",
+          "Valentin IVANOV",
+          "Nikita SIMONYAN",
+          "Anatoli ILYIN",
+          "Aleksandr IVANOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "3"
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "77"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-17",
+      "stage": "Group D playoff",
+      "venue": "Nya Ullevi Stadion",
+      "city": "Gothenburg",
+      "home_team": "Soviet Union",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Vladimir KESAREV",
+          "Konstantin KRIZHEVSKI",
+          "Boris KUZNETSOV",
+          "Juri VOINOV",
+          "Viktor TSARYOV",
+          "German APUKTHIN",
+          "Valentin IVANOV",
+          "Nikita SIMONYAN",
+          "Anatoli ILYIN",
+          "Yuri FALIN"
+        ],
+        "away": [
+          "Colin MC DONALD",
+          "Don HOWE",
+          "Tommy BANKS",
+          "Billy WRIGHT",
+          "Bill SLATER",
+          "Ronald CLAYTON",
+          "Derek KEVAN",
+          "John HAYNES",
+          "Peter BRABROOK",
+          "Peter BROADBENT",
+          "Alan A COURT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Anatoli ILYIN",
+          "minute": "68"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-19",
+      "stage": "Quarter-final",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Sweden",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Orvar BERGMARK",
+          "Sven AXBOM",
+          "Nils LIEDHOLM",
+          "Sigge PARLING",
+          "Gunnar GREN",
+          "Bengt GUSTAVSSON",
+          "Reino BORJESSON",
+          "Kurt HAMRIN",
+          "Agne SIMONSSON",
+          "Lennart SKOGLUND"
+        ],
+        "away": [
+          "Lev YASHIN",
+          "Vladimir KESAREV",
+          "Konstantin KRIZHEVSKI",
+          "Boris KUZNETSOV",
+          "Juri VOINOV",
+          "Viktor TSARYOV",
+          "Valentin IVANOV",
+          "Nikita SIMONYAN",
+          "Sergei SALNIKOV",
+          "Anatoli ILYIN",
+          "Aleksandr IVANOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Kurt HAMRIN",
+          "minute": "49"
+        },
+        {
+          "team": "Sweden",
+          "player": "Agne SIMONSSON",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-19",
+      "stage": "Quarter-final",
+      "venue": "Malmö Stadion",
+      "city": "Malmö",
+      "home_team": "West Germany",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Fritz HERKENRATH",
+          "Herbert ERHARDT",
+          "Erich JUSKOWIAK",
+          "Georg STOLLENWERK",
+          "Horst ECKEL",
+          "Horst SZYMANIAK",
+          "Fritz WALTER",
+          "Alfred SCHMIDT",
+          "Helmut RAHN",
+          "Hans SCHAEFER",
+          "Uwe SEELER"
+        ],
+        "away": [
+          "Srboljub KRIVOKUCA",
+          "Vasilije SIJAKOVIC",
+          "Tomislav CRNKOVIC",
+          "Branko ZEBEC",
+          "Dobrosav KRSTIC",
+          "Vujadin BOSKOV",
+          "Milos MILUTINOVIC",
+          "Aleksandar PETAKOVIC",
+          "Toza VESELINOVIC",
+          "Zdravko RAJKOV",
+          "Radivoje OGNJANOVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "12"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-19",
+      "stage": "Quarter-final",
+      "venue": "Idrottsparken",
+      "city": "Norrköping",
+      "home_team": "France",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Claude ABBES",
+          "Raymond KAELBEL",
+          "Andre LEROND",
+          "Robert JONQUET",
+          "Jean-Jacques MARCEL",
+          "Armand PENVERNE",
+          "Just FONTAINE",
+          "Raymond KOPA",
+          "Roger PIANTONI",
+          "Jean VINCENT",
+          "Maryan WISNIEWSKI"
+        ],
+        "away": [
+          "Harry GREGG",
+          "Willie CUNNINGHAM",
+          "Alfred McMICHAEL",
+          "Richard KEITH",
+          "Danny BLANCHFLOWER",
+          "Jimmy McILROY",
+          "Billy BINGHAM",
+          "Wilbur CUSH",
+          "Peter McPARLAND",
+          "Tommy CASEY",
+          "Jackie SCOTT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Maryan WISNIEWSKI",
+          "minute": "44"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "55"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player": "Roger PIANTONI",
+          "minute": "68"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-19",
+      "stage": "Quarter-final",
+      "venue": "Nya Ullevi Stadion",
+      "city": "Gothenburg",
+      "home_team": "Brazil",
+      "away_team": "Wales",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "BELLINI",
+          "NILTON SANTOS",
+          "DE SORDI",
+          "ORLANDO",
+          "DIDI",
+          "ZITO",
+          "Mario ZAGALLO",
+          "PELE",
+          "GARRINCHA",
+          "Jose ALTAFINI"
+        ],
+        "away": [
+          "Jack KELSEY",
+          "Stuart WILLIAMS",
+          "Mel HOPKINS",
+          "Derek SULLIVAN",
+          "Mel CHARLES",
+          "David BOWEN",
+          "Terry MEDWIN",
+          "Ron HEWITT",
+          "Ivor ALLCHURCH",
+          "Cliff JONES",
+          "Colin WEBSTER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "66"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-24",
+      "stage": "Semi-final",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Brazil",
+      "away_team": "France",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "BELLINI",
+          "NILTON SANTOS",
+          "DE SORDI",
+          "ORLANDO",
+          "DIDI",
+          "ZITO",
+          "Mario ZAGALLO",
+          "PELE",
+          "GARRINCHA",
+          "VAVA"
+        ],
+        "away": [
+          "Claude ABBES",
+          "Raymond KAELBEL",
+          "Andre LEROND",
+          "Robert JONQUET",
+          "Jean-Jacques MARCEL",
+          "Armand PENVERNE",
+          "Just FONTAINE",
+          "Raymond KOPA",
+          "Roger PIANTONI",
+          "Jean VINCENT",
+          "Maryan WISNIEWSKI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "2"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "9"
+        },
+        {
+          "team": "Brazil",
+          "player": "DIDI",
+          "minute": "39"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "52"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player": "Roger PIANTONI",
+          "minute": "83"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-24",
+      "stage": "Semi-final",
+      "venue": "Nya Ullevi",
+      "city": "Gothenburg",
+      "home_team": "Sweden",
+      "away_team": "West Germany",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Orvar BERGMARK",
+          "Sven AXBOM",
+          "Nils LIEDHOLM",
+          "Sigge PARLING",
+          "Gunnar GREN",
+          "Bengt GUSTAVSSON",
+          "Reino BORJESSON",
+          "Kurt HAMRIN",
+          "Agne SIMONSSON",
+          "Lennart SKOGLUND"
+        ],
+        "away": [
+          "Fritz HERKENRATH",
+          "Herbert ERHARDT",
+          "Erich JUSKOWIAK",
+          "Georg STOLLENWERK",
+          "Horst ECKEL",
+          "Horst SZYMANIAK",
+          "Fritz WALTER",
+          "Helmut RAHN",
+          "Hans SCHAEFER",
+          "Uwe SEELER",
+          "Hans CIESCLARCZYK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "24"
+        },
+        {
+          "team": "Sweden",
+          "player": "Lennart SKOGLUND",
+          "minute": "32"
+        },
+        {
+          "team": "Sweden",
+          "player": "Gunnar GREN",
+          "minute": "81"
+        },
+        {
+          "team": "Sweden",
+          "player": "Kurt HAMRIN",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Hans Juskowiak was sent off in the 89th minute."
+      ]
+    },
+    {
+      "date": "1958-06-28",
+      "stage": "Third-place match",
+      "venue": "Nya Ullevi",
+      "city": "Gothenburg",
+      "home_team": "France",
+      "away_team": "West Germany",
+      "score": {
+        "home": 6,
+        "away": 3
+      },
+      "lineup": {
+        "home": [
+          "Claude ABBES",
+          "Raymond KAELBEL",
+          "Andre LEROND",
+          "Maurice LAFONT",
+          "Jean-Jacques MARCEL",
+          "Armand PENVERNE",
+          "Yvon DOUIS",
+          "Just FONTAINE",
+          "Raymond KOPA",
+          "Jean VINCENT",
+          "Maryan WISNIEWSKI"
+        ],
+        "away": [
+          "Heinz KWIATKOWSKI",
+          "Herbert ERHARDT",
+          "Heinz WEWERS",
+          "Georg STOLLENWERK",
+          "Karl-Heinz SCHNELLINGER",
+          "Horst SZYMANIAK",
+          "Helmut RAHN",
+          "Hans SCHAEFER",
+          "Hans CIESCLARCZYK",
+          "Alfred KELBASSA",
+          "Hans STURM"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "16"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hans CIESCLARCZYK",
+          "minute": "18"
+        },
+        {
+          "team": "France",
+          "player": "Raymond KOPA",
+          "minute": "27",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "36"
+        },
+        {
+          "team": "France",
+          "player": "Yvon DOUIS",
+          "minute": "50"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "52"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "78"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "84"
+        },
+        {
+          "team": "France",
+          "player": "Just FONTAINE",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1958-06-29",
+      "stage": "Final",
+      "venue": "Råsunda Stadion",
+      "city": "Solna",
+      "home_team": "Brazil",
+      "away_team": "Sweden",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "BELLINI",
+          "DJALMA SANTOS",
+          "NILTON SANTOS",
+          "ORLANDO",
+          "DIDI",
+          "ZITO",
+          "Mario ZAGALLO",
+          "PELE",
+          "GARRINCHA",
+          "VAVA"
+        ],
+        "away": [
+          "Kalle SVENSSON",
+          "Orvar BERGMARK",
+          "Sven AXBOM",
+          "Nils LIEDHOLM",
+          "Sigge PARLING",
+          "Gunnar GREN",
+          "Bengt GUSTAVSSON",
+          "Reino BORJESSON",
+          "Kurt HAMRIN",
+          "Agne SIMONSSON",
+          "Lennart SKOGLUND"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Nils LIEDHOLM",
+          "minute": "4"
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "9"
+        },
+        {
+          "team": "Brazil",
+          "player": "VAVA",
+          "minute": "32"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "55"
+        },
+        {
+          "team": "Brazil",
+          "player": "Mario ZAGALLO",
+          "minute": "68"
+        },
+        {
+          "team": "Sweden",
+          "player": "Agne SIMONSSON",
+          "minute": "80"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "90"
+        }
+      ],
+      "substitutions": []
+    }
+  ]
+}

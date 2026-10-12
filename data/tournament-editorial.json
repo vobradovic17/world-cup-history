@@ -1,0 +1,864 @@
+{
+  "1930": {
+    "year": "1930",
+    "host": "Uruguay",
+    "flag": "🇺🇾",
+    "winner": "Uruguay",
+    "topScorer": {
+      "goals": 8,
+      "players": [
+        {
+          "name": "Guillermo Stábile",
+          "team": "Argentina"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": null,
+    "bestGoalkeeper": null,
+    "teams": "13",
+    "matches": "18",
+    "title": "The beginning",
+    "titleAccent": "of everything.",
+    "story": "The inaugural FIFA World Cup was held in Uruguay in 1930. Thirteen teams came to Montevideo for the tournament, shaped by long sea journeys, crowded terraces and the excitement of a football world meeting for the first time. Uruguay, the reigning Olympic champions and hosts, reached the final against Argentina at the newly opened Estadio Centenario. After falling behind, La Celeste turned the match around to win 4–2, becoming the first nation to lift the Jules Rimet Trophy.",
+    "finalHomeCode": "URU",
+    "finalHomeScore": "4",
+    "finalAwayScore": "2",
+    "finalAwayCode": "ARG",
+    "finalLocation": "Montevideo, Uruguay",
+    "finalLabel": "Final · Estadio Centenario"
+  },
+  "1934": {
+    "year": "1934",
+    "host": "Italy",
+    "flag": "🇮🇹",
+    "winner": "Italy",
+    "topScorer": {
+      "goals": 5,
+      "players": [
+        {
+          "name": "Oldřich Nejedlý",
+          "team": "Czechoslovakia"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": null,
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "17",
+    "title": "The first home crown",
+    "titleAccent": "sets the tone.",
+    "story": "Italy hosted the second FIFA World Cup, the first edition to use a qualification phase and a straight knockout format. Sixteen teams travelled to Italy. In the final at Rome’s Stadio Nazionale PNF, Czechoslovakia took the lead before Raimundo Orsi equalised and Angelo Schiavio scored in extra time to give Italy a 2–1 victory and its first world title.",
+    "finalHomeCode": "ITA",
+    "finalHomeScore": "2",
+    "finalAwayScore": "1",
+    "finalAwayCode": "TCH",
+    "finalLocation": "Rome, Italy",
+    "finalLabel": "Final · Stadio Nazionale PNF"
+  },
+  "1938": {
+    "year": "1938",
+    "host": "France",
+    "flag": "🇮🇹",
+    "winner": "Italy",
+    "topScorer": {
+      "goals": 7,
+      "players": [
+        {
+          "name": "Leônidas",
+          "team": "Brazil"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": null,
+    "bestGoalkeeper": null,
+    "teams": "15",
+    "matches": "18",
+    "title": "A title defended",
+    "titleAccent": "away from home.",
+    "story": "France hosted the third FIFA World Cup, a compact knockout tournament played across ten venues. Fifteen teams took part after Austria withdrew, and Italy arrived as the reigning champion. In the final at Paris’s Stade Olympique de Colombes, Italy defeated Hungary 4–2, with doubles from Gino Colaussi and Silvio Piola, becoming the first nation to retain the trophy.",
+    "finalHomeCode": "ITA",
+    "finalHomeScore": "4",
+    "finalAwayScore": "2",
+    "finalAwayCode": "HUN",
+    "finalLocation": "Paris, France",
+    "finalLabel": "Final · Stade Olympique de Colombes"
+  },
+  "1950": {
+    "year": "1950",
+    "host": "Brazil",
+    "flag": "🇺🇾",
+    "winner": "Uruguay",
+    "topScorer": {
+      "goals": 9,
+      "players": [
+        {
+          "name": "Ademir de Menezes",
+          "team": "Brazil"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": null,
+    "bestGoalkeeper": null,
+    "teams": "13",
+    "matches": "22",
+    "title": "The match",
+    "titleAccent": "that echoed.",
+    "story": "Brazil hosted the fourth FIFA World Cup, whose unusual final stage was decided by a round-robin group rather than a single final. Uruguay, Brazil, Sweden and Spain competed for the title, but Brazil arrived at the decisive match as the overwhelming favourite after two big wins. Before a huge Maracanã crowd, Uruguay came from behind to win 2–1 through goals by Juan Alberto Schiaffino and Alcides Ghiggia, creating the shock remembered as the Maracanazo.",
+    "finalHomeCode": "URU",
+    "finalHomeScore": "2",
+    "finalAwayScore": "1",
+    "finalAwayCode": "BRA",
+    "finalLocation": "Rio de Janeiro, Brazil",
+    "finalLabel": "Decider · Estádio do Maracanã"
+  },
+  "1954": {
+    "year": "1954",
+    "host": "Switzerland",
+    "flag": "🇩🇪",
+    "winner": "West Germany",
+    "topScorer": {
+      "goals": 11,
+      "players": [
+        {
+          "name": "Sándor Kocsis",
+          "team": "Hungary"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": null,
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "26",
+    "title": "A comeback",
+    "titleAccent": "for the ages.",
+    "story": "Switzerland hosted the fifth FIFA World Cup, a fast and high-scoring tournament remembered for the meeting of West Germany and Hungary’s celebrated Golden Team. Hungary had already beaten the Germans 8–3 in the group stage, and then raced into a 2–0 lead in the rain-soaked final at Bern’s Wankdorf Stadium. Max Morlock and Helmut Rahn levelled the match before Rahn struck again late to complete the 3–2 Miracle of Bern.",
+    "finalHomeCode": "FRG",
+    "finalHomeScore": "3",
+    "finalAwayScore": "2",
+    "finalAwayCode": "HUN",
+    "finalLocation": "Bern, Switzerland",
+    "finalLabel": "Final · Wankdorf Stadium"
+  },
+  "1958": {
+    "year": "1958",
+    "host": "Sweden",
+    "flag": "🇧🇷",
+    "winner": "Brazil",
+    "topScorer": {
+      "goals": 13,
+      "players": [
+        {
+          "name": "Just Fontaine",
+          "team": "France"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": {
+      "name": "Pelé",
+      "team": "Brazil",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "35",
+    "title": "A star",
+    "titleAccent": "arrives.",
+    "story": "Sweden hosted the sixth FIFA World Cup, where Brazil’s fluid attacking football finally produced its first world title. A 17-year-old Pelé emerged as the tournament’s defining figure, scoring six goals after entering the knockout stage. In the final at Stockholm’s Råsunda Stadium, Brazil recovered from an early Swedish lead to win 5–2, with Pelé scoring twice and Vavá also claiming a brace.",
+    "finalHomeCode": "BRA",
+    "finalHomeScore": "5",
+    "finalAwayScore": "2",
+    "finalAwayCode": "SWE",
+    "finalLocation": "Stockholm, Sweden",
+    "finalLabel": "Final · Råsunda Stadium"
+  },
+  "1962": {
+    "year": "1962",
+    "host": "Chile",
+    "flag": "🇧🇷",
+    "winner": "Brazil",
+    "topScorer": {
+      "goals": 4,
+      "players": [
+        {
+          "name": "Flórián Albert",
+          "team": "Hungary"
+        },
+        {
+          "name": "Garrincha",
+          "team": "Brazil"
+        },
+        {
+          "name": "Valentin Ivanov",
+          "team": "Soviet Union"
+        },
+        {
+          "name": "Dražan Jerković",
+          "team": "Yugoslavia"
+        },
+        {
+          "name": "Leonel Sánchez",
+          "team": "Chile"
+        },
+        {
+          "name": "Vavá",
+          "team": "Brazil"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": {
+      "name": "Flórián Albert",
+      "team": "Hungary",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "32",
+    "title": "The champions",
+    "titleAccent": "hold on.",
+    "story": "Chile hosted the seventh FIFA World Cup, a hard-fought tournament shaped by injuries, intense defending and the brilliance of Brazil’s attacking core. Pelé was sidelined early, but Garrincha and Amarildo helped carry the champions through the knockout stage. In the final at Santiago’s Estadio Nacional, Czechoslovakia scored first before Amarildo, Zito and Vavá turned the match around for a 3–1 victory and Brazil’s second consecutive title.",
+    "finalHomeCode": "BRA",
+    "finalHomeScore": "3",
+    "finalAwayScore": "1",
+    "finalAwayCode": "TCH",
+    "finalLocation": "Santiago, Chile",
+    "finalLabel": "Final · Estadio Nacional"
+  },
+  "1966": {
+    "year": "1966",
+    "host": "England",
+    "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+    "winner": "England",
+    "topScorer": {
+      "goals": 9,
+      "players": [
+        {
+          "name": "Eusébio",
+          "team": "Portugal"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": {
+      "name": "Franz Beckenbauer",
+      "team": "West Germany",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "32",
+    "title": "Football comes",
+    "titleAccent": "home.",
+    "story": "England hosted the eighth FIFA World Cup, a tournament defined by Alf Ramsey’s disciplined team and a final that still divides opinion. At Wembley, West Germany scored early before Geoff Hurst equalised, Martin Peters put England ahead and Wolfgang Weber forced extra time. Hurst then completed the first hat-trick in a World Cup final, including the famous disputed third goal, to seal a 4–2 victory and England’s only world title.",
+    "finalHomeCode": "ENG",
+    "finalHomeScore": "4",
+    "finalAwayScore": "2",
+    "finalAwayCode": "FRG",
+    "finalLocation": "London, England",
+    "finalLabel": "Final · Wembley Stadium"
+  },
+  "1970": {
+    "year": "1970",
+    "host": "Mexico",
+    "flag": "🇧🇷",
+    "winner": "Brazil",
+    "topScorer": {
+      "goals": 10,
+      "players": [
+        {
+          "name": "Gerd Müller",
+          "team": "West Germany"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": {
+      "name": "Teófilo Cubillas",
+      "team": "Peru",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "32",
+    "title": "The beautiful game",
+    "titleAccent": "in full colour.",
+    "story": "Mexico hosted the ninth FIFA World Cup, the first played at altitude and the first to be broadcast widely in colour. Brazil arrived with a remarkable attacking side built around Pelé, Jairzinho, Tostão, Gérson and Rivellino, then swept through the tournament with a style that made the competition feel electric. In the final at Mexico City’s Estadio Azteca, Pelé opened the scoring and Carlos Alberto finished a flowing move as Brazil defeated Italy 4–1 to claim a third title and keep the Jules Rimet Trophy permanently.",
+    "finalHomeCode": "BRA",
+    "finalHomeScore": "4",
+    "finalAwayScore": "1",
+    "finalAwayCode": "ITA",
+    "finalLocation": "Mexico City, Mexico",
+    "finalLabel": "Final · Estadio Azteca"
+  },
+  "1974": {
+    "year": "1974",
+    "host": "West Germany",
+    "flag": "🇩🇪",
+    "winner": "West Germany",
+    "topScorer": {
+      "goals": 7,
+      "players": [
+        {
+          "name": "Grzegorz Lato",
+          "team": "Poland"
+        }
+      ]
+    },
+    "bestPlayer": null,
+    "bestYoungPlayer": {
+      "name": "Władysław Żmuda",
+      "team": "Poland",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "38",
+    "title": "A final",
+    "titleAccent": "turned around.",
+    "story": "West Germany hosted the tenth FIFA World Cup, a tournament remembered for the Netherlands’ expressive total football and the hosts’ composed response. In the final at Munich’s Olympiastadion, Johan Neeskens converted an early penalty before Paul Breitner answered from the spot. Gerd Müller then scored just before half-time, and West Germany held on for a 2–1 victory that delivered Franz Beckenbauer and his team their second world title.",
+    "finalHomeCode": "FRG",
+    "finalHomeScore": "2",
+    "finalAwayScore": "1",
+    "finalAwayCode": "NED",
+    "finalLocation": "Munich, West Germany",
+    "finalLabel": "Final · Olympiastadion"
+  },
+  "1978": {
+    "year": "1978",
+    "host": "Argentina",
+    "flag": "🇦🇷",
+    "winner": "Argentina",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Mario Kempes",
+          "team": "Argentina"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Mario Kempes",
+      "team": "Argentina"
+    },
+    "bestYoungPlayer": {
+      "name": "Antonio Cabrini",
+      "team": "Italy",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "16",
+    "matches": "38",
+    "title": "A nation",
+    "titleAccent": "finds its voice.",
+    "story": "Argentina hosted the eleventh FIFA World Cup, a tournament that brought the national team to its first final while turning Mario Kempes into its defining star. The Netherlands pushed the hosts through a tense match at Buenos Aires’s Estadio Monumental, but Kempes opened the scoring and Dick Nanninga equalised late to force extra time. Kempes struck again before Daniel Bertoni sealed a 3–1 victory, giving Argentina its first world title in front of a home crowd.",
+    "finalHomeCode": "ARG",
+    "finalHomeScore": "3",
+    "finalAwayScore": "1",
+    "finalAwayCode": "NED",
+    "finalLocation": "Buenos Aires, Argentina",
+    "finalLabel": "Final · Monumental Stadium"
+  },
+  "1982": {
+    "year": "1982",
+    "host": "Spain",
+    "flag": "🇮🇹",
+    "winner": "Italy",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Paolo Rossi",
+          "team": "Italy"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Paolo Rossi",
+      "team": "Italy"
+    },
+    "bestYoungPlayer": {
+      "name": "Manuel Amorós",
+      "team": "France",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "24",
+    "matches": "52",
+    "title": "Three goals",
+    "titleAccent": "and a third star.",
+    "story": "Spain hosted the twelfth FIFA World Cup, a demanding tournament that expanded to 24 teams and culminated in Paolo Rossi’s remarkable return to form. After Italy edged past Brazil in a legendary three-goal quarter-final, Rossi struck twice against Poland before scoring again in the final at Madrid’s Santiago Bernabéu. Italy defeated West Germany 3–1, with Marco Tardelli and Alessandro Altobelli joining Rossi on the scoresheet as Dino Zoff lifted a third world title for the Azzurri.",
+    "finalHomeCode": "ITA",
+    "finalHomeScore": "3",
+    "finalAwayScore": "1",
+    "finalAwayCode": "FRG",
+    "finalLocation": "Madrid, Spain",
+    "finalLabel": "Final · Santiago Bernabéu"
+  },
+  "1986": {
+    "year": "1986",
+    "host": "Mexico",
+    "flag": "🇦🇷",
+    "winner": "Argentina",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Gary Lineker",
+          "team": "England"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Diego Maradona",
+      "team": "Argentina"
+    },
+    "bestYoungPlayer": {
+      "name": "Enzo Scifo",
+      "team": "Belgium",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "24",
+    "matches": "52",
+    "title": "One player",
+    "titleAccent": "against the world.",
+    "story": "Mexico hosted the thirteenth FIFA World Cup, where Diego Maradona became the tournament’s central figure. He scored twice against England in a quarter-final that produced both the Hand of God and the Goal of the Century, then supplied the pass for Jorge Burruchaga’s winning goal in the final. Argentina beat West Germany 3–2 at the Azteca, recovering from a late equaliser to claim its second world title.",
+    "finalHomeCode": "ARG",
+    "finalHomeScore": "3",
+    "finalAwayScore": "2",
+    "finalAwayCode": "FRG",
+    "finalLocation": "Mexico City, Mexico",
+    "finalLabel": "Final · Estadio Azteca"
+  },
+  "1990": {
+    "year": "1990",
+    "host": "Italy",
+    "flag": "🇩🇪",
+    "winner": "West Germany",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Salvatore Schillaci",
+          "team": "Italy"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Salvatore Schillaci",
+      "team": "Italy"
+    },
+    "bestYoungPlayer": {
+      "name": "Robert Prosinečki",
+      "team": "Yugoslavia",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": null,
+    "teams": "24",
+    "matches": "52",
+    "title": "A narrow",
+    "titleAccent": "victory.",
+    "story": "Italy hosted the fourteenth FIFA World Cup, a tournament remembered for tight defending, packed stadiums and the emergence of Salvatore Schillaci as its unexpected scoring star. West Germany navigated a demanding knockout path before meeting Argentina again in the final at Rome’s Stadio Olimpico. Andreas Brehme converted a late penalty to secure a 1–0 victory, giving Franz Beckenbauer’s team its third world title and completing a remarkable cycle after the 1986 final defeat.",
+    "finalHomeCode": "FRG",
+    "finalHomeScore": "1",
+    "finalAwayScore": "0",
+    "finalAwayCode": "ARG",
+    "finalLocation": "Rome, Italy",
+    "finalLabel": "Final · Stadio Olimpico"
+  },
+  "1994": {
+    "year": "1994",
+    "host": "USA",
+    "flag": "🇧🇷",
+    "winner": "Brazil",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Oleg Salenko",
+          "team": "Russia"
+        },
+        {
+          "name": "Hristo Stoichkov",
+          "team": "Bulgaria"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Romário",
+      "team": "Brazil"
+    },
+    "bestYoungPlayer": {
+      "name": "Marc Overmars",
+      "team": "Netherlands",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": {
+      "name": "Michel Preud'homme",
+      "team": "Belgium"
+    },
+    "teams": "24",
+    "matches": "52",
+    "title": "The first final",
+    "titleAccent": "from the spot.",
+    "story": "The United States hosted the fifteenth FIFA World Cup, a landmark tournament that brought football to packed stadiums across the country. Brazil combined a disciplined defence with the creativity of Romário and Bebeto, while Italy fought through a demanding knockout run led by Roberto Baggio. After a goalless final at Pasadena’s Rose Bowl, Brazil won the first World Cup decided by a penalty shootout, taking the trophy 3–2 from the spot and claiming a fourth world title.",
+    "finalHomeCode": "BRA",
+    "finalHomeScore": "0",
+    "finalAwayScore": "0",
+    "finalAwayCode": "ITA",
+    "finalLocation": "Pasadena, USA",
+    "finalLabel": "Final · Rose Bowl · Brazil won 3–2 on penalties"
+  },
+  "1998": {
+    "year": "1998",
+    "host": "France",
+    "flag": "🇫🇷",
+    "winner": "France",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Davor Šuker",
+          "team": "Croatia"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Ronaldo",
+      "team": "Brazil"
+    },
+    "bestYoungPlayer": {
+      "name": "Michael Owen",
+      "team": "England",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": {
+      "name": "Fabien Barthez",
+      "team": "France"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "A home crowd",
+    "titleAccent": "gets its moment.",
+    "story": "France hosted the 16th FIFA World Cup across ten stadiums, bringing 32 teams together for the first time in the tournament’s history. The hosts grew into the competition behind the creativity of Zinedine Zidane, the pace of Thierry Henry and the calm leadership of Didier Deschamps, while Croatia announced itself with Davor Šuker’s goals and a surprise run to the semi-finals. In the final at the Stade de France, Zidane scored twice from corners before Emmanuel Petit added a third late on, giving France a 3–0 victory over Brazil and its first world title in front of a home crowd.",
+    "finalHomeCode": "FRA",
+    "finalHomeScore": "3",
+    "finalAwayScore": "0",
+    "finalAwayCode": "BRA",
+    "finalLocation": "Saint-Denis, France",
+    "finalLabel": "Final · Stade de France"
+  },
+  "2002": {
+    "year": "2002",
+    "host": "Korea + Japan",
+    "flag": "🇧🇷",
+    "winner": "Brazil",
+    "topScorer": {
+      "goals": 8,
+      "players": [
+        {
+          "name": "Ronaldo",
+          "team": "Brazil"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Oliver Kahn",
+      "team": "Germany"
+    },
+    "bestYoungPlayer": {
+      "name": "Landon Donovan",
+      "team": "United States",
+      "selection": "retrospective"
+    },
+    "bestGoalkeeper": {
+      "name": "Oliver Kahn",
+      "team": "Germany"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "The fifth star",
+    "titleAccent": "under new lights.",
+    "story": "The first World Cup staged in Asia was shared by South Korea and Japan, and it produced a tournament of surprises: defending champions France went out in the group stage, South Korea reached the semi-finals, and Brazil’s attack found its rhythm under the bright stadium lights. Ronaldo Nazário returned from injury to lead the scoring, finishing the final in Yokohama with both goals against Germany, including the decisive finish after Oliver Kahn’s only major error of the tournament. Brazil’s 2–0 victory delivered a record fifth world title and made Ronaldo’s comeback the defining image of Korea and Japan 2002.",
+    "finalHomeCode": "BRA",
+    "finalHomeScore": "2",
+    "finalAwayScore": "0",
+    "finalAwayCode": "GER",
+    "finalLocation": "Yokohama, Japan",
+    "finalLabel": "Final · International Stadium Yokohama"
+  },
+  "2006": {
+    "year": "2006",
+    "host": "Germany",
+    "flag": "🇮🇹",
+    "winner": "Italy",
+    "topScorer": {
+      "goals": 5,
+      "players": [
+        {
+          "name": "Miroslav Klose",
+          "team": "Germany"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Zinédine Zidane",
+      "team": "France"
+    },
+    "bestYoungPlayer": {
+      "name": "Lukas Podolski",
+      "team": "Germany",
+      "selection": "official"
+    },
+    "bestGoalkeeper": {
+      "name": "Gianluigi Buffon",
+      "team": "Italy"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "A final",
+    "titleAccent": "of nerve.",
+    "story": "Germany hosted a tournament of packed stadiums, high energy and unforgettable drama, from Germany’s late run to the semi-finals to Italy’s disciplined rise through the knockout stage. Fabio Cannavaro anchored a defence that conceded only two goals all tournament, while Miroslav Klose won the Golden Boot and Zinedine Zidane carried France back to the final. In Berlin, Zidane opened the scoring with a Panenka penalty before Marco Materazzi equalised, and the match stayed level through extra time. Italy finally prevailed 5–3 on penalties after Zidane was sent off for his headbutt on Materazzi, lifting a fourth world title in one of the most memorable finals in World Cup history.",
+    "finalHomeCode": "ITA",
+    "finalHomeScore": "1",
+    "finalAwayScore": "1",
+    "finalAwayCode": "FRA",
+    "finalLocation": "Berlin, Germany",
+    "finalLabel": "Final · Olympiastadion · Italy won 5–3 on penalties"
+  },
+  "2010": {
+    "year": "2010",
+    "host": "South Africa",
+    "flag": "🇪🇸",
+    "winner": "Spain",
+    "topScorer": {
+      "goals": 5,
+      "players": [
+        {
+          "name": "Thomas Müller",
+          "team": "Germany"
+        },
+        {
+          "name": "Wesley Sneijder",
+          "team": "Netherlands"
+        },
+        {
+          "name": "David Villa",
+          "team": "Spain"
+        },
+        {
+          "name": "Diego Forlán",
+          "team": "Uruguay"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Diego Forlán",
+      "team": "Uruguay"
+    },
+    "bestYoungPlayer": {
+      "name": "Thomas Müller",
+      "team": "Germany",
+      "selection": "official"
+    },
+    "bestGoalkeeper": {
+      "name": "Iker Casillas",
+      "team": "Spain"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "A new champion",
+    "titleAccent": "for a new continent.",
+    "story": "South Africa hosted the first FIFA World Cup on the African continent, a tournament remembered for vuvuzelas, bright stadiums and Spain’s patient possession football. The Netherlands reached the final with a bruising, disciplined style, while Spain’s golden generation built around Xavi, Andrés Iniesta and Sergio Busquets controlled matches through movement and passing. In Johannesburg, the final stayed goalless through 90 minutes before Iniesta struck in extra time, sending a low finish beyond Maarten Stekelenburg and giving Spain its first world title in a tense 1–0 victory.",
+    "finalHomeCode": "ESP",
+    "finalHomeScore": "1",
+    "finalAwayScore": "0",
+    "finalAwayCode": "NED",
+    "finalLocation": "Johannesburg, South Africa",
+    "finalLabel": "Final · Soccer City"
+  },
+  "2014": {
+    "year": "2014",
+    "host": "Brazil",
+    "flag": "🇩🇪",
+    "winner": "Germany",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "James Rodríguez",
+          "team": "Colombia"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Lionel Messi",
+      "team": "Argentina"
+    },
+    "bestYoungPlayer": {
+      "name": "Paul Pogba",
+      "team": "France",
+      "selection": "official"
+    },
+    "bestGoalkeeper": {
+      "name": "Manuel Neuer",
+      "team": "Germany"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "A finish",
+    "titleAccent": "in extra time.",
+    "story": "Brazil hosted a vibrant, high-scoring World Cup that filled twelve stadiums and introduced a new generation of stars to a global audience. Germany grew stronger with each round, while the Netherlands impressed with a penalty shootout win over Costa Rica and Argentina relied on Lionel Messi’s creativity to reach the final. After Brazil’s unforgettable semi-final defeat to Germany, the final in Rio was decided by a moment of patience: Mario Götze controlled André Schürrle’s cross on his chest and volleyed past Sergio Romero in extra time, giving Germany a 1–0 victory and its fourth world title.",
+    "finalHomeCode": "GER",
+    "finalHomeScore": "1",
+    "finalAwayScore": "0",
+    "finalAwayCode": "ARG",
+    "finalLocation": "Rio de Janeiro, Brazil",
+    "finalLabel": "Final · Maracanã"
+  },
+  "2018": {
+    "year": "2018",
+    "host": "Russia",
+    "flag": "🇫🇷",
+    "winner": "France",
+    "topScorer": {
+      "goals": 6,
+      "players": [
+        {
+          "name": "Harry Kane",
+          "team": "England"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Luka Modrić",
+      "team": "Croatia"
+    },
+    "bestYoungPlayer": {
+      "name": "Kylian Mbappé",
+      "team": "France",
+      "selection": "official"
+    },
+    "bestGoalkeeper": {
+      "name": "Thibaut Courtois",
+      "team": "Belgium"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "Youthful energy",
+    "titleAccent": "takes the stage.",
+    "story": "Russia hosted a vivid, wide-open World Cup that introduced video assistant refereeing to the tournament and brought packed stadiums to eleven host cities. France blended the experience of Hugo Lloris and Olivier Giroud with the speed of a teenage Kylian Mbappé, while Croatia overcame extra-time matches against Denmark and England to reach its first final. In Moscow, France survived a thrilling contest with Croatia, scoring through an own goal, a penalty and strikes from Paul Pogba and Mbappé before Mario Mandžukić pulled one back. The 4–2 victory delivered France’s second world title and announced a new generation of champions.",
+    "finalHomeCode": "FRA",
+    "finalHomeScore": "4",
+    "finalAwayScore": "2",
+    "finalAwayCode": "CRO",
+    "finalLocation": "Moscow, Russia",
+    "finalLabel": "Final · Luzhniki Stadium"
+  },
+  "2022": {
+    "year": "2022",
+    "host": "Qatar",
+    "flag": "🇦🇷",
+    "winner": "Argentina",
+    "topScorer": {
+      "goals": 8,
+      "players": [
+        {
+          "name": "Kylian Mbappé",
+          "team": "France"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Lionel Messi",
+      "team": "Argentina"
+    },
+    "bestYoungPlayer": {
+      "name": "Enzo Fernández",
+      "team": "Argentina",
+      "selection": "official"
+    },
+    "bestGoalkeeper": {
+      "name": "Emiliano Martínez",
+      "team": "Argentina"
+    },
+    "teams": "32",
+    "matches": "64",
+    "title": "A captain",
+    "titleAccent": "completes the story.",
+    "story": "Qatar staged the first World Cup in the Arab world, a compact winter tournament that brought dramatic nights, new stadiums and a memorable shift in football’s global map. Argentina began with a shock defeat to Saudi Arabia but recovered behind Lionel Messi’s goals and the energy of Julián Álvarez, while Morocco became the first African team to reach a World Cup semi-final. The final in Lusail became an instant classic as Argentina and France traded six goals, with Messi and Kylian Mbappé both scoring twice before the match was decided on penalties. Argentina won 4–2 from the spot, giving Messi his first World Cup and the country its third title.",
+    "finalHomeCode": "ARG",
+    "finalHomeScore": "3",
+    "finalAwayScore": "3",
+    "finalAwayCode": "FRA",
+    "finalLocation": "Lusail, Qatar",
+    "finalLabel": "Final · Lusail Stadium · Argentina won 4–2 on penalties"
+  },
+  "2026": {
+    "year": "2026",
+    "host": "Canada · Mexico · USA",
+    "flag": "🇪🇸",
+    "winner": "Spain",
+    "topScorer": {
+      "goals": 10,
+      "players": [
+        {
+          "name": "Kylian Mbappé",
+          "team": "France"
+        }
+      ]
+    },
+    "bestPlayer": {
+      "name": "Rodri",
+      "team": "Spain"
+    },
+    "bestYoungPlayer": {
+      "name": "Pau Cubarsí",
+      "team": "Spain",
+      "selection": "official"
+    },
+    "bestGoalkeeper": {
+      "name": "Unai Simón",
+      "team": "Spain"
+    },
+    "teams": "48",
+    "matches": "104",
+    "title": "A wider world",
+    "titleAccent": "takes the field.",
+    "story": "The expanded 2026 World Cup brought 48 teams together across Canada, Mexico and the United States, turning the tournament into a truly continental event with matches spread across sixteen host cities. Spain paired patient possession with a new generation of energy, while Argentina arrived as defending champions and pushed the final deep into extra time. At New York New Jersey Stadium, Ferran Torres scored the decisive goal in the 106th minute, giving Spain a 1–0 victory over Argentina and a second world title in a final that closed the biggest World Cup in history.",
+    "finalHomeCode": "ESP",
+    "finalHomeScore": "1",
+    "finalAwayScore": "0",
+    "finalAwayCode": "ARG",
+    "finalLocation": "East Rutherford, USA",
+    "finalLabel": "Final · New York New Jersey Stadium"
+  },
+  "2030": {
+    "year": "2030",
+    "host": "Spain · Portugal · Morocco · Argentina · Paraguay · Uruguay",
+    "flag": "",
+    "winner": "Future tournament",
+    "topScorer": null,
+    "bestPlayer": null,
+    "bestYoungPlayer": null,
+    "bestGoalkeeper": null,
+    "teams": "48",
+    "matches": "104",
+    "title": "A new century",
+    "titleAccent": "starts here.",
+    "story": "The 2030 FIFA World Cup will turn its centenary into a six-country celebration across three continents. Spain, Portugal and Morocco will host the main tournament, while Argentina, Paraguay and Uruguay will stage one centenary match each in South America, returning the competition to the place where the first World Cup began in 1930. The edition will connect European, African and South American football cultures through a shared history, long-distance journeys and a format designed to make the hundred-year milestone feel global from the opening whistle.",
+    "finalHomeCode": "—",
+    "finalHomeScore": "—",
+    "finalAwayScore": "—",
+    "finalAwayCode": "—",
+    "finalLocation": "Spain · Portugal · Morocco · Argentina · Paraguay · Uruguay",
+    "finalLabel": "Future · 100 years after 1930"
+  }
+}

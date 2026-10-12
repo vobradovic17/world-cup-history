@@ -1,0 +1,7184 @@
+{
+  "tournament": "FIFA World Cup 2022",
+  "host_country": "Qatar",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/2022f.html",
+    "https://fixturedownload.com/results/fifa-world-cup-2022",
+    "https://www.fifa.com/fr/tournaments/mens/worldcup/articles/le-parcours-des-bleus-a-la-coupe-du-monde-de-la-fifa-qatar-2022-un-an-jour-pour-jour",
+    "https://www.englandfootball.com/england/mens-senior-team/fixtures-results/2022/england-v-USA-fifa-world-cup-qatar-2022-friday-25-november-2022",
+    "https://github.com/openfootball/worldcup.json/blob/master/2022/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "2022-11-20",
+      "stage": "Group A",
+      "venue": "Al Bayt Stadium",
+      "home_team": "Qatar",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Ecuador",
+          "player": "Enner VALENCIA",
+          "minute": "16",
+          "penalty": true
+        },
+        {
+          "team": "Ecuador",
+          "player": "Enner VALENCIA",
+          "minute": "31"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Jeremy SARMIENTO",
+          "player_off": "Romario IBARRA",
+          "minute": "68"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "MOHAMMED MUNTARI",
+          "player_off": "ALMOEZ ALI",
+          "minute": "72"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "MOHAMMED WAAD",
+          "player_off": "HASSAN ALHAYDOS",
+          "minute": "72"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Jose CIFUENTES",
+          "player_off": "Enner VALENCIA",
+          "minute": "77"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Kevin RODRIGUEZ",
+          "player_off": "Michael ESTRADA",
+          "minute": "90"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Alan FRANCO",
+          "player_off": "Moises CAICEDO",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "SAAD ALSHEEB",
+          "PEDRO MIGUEL",
+          "ABDELKARIM HASSAN",
+          "HOMAM AHMED",
+          "BASSAM HISHAM",
+          "BOUALEM KHOUKHI",
+          "ABDULAZIZ HATEM",
+          "HASSAN ALHAYDOS",
+          "KARIM BOUDIAF",
+          "AKRAM AFIF",
+          "ALMOEZ ALI"
+        ],
+        "away": [
+          "Hernan GALINDEZ",
+          "Felix TORRES",
+          "Piero HINCAPIE",
+          "Pervis ESTUPINAN",
+          "Angelo PRECIADO",
+          "Romario IBARRA",
+          "Gonzalo PLATA",
+          "Jhegson MENDEZ",
+          "Moises CAICEDO",
+          "Michael ESTRADA",
+          "Enner VALENCIA"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-21",
+      "stage": "Group A",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Senegal",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Cody GAKPO",
+          "minute": "84"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Davy KLAASSEN",
+          "minute": "90+9"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Senegal",
+          "player_on": "Ismail JAKOBS",
+          "player_off": "Abdou DIALLO",
+          "minute": "62"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Memphis DEPAY",
+          "player_off": "Vincent JANSSEN",
+          "minute": "62"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikh DIENG",
+          "player_off": "Boulaye DIA",
+          "minute": "69"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Nicolas JACKSON",
+          "player_off": "Krepin DIATTA",
+          "minute": "73"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Pape GUEYE",
+          "player_off": "Cheikhou KOUYATE",
+          "minute": "73"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Davy KLAASSEN",
+          "player_off": "Steven BERGWIJN",
+          "minute": "79"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Teun KOOPMEINERS",
+          "player_off": "Steven BERGHUIS",
+          "minute": "79"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Marten DE ROON",
+          "player_off": "Cody GAKPO",
+          "minute": "90+4"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edouard MENDY",
+          "Kalidou KOULIBALY",
+          "Pape Abou CISSE",
+          "Youssouf SABALY",
+          "Abdou DIALLO",
+          "Idrissa Gana GUEYE",
+          "Nampalys MENDY",
+          "Cheikhou KOUYATE",
+          "Krepin DIATTA",
+          "Ismaila SARR",
+          "Boulaye DIA"
+        ],
+        "away": [
+          "Andries NOPPERT",
+          "Matthijs DE LIGT",
+          "Virgil VAN DIJK",
+          "Nathan AKE",
+          "Cody GAKPO",
+          "Steven BERGHUIS",
+          "Daley BLIND",
+          "Frenkie DE JONG",
+          "Denzel DUMFRIES",
+          "Steven BERGWIJN",
+          "Vincent JANSSEN"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-21",
+      "stage": "Group B",
+      "venue": "Khalifa International Stadium",
+      "home_team": "England",
+      "away_team": "Iran",
+      "score": {
+        "home": 6,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Jude BELLINGHAM",
+          "minute": "35"
+        },
+        {
+          "team": "England",
+          "player": "Bukayo SAKA",
+          "minute": "43"
+        },
+        {
+          "team": "England",
+          "player": "Raheem STERLING",
+          "minute": "45+1"
+        },
+        {
+          "team": "England",
+          "player": "Bukayo SAKA",
+          "minute": "62"
+        },
+        {
+          "team": "Iran",
+          "player": "Mehdi TAREMI",
+          "minute": "65"
+        },
+        {
+          "team": "England",
+          "player": "Marcus RASHFORD",
+          "minute": "71"
+        },
+        {
+          "team": "England",
+          "player": "Jack GREALISH",
+          "minute": "90"
+        },
+        {
+          "team": "Iran",
+          "player": "Mehdi TAREMI",
+          "minute": "90+13",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Hossein HOSSEINI",
+          "player_off": "Ali BEIRANVAND",
+          "minute": "20"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Mohammad KANAANI",
+          "player_off": "Roozbeh CHESHMI",
+          "minute": "46"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Saeid EZATOLAHI",
+          "player_off": "Ali KARIMI",
+          "minute": "46"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Ali GHOLIZADEH",
+          "player_off": "Alireza JAHANBAKHSH",
+          "minute": "46"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Mahdi TORABI",
+          "player_off": "Milad MOHAMMADI",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Phil FODEN",
+          "player_off": "Mason MOUNT",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Bukayo SAKA",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Jack GREALISH",
+          "player_off": "Raheem STERLING",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Eric DIER",
+          "player_off": "Harry MAGUIRE",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Callum WILSON",
+          "player_off": "Harry KANE",
+          "minute": "75"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Sardar AZMOUN",
+          "player_off": "Ahmad NOOROLLAHI",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jordan PICKFORD",
+          "Luke SHAW",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Kieran TRIPPIER",
+          "Declan RICE",
+          "Mason MOUNT",
+          "Jude BELLINGHAM",
+          "Harry KANE",
+          "Raheem STERLING",
+          "Bukayo SAKA"
+        ],
+        "away": [
+          "Ali BEIRANVAND",
+          "Sadegh MOHARRAMI",
+          "Milad MOHAMMADI",
+          "Morteza POURALIGANJI",
+          "Roozbeh CHESHMI",
+          "Majid HOSSEINI",
+          "Ehsan HAJI SAFI",
+          "Ali KARIMI",
+          "Ahmad NOOROLLAHI",
+          "Alireza JAHANBAKHSH",
+          "Mehdi TAREMI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-21",
+      "stage": "Group B",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "United States",
+      "away_team": "Wales",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Tim WEAH",
+          "minute": "36"
+        },
+        {
+          "team": "Wales",
+          "player": "Gareth BALE",
+          "minute": "82",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Wales",
+          "player_on": "Kieffer MOORE",
+          "player_off": "Daniel JAMES",
+          "minute": "46"
+        },
+        {
+          "team": "United States",
+          "player_on": "Brenden AARONSON",
+          "player_off": "Weston McKENNIE",
+          "minute": "66"
+        },
+        {
+          "team": "United States",
+          "player_on": "Kellyn PERRY-ACOSTA",
+          "player_off": "Yunus MUSAH",
+          "minute": "74"
+        },
+        {
+          "team": "United States",
+          "player_on": "Haji WRIGHT",
+          "player_off": "Josh SARGENT",
+          "minute": "74"
+        },
+        {
+          "team": "United States",
+          "player_on": "DeAndre YEDLIN",
+          "player_off": "Sergino DEST",
+          "minute": "74"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Brennan JOHNSON",
+          "player_off": "Neco WILLIAMS",
+          "minute": "79"
+        },
+        {
+          "team": "United States",
+          "player_on": "Jordan MORRIS",
+          "player_off": "Tim WEAH",
+          "minute": "88"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Sorba THOMAS",
+          "player_off": "Harry WILSON",
+          "minute": "90+3"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Joseff MORRELL",
+          "player_off": "Ethan AMPADU",
+          "minute": "90+5"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Matt TURNER",
+          "Sergino DEST",
+          "Walker ZIMMERMAN",
+          "Antonee ROBINSON",
+          "Tim REAM",
+          "Tyler ADAMS",
+          "Yunus MUSAH",
+          "Weston McKENNIE",
+          "Christian PULISIC",
+          "Tim WEAH",
+          "Josh SARGENT"
+        ],
+        "away": [
+          "Wayne HENNESSEY",
+          "Neco WILLIAMS",
+          "Ben DAVIES",
+          "Chris MEPHAM",
+          "Joe RODON",
+          "Connor ROBERTS",
+          "Harry WILSON",
+          "Aaron RAMSEY",
+          "Ethan AMPADU",
+          "Gareth BALE",
+          "Daniel JAMES"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-22",
+      "stage": "Group C",
+      "venue": "Lusail Stadium",
+      "home_team": "Argentina",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "10",
+          "penalty": true
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "SALEH ALSHEHRI",
+          "minute": "48"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "SALEM ALDAWSARI",
+          "minute": "53"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "NAWAF AL ABID",
+          "player_off": "SALMAN ALFARAJ",
+          "minute": "45+4"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lisandro MARTINEZ",
+          "player_off": "Cristian ROMERO",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Enzo FERNANDEZ",
+          "player_off": "Leandro PAREDES",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Julian ALVAREZ",
+          "player_off": "Alejandro GOMEZ",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Marcos ACUNA",
+          "player_off": "Nicolas TAGLIAFICO",
+          "minute": "71"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "SULTAN ALGHANNAM",
+          "player_off": "SALEH ALSHEHRI",
+          "minute": "78"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "HAITHAM ASIRI",
+          "player_off": "FERAS ALBRIKAN",
+          "minute": "89"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Abdulelah ALAMRI",
+          "player_off": "NAWAF AL ABID",
+          "minute": "89"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "MOHAMMED ALBURAYK",
+          "player_off": "YASSER ALSHAHRANI",
+          "minute": "90+9"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Emiliano MARTINEZ",
+          "Nicolas TAGLIAFICO",
+          "Cristian ROMERO",
+          "Nicolas OTAMENDI",
+          "Nahuel MOLINA",
+          "Leandro PAREDES",
+          "Rodrigo DE PAUL",
+          "Angel DI MARIA",
+          "Alejandro GOMEZ",
+          "Lionel MESSI",
+          "Lautaro MARTINEZ"
+        ],
+        "away": [
+          "MOHAMMED ALOWAIS",
+          "ALI ALBULAYHI",
+          "SAUD ABDULHAMID",
+          "YASSER ALSHAHRANI",
+          "Hassan ALTAMBAKTI",
+          "SALMAN ALFARAJ",
+          "ABDULELAH ALMALKI",
+          "MOHAMED KANNO",
+          "FERAS ALBRIKAN",
+          "SALEM ALDAWSARI",
+          "SALEH ALSHEHRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-22",
+      "stage": "Group C",
+      "venue": "Stadium 974",
+      "home_team": "Mexico",
+      "away_team": "Poland",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Krystian BIELIK",
+          "player_off": "Nicola ZALEWSKI",
+          "minute": "46"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul JIMENEZ",
+          "player_off": "Henry MARTIN",
+          "minute": "71"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Carlos RODRIGUEZ",
+          "player_off": "Hector HERRERA",
+          "minute": "71"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Przemyslaw FRANKOWSKI",
+          "player_off": "Sebastian SZYMANSKI",
+          "minute": "71"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Uriel ANTUNA",
+          "player_off": "Alexis VEGA",
+          "minute": "84"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Arkadiusz MILIK",
+          "player_off": "Piotr ZIELINSKI",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Guillermo OCHOA",
+          "Cesar MONTES",
+          "Hector MORENO",
+          "Jorge SANCHEZ",
+          "Jesus GALLARDO",
+          "Edson ALVAREZ",
+          "Hector HERRERA",
+          "Luis CHAVEZ",
+          "Alexis VEGA",
+          "Henry MARTIN",
+          "Hirving LOZANO"
+        ],
+        "away": [
+          "Wojciech SZCZESNY",
+          "Matty CASH",
+          "Jakub KIWIOR",
+          "Kamil GLIK",
+          "Bartosz BERESZYNSKI",
+          "Grzegorz KRYCHOWIAK",
+          "Jakub KAMINSKI",
+          "Sebastian SZYMANSKI",
+          "Piotr ZIELINSKI",
+          "Nicola ZALEWSKI",
+          "Robert LEWANDOWSKI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-22",
+      "stage": "Group D",
+      "venue": "Education City Stadium",
+      "home_team": "Denmark",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Mikkel DAMSGAARD",
+          "player_off": "Thomas DELANEY",
+          "minute": "45+1"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jesper LINDSTROM",
+          "player_off": "Andreas SKOV OLSEN",
+          "minute": "65"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Andreas CORNELIUS",
+          "player_off": "Kasper DOLBERG",
+          "minute": "65"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Mathias JENSEN",
+          "player_off": "Simon KJAER",
+          "minute": "65"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Naim SLITI",
+          "player_off": "Anis SLIMANE",
+          "minute": "67"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Hannibal MEJBRI",
+          "player_off": "Youssef MSAKNI",
+          "minute": "80"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Taha KHENISSI",
+          "player_off": "Issam JEBALI",
+          "minute": "80"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Wajdi KECHRIDA",
+          "player_off": "Mohamed DRAGER",
+          "minute": "88"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ferjani SASSI",
+          "player_off": "Aissa LAIDOUNI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kasper SCHMEICHEL",
+          "Joachim ANDERSEN",
+          "Simon KJAER",
+          "Andreas CHRISTENSEN",
+          "Joakim MAEHLE",
+          "Thomas DELANEY",
+          "Christian ERIKSEN",
+          "Rasmus KRISTENSEN",
+          "Pierre-Emile HOJBJERG",
+          "Andreas SKOV OLSEN",
+          "Kasper DOLBERG"
+        ],
+        "away": [
+          "Aymen DAHMEN",
+          "Montassar TALBI",
+          "Yassine MERIAH",
+          "Dylan BRONN",
+          "Aissa LAIDOUNI",
+          "Ellyes SKHIRI",
+          "Mohamed DRAGER",
+          "Ali ABDI",
+          "Youssef MSAKNI",
+          "Issam JEBALI",
+          "Anis SLIMANE"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-22",
+      "stage": "Group D",
+      "venue": "Al Janoub Stadium",
+      "home_team": "France",
+      "away_team": "Australia",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Australia",
+          "player": "Craig GOODWIN",
+          "minute": "9"
+        },
+        {
+          "team": "France",
+          "player": "Adrien RABIOT",
+          "minute": "27"
+        },
+        {
+          "team": "France",
+          "player": "Olivier GIROUD",
+          "minute": "32"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player": "Olivier GIROUD",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Theo HERNANDEZ",
+          "player_off": "Lucas HERNANDEZ",
+          "minute": "13"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jason CUMMINGS",
+          "player_off": "Mitch DUKE",
+          "minute": "56"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Awer MABIL",
+          "player_off": "Riley McGREE",
+          "minute": "73"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Garang KUOL",
+          "player_off": "Craig GOODWIN",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Youssouf Fofana",
+          "player_off": "Aurelien TCHOUAMENI",
+          "minute": "77"
+        },
+        {
+          "team": "France",
+          "player_on": "Kingsley COMAN",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "77"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Keanu BACCUS",
+          "player_off": "Jackson IRVINE",
+          "minute": "85"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Milos DEGENEK",
+          "player_off": "Nathaniel ATKINSON",
+          "minute": "85"
+        },
+        {
+          "team": "France",
+          "player_on": "Marcus THURAM",
+          "player_off": "Olivier GIROUD",
+          "minute": "89"
+        },
+        {
+          "team": "France",
+          "player_on": "Jules KOUNDE",
+          "player_off": "Benjamin PAVARD",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Benjamin PAVARD",
+          "Dayot UPAMECANO",
+          "Lucas HERNANDEZ",
+          "Ibrahima KONATE",
+          "Antoine GRIEZMANN",
+          "Aurelien TCHOUAMENI",
+          "Adrien RABIOT",
+          "Olivier GIROUD",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE"
+        ],
+        "away": [
+          "Mathew RYAN",
+          "Nathaniel ATKINSON",
+          "Kye ROWLES",
+          "Aziz BEHICH",
+          "Harry SOUTTAR",
+          "Aaron MOOY",
+          "Riley McGREE",
+          "Jackson IRVINE",
+          "Mathew LECKIE",
+          "Mitch DUKE",
+          "Craig GOODWIN"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-26",
+      "stage": "Group D",
+      "venue": "Stadium 974",
+      "home_team": "France",
+      "away_team": "Denmark",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "61"
+        },
+        {
+          "team": "Denmark",
+          "player": "Andreas CHRISTENSEN",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Martin BRAITHWAITE",
+          "player_off": "Andreas CORNELIUS",
+          "minute": "46"
+        },
+        {
+          "team": "France",
+          "player_on": "Marcus THURAM",
+          "player_off": "Olivier GIROUD",
+          "minute": "63"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Kasper DOLBERG",
+          "player_off": "Mikkel DAMSGAARD",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Kingsley COMAN",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Ibrahima KONATE",
+          "player_off": "Raphael VARANE",
+          "minute": "75"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Christian NORGAARD",
+          "player_off": "Jesper LINDSTROM",
+          "minute": "85"
+        },
+        {
+          "team": "France",
+          "player_on": "Youssouf Fofana",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "90+2"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Alexander BAH",
+          "player_off": "Rasmus KRISTENSEN",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Raphael VARANE",
+          "Jules KOUNDE",
+          "Dayot UPAMECANO",
+          "Theo HERNANDEZ",
+          "Antoine GRIEZMANN",
+          "Aurelien TCHOUAMENI",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE",
+          "Adrien RABIOT",
+          "Olivier GIROUD"
+        ],
+        "away": [
+          "Kasper SCHMEICHEL",
+          "Joachim ANDERSEN",
+          "Victor NELSSON",
+          "Andreas CHRISTENSEN",
+          "Joakim MAEHLE",
+          "Christian ERIKSEN",
+          "Rasmus KRISTENSEN",
+          "Pierre-Emile HOJBJERG",
+          "Mikkel DAMSGAARD",
+          "Andreas CORNELIUS",
+          "Jesper LINDSTROM"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-23",
+      "stage": "Group E",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Germany",
+      "away_team": "Japan",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Ilkay GUENDOGAN",
+          "minute": "33",
+          "penalty": true
+        },
+        {
+          "team": "Japan",
+          "player": "Ritsu DOAN",
+          "minute": "75"
+        },
+        {
+          "team": "Japan",
+          "player": "Takuma ASANO",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Takehiro TOMIYASU",
+          "player_off": "Takefusa KUBO",
+          "minute": "46"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takuma ASANO",
+          "player_off": "Daizen MAEDA",
+          "minute": "57"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Kaoru MITOMA",
+          "player_off": "Yuto NAGATOMO",
+          "minute": "57"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Jonas HOFMANN",
+          "player_off": "Thomas MUELLER",
+          "minute": "67"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Leon GORETZKA",
+          "player_off": "Ilkay GUENDOGAN",
+          "minute": "67"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Ritsu DOAN",
+          "player_off": "Ao TANAKA",
+          "minute": "71"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takumi MINAMINO",
+          "player_off": "Hiroki SAKAI",
+          "minute": "75"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOETZE",
+          "player_off": "Jamal MUSIALA",
+          "minute": "79"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Niclas FUELLKRUG",
+          "player_off": "Kai HAVERTZ",
+          "minute": "79"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Youssoufa MOUKOKO",
+          "player_off": "Serge GNABRY",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Manuel NEUER",
+          "Antonio RUEDIGER",
+          "David RAUM",
+          "Niklas SUELE",
+          "Nico SCHLOTTERBECK",
+          "Joshua KIMMICH",
+          "Serge GNABRY",
+          "Thomas MUELLER",
+          "Jamal MUSIALA",
+          "Ilkay GUENDOGAN",
+          "Kai HAVERTZ"
+        ],
+        "away": [
+          "Shuichi GONDA",
+          "Kou ITAKURA",
+          "Yuto NAGATOMO",
+          "Hiroki SAKAI",
+          "Maya YOSHIDA",
+          "Wataru ENDO",
+          "Takefusa KUBO",
+          "Junya ITO",
+          "Daichi KAMADA",
+          "Ao TANAKA",
+          "Daizen MAEDA"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-23",
+      "stage": "Group E",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Spain",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 7,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Dani OLMO",
+          "minute": "11"
+        },
+        {
+          "team": "Spain",
+          "player": "Marco ASENSIO",
+          "minute": "21"
+        },
+        {
+          "team": "Spain",
+          "player": "Ferran TORRES",
+          "minute": "31",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "Ferran TORRES",
+          "minute": "54"
+        },
+        {
+          "team": "Spain",
+          "player": "GAVI",
+          "minute": "74"
+        },
+        {
+          "team": "Spain",
+          "player": "Carlos SOLER",
+          "minute": "90"
+        },
+        {
+          "team": "Spain",
+          "player": "Alvaro MORATA",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Kendall WASTON",
+          "player_off": "Carlos MARTINEZ",
+          "minute": "46"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Carlos SOLER",
+          "player_off": "Pedri GONZALEZ",
+          "minute": "57"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alvaro MORATA",
+          "player_off": "Ferran TORRES",
+          "minute": "57"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Bryan RUIZ",
+          "player_off": "Jewison BENNETTE",
+          "minute": "61"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Alvaro ZAMORA",
+          "player_off": "Anthony CONTRERAS",
+          "minute": "61"
+        },
+        {
+          "team": "Spain",
+          "player_on": "KOKE",
+          "player_off": "Sergio BUSQUETS",
+          "minute": "64"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alejandro BALDE",
+          "player_off": "Jordi ALBA",
+          "minute": "64"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Nico WILLIAMS",
+          "player_off": "Marco ASENSIO",
+          "minute": "69"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Brandon AGUILERA",
+          "player_off": "Celso BORGES",
+          "minute": "72"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Ronald MATARRITA",
+          "player_off": "Bryan OVIEDO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Unai SIMON",
+          "Cesar AZPILICUETA",
+          "RODRI",
+          "Jordi ALBA",
+          "Aymeric LAPORTE",
+          "Sergio BUSQUETS",
+          "GAVI",
+          "Pedri GONZALEZ",
+          "Marco ASENSIO",
+          "Ferran TORRES",
+          "Dani OLMO"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Oscar DUARTE",
+          "Bryan OVIEDO",
+          "Francisco CALVO",
+          "Carlos MARTINEZ",
+          "Keysher FULLER",
+          "Celso BORGES",
+          "Jewison BENNETTE",
+          "Yeltsin TEJEDA",
+          "Anthony CONTRERAS",
+          "Joel CAMPBELL"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-23",
+      "stage": "Group F",
+      "venue": "Al Bayt Stadium",
+      "home_team": "Morocco",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Mario PASALIC",
+          "player_off": "Nikola VLASIC",
+          "minute": "46"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Yahya ATTIAT-ALLAH",
+          "player_off": "Noussair MAZRAOUI",
+          "minute": "60"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abde EZZALZOULI",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "65"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Marko LIVAJA",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "71"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Lovro MAJER",
+          "player_off": "Mateo KOVACIC",
+          "minute": "79"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abderrazak HAMDALLAH",
+          "player_off": "Youssef EN NESYRI",
+          "minute": "81"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdelhamid SABIRI",
+          "player_off": "Azzedine OUNAHI",
+          "minute": "81"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mislav ORSIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yassine BOUNOU",
+          "Achraf HAKIMI",
+          "Noussair MAZRAOUI",
+          "Nayef AGUERD",
+          "Romain SAISS",
+          "Sofyan AMRABAT",
+          "Azzedine OUNAHI",
+          "Selim AMALLAH",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ],
+        "away": [
+          "Dominik LIVAKOVIC",
+          "Dejan LOVREN",
+          "Borna SOSA",
+          "Josko GVARDIOL",
+          "Josip JURANOVIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ivan PERISIC",
+          "Andrej KRAMARIC",
+          "Nikola VLASIC"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-23",
+      "stage": "Group F",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "Belgium",
+      "away_team": "Canada",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Michy BATSHUAYI",
+          "minute": "44"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Thomas MEUNIER",
+          "player_off": "Yannick CARRASCO",
+          "minute": "46"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Amadou ONANA",
+          "player_off": "Youri TIELEMANS",
+          "minute": "46"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Ismael KONE",
+          "player_off": "Atiba HUTCHINSON",
+          "minute": "58"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Cyle LARIN",
+          "player_off": "Junior HOILETT",
+          "minute": "58"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Leandro TROSSARD",
+          "player_off": "Eden HAZARD",
+          "minute": "62"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Sam ADEKUGBE",
+          "player_off": "Richie LARYEA",
+          "minute": "74"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Lois OPENDA",
+          "player_off": "Michy BATSHUAYI",
+          "minute": "78"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Liam MILLAR",
+          "player_off": "Tajon BUCHANAN",
+          "minute": "81"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Jonathan OSORIO",
+          "player_off": "Stephen EUSTAQUIO",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Jan VERTONGHEN",
+          "Leander DENDONCKER",
+          "Axel WITSEL",
+          "Youri TIELEMANS",
+          "Eden HAZARD",
+          "Yannick CARRASCO",
+          "Timothy CASTAGNE",
+          "Kevin DE BRUYNE",
+          "Michy BATSHUAYI"
+        ],
+        "away": [
+          "Milan BORJAN",
+          "Alistair JOHNSTON",
+          "Kamal MILLER",
+          "Steven VITORIA",
+          "Stephen EUSTAQUIO",
+          "Atiba HUTCHINSON",
+          "Alphonso DAVIES",
+          "Richie LARYEA",
+          "Junior HOILETT",
+          "Tajon BUCHANAN",
+          "Jonathan DAVID"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-27",
+      "stage": "Group F",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Croatia",
+      "away_team": "Canada",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Canada",
+          "player": "Alphonso DAVIES",
+          "minute": "2"
+        },
+        {
+          "team": "Croatia",
+          "player": "Andrej KRAMARIC",
+          "minute": "36"
+        },
+        {
+          "team": "Croatia",
+          "player": "Marko LIVAJA",
+          "minute": "44"
+        },
+        {
+          "team": "Croatia",
+          "player": "Andrej KRAMARIC",
+          "minute": "70"
+        },
+        {
+          "team": "Croatia",
+          "player": "Lovro MAJER",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Canada",
+          "player_on": "Ismael KONE",
+          "player_off": "Stephen EUSTAQUIO",
+          "minute": "46"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Jonathan OSORIO",
+          "player_off": "Cyle LARIN",
+          "minute": "46"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Bruno PETKOVIC",
+          "player_off": "Marko LIVAJA",
+          "minute": "60"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Junior HOILETT",
+          "player_off": "Richie LARYEA",
+          "minute": "62"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Nikola VLASIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "72"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Lucas CAVALLINI",
+          "player_off": "Jonathan DAVID",
+          "minute": "72"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Sam ADEKUGBE",
+          "player_off": "Atiba HUTCHINSON",
+          "minute": "72"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mislav ORSIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "86"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mario PASALIC",
+          "player_off": "Luka MODRIC",
+          "minute": "86"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Lovro MAJER",
+          "player_off": "Mateo KOVACIC",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dominik LIVAKOVIC",
+          "Dejan LOVREN",
+          "Borna SOSA",
+          "Josko GVARDIOL",
+          "Josip JURANOVIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ivan PERISIC",
+          "Andrej KRAMARIC",
+          "Marko LIVAJA"
+        ],
+        "away": [
+          "Milan BORJAN",
+          "Alistair JOHNSTON",
+          "Kamal MILLER",
+          "Steven VITORIA",
+          "Richie LARYEA",
+          "Stephen EUSTAQUIO",
+          "Tajon BUCHANAN",
+          "Atiba HUTCHINSON",
+          "Alphonso DAVIES",
+          "Cyle LARIN",
+          "Jonathan DAVID"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-24",
+      "stage": "Group G",
+      "venue": "Al Janoub Stadium",
+      "home_team": "Switzerland",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Breel EMBOLO",
+          "minute": "48"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Gael ONDOUA",
+          "player_off": "Martin HONGLA",
+          "minute": "68"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Fabian FREI",
+          "player_off": "Mohameth SOW",
+          "minute": "72"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Breel EMBOLO",
+          "minute": "72"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Noah OKAFOR",
+          "player_off": "Xherdan SHAQIRI",
+          "minute": "72"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Vincent ABOUBAKAR",
+          "player_off": "Eric Maxim CHOUPO-MOTING",
+          "minute": "74"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Georges-Kevin NKOUDOU",
+          "player_off": "Karl TOKO EKAMBI",
+          "minute": "74"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Fabian RIEDER",
+          "player_off": "Ruben VARGAS",
+          "minute": "81"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Nicolas NGAMALEU",
+          "player_off": "Bryan MBEUMO",
+          "minute": "81"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Eray COMERT",
+          "player_off": "Ricardo RODRIGUEZ",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yann SOMMER",
+          "Silvan WIDMER",
+          "Nico ELVEDI",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Remo FREULER",
+          "Granit XHAKA",
+          "Mohameth SOW",
+          "Breel EMBOLO",
+          "Ruben VARGAS",
+          "Xherdan SHAQIRI"
+        ],
+        "away": [
+          "Andre ONANA",
+          "Nicolas NKOULOU",
+          "Collins FAI",
+          "Jean-Charles CASTELLETTO",
+          "Nouhou TOLO",
+          "Andre-Frank ZAMBO ANGUISSA",
+          "Samuel GOUET",
+          "Martin HONGLA",
+          "Karl TOKO EKAMBI",
+          "Eric Maxim CHOUPO-MOTING",
+          "Bryan MBEUMO"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-24",
+      "stage": "Group G",
+      "venue": "Lusail Stadium",
+      "home_team": "Brazil",
+      "away_team": "Serbia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RICHARLISON",
+          "minute": "62"
+        },
+        {
+          "team": "Brazil",
+          "player": "RICHARLISON",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja RADONJIC",
+          "player_off": "Andrija ZIVKOVIC",
+          "minute": "57"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Ivan ILIC",
+          "player_off": "Nemanja GUDELJ",
+          "minute": "57"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Dusan VLAHOVIC",
+          "player_off": "Filip MLADENOVIC",
+          "minute": "66"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Darko LAZOVIC",
+          "player_off": "Sasa LUKIC",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RODRYGO",
+          "player_off": "VINICIUS JR",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "FRED",
+          "player_off": "LUCAS PAQUETA",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GABRIEL JESUS",
+          "player_off": "RICHARLISON",
+          "minute": "79"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ANTONY",
+          "player_off": "NEYMAR",
+          "minute": "79"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja MAKSIMOVIC",
+          "player_off": "Aleksandar MITROVIC",
+          "minute": "83"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GABRIEL MARTINELLI",
+          "player_off": "RAPHINHA",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "DANILO",
+          "THIAGO SILVA",
+          "MARQUINHOS",
+          "ALEX SANDRO",
+          "CASEMIRO",
+          "LUCAS PAQUETA",
+          "NEYMAR",
+          "RICHARLISON",
+          "RAPHINHA",
+          "VINICIUS JR"
+        ],
+        "away": [
+          "Vanja MILINKOVIC",
+          "Strahinja PAVLOVIC",
+          "Nikola MILENKOVIC",
+          "Milos VELJKOVIC",
+          "Nemanja GUDELJ",
+          "Andrija ZIVKOVIC",
+          "Sasa LUKIC",
+          "Filip MLADENOVIC",
+          "Aleksandar MITROVIC",
+          "Dusan TADIC",
+          "Sergej MILINKOVIC-SAVIC"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-24",
+      "stage": "Group H",
+      "venue": "Education City Stadium",
+      "home_team": "Uruguay",
+      "away_team": "South Korea",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Edinson CAVANI",
+          "player_off": "Luis SUAREZ",
+          "minute": "64"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHO Guesung",
+          "player_off": "HWANG Uijo",
+          "minute": "74"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Kangin",
+          "player_off": "NA Sangho",
+          "minute": "74"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SON Junho",
+          "player_off": "LEE Jaesung",
+          "minute": "74"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Nicolas DE LA CRUZ",
+          "player_off": "Matias VECINO",
+          "minute": "79"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Matias VINA",
+          "player_off": "Mathias OLIVERA",
+          "minute": "79"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Guillermo VARELA",
+          "player_off": "Facundo PELLISTRI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Sergio ROCHET",
+          "Jose GIMENEZ",
+          "Diego GODIN",
+          "Mathias OLIVERA",
+          "Martin CACERES",
+          "Matias VECINO",
+          "Rodrigo BENTANCUR",
+          "Federico VALVERDE",
+          "Facundo PELLISTRI",
+          "Luis SUAREZ",
+          "Darwin NUNEZ"
+        ],
+        "away": [
+          "KIM Seunggyu",
+          "KIM Jinsu",
+          "Kim MINJAE",
+          "KIM Moonhwan",
+          "KIM Younggwon",
+          "JUNG Wooyoung",
+          "HWANG Inbeom",
+          "LEE Jaesung",
+          "SON Heungmin",
+          "HWANG Uijo",
+          "NA Sangho"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-24",
+      "stage": "Group H",
+      "venue": "Stadium 974",
+      "home_team": "Portugal",
+      "away_team": "Ghana",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "CRISTIANO RONALDO",
+          "minute": "65",
+          "penalty": true
+        },
+        {
+          "team": "Ghana",
+          "player": "Andre AYEW",
+          "minute": "73"
+        },
+        {
+          "team": "Portugal",
+          "player": "JOAO FELIX",
+          "minute": "78"
+        },
+        {
+          "team": "Portugal",
+          "player": "RAFAEL LEAO",
+          "minute": "80"
+        },
+        {
+          "team": "Ghana",
+          "player": "Osman BUKARI",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "WILLIAM",
+          "player_off": "OTAVIO",
+          "minute": "56"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Tariq LAMPTEY",
+          "player_off": "Seidu ALIDU",
+          "minute": "66"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RAFAEL LEAO",
+          "player_off": "RUBEN NEVES",
+          "minute": "77"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Osman BUKARI",
+          "player_off": "Kudus MOHAMMED",
+          "minute": "77"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Jordan AYEW",
+          "player_off": "Andre AYEW",
+          "minute": "77"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "GONCALO RAMOS",
+          "player_off": "CRISTIANO RONALDO",
+          "minute": "88"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JOAO MARIO",
+          "player_off": "JOAO FELIX",
+          "minute": "88"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JOAO PALHINHA",
+          "player_off": "BERNARDO SILVA",
+          "minute": "88"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Daniel-Kofi KYEREH",
+          "player_off": "Salis ABDUL SAMED",
+          "minute": "90+2"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Antoine SEMENYO",
+          "player_off": "Alexander DJIKU",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIOGO COSTA",
+          "RUBEN DIAS",
+          "RAPHAEL GUERREIRO",
+          "DANILO",
+          "JOAO CANCELO",
+          "BERNARDO SILVA",
+          "RUBEN NEVES",
+          "OTAVIO",
+          "CRISTIANO RONALDO",
+          "BRUNO FERNANDES",
+          "JOAO FELIX"
+        ],
+        "away": [
+          "Lawrence Ati ZIGI",
+          "Mohammed SALISU",
+          "Daniel AMARTEY",
+          "Alexander DJIKU",
+          "Thomas PARTEY",
+          "Baba RAHMAN",
+          "Kudus MOHAMMED",
+          "Salis ABDUL SAMED",
+          "Seidu ALIDU",
+          "Andre AYEW",
+          "Inaki WILLIAMS"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-25",
+      "stage": "Group B",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "Wales",
+      "away_team": "Iran",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Iran",
+          "player": "Roozbeh CHESHMI",
+          "minute": "90+8"
+        },
+        {
+          "team": "Iran",
+          "player": "Ramin REZAEIAN",
+          "minute": "90+11"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Wales",
+          "player_on": "Brennan JOHNSON",
+          "player_off": "Connor ROBERTS",
+          "minute": "57"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Daniel JAMES",
+          "player_off": "Harry WILSON",
+          "minute": "57"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Karim ANSARIFARD",
+          "player_off": "Sardar AZMOUN",
+          "minute": "68"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Joe ALLEN",
+          "player_off": "Ethan AMPADU",
+          "minute": "77"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Roozbeh CHESHMI",
+          "player_off": "Ahmad NOOROLLAHI",
+          "minute": "77"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Alireza JAHANBAKHSH",
+          "player_off": "Ali GHOLIZADEH",
+          "minute": "77"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Mahdi TORABI",
+          "player_off": "Ehsan HAJI SAFI",
+          "minute": "77"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Ali KARIMI",
+          "player_off": "Saeid EZATOLAHI",
+          "minute": "83"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Danny WARD",
+          "player_off": "Aaron RAMSEY",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wayne HENNESSEY",
+          "Ben DAVIES",
+          "Chris MEPHAM",
+          "Joe RODON",
+          "Neco WILLIAMS",
+          "Aaron RAMSEY",
+          "Connor ROBERTS",
+          "Ethan AMPADU",
+          "Harry WILSON",
+          "Gareth BALE",
+          "Kieffer MOORE"
+        ],
+        "away": [
+          "Hossein HOSSEINI",
+          "Milad MOHAMMADI",
+          "Morteza POURALIGANJI",
+          "Majid HOSSEINI",
+          "Ramin REZAEIAN",
+          "Ehsan HAJI SAFI",
+          "Saeid EZATOLAHI",
+          "Ahmad NOOROLLAHI",
+          "Mehdi TAREMI",
+          "Ali GHOLIZADEH",
+          "Sardar AZMOUN"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-25",
+      "stage": "Group A",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Qatar",
+      "away_team": "Senegal",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Senegal",
+          "player": "Boulaye DIA",
+          "minute": "41"
+        },
+        {
+          "team": "Senegal",
+          "player": "Famara DIEDHIOU",
+          "minute": "48"
+        },
+        {
+          "team": "Qatar",
+          "player": "MOHAMMED MUNTARI",
+          "minute": "78"
+        },
+        {
+          "team": "Senegal",
+          "player": "Cheikh DIENG",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Senegal",
+          "player_on": "Pathe CISS",
+          "player_off": "Krepin DIATTA",
+          "minute": "64"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "ABDULAZIZ HATEM",
+          "player_off": "KARIM BOUDIAF",
+          "minute": "69"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "MOHAMMED MUNTARI",
+          "player_off": "HASSAN ALHAYDOS",
+          "minute": "74"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Iliman NDIAYE",
+          "player_off": "Ismaila SARR",
+          "minute": "74"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikh DIENG",
+          "player_off": "Famara DIEDHIOU",
+          "minute": "74"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Pape SARR",
+          "player_off": "Nampalys MENDY",
+          "minute": "78"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Pape Abou CISSE",
+          "player_off": "Ismail JAKOBS",
+          "minute": "78"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "TAREK SALMAN",
+          "player_off": "HOMAM AHMED",
+          "minute": "83"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "MOHAMMED WAAD",
+          "player_off": "PEDRO MIGUEL",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MESHAAL BARSHAM",
+          "PEDRO MIGUEL",
+          "ABDELKARIM HASSAN",
+          "HOMAM AHMED",
+          "BOUALEM KHOUKHI",
+          "ISMAIL MOHAMAD",
+          "HASSAN ALHAYDOS",
+          "KARIM BOUDIAF",
+          "ASSIM MADIBO",
+          "AKRAM AFIF",
+          "ALMOEZ ALI"
+        ],
+        "away": [
+          "Edouard MENDY",
+          "Kalidou KOULIBALY",
+          "Ismail JAKOBS",
+          "Youssouf SABALY",
+          "Abdou DIALLO",
+          "Idrissa Gana GUEYE",
+          "Nampalys MENDY",
+          "Krepin DIATTA",
+          "Ismaila SARR",
+          "Boulaye DIA",
+          "Famara DIEDHIOU"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-25",
+      "stage": "Group A",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Netherlands",
+      "away_team": "Ecuador",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Cody GAKPO",
+          "minute": "6"
+        },
+        {
+          "team": "Ecuador",
+          "player": "Enner VALENCIA",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Memphis DEPAY",
+          "player_off": "Steven BERGWIJN",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Steven BERGHUIS",
+          "player_off": "Davy KLAASSEN",
+          "minute": "69"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Jeremy SARMIENTO",
+          "player_off": "Michael ESTRADA",
+          "minute": "74"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wout WEGHORST",
+          "player_off": "Cody GAKPO",
+          "minute": "79"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Marten DE ROON",
+          "player_off": "Teun KOOPMEINERS",
+          "minute": "79"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Romario IBARRA",
+          "player_off": "Gonzalo PLATA",
+          "minute": "90"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Kevin RODRIGUEZ",
+          "player_off": "Enner VALENCIA",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andries NOPPERT",
+          "Jurrien TIMBER",
+          "Virgil VAN DIJK",
+          "Nathan AKE",
+          "Davy KLAASSEN",
+          "Daley BLIND",
+          "Teun KOOPMEINERS",
+          "Frenkie DE JONG",
+          "Denzel DUMFRIES",
+          "Steven BERGWIJN",
+          "Cody GAKPO"
+        ],
+        "away": [
+          "Hernan GALINDEZ",
+          "Felix TORRES",
+          "Piero HINCAPIE",
+          "Jackson POROZO",
+          "Pervis ESTUPINAN",
+          "Angelo PRECIADO",
+          "Jhegson MENDEZ",
+          "Moises CAICEDO",
+          "Michael ESTRADA",
+          "Enner VALENCIA",
+          "Gonzalo PLATA"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-25",
+      "stage": "Group B",
+      "venue": "Al Bayt Stadium",
+      "home_team": "England",
+      "away_team": "United States",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Jack GREALISH",
+          "player_off": "Raheem STERLING",
+          "minute": "68"
+        },
+        {
+          "team": "England",
+          "player_on": "Jordan HENDERSON",
+          "player_off": "Jude BELLINGHAM",
+          "minute": "68"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Bukayo SAKA",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Brenden AARONSON",
+          "player_off": "Weston McKENNIE",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Shaquell MOORE",
+          "player_off": "Sergino DEST",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Giovanni REYNA",
+          "player_off": "Tim WEAH",
+          "minute": "83"
+        },
+        {
+          "team": "United States",
+          "player_on": "Josh SARGENT",
+          "player_off": "Haji WRIGHT",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jordan PICKFORD",
+          "Luke SHAW",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Kieran TRIPPIER",
+          "Declan RICE",
+          "Mason MOUNT",
+          "Jude BELLINGHAM",
+          "Harry KANE",
+          "Raheem STERLING",
+          "Bukayo SAKA"
+        ],
+        "away": [
+          "Matt TURNER",
+          "Sergino DEST",
+          "Walker ZIMMERMAN",
+          "Antonee ROBINSON",
+          "Tim REAM",
+          "Tyler ADAMS",
+          "Yunus MUSAH",
+          "Weston McKENNIE",
+          "Christian PULISIC",
+          "Haji WRIGHT",
+          "Tim WEAH"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-26",
+      "stage": "Group C",
+      "venue": "Education City Stadium",
+      "home_team": "Poland",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Piotr ZIELINSKI",
+          "minute": "39"
+        },
+        {
+          "team": "Poland",
+          "player": "Robert LEWANDOWSKI",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "NAWAF AL ABID",
+          "player_off": "Sami ALNAJI",
+          "minute": "46"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Jakub KAMINSKI",
+          "player_off": "Piotr ZIELINSKI",
+          "minute": "63"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "SULTAN ALGHANNAM",
+          "player_off": "MOHAMMED ALBURAYK",
+          "minute": "65"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Krzysztof PIATEK",
+          "player_off": "Arkadiusz MILIK",
+          "minute": "71"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Nasser ALDAWSARI",
+          "player_off": "SALEH ALSHEHRI",
+          "minute": "85"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "ABDULRAHMAN ALOBUD",
+          "player_off": "ABDULELAH ALMALKI",
+          "minute": "85"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "HATAN BAHBRI",
+          "player_off": "NAWAF AL ABID",
+          "minute": "90+5"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wojciech SZCZESNY",
+          "Matty CASH",
+          "Jakub KIWIOR",
+          "Kamil GLIK",
+          "Bartosz BERESZYNSKI",
+          "Krystian BIELIK",
+          "Arkadiusz MILIK",
+          "Grzegorz KRYCHOWIAK",
+          "Piotr ZIELINSKI",
+          "Przemyslaw FRANKOWSKI",
+          "Robert LEWANDOWSKI"
+        ],
+        "away": [
+          "MOHAMMED ALOWAIS",
+          "Abdulelah ALAMRI",
+          "ALI ALBULAYHI",
+          "MOHAMMED ALBURAYK",
+          "SAUD ABDULHAMID",
+          "ABDULELAH ALMALKI",
+          "FERAS ALBRIKAN",
+          "SALEM ALDAWSARI",
+          "Sami ALNAJI",
+          "MOHAMED KANNO",
+          "SALEH ALSHEHRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-26",
+      "stage": "Group D",
+      "venue": "Al Janoub Stadium",
+      "home_team": "Tunisia",
+      "away_team": "Australia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Australia",
+          "player": "Mitch DUKE",
+          "minute": "23"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Ferjani SASSI",
+          "player_off": "Mohamed DRAGER",
+          "minute": "46"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jamie MacLAREN",
+          "player_off": "Mitch DUKE",
+          "minute": "64"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Ajdin HRUSTIC",
+          "player_off": "Riley McGREE",
+          "minute": "64"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Wahbi KHAZRI",
+          "player_off": "Aissa LAIDOUNI",
+          "minute": "67"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Taha KHENISSI",
+          "player_off": "Issam JEBALI",
+          "minute": "73"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Wajdi KECHRIDA",
+          "player_off": "Dylan BRONN",
+          "minute": "73"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Milos DEGENEK",
+          "player_off": "Fran KARACIC",
+          "minute": "75"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Awer MABIL",
+          "player_off": "Craig GOODWIN",
+          "minute": "85"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Keanu BACCUS",
+          "player_off": "Mathew LECKIE",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Aymen DAHMEN",
+          "Montassar TALBI",
+          "Yassine MERIAH",
+          "Dylan BRONN",
+          "Aissa LAIDOUNI",
+          "Ellyes SKHIRI",
+          "Mohamed DRAGER",
+          "Ali ABDI",
+          "Youssef MSAKNI",
+          "Issam JEBALI",
+          "Naim SLITI"
+        ],
+        "away": [
+          "Mathew RYAN",
+          "Kye ROWLES",
+          "Fran KARACIC",
+          "Aziz BEHICH",
+          "Harry SOUTTAR",
+          "Mathew LECKIE",
+          "Aaron MOOY",
+          "Jackson IRVINE",
+          "Craig GOODWIN",
+          "Riley McGREE",
+          "Mitch DUKE"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-26",
+      "stage": "Group C",
+      "venue": "Lusail Stadium",
+      "home_team": "Argentina",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player": "Enzo FERNANDEZ",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Erick GUTIERREZ",
+          "player_off": "Andres GUARDADO",
+          "minute": "42"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Enzo FERNANDEZ",
+          "player_off": "RODRIGUEZ GUIDO",
+          "minute": "57"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Julian ALVAREZ",
+          "player_off": "Lautaro MARTINEZ",
+          "minute": "63"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Nahuel MOLINA",
+          "player_off": "Gonzalo MONTIEL",
+          "minute": "63"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Uriel ANTUNA",
+          "player_off": "Alexis VEGA",
+          "minute": "66"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul JIMENEZ",
+          "player_off": "Kevin ALVAREZ",
+          "minute": "66"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Exequiel PALACIOS",
+          "player_off": "Alexis MAC ALLISTER",
+          "minute": "69"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Cristian ROMERO",
+          "player_off": "Angel DI MARIA",
+          "minute": "69"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Roberto ALVARADO",
+          "player_off": "Hirving LOZANO",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Emiliano MARTINEZ",
+          "Gonzalo MONTIEL",
+          "Marcos ACUNA",
+          "Nicolas OTAMENDI",
+          "Lisandro MARTINEZ",
+          "Rodrigo DE PAUL",
+          "Angel DI MARIA",
+          "RODRIGUEZ GUIDO",
+          "Alexis MAC ALLISTER",
+          "Lionel MESSI",
+          "Lautaro MARTINEZ"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Nestor ARAUJO",
+          "Cesar MONTES",
+          "Hector MORENO",
+          "Jesus GALLARDO",
+          "Kevin ALVAREZ",
+          "Hector HERRERA",
+          "Andres GUARDADO",
+          "Luis CHAVEZ",
+          "Alexis VEGA",
+          "Hirving LOZANO"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-27",
+      "stage": "Group E",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "Japan",
+      "away_team": "Costa Rica",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Costa Rica",
+          "player": "Keysher FULLER",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Hiroki ITO",
+          "player_off": "Yuto NAGATOMO",
+          "minute": "46"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takuma ASANO",
+          "player_off": "Ayase UEDA",
+          "minute": "46"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Kaoru MITOMA",
+          "player_off": "Miki YAMANE",
+          "minute": "62"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Jewison BENNETTE",
+          "player_off": "Anthony CONTRERAS",
+          "minute": "65"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Brandon AGUILERA",
+          "player_off": "Gerson TORRES",
+          "minute": "65"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Junya ITO",
+          "player_off": "Ritsu DOAN",
+          "minute": "67"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takumi MINAMINO",
+          "player_off": "Yuki SOMA",
+          "minute": "82"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Youstin SALAS",
+          "player_off": "Celso BORGES",
+          "minute": "89"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Daniel CHACON",
+          "player_off": "Joel CAMPBELL",
+          "minute": "90+5"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Shuichi GONDA",
+          "Miki YAMANE",
+          "Kou ITAKURA",
+          "Yuto NAGATOMO",
+          "Maya YOSHIDA",
+          "Wataru ENDO",
+          "Ritsu DOAN",
+          "Hidemasa MORITA",
+          "Daichi KAMADA",
+          "Yuki SOMA",
+          "Ayase UEDA"
+        ],
+        "away": [
+          "Keylor NAVAS",
+          "Oscar DUARTE",
+          "Francisco CALVO",
+          "Kendall WASTON",
+          "Keysher FULLER",
+          "Celso BORGES",
+          "Bryan OVIEDO",
+          "Joel CAMPBELL",
+          "Gerson TORRES",
+          "Yeltsin TEJEDA",
+          "Anthony CONTRERAS"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-27",
+      "stage": "Group F",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Belgium",
+      "away_team": "Morocco",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Romain SAISS",
+          "minute": "73"
+        },
+        {
+          "team": "Morocco",
+          "player": "Zakaria ABOUKHLAL",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Youri TIELEMANS",
+          "player_off": "Amadou ONANA",
+          "minute": "60"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Dries MERTENS",
+          "player_off": "Eden HAZARD",
+          "minute": "60"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Yahya ATTIAT-ALLAH",
+          "player_off": "Selim AMALLAH",
+          "minute": "68"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdelhamid SABIRI",
+          "player_off": "Achraf HAKIMI",
+          "minute": "68"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Zakaria ABOUKHLAL",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "73"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abderrazak HAMDALLAH",
+          "player_off": "Youssef EN NESYRI",
+          "minute": "73"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Leandro TROSSARD",
+          "player_off": "Thorgan HAZARD",
+          "minute": "75"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "DE KETELAERE",
+          "player_off": "Michy BATSHUAYI",
+          "minute": "75"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Jawad EL YAMIQ",
+          "player_off": "Azzedine OUNAHI",
+          "minute": "78"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Romelu LUKAKU",
+          "player_off": "Thomas MEUNIER",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Jan VERTONGHEN",
+          "Timothy CASTAGNE",
+          "Axel WITSEL",
+          "Thomas MEUNIER",
+          "Thorgan HAZARD",
+          "Amadou ONANA",
+          "Kevin DE BRUYNE",
+          "Eden HAZARD",
+          "Michy BATSHUAYI"
+        ],
+        "away": [
+          "Monir EL KAJOUI",
+          "Achraf HAKIMI",
+          "Noussair MAZRAOUI",
+          "Nayef AGUERD",
+          "Romain SAISS",
+          "Sofyan AMRABAT",
+          "Azzedine OUNAHI",
+          "Selim AMALLAH",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-27",
+      "stage": "Group E",
+      "venue": "Al Bayt Stadium",
+      "home_team": "Spain",
+      "away_team": "Germany",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Alvaro MORATA",
+          "minute": "62"
+        },
+        {
+          "team": "Germany",
+          "player": "Niclas FUELLKRUG",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Alvaro MORATA",
+          "player_off": "Ferran TORRES",
+          "minute": "54"
+        },
+        {
+          "team": "Spain",
+          "player_on": "KOKE",
+          "player_off": "Marco ASENSIO",
+          "minute": "66"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Nico WILLIAMS",
+          "player_off": "GAVI",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Lukas KLOSTERMANN",
+          "player_off": "Thilo KEHRER",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Leroy SANE",
+          "player_off": "Ilkay GUENDOGAN",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Niclas FUELLKRUG",
+          "player_off": "Thomas MUELLER",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alejandro BALDE",
+          "player_off": "Jordi ALBA",
+          "minute": "82"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Jonas HOFMANN",
+          "player_off": "Serge GNABRY",
+          "minute": "85"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Nico SCHLOTTERBECK",
+          "player_off": "David RAUM",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Unai SIMON",
+          "RODRI",
+          "Jordi ALBA",
+          "Dani CARVAJAL",
+          "Aymeric LAPORTE",
+          "Sergio BUSQUETS",
+          "GAVI",
+          "Pedri GONZALEZ",
+          "Marco ASENSIO",
+          "Ferran TORRES",
+          "Dani OLMO"
+        ],
+        "away": [
+          "Manuel NEUER",
+          "Antonio RUEDIGER",
+          "David RAUM",
+          "Thilo KEHRER",
+          "Niklas SUELE",
+          "Joshua KIMMICH",
+          "Leon GORETZKA",
+          "Serge GNABRY",
+          "Jamal MUSIALA",
+          "Ilkay GUENDOGAN",
+          "Thomas MUELLER"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-28",
+      "stage": "Group G",
+      "venue": "Al Janoub Stadium",
+      "home_team": "Cameroon",
+      "away_team": "Serbia",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Jean-Charles CASTELLETTO",
+          "minute": "29"
+        },
+        {
+          "team": "Serbia",
+          "player": "Strahinja PAVLOVIC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Serbia",
+          "player": "Sergej MILINKOVIC-SAVIC",
+          "minute": "45+3"
+        },
+        {
+          "team": "Serbia",
+          "player": "Aleksandar MITROVIC",
+          "minute": "53"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Vincent ABOUBAKAR",
+          "minute": "63"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Eric Maxim CHOUPO-MOTING",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Vincent ABOUBAKAR",
+          "player_off": "Martin HONGLA",
+          "minute": "55"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Stefan MITROVIC",
+          "player_off": "Strahinja PAVLOVIC",
+          "minute": "55"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Gael ONDOUA",
+          "player_off": "Pierre KUNDE",
+          "minute": "67"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Christian BASSOGOG",
+          "player_off": "Karl TOKO EKAMBI",
+          "minute": "67"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja RADONJIC",
+          "player_off": "Andrija ZIVKOVIC",
+          "minute": "78"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Marko GRUJIC",
+          "player_off": "Sergej MILINKOVIC-SAVIC",
+          "minute": "78"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Srdan BABIC",
+          "player_off": "Milos VELJKOVIC",
+          "minute": "78"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Georges-Kevin NKOUDOU",
+          "player_off": "Bryan MBEUMO",
+          "minute": "81"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Samuel GOUET",
+          "player_off": "Andre-Frank ZAMBO ANGUISSA",
+          "minute": "81"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Filip DJURICIC",
+          "player_off": "Filip KOSTIC",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Devis EPASSY",
+          "Nicolas NKOULOU",
+          "Collins FAI",
+          "Jean-Charles CASTELLETTO",
+          "Nouhou TOLO",
+          "Andre-Frank ZAMBO ANGUISSA",
+          "Pierre KUNDE",
+          "Martin HONGLA",
+          "Karl TOKO EKAMBI",
+          "Eric Maxim CHOUPO-MOTING",
+          "Bryan MBEUMO"
+        ],
+        "away": [
+          "Vanja MILINKOVIC",
+          "Strahinja PAVLOVIC",
+          "Nikola MILENKOVIC",
+          "Milos VELJKOVIC",
+          "Nemanja MAKSIMOVIC",
+          "Andrija ZIVKOVIC",
+          "Sasa LUKIC",
+          "Filip KOSTIC",
+          "Aleksandar MITROVIC",
+          "Dusan TADIC",
+          "Sergej MILINKOVIC-SAVIC"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-28",
+      "stage": "Group H",
+      "venue": "Education City Stadium",
+      "home_team": "South Korea",
+      "away_team": "Ghana",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Ghana",
+          "player": "Mohammed SALISU",
+          "minute": "24"
+        },
+        {
+          "team": "Ghana",
+          "player": "Kudus MOHAMMED",
+          "minute": "34"
+        },
+        {
+          "team": "South Korea",
+          "player": "CHO Guesung",
+          "minute": "58"
+        },
+        {
+          "team": "South Korea",
+          "player": "CHO Guesung",
+          "minute": "61"
+        },
+        {
+          "team": "Ghana",
+          "player": "Kudus MOHAMMED",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "NA Sangho",
+          "player_off": "JEONG Wooyeong",
+          "minute": "46"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Kangin",
+          "player_off": "KWON Changhoon",
+          "minute": "57"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Uijo",
+          "player_off": "JUNG Wooyoung",
+          "minute": "78"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Daniel-Kofi KYEREH",
+          "player_off": "Andre AYEW",
+          "minute": "78"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Kamaldeen SULEMANA",
+          "player_off": "Jordan AYEW",
+          "minute": "78"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Denis ODOI",
+          "player_off": "Tariq LAMPTEY",
+          "minute": "78"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Alexander DJIKU",
+          "player_off": "Kudus MOHAMMED",
+          "minute": "83"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Baba RAHMAN",
+          "player_off": "Gideon MENSAH",
+          "minute": "88"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KWON Kyungwon",
+          "player_off": "Kim MINJAE",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "KIM Seunggyu",
+          "KIM Jinsu",
+          "Kim MINJAE",
+          "KIM Moonhwan",
+          "KIM Younggwon",
+          "JUNG Wooyoung",
+          "HWANG Inbeom",
+          "SON Heungmin",
+          "KWON Changhoon",
+          "JEONG Wooyeong",
+          "CHO Guesung"
+        ],
+        "away": [
+          "Lawrence Ati ZIGI",
+          "Tariq LAMPTEY",
+          "Mohammed SALISU",
+          "Gideon MENSAH",
+          "Daniel AMARTEY",
+          "Thomas PARTEY",
+          "Jordan AYEW",
+          "Andre AYEW",
+          "Kudus MOHAMMED",
+          "Salis ABDUL SAMED",
+          "Inaki WILLIAMS"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-28",
+      "stage": "Group G",
+      "venue": "Stadium 974",
+      "home_team": "Brazil",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CASEMIRO",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "RODRYGO",
+          "player_off": "LUCAS PAQUETA",
+          "minute": "46"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "BRUNO GUIMARAES",
+          "player_off": "FRED",
+          "minute": "58"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Edimilson FERNANDES",
+          "player_off": "Ruben VARGAS",
+          "minute": "58"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Renato STEFFEN",
+          "player_off": "Fabian RIEDER",
+          "minute": "58"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GABRIEL JESUS",
+          "player_off": "RICHARLISON",
+          "minute": "73"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ANTONY",
+          "player_off": "RAPHINHA",
+          "minute": "73"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Michel AEBISCHER",
+          "player_off": "Mohameth SOW",
+          "minute": "76"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Breel EMBOLO",
+          "minute": "76"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ALEX TELLES",
+          "player_off": "ALEX SANDRO",
+          "minute": "86"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Fabian FREI",
+          "player_off": "Silvan WIDMER",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "THIAGO SILVA",
+          "MARQUINHOS",
+          "ALEX SANDRO",
+          "EDER MILITAO",
+          "CASEMIRO",
+          "LUCAS PAQUETA",
+          "FRED",
+          "RICHARLISON",
+          "RAPHINHA",
+          "VINICIUS JR"
+        ],
+        "away": [
+          "Yann SOMMER",
+          "Silvan WIDMER",
+          "Nico ELVEDI",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Remo FREULER",
+          "Granit XHAKA",
+          "Mohameth SOW",
+          "Ruben VARGAS",
+          "Fabian RIEDER",
+          "Breel EMBOLO"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-28",
+      "stage": "Group H",
+      "venue": "Lusail Stadium",
+      "home_team": "Portugal",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "BRUNO FERNANDES",
+          "minute": "54"
+        },
+        {
+          "team": "Portugal",
+          "player": "BRUNO FERNANDES",
+          "minute": "90+3",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "RAPHAEL GUERREIRO",
+          "player_off": "NUNO MENDES",
+          "minute": "42"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Giorgian DE ARRASCAETA",
+          "player_off": "Matias VECINO",
+          "minute": "62"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Facundo PELLISTRI",
+          "player_off": "Diego GODIN",
+          "minute": "62"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RAFAEL LEAO",
+          "player_off": "RUBEN NEVES",
+          "minute": "69"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Maximiliano GOMEZ",
+          "player_off": "Darwin NUNEZ",
+          "minute": "72"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Luis SUAREZ",
+          "player_off": "Edinson CAVANI",
+          "minute": "72"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "GONCALO RAMOS",
+          "player_off": "CRISTIANO RONALDO",
+          "minute": "82"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "MATHEUS NUNES",
+          "player_off": "JOAO FELIX",
+          "minute": "82"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JOAO PALHINHA",
+          "player_off": "WILLIAM",
+          "minute": "82"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Matias VINA",
+          "player_off": "Mathias OLIVERA",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIOGO COSTA",
+          "PEPE",
+          "RUBEN DIAS",
+          "NUNO MENDES",
+          "JOAO CANCELO",
+          "BERNARDO SILVA",
+          "WILLIAM",
+          "RUBEN NEVES",
+          "CRISTIANO RONALDO",
+          "BRUNO FERNANDES",
+          "JOAO FELIX"
+        ],
+        "away": [
+          "Sergio ROCHET",
+          "Jose GIMENEZ",
+          "Diego GODIN",
+          "Guillermo VARELA",
+          "Mathias OLIVERA",
+          "Sebastian COATES",
+          "Matias VECINO",
+          "Rodrigo BENTANCUR",
+          "Federico VALVERDE",
+          "Darwin NUNEZ",
+          "Edinson CAVANI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-29",
+      "stage": "Group A",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Ecuador",
+      "away_team": "Senegal",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Senegal",
+          "player": "Ismaila SARR",
+          "minute": "44",
+          "penalty": true
+        },
+        {
+          "team": "Ecuador",
+          "player": "Moises CAICEDO",
+          "minute": "67"
+        },
+        {
+          "team": "Senegal",
+          "player": "Kalidou KOULIBALY",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Ecuador",
+          "player_on": "Jose CIFUENTES",
+          "player_off": "Carlos GRUEZO",
+          "minute": "46"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Jeremy SARMIENTO",
+          "player_off": "Alan FRANCO",
+          "minute": "46"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Djorkaeff REASCO",
+          "player_off": "Michael ESTRADA",
+          "minute": "64"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikh DIENG",
+          "player_off": "Iliman NDIAYE",
+          "minute": "74"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Nampalys MENDY",
+          "player_off": "Pathe CISS",
+          "minute": "74"
+        },
+        {
+          "team": "Ecuador",
+          "player_on": "Jackson POROZO",
+          "player_off": "Angelo PRECIADO",
+          "minute": "85"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Pape Abou CISSE",
+          "player_off": "Boulaye DIA",
+          "minute": "90+5"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hernan GALINDEZ",
+          "Felix TORRES",
+          "Piero HINCAPIE",
+          "Pervis ESTUPINAN",
+          "Angelo PRECIADO",
+          "Carlos GRUEZO",
+          "Alan FRANCO",
+          "Moises CAICEDO",
+          "Michael ESTRADA",
+          "Enner VALENCIA",
+          "Gonzalo PLATA"
+        ],
+        "away": [
+          "Edouard MENDY",
+          "Kalidou KOULIBALY",
+          "Ismail JAKOBS",
+          "Youssouf SABALY",
+          "Abdou DIALLO",
+          "Idrissa Gana GUEYE",
+          "Pathe CISS",
+          "Pape GUEYE",
+          "Boulaye DIA",
+          "Iliman NDIAYE",
+          "Ismaila SARR"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-29",
+      "stage": "Group A",
+      "venue": "Al Bayt Stadium",
+      "home_team": "Netherlands",
+      "away_team": "Qatar",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Cody GAKPO",
+          "minute": "26"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Frenkie DE JONG",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Qatar",
+          "player_on": "KARIM BOUDIAF",
+          "player_off": "ASSIM MADIBO",
+          "minute": "64"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "ALI ASSADALLA",
+          "player_off": "HASSAN ALHAYDOS",
+          "minute": "64"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "MOHAMMED MUNTARI",
+          "player_off": "ALMOEZ ALI",
+          "minute": "64"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Vincent JANSSEN",
+          "player_off": "Memphis DEPAY",
+          "minute": "66"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Steven BERGHUIS",
+          "player_off": "Davy KLAASSEN",
+          "minute": "66"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wout WEGHORST",
+          "player_off": "Cody GAKPO",
+          "minute": "82"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Teun KOOPMEINERS",
+          "player_off": "Marten DE ROON",
+          "minute": "82"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "AHMED ALAAELDIN",
+          "player_off": "ABDULAZIZ HATEM",
+          "minute": "85"
+        },
+        {
+          "team": "Qatar",
+          "player_on": "MUSAAB KHIDIR",
+          "player_off": "ISMAIL MOHAMAD",
+          "minute": "85"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Kenneth TAYLOR",
+          "player_off": "Frenkie DE JONG",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andries NOPPERT",
+          "Jurrien TIMBER",
+          "Virgil VAN DIJK",
+          "Nathan AKE",
+          "Davy KLAASSEN",
+          "Marten DE ROON",
+          "Daley BLIND",
+          "Frenkie DE JONG",
+          "Denzel DUMFRIES",
+          "Cody GAKPO",
+          "Memphis DEPAY"
+        ],
+        "away": [
+          "MESHAAL BARSHAM",
+          "PEDRO MIGUEL",
+          "ABDELKARIM HASSAN",
+          "HOMAM AHMED",
+          "BOUALEM KHOUKHI",
+          "ISMAIL MOHAMAD",
+          "ABDULAZIZ HATEM",
+          "HASSAN ALHAYDOS",
+          "ASSIM MADIBO",
+          "AKRAM AFIF",
+          "ALMOEZ ALI"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-29",
+      "stage": "Group B",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Iran",
+      "away_team": "United States",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Christian PULISIC",
+          "minute": "38"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iran",
+          "player_on": "Ali KARIMI",
+          "player_off": "Milad MOHAMMADI",
+          "minute": "45+2"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Saman GHODDOS",
+          "player_off": "Sardar AZMOUN",
+          "minute": "46"
+        },
+        {
+          "team": "United States",
+          "player_on": "Brenden AARONSON",
+          "player_off": "Christian PULISIC",
+          "minute": "46"
+        },
+        {
+          "team": "United States",
+          "player_on": "Kellyn PERRY-ACOSTA",
+          "player_off": "Weston McKENNIE",
+          "minute": "65"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Mahdi TORABI",
+          "player_off": "Ahmad NOOROLLAHI",
+          "minute": "71"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Abolfazl JALALI",
+          "player_off": "Ehsan HAJI SAFI",
+          "minute": "71"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Karim ANSARIFARD",
+          "player_off": "Ali GHOLIZADEH",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Haji WRIGHT",
+          "player_off": "Josh SARGENT",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Walker ZIMMERMAN",
+          "player_off": "Tim WEAH",
+          "minute": "82"
+        },
+        {
+          "team": "United States",
+          "player_on": "Shaquell MOORE",
+          "player_off": "Sergino DEST",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ali BEIRANVAND",
+          "Milad MOHAMMADI",
+          "Morteza POURALIGANJI",
+          "Majid HOSSEINI",
+          "Ramin REZAEIAN",
+          "Ehsan HAJI SAFI",
+          "Saeid EZATOLAHI",
+          "Mehdi TAREMI",
+          "Ali GHOLIZADEH",
+          "Ahmad NOOROLLAHI",
+          "Sardar AZMOUN"
+        ],
+        "away": [
+          "Matt TURNER",
+          "Sergino DEST",
+          "Antonee ROBINSON",
+          "Tim REAM",
+          "Cameron CARTER-VICKERS",
+          "Tyler ADAMS",
+          "Yunus MUSAH",
+          "Weston McKENNIE",
+          "Christian PULISIC",
+          "Tim WEAH",
+          "Josh SARGENT"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-29",
+      "stage": "Group B",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "Wales",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Marcus RASHFORD",
+          "minute": "50"
+        },
+        {
+          "team": "England",
+          "player": "Phil FODEN",
+          "minute": "51"
+        },
+        {
+          "team": "England",
+          "player": "Marcus RASHFORD",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Wales",
+          "player_on": "Connor ROBERTS",
+          "player_off": "Neco WILLIAMS",
+          "minute": "36"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Brennan JOHNSON",
+          "player_off": "Gareth BALE",
+          "minute": "46"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Joseff MORRELL",
+          "player_off": "Ben DAVIES",
+          "minute": "57"
+        },
+        {
+          "team": "England",
+          "player_on": "Callum WILSON",
+          "player_off": "Harry KANE",
+          "minute": "57"
+        },
+        {
+          "team": "England",
+          "player_on": "Kalvin PHILLIPS",
+          "player_off": "Declan RICE",
+          "minute": "57"
+        },
+        {
+          "team": "England",
+          "player_on": "Trent ALEXANDER-ARNOLD",
+          "player_off": "Kyle WALKER",
+          "minute": "57"
+        },
+        {
+          "team": "England",
+          "player_on": "Kieran TRIPPIER",
+          "player_off": "Luke SHAW",
+          "minute": "65"
+        },
+        {
+          "team": "England",
+          "player_on": "Jack GREALISH",
+          "player_off": "Marcus RASHFORD",
+          "minute": "75"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Harry WILSON",
+          "player_off": "Daniel JAMES",
+          "minute": "77"
+        },
+        {
+          "team": "Wales",
+          "player_on": "Rubin COLWILL",
+          "player_off": "Joe ALLEN",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Danny WARD",
+          "Neco WILLIAMS",
+          "Ben DAVIES",
+          "Chris MEPHAM",
+          "Joe RODON",
+          "Joe ALLEN",
+          "Aaron RAMSEY",
+          "Gareth BALE",
+          "Ethan AMPADU",
+          "Daniel JAMES",
+          "Kieffer MOORE"
+        ],
+        "away": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "Luke SHAW",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Declan RICE",
+          "Jordan HENDERSON",
+          "Jude BELLINGHAM",
+          "Harry KANE",
+          "Marcus RASHFORD",
+          "Phil FODEN"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-30",
+      "stage": "Group D",
+      "venue": "Education City Stadium",
+      "home_team": "Tunisia",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Tunisia",
+          "player": "Wahbi KHAZRI",
+          "minute": "58"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Issam JEBALI",
+          "player_off": "Wahbi KHAZRI",
+          "minute": "60"
+        },
+        {
+          "team": "France",
+          "player_on": "Kylian MBAPPE",
+          "player_off": "Kingsley COMAN",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player_on": "Adrien RABIOT",
+          "player_off": "Jordan VERETOUT",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player_on": "William SALIBA",
+          "player_off": "Raphael VARANE",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player_on": "Antoine GRIEZMANN",
+          "player_off": "Youssouf Fofana",
+          "minute": "73"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ghaylen CHAALELI",
+          "player_off": "BEN ROMDHANE Ali",
+          "minute": "74"
+        },
+        {
+          "team": "France",
+          "player_on": "Ousmane DEMBELE",
+          "player_off": "Matteo GUENDOUZI",
+          "minute": "79"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Ali ABDI",
+          "player_off": "Anis SLIMANE",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Aymen DAHMEN",
+          "Montassar TALBI",
+          "Yassine MERIAH",
+          "Nader GHANDRI",
+          "Ali MAALOUL",
+          "Aissa LAIDOUNI",
+          "Ellyes SKHIRI",
+          "Wajdi KECHRIDA",
+          "Wahbi KHAZRI",
+          "BEN ROMDHANE Ali",
+          "Anis SLIMANE"
+        ],
+        "away": [
+          "Steve MANDANDA",
+          "Axel DISASI",
+          "Raphael VARANE",
+          "Ibrahima KONATE",
+          "Eduardo CAMAVINGA",
+          "Aurelien TCHOUAMENI",
+          "Youssouf Fofana",
+          "Jordan VERETOUT",
+          "Matteo GUENDOUZI",
+          "Randal KOLO MUANI",
+          "Kingsley COMAN"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-30",
+      "stage": "Group D",
+      "venue": "Al Janoub Stadium",
+      "home_team": "Australia",
+      "away_team": "Denmark",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Australia",
+          "player": "Mathew LECKIE",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Australia",
+          "player_on": "Keanu BACCUS",
+          "player_off": "Craig GOODWIN",
+          "minute": "46"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Alexander BAH",
+          "player_off": "Rasmus KRISTENSEN",
+          "minute": "46"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Mikkel DAMSGAARD",
+          "player_off": "Mathias JENSEN",
+          "minute": "59"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Kasper DOLBERG",
+          "player_off": "Martin BRAITHWAITE",
+          "minute": "59"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Robert SKOV",
+          "player_off": "Andreas SKOV OLSEN",
+          "minute": "69"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Andreas CORNELIUS",
+          "player_off": "Joakim MAEHLE",
+          "minute": "69"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Bailey WRIGHT",
+          "player_off": "Riley McGREE",
+          "minute": "74"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jamie MacLAREN",
+          "player_off": "Mitch DUKE",
+          "minute": "82"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Ajdin HRUSTIC",
+          "player_off": "Mathew LECKIE",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mathew RYAN",
+          "Milos DEGENEK",
+          "Kye ROWLES",
+          "Aziz BEHICH",
+          "Harry SOUTTAR",
+          "Mathew LECKIE",
+          "Aaron MOOY",
+          "Jackson IRVINE",
+          "Craig GOODWIN",
+          "Riley McGREE",
+          "Mitch DUKE"
+        ],
+        "away": [
+          "Kasper SCHMEICHEL",
+          "Joachim ANDERSEN",
+          "Joakim MAEHLE",
+          "Andreas CHRISTENSEN",
+          "Rasmus KRISTENSEN",
+          "Mathias JENSEN",
+          "Christian ERIKSEN",
+          "Pierre-Emile HOJBJERG",
+          "Martin BRAITHWAITE",
+          "Andreas SKOV OLSEN",
+          "Jesper LINDSTROM"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-30",
+      "stage": "Group C",
+      "venue": "Stadium 974",
+      "home_team": "Poland",
+      "away_team": "Argentina",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Alexis MAC ALLISTER",
+          "minute": "46"
+        },
+        {
+          "team": "Argentina",
+          "player": "Julian ALVAREZ",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Jakub KAMINSKI",
+          "player_off": "Przemyslaw FRANKOWSKI",
+          "minute": "46"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Michal SKORAS",
+          "player_off": "Karol SWIDERSKI",
+          "minute": "46"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Leandro PAREDES",
+          "player_off": "Angel DI MARIA",
+          "minute": "59"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Nicolas TAGLIAFICO",
+          "player_off": "Marcos ACUNA",
+          "minute": "59"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Damian SZYMANSKI",
+          "player_off": "Krystian BIELIK",
+          "minute": "62"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Artur JEDRZEJCZYK",
+          "player_off": "Bartosz BERESZYNSKI",
+          "minute": "72"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lautaro MARTINEZ",
+          "player_off": "Julian ALVAREZ",
+          "minute": "79"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "German PEZZELLA",
+          "player_off": "Enzo FERNANDEZ",
+          "minute": "79"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Krzysztof PIATEK",
+          "player_off": "Grzegorz KRYCHOWIAK",
+          "minute": "83"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Thiago ALMADA",
+          "player_off": "Alexis MAC ALLISTER",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Wojciech SZCZESNY",
+          "Matty CASH",
+          "Jakub KIWIOR",
+          "Kamil GLIK",
+          "Bartosz BERESZYNSKI",
+          "Krystian BIELIK",
+          "Grzegorz KRYCHOWIAK",
+          "Karol SWIDERSKI",
+          "Piotr ZIELINSKI",
+          "Przemyslaw FRANKOWSKI",
+          "Robert LEWANDOWSKI"
+        ],
+        "away": [
+          "Emiliano MARTINEZ",
+          "Marcos ACUNA",
+          "Cristian ROMERO",
+          "Nicolas OTAMENDI",
+          "Nahuel MOLINA",
+          "Rodrigo DE PAUL",
+          "Alexis MAC ALLISTER",
+          "Enzo FERNANDEZ",
+          "Julian ALVAREZ",
+          "Lionel MESSI",
+          "Angel DI MARIA"
+        ]
+      }
+    },
+    {
+      "date": "2022-11-30",
+      "stage": "Group C",
+      "venue": "Lusail Stadium",
+      "home_team": "Saudi Arabia",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Henry MARTIN",
+          "minute": "47"
+        },
+        {
+          "team": "Mexico",
+          "player": "Luis CHAVEZ",
+          "minute": "52"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "SALEM ALDAWSARI",
+          "minute": "90+5"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Saudi Arabia",
+          "player_on": "RIYADH SHARAHILI",
+          "player_off": "ALI ALBULAYHI",
+          "minute": "37"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "ABDULLAH MADU",
+          "player_off": "ALI ALHASSAN",
+          "minute": "46"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Uriel ANTUNA",
+          "player_off": "Alexis VEGA",
+          "minute": "46"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "ABDULRAHMAN ALOBUD",
+          "player_off": "SALEH ALSHEHRI",
+          "minute": "62"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Carlos RODRIGUEZ",
+          "player_off": "Orbelin PINEDA",
+          "minute": "77"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul JIMENEZ",
+          "player_off": "Henry MARTIN",
+          "minute": "77"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Rogelio FUNES MORI",
+          "player_off": "Edson ALVAREZ",
+          "minute": "86"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Kevin ALVAREZ",
+          "player_off": "Jorge SANCHEZ",
+          "minute": "86"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "HATAN BAHBRI",
+          "player_off": "SULTAN ALGHANNAM",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "MOHAMMED ALOWAIS",
+          "SULTAN ALGHANNAM",
+          "Abdulelah ALAMRI",
+          "ALI ALBULAYHI",
+          "Hassan ALTAMBAKTI",
+          "FERAS ALBRIKAN",
+          "SALEM ALDAWSARI",
+          "SAUD ABDULHAMID",
+          "ALI ALHASSAN",
+          "SALEH ALSHEHRI",
+          "MOHAMED KANNO"
+        ],
+        "away": [
+          "Guillermo OCHOA",
+          "Cesar MONTES",
+          "Hector MORENO",
+          "Jorge SANCHEZ",
+          "Jesus GALLARDO",
+          "Edson ALVAREZ",
+          "Alexis VEGA",
+          "Orbelin PINEDA",
+          "Hirving LOZANO",
+          "Luis CHAVEZ",
+          "Henry MARTIN"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-01",
+      "stage": "Group F",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "Croatia",
+      "away_team": "Belgium",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Romelu LUKAKU",
+          "player_off": "Dries MERTENS",
+          "minute": "46"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Thorgan HAZARD",
+          "player_off": "Leandro TROSSARD",
+          "minute": "59"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mario PASALIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "64"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Bruno PETKOVIC",
+          "player_off": "Marko LIVAJA",
+          "minute": "64"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Youri TIELEMANS",
+          "player_off": "Leander DENDONCKER",
+          "minute": "72"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Jeremy DOKU",
+          "player_off": "Yannick CARRASCO",
+          "minute": "72"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Eden HAZARD",
+          "player_off": "Thomas MEUNIER",
+          "minute": "87"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Lovro MAJER",
+          "player_off": "Mateo KOVACIC",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dominik LIVAKOVIC",
+          "Dejan LOVREN",
+          "Borna SOSA",
+          "Josko GVARDIOL",
+          "Josip JURANOVIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ivan PERISIC",
+          "Andrej KRAMARIC",
+          "Marko LIVAJA"
+        ],
+        "away": [
+          "Thibaut COURTOIS",
+          "Toby ALDERWEIRELD",
+          "Jan VERTONGHEN",
+          "Timothy CASTAGNE",
+          "Axel WITSEL",
+          "Yannick CARRASCO",
+          "Thomas MEUNIER",
+          "Leander DENDONCKER",
+          "Kevin DE BRUYNE",
+          "Dries MERTENS",
+          "Leandro TROSSARD"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-01",
+      "stage": "Group F",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Canada",
+      "away_team": "Morocco",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Hakim ZIYECH",
+          "minute": "4"
+        },
+        {
+          "team": "Morocco",
+          "player": "Youssef EN NESYRI",
+          "minute": "23"
+        },
+        {
+          "team": "Canada",
+          "player": "Nayef AGUERD",
+          "minute": "40",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Canada",
+          "player_on": "Atiba HUTCHINSON",
+          "player_off": "Mark-Anthony KAYE",
+          "minute": "60"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Jonathan DAVID",
+          "player_off": "Cyle LARIN",
+          "minute": "60"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Ismael KONE",
+          "player_off": "Sam ADEKUGBE",
+          "minute": "60"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Richie LARYEA",
+          "player_off": "Jonathan OSORIO",
+          "minute": "65"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Selim AMALLAH",
+          "player_off": "Abdelhamid SABIRI",
+          "minute": "65"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Zakaria ABOUKHLAL",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "65"
+        },
+        {
+          "team": "Canada",
+          "player_on": "David WOTHERSPOON",
+          "player_off": "Junior HOILETT",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abderrazak HAMDALLAH",
+          "player_off": "Hakim ZIYECH",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Jawad EL YAMIQ",
+          "player_off": "Azzedine OUNAHI",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Yahya JABRANE",
+          "player_off": "Achraf HAKIMI",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Milan BORJAN",
+          "Alistair JOHNSTON",
+          "Sam ADEKUGBE",
+          "Kamal MILLER",
+          "Steven VITORIA",
+          "Tajon BUCHANAN",
+          "Mark-Anthony KAYE",
+          "Alphonso DAVIES",
+          "Jonathan OSORIO",
+          "Junior HOILETT",
+          "Cyle LARIN"
+        ],
+        "away": [
+          "Yassine BOUNOU",
+          "Achraf HAKIMI",
+          "Noussair MAZRAOUI",
+          "Nayef AGUERD",
+          "Romain SAISS",
+          "Sofyan AMRABAT",
+          "Azzedine OUNAHI",
+          "Abdelhamid SABIRI",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-01",
+      "stage": "Group E",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Japan",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Alvaro MORATA",
+          "minute": "11"
+        },
+        {
+          "team": "Japan",
+          "player": "Ritsu DOAN",
+          "minute": "48"
+        },
+        {
+          "team": "Japan",
+          "player": "Ao TANAKA",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Ritsu DOAN",
+          "player_off": "Takefusa KUBO",
+          "minute": "46"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Kaoru MITOMA",
+          "player_off": "Yuto NAGATOMO",
+          "minute": "46"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Dani CARVAJAL",
+          "player_off": "Cesar AZPILICUETA",
+          "minute": "46"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Marco ASENSIO",
+          "player_off": "Alvaro MORATA",
+          "minute": "57"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Ferran TORRES",
+          "player_off": "Nico WILLIAMS",
+          "minute": "57"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takuma ASANO",
+          "player_off": "Daizen MAEDA",
+          "minute": "62"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takehiro TOMIYASU",
+          "player_off": "Daichi KAMADA",
+          "minute": "68"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Ansu FATI",
+          "player_off": "GAVI",
+          "minute": "68"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Jordi ALBA",
+          "player_off": "Alejandro BALDE",
+          "minute": "68"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Wataru ENDO",
+          "player_off": "Ao TANAKA",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Shuichi GONDA",
+          "Shogo TANIGUCHI",
+          "Kou ITAKURA",
+          "Maya YOSHIDA",
+          "Yuto NAGATOMO",
+          "Hidemasa MORITA",
+          "Junya ITO",
+          "Ao TANAKA",
+          "Takefusa KUBO",
+          "Daichi KAMADA",
+          "Daizen MAEDA"
+        ],
+        "away": [
+          "Unai SIMON",
+          "Cesar AZPILICUETA",
+          "Pau TORRES",
+          "Alejandro BALDE",
+          "RODRI",
+          "Sergio BUSQUETS",
+          "GAVI",
+          "Pedri GONZALEZ",
+          "Alvaro MORATA",
+          "Nico WILLIAMS",
+          "Dani OLMO"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-01",
+      "stage": "Group E",
+      "venue": "Al Bayt Stadium",
+      "home_team": "Costa Rica",
+      "away_team": "Germany",
+      "score": {
+        "home": 2,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Serge GNABRY",
+          "minute": "10"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Yeltsin TEJEDA",
+          "minute": "58"
+        },
+        {
+          "team": "Costa Rica",
+          "player": "Juan VARGAS",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player": "Kai HAVERTZ",
+          "minute": "73"
+        },
+        {
+          "team": "Germany",
+          "player": "Kai HAVERTZ",
+          "minute": "85"
+        },
+        {
+          "team": "Germany",
+          "player": "Niclas FUELLKRUG",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Costa Rica",
+          "player_on": "Youstin SALAS",
+          "player_off": "Brandon AGUILERA",
+          "minute": "46"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Lukas KLOSTERMANN",
+          "player_off": "Leon GORETZKA",
+          "minute": "46"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Niclas FUELLKRUG",
+          "player_off": "Ilkay GUENDOGAN",
+          "minute": "55"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Kai HAVERTZ",
+          "player_off": "Thomas MUELLER",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Mario GOETZE",
+          "player_off": "David RAUM",
+          "minute": "66"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Ronald MATARRITA",
+          "player_off": "Johan VENEGAS",
+          "minute": "74"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Jewison BENNETTE",
+          "player_off": "Keysher FULLER",
+          "minute": "74"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Roan WILSON",
+          "player_off": "Yeltsin TEJEDA",
+          "minute": "90+3"
+        },
+        {
+          "team": "Costa Rica",
+          "player_on": "Anthony CONTRERAS",
+          "player_off": "Bryan OVIEDO",
+          "minute": "90+3"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Matthias GINTER",
+          "player_off": "Niklas SUELE",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Keylor NAVAS",
+          "Juan VARGAS",
+          "Keysher FULLER",
+          "Oscar DUARTE",
+          "Bryan OVIEDO",
+          "Kendall WASTON",
+          "Celso BORGES",
+          "Joel CAMPBELL",
+          "Yeltsin TEJEDA",
+          "Brandon AGUILERA",
+          "Johan VENEGAS"
+        ],
+        "away": [
+          "Manuel NEUER",
+          "Antonio RUEDIGER",
+          "David RAUM",
+          "Joshua KIMMICH",
+          "Niklas SUELE",
+          "Leon GORETZKA",
+          "Jamal MUSIALA",
+          "Ilkay GUENDOGAN",
+          "Serge GNABRY",
+          "Thomas MUELLER",
+          "Leroy SANE"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-02",
+      "stage": "Group H",
+      "venue": "Al Janoub Stadium",
+      "home_team": "Ghana",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Giorgian DE ARRASCAETA",
+          "minute": "26"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Giorgian DE ARRASCAETA",
+          "minute": "32"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Matias VECINO",
+          "player_off": "Rodrigo BENTANCUR",
+          "minute": "34"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Osman BUKARI",
+          "player_off": "Andre AYEW",
+          "minute": "46"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Kamaldeen SULEMANA",
+          "player_off": "Jordan AYEW",
+          "minute": "46"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Nicolas DE LA CRUZ",
+          "player_off": "Facundo PELLISTRI",
+          "minute": "66"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Edinson CAVANI",
+          "player_off": "Luis SUAREZ",
+          "minute": "66"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Daniel-Kofi KYEREH",
+          "player_off": "Salis ABDUL SAMED",
+          "minute": "72"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Antoine SEMENYO",
+          "player_off": "Inaki WILLIAMS",
+          "minute": "72"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Agustin CANOBBIO",
+          "player_off": "Darwin NUNEZ",
+          "minute": "80"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Maximiliano GOMEZ",
+          "player_off": "Giorgian DE ARRASCAETA",
+          "minute": "80"
+        },
+        {
+          "team": "Ghana",
+          "player_on": "Abdul Fatawu ISSAHAKU",
+          "player_off": "Kudus MOHAMMED",
+          "minute": "90+8"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Lawrence Ati ZIGI",
+          "Mohammed SALISU",
+          "Baba RAHMAN",
+          "Daniel AMARTEY",
+          "Seidu ALIDU",
+          "Thomas PARTEY",
+          "Jordan AYEW",
+          "Andre AYEW",
+          "Kudus MOHAMMED",
+          "Salis ABDUL SAMED",
+          "Inaki WILLIAMS"
+        ],
+        "away": [
+          "Sergio ROCHET",
+          "Jose GIMENEZ",
+          "Guillermo VARELA",
+          "Mathias OLIVERA",
+          "Sebastian COATES",
+          "Rodrigo BENTANCUR",
+          "Giorgian DE ARRASCAETA",
+          "Federico VALVERDE",
+          "Facundo PELLISTRI",
+          "Luis SUAREZ",
+          "Darwin NUNEZ"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-02",
+      "stage": "Group H",
+      "venue": "Education City Stadium",
+      "home_team": "South Korea",
+      "away_team": "Portugal",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "Ricardo HORTA",
+          "minute": "5"
+        },
+        {
+          "team": "South Korea",
+          "player": "KIM Younggwon",
+          "minute": "27"
+        },
+        {
+          "team": "South Korea",
+          "player": "HWANG Heechan",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Heechan",
+          "player_off": "LEE Jaesung",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JOAO PALHINHA",
+          "player_off": "MATHEUS NUNES",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RAFAEL LEAO",
+          "player_off": "RUBEN NEVES",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "ANDRE SILVA",
+          "player_off": "CRISTIANO RONALDO",
+          "minute": "65"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Uijo",
+          "player_off": "LEE Kangin",
+          "minute": "81"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SON Junho",
+          "player_off": "KIM Younggwon",
+          "minute": "81"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "WILLIAM",
+          "player_off": "JOAO MARIO",
+          "minute": "81"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "BERNARDO SILVA",
+          "player_off": "VITINHA",
+          "minute": "81"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHO Yumin",
+          "player_off": "CHO Guesung",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "KIM Seunggyu",
+          "KIM Jinsu",
+          "KIM Moonhwan",
+          "KIM Younggwon",
+          "KWON Kyungwon",
+          "JUNG Wooyoung",
+          "HWANG Inbeom",
+          "LEE Kangin",
+          "SON Heungmin",
+          "CHO Guesung",
+          "LEE Jaesung"
+        ],
+        "away": [
+          "DIOGO COSTA",
+          "DIOGO DALOT",
+          "PEPE",
+          "JOAO CANCELO",
+          "ANTONIO SILVA",
+          "VITINHA",
+          "JOAO MARIO",
+          "RUBEN NEVES",
+          "Ricardo HORTA",
+          "MATHEUS NUNES",
+          "CRISTIANO RONALDO"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-02",
+      "stage": "Group G",
+      "venue": "Stadium 974",
+      "home_team": "Serbia",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Xherdan SHAQIRI",
+          "minute": "20"
+        },
+        {
+          "team": "Serbia",
+          "player": "Aleksandar MITROVIC",
+          "minute": "26"
+        },
+        {
+          "team": "Serbia",
+          "player": "Dusan VLAHOVIC",
+          "minute": "35"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Breel EMBOLO",
+          "minute": "44"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Remo FREULER",
+          "minute": "48"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Serbia",
+          "player_on": "Luka JOVIC",
+          "player_off": "Dusan VLAHOVIC",
+          "minute": "55"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja GUDELJ",
+          "player_off": "Milos VELJKOVIC",
+          "minute": "55"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja MAKSIMOVIC",
+          "player_off": "Sergej MILINKOVIC-SAVIC",
+          "minute": "68"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Denis ZAKARIA",
+          "player_off": "Xherdan SHAQIRI",
+          "minute": "69"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Edimilson FERNANDES",
+          "player_off": "Mohameth SOW",
+          "minute": "69"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Nemanja RADONJIC",
+          "player_off": "Andrija ZIVKOVIC",
+          "minute": "78"
+        },
+        {
+          "team": "Serbia",
+          "player_on": "Filip DJURICIC",
+          "player_off": "Dusan TADIC",
+          "minute": "78"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Christian FASSNACHT",
+          "player_off": "Ruben VARGAS",
+          "minute": "83"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Noah OKAFOR",
+          "player_off": "Breel EMBOLO",
+          "minute": "90+6"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Vanja MILINKOVIC",
+          "Strahinja PAVLOVIC",
+          "Nikola MILENKOVIC",
+          "Milos VELJKOVIC",
+          "Dusan TADIC",
+          "Andrija ZIVKOVIC",
+          "Sasa LUKIC",
+          "Filip KOSTIC",
+          "Sergej MILINKOVIC-SAVIC",
+          "Aleksandar MITROVIC",
+          "Dusan VLAHOVIC"
+        ],
+        "away": [
+          "Gregor KOBEL",
+          "Silvan WIDMER",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Fabian SCHAER",
+          "Remo FREULER",
+          "Granit XHAKA",
+          "Mohameth SOW",
+          "Ruben VARGAS",
+          "Xherdan SHAQIRI",
+          "Breel EMBOLO"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-02",
+      "stage": "Group G",
+      "venue": "Lusail Stadium",
+      "home_team": "Cameroon",
+      "away_team": "Brazil",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Vincent ABOUBAKAR",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "BRUNO GUIMARAES",
+          "player_off": "FRED",
+          "minute": "54"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EVERTON RIBEIRO",
+          "player_off": "RODRYGO",
+          "minute": "54"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MARQUINHOS",
+          "player_off": "ALEX TELLES",
+          "minute": "54"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Karl TOKO EKAMBI",
+          "player_off": "Bryan MBEUMO",
+          "minute": "64"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PEDRO",
+          "player_off": "GABRIEL JESUS",
+          "minute": "64"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Olivier NTCHAM",
+          "player_off": "Pierre KUNDE",
+          "minute": "68"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RAPHINHA",
+          "player_off": "ANTONY",
+          "minute": "79"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Jerome NGOM MBEKELI",
+          "player_off": "Nicolas NGAMALEU",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Devis EPASSY",
+          "Christopher WOOH",
+          "Collins FAI",
+          "Enzo EBOSSE",
+          "Nouhou TOLO",
+          "Nicolas NGAMALEU",
+          "Andre-Frank ZAMBO ANGUISSA",
+          "Pierre KUNDE",
+          "Bryan MBEUMO",
+          "Vincent ABOUBAKAR",
+          "Eric Maxim CHOUPO-MOTING"
+        ],
+        "away": [
+          "EDERSON",
+          "DANI ALVES",
+          "EDER MILITAO",
+          "ALEX TELLES",
+          "BREMER",
+          "FRED",
+          "FABINHO",
+          "ANTONY",
+          "GABRIEL MARTINELLI",
+          "GABRIEL JESUS",
+          "RODRYGO"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-03",
+      "stage": "Round of 16",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Netherlands",
+      "away_team": "United States",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Memphis DEPAY",
+          "minute": "10"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Daley BLIND",
+          "minute": "45+1"
+        },
+        {
+          "team": "United States",
+          "player": "Haji WRIGHT",
+          "minute": "76"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Denzel DUMFRIES",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Teun KOOPMEINERS",
+          "player_off": "Davy KLAASSEN",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Steven BERGWIJN",
+          "player_off": "Marten DE ROON",
+          "minute": "46"
+        },
+        {
+          "team": "United States",
+          "player_on": "Giovanni REYNA",
+          "player_off": "Jesus FERREIRA",
+          "minute": "46"
+        },
+        {
+          "team": "United States",
+          "player_on": "Haji WRIGHT",
+          "player_off": "Weston McKENNIE",
+          "minute": "67"
+        },
+        {
+          "team": "United States",
+          "player_on": "Brenden AARONSON",
+          "player_off": "Tim WEAH",
+          "minute": "67"
+        },
+        {
+          "team": "United States",
+          "player_on": "DeAndre YEDLIN",
+          "player_off": "Sergino DEST",
+          "minute": "75"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Xavi SIMONS",
+          "player_off": "Memphis DEPAY",
+          "minute": "83"
+        },
+        {
+          "team": "United States",
+          "player_on": "Jordan MORRIS",
+          "player_off": "Antonee ROBINSON",
+          "minute": "90+2"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wout WEGHORST",
+          "player_off": "Cody GAKPO",
+          "minute": "90+3"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Matthijs DE LIGT",
+          "player_off": "Nathan AKE",
+          "minute": "90+3"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andries NOPPERT",
+          "Jurrien TIMBER",
+          "Virgil VAN DIJK",
+          "Nathan AKE",
+          "Davy KLAASSEN",
+          "Marten DE ROON",
+          "Daley BLIND",
+          "Frenkie DE JONG",
+          "Denzel DUMFRIES",
+          "Cody GAKPO",
+          "Memphis DEPAY"
+        ],
+        "away": [
+          "Matt TURNER",
+          "Sergino DEST",
+          "Walker ZIMMERMAN",
+          "Antonee ROBINSON",
+          "Tim REAM",
+          "Tyler ADAMS",
+          "Yunus MUSAH",
+          "Weston McKENNIE",
+          "Jesus FERREIRA",
+          "Christian PULISIC",
+          "Tim WEAH"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-03",
+      "stage": "Round of 16",
+      "venue": "Ahmad Bin Ali Stadium",
+      "home_team": "Argentina",
+      "away_team": "Australia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "35"
+        },
+        {
+          "team": "Argentina",
+          "player": "Julian ALVAREZ",
+          "minute": "57"
+        },
+        {
+          "team": "Australia",
+          "player": "Enzo FERNANDEZ",
+          "minute": "77",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Lisandro MARTINEZ",
+          "player_off": "Alejandro GOMEZ",
+          "minute": "50"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Craig GOODWIN",
+          "player_off": "Riley McGREE",
+          "minute": "58"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Ajdin HRUSTIC",
+          "player_off": "Keanu BACCUS",
+          "minute": "58"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lautaro MARTINEZ",
+          "player_off": "Julian ALVAREZ",
+          "minute": "71"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Nicolas TAGLIAFICO",
+          "player_off": "Marcos ACUNA",
+          "minute": "71"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Garang KUOL",
+          "player_off": "Mathew LECKIE",
+          "minute": "71"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Jamie MacLAREN",
+          "player_off": "Mitch DUKE",
+          "minute": "71"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Fran KARACIC",
+          "player_off": "Milos DEGENEK",
+          "minute": "71"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gonzalo MONTIEL",
+          "player_off": "Alexis MAC ALLISTER",
+          "minute": "80"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Exequiel PALACIOS",
+          "player_off": "Nahuel MOLINA",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Emiliano MARTINEZ",
+          "Marcos ACUNA",
+          "Cristian ROMERO",
+          "Nicolas OTAMENDI",
+          "Nahuel MOLINA",
+          "Rodrigo DE PAUL",
+          "Alexis MAC ALLISTER",
+          "Enzo FERNANDEZ",
+          "Julian ALVAREZ",
+          "Lionel MESSI",
+          "Alejandro GOMEZ"
+        ],
+        "away": [
+          "Mathew RYAN",
+          "Milos DEGENEK",
+          "Kye ROWLES",
+          "Aziz BEHICH",
+          "Harry SOUTTAR",
+          "Mathew LECKIE",
+          "Aaron MOOY",
+          "Riley McGREE",
+          "Keanu BACCUS",
+          "Mitch DUKE",
+          "Jackson IRVINE"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-04",
+      "stage": "Round of 16",
+      "venue": "Al Thumama Stadium",
+      "home_team": "France",
+      "away_team": "Poland",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Olivier GIROUD",
+          "minute": "44"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "74"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "90+1"
+        },
+        {
+          "team": "Poland",
+          "player": "Robert LEWANDOWSKI",
+          "minute": "90+9",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Arkadiusz MILIK",
+          "player_off": "Sebastian SZYMANSKI",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player_on": "Youssouf Fofana",
+          "player_off": "Aurelien TCHOUAMENI",
+          "minute": "66"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Nicola ZALEWSKI",
+          "player_off": "Jakub KAMINSKI",
+          "minute": "71"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Krystian BIELIK",
+          "player_off": "Grzegorz KRYCHOWIAK",
+          "minute": "71"
+        },
+        {
+          "team": "France",
+          "player_on": "Kingsley COMAN",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "76"
+        },
+        {
+          "team": "France",
+          "player_on": "Marcus THURAM",
+          "player_off": "Olivier GIROUD",
+          "minute": "76"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Kamil GROSICKI",
+          "player_off": "Przemyslaw FRANKOWSKI",
+          "minute": "87"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Jan BEDNAREK",
+          "player_off": "Jakub KIWIOR",
+          "minute": "87"
+        },
+        {
+          "team": "France",
+          "player_on": "Axel DISASI",
+          "player_off": "Jules KOUNDE",
+          "minute": "90+2"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Raphael VARANE",
+          "Jules KOUNDE",
+          "Dayot UPAMECANO",
+          "Theo HERNANDEZ",
+          "Antoine GRIEZMANN",
+          "Aurelien TCHOUAMENI",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE",
+          "Adrien RABIOT",
+          "Olivier GIROUD"
+        ],
+        "away": [
+          "Wojciech SZCZESNY",
+          "Matty CASH",
+          "Jakub KIWIOR",
+          "Kamil GLIK",
+          "Bartosz BERESZYNSKI",
+          "Grzegorz KRYCHOWIAK",
+          "Jakub KAMINSKI",
+          "Sebastian SZYMANSKI",
+          "Piotr ZIELINSKI",
+          "Przemyslaw FRANKOWSKI",
+          "Robert LEWANDOWSKI"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-04",
+      "stage": "Round of 16",
+      "venue": "Al Bayt Stadium",
+      "home_team": "England",
+      "away_team": "Senegal",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Jordan HENDERSON",
+          "minute": "38"
+        },
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "45+3"
+        },
+        {
+          "team": "England",
+          "player": "Bukayo SAKA",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Senegal",
+          "player_on": "Pape GUEYE",
+          "player_off": "Pathe CISS",
+          "minute": "46"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Pape SARR",
+          "player_off": "Krepin DIATTA",
+          "minute": "46"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Cheikh DIENG",
+          "player_off": "Iliman NDIAYE",
+          "minute": "46"
+        },
+        {
+          "team": "England",
+          "player_on": "Jack GREALISH",
+          "player_off": "Phil FODEN",
+          "minute": "65"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Bukayo SAKA",
+          "minute": "65"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Famara DIEDHIOU",
+          "player_off": "Boulaye DIA",
+          "minute": "72"
+        },
+        {
+          "team": "England",
+          "player_on": "Mason MOUNT",
+          "player_off": "Jude BELLINGHAM",
+          "minute": "76"
+        },
+        {
+          "team": "England",
+          "player_on": "Eric DIER",
+          "player_off": "John STONES",
+          "minute": "76"
+        },
+        {
+          "team": "England",
+          "player_on": "Kalvin PHILLIPS",
+          "player_off": "Jordan HENDERSON",
+          "minute": "82"
+        },
+        {
+          "team": "Senegal",
+          "player_on": "Fode BALLO",
+          "player_off": "Ismail JAKOBS",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "Luke SHAW",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Declan RICE",
+          "Jordan HENDERSON",
+          "Jude BELLINGHAM",
+          "Harry KANE",
+          "Bukayo SAKA",
+          "Phil FODEN"
+        ],
+        "away": [
+          "Edouard MENDY",
+          "Kalidou KOULIBALY",
+          "Ismail JAKOBS",
+          "Youssouf SABALY",
+          "Abdou DIALLO",
+          "Nampalys MENDY",
+          "Pathe CISS",
+          "Krepin DIATTA",
+          "Ismaila SARR",
+          "Boulaye DIA",
+          "Iliman NDIAYE"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-05",
+      "stage": "Round of 16",
+      "venue": "Al Janoub Stadium",
+      "home_team": "Japan",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "winner": "Croatia",
+        "score": "1-3"
+      },
+      "scorers": [
+        {
+          "team": "Japan",
+          "player": "Daizen MAEDA",
+          "minute": "43"
+        },
+        {
+          "team": "Croatia",
+          "player": "Ivan PERISIC",
+          "minute": "55"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Ante BUDIMIR",
+          "player_off": "Bruno PETKOVIC",
+          "minute": "62"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takuma ASANO",
+          "player_off": "Daizen MAEDA",
+          "minute": "64"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Kaoru MITOMA",
+          "player_off": "Yuto NAGATOMO",
+          "minute": "64"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mario PASALIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "68"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hiroki SAKAI",
+          "player_off": "Daichi KAMADA",
+          "minute": "75"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takumi MINAMINO",
+          "player_off": "Ritsu DOAN",
+          "minute": "87"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Lovro MAJER",
+          "player_off": "Luka MODRIC",
+          "minute": "99"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Nikola VLASIC",
+          "player_off": "Mateo KOVACIC",
+          "minute": "99"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Ao TANAKA",
+          "player_off": "Hidemasa MORITA",
+          "minute": "106"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Marko LIVAJA",
+          "player_off": "Ante BUDIMIR",
+          "minute": "106"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mislav ORSIC",
+          "player_off": "Ivan PERISIC",
+          "minute": "106"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Shuichi GONDA",
+          "Shogo TANIGUCHI",
+          "Takehiro TOMIYASU",
+          "Maya YOSHIDA",
+          "Yuto NAGATOMO",
+          "Wataru ENDO",
+          "Hidemasa MORITA",
+          "Junya ITO",
+          "Ritsu DOAN",
+          "Daichi KAMADA",
+          "Daizen MAEDA"
+        ],
+        "away": [
+          "Dominik LIVAKOVIC",
+          "Borna BARISIC",
+          "Dejan LOVREN",
+          "Josko GVARDIOL",
+          "Josip JURANOVIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ivan PERISIC",
+          "Andrej KRAMARIC",
+          "Bruno PETKOVIC"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-05",
+      "stage": "Round of 16",
+      "venue": "Stadium 974",
+      "home_team": "Brazil",
+      "away_team": "South Korea",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "VINICIUS JR",
+          "minute": "7"
+        },
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "13",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "RICHARLISON",
+          "minute": "29"
+        },
+        {
+          "team": "Brazil",
+          "player": "LUCAS PAQUETA",
+          "minute": "36"
+        },
+        {
+          "team": "South Korea",
+          "player": "PAIK Seungho",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "SON Junho",
+          "player_off": "JUNG Wooyoung",
+          "minute": "46"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HONG Chul",
+          "player_off": "KIM Jinsu",
+          "minute": "46"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DANI ALVES",
+          "player_off": "EDER MILITAO",
+          "minute": "63"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "PAIK Seungho",
+          "player_off": "HWANG Inbeom",
+          "minute": "65"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "BREMER",
+          "player_off": "DANILO",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GABRIEL MARTINELLI",
+          "player_off": "VINICIUS JR",
+          "minute": "72"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Kangin",
+          "player_off": "LEE Jaesung",
+          "minute": "74"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RODRYGO",
+          "player_off": "NEYMAR",
+          "minute": "80"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "WEVERTON",
+          "player_off": "ALISSON",
+          "minute": "80"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "HWANG Uijo",
+          "player_off": "CHO Guesung",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "ALISSON",
+          "DANILO",
+          "THIAGO SILVA",
+          "MARQUINHOS",
+          "EDER MILITAO",
+          "CASEMIRO",
+          "LUCAS PAQUETA",
+          "NEYMAR",
+          "RICHARLISON",
+          "RAPHINHA",
+          "VINICIUS JR"
+        ],
+        "away": [
+          "KIM Seunggyu",
+          "KIM Jinsu",
+          "Kim MINJAE",
+          "KIM Moonhwan",
+          "KIM Younggwon",
+          "JUNG Wooyoung",
+          "HWANG Inbeom",
+          "LEE Jaesung",
+          "HWANG Heechan",
+          "SON Heungmin",
+          "CHO Guesung"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-06",
+      "stage": "Round of 16",
+      "venue": "Education City Stadium",
+      "home_team": "Morocco",
+      "away_team": "Spain",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "winner": "Morocco",
+        "score": "3-0"
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Carlos SOLER",
+          "player_off": "GAVI",
+          "minute": "63"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alvaro MORATA",
+          "player_off": "Marco ASENSIO",
+          "minute": "63"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abde EZZALZOULI",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "66"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Nico WILLIAMS",
+          "player_off": "Ferran TORRES",
+          "minute": "75"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdelhamid SABIRI",
+          "player_off": "Youssef EN NESYRI",
+          "minute": "82"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Walid CHEDDIRA",
+          "player_off": "Selim AMALLAH",
+          "minute": "82"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Yahya ATTIAT-ALLAH",
+          "player_off": "Noussair MAZRAOUI",
+          "minute": "82"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Jawad EL YAMIQ",
+          "player_off": "Nayef AGUERD",
+          "minute": "84"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Ansu FATI",
+          "player_off": "Dani OLMO",
+          "minute": "98"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Alejandro BALDE",
+          "player_off": "Jordi ALBA",
+          "minute": "98"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Pablo SARABIA",
+          "player_off": "Nico WILLIAMS",
+          "minute": "118"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Badr BENOUN",
+          "player_off": "Azzedine OUNAHI",
+          "minute": "120"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yassine BOUNOU",
+          "Achraf HAKIMI",
+          "Noussair MAZRAOUI",
+          "Nayef AGUERD",
+          "Romain SAISS",
+          "Sofyan AMRABAT",
+          "Azzedine OUNAHI",
+          "Selim AMALLAH",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ],
+        "away": [
+          "Unai SIMON",
+          "Marcos LLORENTE",
+          "RODRI",
+          "Jordi ALBA",
+          "Aymeric LAPORTE",
+          "Sergio BUSQUETS",
+          "GAVI",
+          "Pedri GONZALEZ",
+          "Marco ASENSIO",
+          "Ferran TORRES",
+          "Dani OLMO"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-06",
+      "stage": "Round of 16",
+      "venue": "Lusail Stadium",
+      "home_team": "Portugal",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "GONCALO RAMOS",
+          "minute": "17"
+        },
+        {
+          "team": "Portugal",
+          "player": "PEPE",
+          "minute": "33"
+        },
+        {
+          "team": "Portugal",
+          "player": "GONCALO RAMOS",
+          "minute": "51"
+        },
+        {
+          "team": "Portugal",
+          "player": "RAPHAEL GUERREIRO",
+          "minute": "55"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Manuel AKANJI",
+          "minute": "58"
+        },
+        {
+          "team": "Portugal",
+          "player": "GONCALO RAMOS",
+          "minute": "67"
+        },
+        {
+          "team": "Portugal",
+          "player": "RAFAEL LEAO",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Switzerland",
+          "player_on": "Eray COMERT",
+          "player_off": "Fabian SCHAER",
+          "minute": "46"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Haris SEFEROVIC",
+          "player_off": "Mohameth SOW",
+          "minute": "54"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Denis ZAKARIA",
+          "player_off": "Remo FREULER",
+          "minute": "54"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Noah OKAFOR",
+          "player_off": "Ruben VARGAS",
+          "minute": "66"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "VITINHA",
+          "player_off": "OTAVIO",
+          "minute": "74"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "Ricardo HORTA",
+          "player_off": "GONCALO RAMOS",
+          "minute": "74"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "CRISTIANO RONALDO",
+          "player_off": "JOAO FELIX",
+          "minute": "74"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RUBEN NEVES",
+          "player_off": "BERNARDO SILVA",
+          "minute": "81"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RAFAEL LEAO",
+          "player_off": "BRUNO FERNANDES",
+          "minute": "87"
+        },
+        {
+          "team": "Switzerland",
+          "player_on": "Ardon JASHARI",
+          "player_off": "Breel EMBOLO",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DIOGO COSTA",
+          "DIOGO DALOT",
+          "PEPE",
+          "RUBEN DIAS",
+          "RAPHAEL GUERREIRO",
+          "BERNARDO SILVA",
+          "WILLIAM",
+          "OTAVIO",
+          "BRUNO FERNANDES",
+          "JOAO FELIX",
+          "GONCALO RAMOS"
+        ],
+        "away": [
+          "Yann SOMMER",
+          "Manuel AKANJI",
+          "Ricardo RODRIGUEZ",
+          "Fabian SCHAER",
+          "Edimilson FERNANDES",
+          "Remo FREULER",
+          "Granit XHAKA",
+          "Mohameth SOW",
+          "Ruben VARGAS",
+          "Breel EMBOLO",
+          "Xherdan SHAQIRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-09",
+      "stage": "Quarterfinal",
+      "venue": "Education City Stadium",
+      "home_team": "Croatia",
+      "away_team": "Brazil",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "extra_time": true,
+      "penalty_shootout": {
+        "winner": "Croatia",
+        "score": "4-2"
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "NEYMAR",
+          "minute": "105+1"
+        },
+        {
+          "team": "Croatia",
+          "player": "Bruno PETKOVIC",
+          "minute": "117"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "ANTONY",
+          "player_off": "RAPHINHA",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "RODRYGO",
+          "player_off": "VINICIUS JR",
+          "minute": "64"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Nikola VLASIC",
+          "player_off": "Mario PASALIC",
+          "minute": "72"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Bruno PETKOVIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PEDRO",
+          "player_off": "RICHARLISON",
+          "minute": "84"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Lovro MAJER",
+          "player_off": "Mateo KOVACIC",
+          "minute": "106"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "FRED",
+          "player_off": "LUCAS PAQUETA",
+          "minute": "106"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ALEX SANDRO",
+          "player_off": "EDER MILITAO",
+          "minute": "106"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Ante BUDIMIR",
+          "player_off": "Borna SOSA",
+          "minute": "110"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mislav ORSIC",
+          "player_off": "Marcelo BROZOVIC",
+          "minute": "114"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dominik LIVAKOVIC",
+          "Dejan LOVREN",
+          "Borna SOSA",
+          "Josko GVARDIOL",
+          "Josip JURANOVIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ivan PERISIC",
+          "Andrej KRAMARIC",
+          "Mario PASALIC"
+        ],
+        "away": [
+          "ALISSON",
+          "DANILO",
+          "THIAGO SILVA",
+          "MARQUINHOS",
+          "EDER MILITAO",
+          "CASEMIRO",
+          "LUCAS PAQUETA",
+          "NEYMAR",
+          "RICHARLISON",
+          "RAPHINHA",
+          "VINICIUS JR"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-09",
+      "stage": "Quarterfinal",
+      "venue": "Lusail Stadium",
+      "home_team": "Netherlands",
+      "away_team": "Argentina",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "extra_time": true,
+      "penalty_shootout": {
+        "winner": "Argentina",
+        "score": "3-4"
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Nahuel MOLINA",
+          "minute": "35"
+        },
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "73",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wout WEGHORST",
+          "minute": "83"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Wout WEGHORST",
+          "minute": "90+11"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Teun KOOPMEINERS",
+          "player_off": "Marten DE ROON",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Steven BERGHUIS",
+          "player_off": "Steven BERGWIJN",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Luuk DE JONG",
+          "player_off": "Daley BLIND",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Leandro PAREDES",
+          "player_off": "Rodrigo DE PAUL",
+          "minute": "67"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wout WEGHORST",
+          "player_off": "Memphis DEPAY",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Nicolas TAGLIAFICO",
+          "player_off": "Marcos ACUNA",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "German PEZZELLA",
+          "player_off": "Cristian ROMERO",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lautaro MARTINEZ",
+          "player_off": "Julian ALVAREZ",
+          "minute": "82"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gonzalo MONTIEL",
+          "player_off": "Nahuel MOLINA",
+          "minute": "106"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Angel DI MARIA",
+          "player_off": "Lisandro MARTINEZ",
+          "minute": "112"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Noa LANG",
+          "player_off": "Cody GAKPO",
+          "minute": "113"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andries NOPPERT",
+          "Jurrien TIMBER",
+          "Virgil VAN DIJK",
+          "Nathan AKE",
+          "Cody GAKPO",
+          "Marten DE ROON",
+          "Daley BLIND",
+          "Frenkie DE JONG",
+          "Denzel DUMFRIES",
+          "Steven BERGWIJN",
+          "Memphis DEPAY"
+        ],
+        "away": [
+          "Emiliano MARTINEZ",
+          "Cristian ROMERO",
+          "Nicolas OTAMENDI",
+          "Lisandro MARTINEZ",
+          "Rodrigo DE PAUL",
+          "Marcos ACUNA",
+          "Alexis MAC ALLISTER",
+          "Enzo FERNANDEZ",
+          "Nahuel MOLINA",
+          "Julian ALVAREZ",
+          "Lionel MESSI"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-10",
+      "stage": "Quarterfinal",
+      "venue": "Al Thumama Stadium",
+      "home_team": "Morocco",
+      "away_team": "Portugal",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Youssef EN NESYRI",
+          "minute": "42"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "JOAO CANCELO",
+          "player_off": "RAPHAEL GUERREIRO",
+          "minute": "51"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "CRISTIANO RONALDO",
+          "player_off": "RUBEN NEVES",
+          "minute": "51"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Achraf DARI",
+          "player_off": "Romain SAISS",
+          "minute": "57"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Badr BENOUN",
+          "player_off": "Youssef EN NESYRI",
+          "minute": "65"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Walid CHEDDIRA",
+          "player_off": "Selim AMALLAH",
+          "minute": "65"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "VITINHA",
+          "player_off": "OTAVIO",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "RAFAEL LEAO",
+          "player_off": "GONCALO RAMOS",
+          "minute": "69"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "Ricardo HORTA",
+          "player_off": "DIOGO DALOT",
+          "minute": "79"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Yahya JABRANE",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "82"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Zakaria ABOUKHLAL",
+          "player_off": "Hakim ZIYECH",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yassine BOUNOU",
+          "Achraf HAKIMI",
+          "Romain SAISS",
+          "Jawad EL YAMIQ",
+          "Yahya ATTIAT-ALLAH",
+          "Sofyan AMRABAT",
+          "Azzedine OUNAHI",
+          "Selim AMALLAH",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ],
+        "away": [
+          "DIOGO COSTA",
+          "DIOGO DALOT",
+          "PEPE",
+          "RUBEN DIAS",
+          "RAPHAEL GUERREIRO",
+          "BERNARDO SILVA",
+          "RUBEN NEVES",
+          "OTAVIO",
+          "BRUNO FERNANDES",
+          "JOAO FELIX",
+          "GONCALO RAMOS"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-10",
+      "stage": "Quarterfinal",
+      "venue": "Al Bayt Stadium",
+      "home_team": "England",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Aurelien TCHOUAMENI",
+          "minute": "17"
+        },
+        {
+          "team": "England",
+          "player": "Harry KANE",
+          "minute": "54",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Olivier GIROUD",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Mason MOUNT",
+          "player_off": "Jordan HENDERSON",
+          "minute": "79"
+        },
+        {
+          "team": "England",
+          "player_on": "Raheem STERLING",
+          "player_off": "Bukayo SAKA",
+          "minute": "79"
+        },
+        {
+          "team": "France",
+          "player_on": "Kingsley COMAN",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "79"
+        },
+        {
+          "team": "England",
+          "player_on": "Marcus RASHFORD",
+          "player_off": "Phil FODEN",
+          "minute": "85"
+        },
+        {
+          "team": "England",
+          "player_on": "Jack GREALISH",
+          "player_off": "John STONES",
+          "minute": "90+8"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jordan PICKFORD",
+          "Kyle WALKER",
+          "Luke SHAW",
+          "John STONES",
+          "Harry MAGUIRE",
+          "Declan RICE",
+          "Jordan HENDERSON",
+          "Jude BELLINGHAM",
+          "Harry KANE",
+          "Bukayo SAKA",
+          "Phil FODEN"
+        ],
+        "away": [
+          "Hugo LLORIS",
+          "Raphael VARANE",
+          "Jules KOUNDE",
+          "Dayot UPAMECANO",
+          "Theo HERNANDEZ",
+          "Antoine GRIEZMANN",
+          "Aurelien TCHOUAMENI",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE",
+          "Adrien RABIOT",
+          "Olivier GIROUD"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-13",
+      "stage": "Semifinal",
+      "venue": "Lusail Stadium",
+      "home_team": "Argentina",
+      "away_team": "Croatia",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "34",
+          "penalty": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Julian ALVAREZ",
+          "minute": "39"
+        },
+        {
+          "team": "Argentina",
+          "player": "Julian ALVAREZ",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Nikola VLASIC",
+          "player_off": "Mario PASALIC",
+          "minute": "46"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mislav ORSIC",
+          "player_off": "Borna SOSA",
+          "minute": "46"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Bruno PETKOVIC",
+          "player_off": "Marcelo BROZOVIC",
+          "minute": "50"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lisandro MARTINEZ",
+          "player_off": "Leandro PAREDES",
+          "minute": "62"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Marko LIVAJA",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "72"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Exequiel PALACIOS",
+          "player_off": "Rodrigo DE PAUL",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Paulo DYBALA",
+          "player_off": "Julian ALVAREZ",
+          "minute": "74"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Lovro MAJER",
+          "player_off": "Luka MODRIC",
+          "minute": "81"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Angel CORREA",
+          "player_off": "Alexis MAC ALLISTER",
+          "minute": "86"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Juan FOYTH",
+          "player_off": "Nahuel MOLINA",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Emiliano MARTINEZ",
+          "Nicolas TAGLIAFICO",
+          "Cristian ROMERO",
+          "Nicolas OTAMENDI",
+          "Nahuel MOLINA",
+          "Leandro PAREDES",
+          "Rodrigo DE PAUL",
+          "Alexis MAC ALLISTER",
+          "Enzo FERNANDEZ",
+          "Julian ALVAREZ",
+          "Lionel MESSI"
+        ],
+        "away": [
+          "Dominik LIVAKOVIC",
+          "Dejan LOVREN",
+          "Borna SOSA",
+          "Josko GVARDIOL",
+          "Josip JURANOVIC",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Marcelo BROZOVIC",
+          "Ivan PERISIC",
+          "Andrej KRAMARIC",
+          "Mario PASALIC"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-14",
+      "stage": "Semifinal",
+      "venue": "Al Bayt Stadium",
+      "home_team": "France",
+      "away_team": "Morocco",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Theo HERNANDEZ",
+          "minute": "5"
+        },
+        {
+          "team": "France",
+          "player": "Randal KOLO MUANI",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Morocco",
+          "player_on": "Selim AMALLAH",
+          "player_off": "Romain SAISS",
+          "minute": "21"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Yahya ATTIAT-ALLAH",
+          "player_off": "Noussair MAZRAOUI",
+          "minute": "46"
+        },
+        {
+          "team": "France",
+          "player_on": "Marcus THURAM",
+          "player_off": "Olivier GIROUD",
+          "minute": "65"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Zakaria ABOUKHLAL",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "66"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abderrazak HAMDALLAH",
+          "player_off": "Youssef EN NESYRI",
+          "minute": "66"
+        },
+        {
+          "team": "France",
+          "player_on": "Randal KOLO MUANI",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "78"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abde EZZALZOULI",
+          "player_off": "Selim AMALLAH",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hugo LLORIS",
+          "Raphael VARANE",
+          "Jules KOUNDE",
+          "Theo HERNANDEZ",
+          "Ibrahima KONATE",
+          "Antoine GRIEZMANN",
+          "Aurelien TCHOUAMENI",
+          "Youssouf Fofana",
+          "Olivier GIROUD",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE"
+        ],
+        "away": [
+          "Yassine BOUNOU",
+          "Romain SAISS",
+          "Jawad EL YAMIQ",
+          "Achraf DARI",
+          "Achraf HAKIMI",
+          "Noussair MAZRAOUI",
+          "Sofyan AMRABAT",
+          "Azzedine OUNAHI",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-17",
+      "stage": "Third-place match",
+      "venue": "Khalifa International Stadium",
+      "home_team": "Croatia",
+      "away_team": "Morocco",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Josko GVARDIOL",
+          "minute": "7"
+        },
+        {
+          "team": "Morocco",
+          "player": "Achraf DARI",
+          "minute": "9"
+        },
+        {
+          "team": "Croatia",
+          "player": "Mislav ORSIC",
+          "minute": "42"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Morocco",
+          "player_on": "Ilias CHAIR",
+          "player_off": "Abdelhamid SABIRI",
+          "minute": "46"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Azzedine OUNAHI",
+          "player_off": "Bilal EL KHANNOUSS",
+          "minute": "56"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Nikola VLASIC",
+          "player_off": "Andrej KRAMARIC",
+          "minute": "61"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Badr BENOUN",
+          "player_off": "Achraf DARI",
+          "minute": "64"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Anass ZAROURY",
+          "player_off": "Sofiane BOUFAL",
+          "minute": "64"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Bruno PETKOVIC",
+          "player_off": "Marko LIVAJA",
+          "minute": "66"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Mario PASALIC",
+          "player_off": "Lovro MAJER",
+          "minute": "66"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Selim AMALLAH",
+          "player_off": "Jawad EL YAMIQ",
+          "minute": "66"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Kristijan JAKIC",
+          "player_off": "Mislav ORSIC",
+          "minute": "90+5"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Dominik LIVAKOVIC",
+          "Josip STANISIC",
+          "Ivan PERISIC",
+          "Josko GVARDIOL",
+          "Josip SUTALO",
+          "Lovro MAJER",
+          "Mateo KOVACIC",
+          "Luka MODRIC",
+          "Mislav ORSIC",
+          "Andrej KRAMARIC",
+          "Marko LIVAJA"
+        ],
+        "away": [
+          "Yassine BOUNOU",
+          "Achraf HAKIMI",
+          "Jawad EL YAMIQ",
+          "Achraf DARI",
+          "Yahya ATTIAT-ALLAH",
+          "Sofyan AMRABAT",
+          "Abdelhamid SABIRI",
+          "Bilal EL KHANNOUSS",
+          "Hakim ZIYECH",
+          "Sofiane BOUFAL",
+          "Youssef EN NESYRI"
+        ]
+      }
+    },
+    {
+      "date": "2022-12-18",
+      "stage": "Final",
+      "venue": "Lusail Stadium",
+      "home_team": "Argentina",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 3
+      },
+      "extra_time": true,
+      "penalty_shootout": {
+        "winner": "Argentina",
+        "score": "4-2"
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "23",
+          "penalty": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Angel DI MARIA",
+          "minute": "36"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "80",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "81"
+        },
+        {
+          "team": "Argentina",
+          "player": "Lionel MESSI",
+          "minute": "108"
+        },
+        {
+          "team": "France",
+          "player": "Kylian MBAPPE",
+          "minute": "118",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Randal KOLO MUANI",
+          "player_off": "Ousmane DEMBELE",
+          "minute": "41"
+        },
+        {
+          "team": "France",
+          "player_on": "Marcus THURAM",
+          "player_off": "Olivier GIROUD",
+          "minute": "41"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Marcos ACUNA",
+          "player_off": "Angel DI MARIA",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player_on": "Kingsley COMAN",
+          "player_off": "Antoine GRIEZMANN",
+          "minute": "71"
+        },
+        {
+          "team": "France",
+          "player_on": "Eduardo CAMAVINGA",
+          "player_off": "Theo HERNANDEZ",
+          "minute": "71"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Gonzalo MONTIEL",
+          "player_off": "Nahuel MOLINA",
+          "minute": "91"
+        },
+        {
+          "team": "France",
+          "player_on": "Youssouf Fofana",
+          "player_off": "Adrien RABIOT",
+          "minute": "96"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Lautaro MARTINEZ",
+          "player_off": "Julian ALVAREZ",
+          "minute": "102"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Leandro PAREDES",
+          "player_off": "Rodrigo DE PAUL",
+          "minute": "102"
+        },
+        {
+          "team": "France",
+          "player_on": "Ibrahima KONATE",
+          "player_off": "Raphael VARANE",
+          "minute": "113"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "German PEZZELLA",
+          "player_off": "Alexis MAC ALLISTER",
+          "minute": "116"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Paulo DYBALA",
+          "player_off": "Nicolas TAGLIAFICO",
+          "minute": "120+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Axel DISASI",
+          "player_off": "Jules KOUNDE",
+          "minute": "120+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Emiliano MARTINEZ",
+          "Nicolas TAGLIAFICO",
+          "Cristian ROMERO",
+          "Nicolas OTAMENDI",
+          "Nahuel MOLINA",
+          "Rodrigo DE PAUL",
+          "Alexis MAC ALLISTER",
+          "Enzo FERNANDEZ",
+          "Julian ALVAREZ",
+          "Lionel MESSI",
+          "Angel DI MARIA"
+        ],
+        "away": [
+          "Hugo LLORIS",
+          "Raphael VARANE",
+          "Jules KOUNDE",
+          "Dayot UPAMECANO",
+          "Theo HERNANDEZ",
+          "Antoine GRIEZMANN",
+          "Aurelien TCHOUAMENI",
+          "Adrien RABIOT",
+          "Olivier GIROUD",
+          "Kylian MBAPPE",
+          "Ousmane DEMBELE"
+        ]
+      }
+    }
+  ]
+}

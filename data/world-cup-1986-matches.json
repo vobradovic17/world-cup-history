@@ -1,0 +1,4119 @@
+{
+  "tournament": "FIFA World Cup 1986",
+  "host_country": "Mexico",
+  "matches_played": 52,
+  "format": "Six first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/86full.html",
+    "https://www.rsssf.org/tables/86f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1986/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1986-06-02",
+      "stage": "Group A",
+      "venue": "Estadio Olimpico '68",
+      "city": "Mexico City",
+      "home_team": "Argentina",
+      "away_team": "South Korea",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Jorge VALDANO",
+          "minute": "6"
+        },
+        {
+          "team": "Argentina",
+          "player": "Oscar RUGGERI",
+          "minute": "18"
+        },
+        {
+          "team": "Argentina",
+          "player": "Jorge VALDANO",
+          "minute": "46"
+        },
+        {
+          "team": "South Korea",
+          "player": "PARK Chang Sun",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "CHO Kwang Rae",
+          "player_off": "KIM Pyung Seok",
+          "minute": "23"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "BYUN Byung Joo",
+          "player_off": "KIM Young Se",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Carlos TAPIA",
+          "player_off": "Pedro PASCULLI",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Julio OLARTICOECHEA",
+          "player_off": "Sergio BATISTA",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Nestor CLAUSEN",
+          "Oscar GARRE",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO",
+          "Pedro PASCULLI"
+        ],
+        "away": [
+          "OH Yun Kyo",
+          "PARK Kyunghoon",
+          "CHUNG Yong Hwan",
+          "KIM Pyung Seok",
+          "CHO Min Kook",
+          "CHOI Soon Ho",
+          "HUH Jungmoo",
+          "PARK Chang Sun",
+          "CHA Bum Kun",
+          "KIM Joo Sung",
+          "KIM Young Se"
+        ]
+      }
+    },
+    {
+      "date": "1986-05-31",
+      "stage": "Group A",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Italy",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Alessandro ALTOBELLI",
+          "minute": "43"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Nasko SIRAKOV",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Gianluca VIALLI",
+          "player_off": "Bruno CONTI",
+          "minute": "65"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Kostadin KOSTADINOV",
+          "player_off": "Bozhidar ISKRENOV",
+          "minute": "65"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Andrei ZHELYAZKOV",
+          "player_off": "Zhivko GOSPODINOV",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Giovanni GALLI",
+          "Giuseppe BERGOMI",
+          "Antonio CABRINI",
+          "Gaetano SCIREA",
+          "Pietro VIERCHOWOD",
+          "Salvatore BAGNI",
+          "Fernando DE NAPOLI",
+          "Antonio DI GENNARO",
+          "Bruno CONTI",
+          "Alessandro ALTOBELLI",
+          "Giuseppe GALDERISI"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Nikolai ARABOV",
+          "Georgi DIMITROV",
+          "Radoslav ZDRAVKOV",
+          "Aleksandar MARKOV",
+          "Nasko SIRAKOV",
+          "Ayan SADAKOV",
+          "Zhivko GOSPODINOV",
+          "Plamen GETOV",
+          "Bozhidar ISKRENOV",
+          "Stoicho MLADENOV"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-05",
+      "stage": "Group A",
+      "venue": "Estadio Olimpico '68",
+      "city": "Mexico City",
+      "home_team": "Bulgaria",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Plamen GETOV",
+          "minute": "11"
+        },
+        {
+          "team": "South Korea",
+          "player": "KIM Jong Boo",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Kostadin KOSTADINOV",
+          "player_off": "Bozhidar ISKRENOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Jong Boo",
+          "player_off": "NOH Soo Jin",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Andrei ZHELYAZKOV",
+          "player_off": "Plamen GETOV",
+          "minute": "58"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHO Min Kook",
+          "player_off": "CHO Kwang Rae",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Borislav MIHAYLOV",
+          "Nikolai ARABOV",
+          "Petar PETROV",
+          "Georgi DIMITROV",
+          "Radoslav ZDRAVKOV",
+          "Nasko SIRAKOV",
+          "Ayan SADAKOV",
+          "Zhivko GOSPODINOV",
+          "Plamen GETOV",
+          "Bozhidar ISKRENOV",
+          "Stoicho MLADENOV"
+        ],
+        "away": [
+          "OH Yun Kyo",
+          "PARK Kyunghoon",
+          "CHUNG Yong Hwan",
+          "CHO Kwang Rae",
+          "CHO Young Jeung",
+          "NOH Soo Jin",
+          "HUH Jungmoo",
+          "BYUN Byung Joo",
+          "PARK Chang Sun",
+          "CHA Bum Kun",
+          "KIM Joo Sung"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-05",
+      "stage": "Group A",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Argentina",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Alessandro ALTOBELLI",
+          "minute": "6",
+          "penalty": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "34"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Julio OLARTICOECHEA",
+          "player_off": "Sergio BATISTA",
+          "minute": "59"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gianluca VIALLI",
+          "player_off": "Bruno CONTI",
+          "minute": "65"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Hector ENRIQUE",
+          "player_off": "Claudio BORGHI",
+          "minute": "74"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe BARESI",
+          "player_off": "Fernando DE NAPOLI",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Jose CUCIUFFO",
+          "Oscar GARRE",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Claudio BORGHI",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO"
+        ],
+        "away": [
+          "Giovanni GALLI",
+          "Giuseppe BERGOMI",
+          "Antonio CABRINI",
+          "Gaetano SCIREA",
+          "Pietro VIERCHOWOD",
+          "Salvatore BAGNI",
+          "Fernando DE NAPOLI",
+          "Antonio DI GENNARO",
+          "Bruno CONTI",
+          "Alessandro ALTOBELLI",
+          "Giuseppe GALDERISI"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-10",
+      "stage": "Group A",
+      "venue": "Estadio Olimpico '68",
+      "city": "Mexico City",
+      "home_team": "Argentina",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Jorge VALDANO",
+          "minute": "3"
+        },
+        {
+          "team": "Argentina",
+          "player": "Jorge BURRUCHAGA",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Julio OLARTICOECHEA",
+          "player_off": "Claudio BORGHI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Hector ENRIQUE",
+          "player_off": "Sergio BATISTA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Boycho VELICHKOV",
+          "player_off": "Stoicho MLADENOV",
+          "minute": "52"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Radoslav ZDRAVKOV",
+          "player_off": "Nasko SIRAKOV",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Jose CUCIUFFO",
+          "Oscar GARRE",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Claudio BORGHI",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Petar PETROV",
+          "Georgi DIMITROV",
+          "Aleksandar MARKOV",
+          "Nasko SIRAKOV",
+          "Andrei ZHELYAZKOV",
+          "Ayan SADAKOV",
+          "Plamen GETOV",
+          "Plamen MARKOV",
+          "Georgi YORDANOV",
+          "Stoicho MLADENOV"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-10",
+      "stage": "Group A",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Italy",
+      "away_team": "South Korea",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Alessandro ALTOBELLI",
+          "minute": "17"
+        },
+        {
+          "team": "South Korea",
+          "player": "CHOI Soon Ho",
+          "minute": "62"
+        },
+        {
+          "team": "Italy",
+          "player": "Alessandro ALTOBELLI",
+          "minute": "73"
+        },
+        {
+          "team": "Italy",
+          "player": "CHO Kwang Rae",
+          "minute": "82",
+          "own_goal": true
+        },
+        {
+          "team": "South Korea",
+          "player": "HUH Jungmoo",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "CHUNG Jong Soo",
+          "player_off": "KIM Joo Sung",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe BARESI",
+          "player_off": "Salvatore BAGNI",
+          "minute": "67"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KIM Jong Boo",
+          "player_off": "BYUN Byung Joo",
+          "minute": "70"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gianluca VIALLI",
+          "player_off": "Giuseppe GALDERISI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Giovanni GALLI",
+          "Antonio CABRINI",
+          "Fulvio COLLOVATI",
+          "Gaetano SCIREA",
+          "Pietro VIERCHOWOD",
+          "Salvatore BAGNI",
+          "Fernando DE NAPOLI",
+          "Antonio DI GENNARO",
+          "Bruno CONTI",
+          "Alessandro ALTOBELLI",
+          "Giuseppe GALDERISI"
+        ],
+        "away": [
+          "OH Yun Kyo",
+          "PARK Kyunghoon",
+          "CHUNG Yong Hwan",
+          "CHO Kwang Rae",
+          "CHO Young Jeung",
+          "CHOI Soon Ho",
+          "HUH Jungmoo",
+          "BYUN Byung Joo",
+          "PARK Chang Sun",
+          "CHA Bum Kun",
+          "KIM Joo Sung"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-03",
+      "stage": "Group B",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "Belgium",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Fernando QUIRARTE",
+          "minute": "23"
+        },
+        {
+          "team": "Mexico",
+          "player": "Hugo SANCHEZ",
+          "minute": "39"
+        },
+        {
+          "team": "Belgium",
+          "player": "Erwin VANDENBERGH",
+          "minute": "45"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Nico CLAESEN",
+          "player_off": "Philippe DESMET",
+          "minute": "60"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Stephane DEMOL",
+          "player_off": "Erwin VANDENBERGH",
+          "minute": "66"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Miguel ESPANA",
+          "player_off": "Tomas BOY",
+          "minute": "69"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Francisco CRUZ",
+          "player_off": "Luis FLORES",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pablo LARIOS",
+          "Mario TREJO",
+          "Fernando QUIRARTE",
+          "Felix CRUZ",
+          "Raul SERVIN",
+          "Tomas BOY",
+          "Carlos MUNOZ",
+          "Manuel NEGRETE",
+          "Hugo SANCHEZ",
+          "Javier AGUIRRE",
+          "Luis FLORES"
+        ],
+        "away": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Franky VAN DER ELST",
+          "Michel DE WOLF",
+          "Hugo BROOS",
+          "Frank VERCAUTEREN",
+          "Rene VANDEREYCKEN",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Erwin VANDENBERGH",
+          "Philippe DESMET"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-04",
+      "stage": "Group B",
+      "venue": "Estadio Bombonera",
+      "city": "Toluca",
+      "home_team": "Paraguay",
+      "away_team": "Iraq",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Julio Cesar ROMERO",
+          "minute": "35"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iraq",
+          "player_on": "ABDUL RAHIM",
+          "player_off": "MOHAMED HARIS",
+          "minute": "67"
+        },
+        {
+          "team": "Iraq",
+          "player_on": "BASIM QASIM",
+          "player_off": "Bassel GORGIS",
+          "minute": "81"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge GUASCH",
+          "player_off": "Alfredo MENDOZA",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Roberto FERNANDEZ",
+          "Juan TORALES",
+          "Cesar ZABALA",
+          "Vladimiro SCHETTINA",
+          "Rogelio DELGADO",
+          "Jorge NUNEZ",
+          "Buenaventura FERREIRA",
+          "Julio Cesar ROMERO",
+          "Adolfino CANETE",
+          "Roberto CABANAS",
+          "Alfredo MENDOZA"
+        ],
+        "away": [
+          "HAMMOUDI RAAD",
+          "KHALIL MOHAMED",
+          "NADHIM SHAKER",
+          "SHAKER SAMIR",
+          "HASHEM NATIK",
+          "AL ROUBAI GHANIM",
+          "ALI HUSSEIN",
+          "MOHAMED HARIS",
+          "Bassel GORGIS",
+          "AHMED RADHI",
+          "Hussain Said MUHAMMAD"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-07",
+      "stage": "Group B",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Luis FLORES",
+          "minute": "3"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Julio Cesar ROMERO",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Miguel ESPANA",
+          "player_off": "Tomas BOY",
+          "minute": "58"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge GUASCH",
+          "player_off": "Alfredo MENDOZA",
+          "minute": "62"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Francisco CRUZ",
+          "player_off": "Luis FLORES",
+          "minute": "77"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Ramon HICKS",
+          "player_off": "Juan TORALES",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pablo LARIOS",
+          "Mario TREJO",
+          "Fernando QUIRARTE",
+          "Felix CRUZ",
+          "Raul SERVIN",
+          "Tomas BOY",
+          "Carlos MUNOZ",
+          "Manuel NEGRETE",
+          "Hugo SANCHEZ",
+          "Javier AGUIRRE",
+          "Luis FLORES"
+        ],
+        "away": [
+          "Roberto FERNANDEZ",
+          "Juan TORALES",
+          "Cesar ZABALA",
+          "Vladimiro SCHETTINA",
+          "Rogelio DELGADO",
+          "Jorge NUNEZ",
+          "Buenaventura FERREIRA",
+          "Julio Cesar ROMERO",
+          "Adolfino CANETE",
+          "Roberto CABANAS",
+          "Alfredo MENDOZA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-08",
+      "stage": "Group B",
+      "venue": "Estadio Bombonera",
+      "city": "Toluca",
+      "home_team": "Belgium",
+      "away_team": "Iraq",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Enzo SCIFO",
+          "minute": "16"
+        },
+        {
+          "team": "Belgium",
+          "player": "Nico CLAESEN",
+          "minute": "21",
+          "penalty": true
+        },
+        {
+          "team": "Iraq",
+          "player": "AHMED RADHI",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Leo CLIJSTERS",
+          "player_off": "Enzo SCIFO",
+          "minute": "67"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Georges GRUN",
+          "player_off": "Stephane DEMOL",
+          "minute": "69"
+        },
+        {
+          "team": "Iraq",
+          "player_on": "ABDUL RAHIM",
+          "player_off": "SADDAM KARIM",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Franky VAN DER ELST",
+          "Michel DE WOLF",
+          "Stephane DEMOL",
+          "Frank VERCAUTEREN",
+          "Rene VANDEREYCKEN",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Philippe DESMET",
+          "Nico CLAESEN"
+        ],
+        "away": [
+          "HAMMOUDI RAAD",
+          "KHALIL MOHAMED",
+          "NADHIM SHAKER",
+          "SHAKER SAMIR",
+          "HASHEM NATIK",
+          "AL ROUBAI GHANIM",
+          "ALI HUSSEIN",
+          "MOHAMED HARIS",
+          "Bassel GORGIS",
+          "AHMED RADHI",
+          "SADDAM KARIM"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-11",
+      "stage": "Group B",
+      "venue": "Estadio Bombonera",
+      "city": "Toluca",
+      "home_team": "Belgium",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Frank VERCAUTEREN",
+          "minute": "30"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Roberto CABANAS",
+          "minute": "50"
+        },
+        {
+          "team": "Belgium",
+          "player": "Daniel VEYT",
+          "minute": "59"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Roberto CABANAS",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Ramon HICKS",
+          "player_off": "Alfredo MENDOZA",
+          "minute": "68"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Franky VAN DER ELST",
+          "player_off": "Georges GRUN",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Michel RENQUIN",
+          "Georges GRUN",
+          "Hugo BROOS",
+          "Stephane DEMOL",
+          "Patrick VERVOORT",
+          "Frank VERCAUTEREN",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Nico CLAESEN",
+          "Daniel VEYT"
+        ],
+        "away": [
+          "Roberto FERNANDEZ",
+          "Juan TORALES",
+          "Cesar ZABALA",
+          "Rogelio DELGADO",
+          "Jorge NUNEZ",
+          "Buenaventura FERREIRA",
+          "Julio Cesar ROMERO",
+          "Adolfino CANETE",
+          "Jorge GUASCH",
+          "Roberto CABANAS",
+          "Alfredo MENDOZA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-11",
+      "stage": "Group B",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "Iraq",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Fernando QUIRARTE",
+          "minute": "54"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Iraq",
+          "player_on": "ABDUL RAHIM",
+          "player_off": "HASHEM NATIK",
+          "minute": "60"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Alejandro DOMINGUEZ",
+          "player_off": "Rafael AMADOR",
+          "minute": "62"
+        },
+        {
+          "team": "Iraq",
+          "player_on": "MAHMOUD SHAKER",
+          "player_off": "OBID ANNAD",
+          "minute": "70"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Francisco CRUZ",
+          "player_off": "Carlos DE LOS COBOS",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pablo LARIOS",
+          "Fernando QUIRARTE",
+          "Felix CRUZ",
+          "Raul SERVIN",
+          "Rafael AMADOR",
+          "Carlos DE LOS COBOS",
+          "Miguel ESPANA",
+          "Tomas BOY",
+          "Manuel NEGRETE",
+          "Javier AGUIRRE",
+          "Luis FLORES"
+        ],
+        "away": [
+          "INSAYAF ABDULFATTAH",
+          "Maad IBRAHIM",
+          "KHALIL MOHAMED",
+          "NADHIM SHAKER",
+          "HASHEM NATIK",
+          "OBID ANNAD",
+          "AL ROUBAI GHANIM",
+          "ALI HUSSEIN",
+          "BASIM QASIM",
+          "AHMED RADHI",
+          "SADDAM KARIM"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-01",
+      "stage": "Group C",
+      "venue": "Estadio León",
+      "city": "León",
+      "home_team": "France",
+      "away_team": "Canada",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Jean-Pierre PAPIN",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Canada",
+          "player_on": "James LOWERY",
+          "player_off": "Mike SWEENEY",
+          "minute": "54"
+        },
+        {
+          "team": "France",
+          "player_on": "Yannick STOPYRA",
+          "player_off": "Dominique ROCHETEAU",
+          "minute": "70"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Branko SEGOTA",
+          "player_off": "Paul JAMES",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Joel BATS",
+          "Manuel AMOROS",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Thierry TUSSEAU",
+          "Luis FERNANDEZ",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Jean-Pierre PAPIN",
+          "Dominique ROCHETEAU"
+        ],
+        "away": [
+          "Paul DOLAN",
+          "Bob LENARDUZZI",
+          "Bruce WILSON",
+          "Ian BRIDGE",
+          "Randy SAMUEL",
+          "Randy RAGAN",
+          "Mike SWEENEY",
+          "Paul JAMES",
+          "David NORMAN",
+          "Carl VALENTINE",
+          "Igor VRABLIC"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-02",
+      "stage": "Group C",
+      "venue": "Estadio Irapuato",
+      "city": "Irapuato",
+      "home_team": "Soviet Union",
+      "away_team": "Hungary",
+      "score": {
+        "home": 6,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Pavel YAKOVENKO",
+          "minute": "2"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Serguei ALEINIKOV",
+          "minute": "4"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Igor BELANOV",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Ivan YAREMCHUK",
+          "minute": "66"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Laszlo DAJKA",
+          "minute": "73",
+          "own_goal": true
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Sergei RODIONOV",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Hungary",
+          "player_on": "Gyozo BURCSA",
+          "player_off": "Antal ROTH",
+          "minute": "13"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Laszlo DAJKA",
+          "player_off": "Zoltan PETER",
+          "minute": "62"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei RODIONOV",
+          "player_off": "Igor BELANOV",
+          "minute": "69"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Vadim YEVTUSHENKO",
+          "player_off": "Pavel YAKOVENKO",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Rinat DASAEV",
+          "Vladimir BESSONOV",
+          "Anatoli DEMYANENKO",
+          "Oleg KUZNETSOV",
+          "Nikolai LARIONOV",
+          "Ivan YAREMCHUK",
+          "Pavel YAKOVENKO",
+          "Aleksandr ZAVAROV",
+          "Serguei ALEINIKOV",
+          "Vasili RATS",
+          "Igor BELANOV"
+        ],
+        "away": [
+          "Peter DISZTL",
+          "Sandor SALLAI",
+          "Antal ROTH",
+          "Jozsef KARDOS",
+          "Imre GARABA",
+          "Antal NAGY",
+          "Zoltan PETER",
+          "Lajos DETARI",
+          "Jozsef KIPRICH",
+          "Marton ESTERHAZY",
+          "Gyorgy BOGNAR"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-05",
+      "stage": "Group C",
+      "venue": "Estadio León",
+      "city": "León",
+      "home_team": "France",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Vasili RATS",
+          "minute": "53"
+        },
+        {
+          "team": "France",
+          "player": "Luis FERNANDEZ",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Oleg BLOKHIN",
+          "player_off": "Aleksandr ZAVAROV",
+          "minute": "58"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei RODIONOV",
+          "player_off": "Pavel YAKOVENKO",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player_on": "Bruno BELLONE",
+          "player_off": "Jean-Pierre PAPIN",
+          "minute": "76"
+        },
+        {
+          "team": "France",
+          "player_on": "Philippe VERCRUYSSE",
+          "player_off": "Alain GIRESSE",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Joel BATS",
+          "Manuel AMOROS",
+          "William AYACHE",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Luis FERNANDEZ",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Jean-Pierre PAPIN",
+          "Yannick STOPYRA"
+        ],
+        "away": [
+          "Rinat DASAEV",
+          "Vladimir BESSONOV",
+          "Anatoli DEMYANENKO",
+          "Oleg KUZNETSOV",
+          "Nikolai LARIONOV",
+          "Ivan YAREMCHUK",
+          "Pavel YAKOVENKO",
+          "Aleksandr ZAVAROV",
+          "Serguei ALEINIKOV",
+          "Vasili RATS",
+          "Igor BELANOV"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-06",
+      "stage": "Group C",
+      "venue": "Estadio Irapuato",
+      "city": "Irapuato",
+      "home_team": "Hungary",
+      "away_team": "Canada",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Marton ESTERHAZY",
+          "minute": "2"
+        },
+        {
+          "team": "Hungary",
+          "player": "Lajos DETARI",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Hungary",
+          "player_on": "Antal ROTH",
+          "player_off": "Gyozo BURCSA",
+          "minute": "28"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Mike SWEENEY",
+          "player_off": "Bruce WILSON",
+          "minute": "41"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Branko SEGOTA",
+          "player_off": "Paul JAMES",
+          "minute": "53"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Laszlo DAJKA",
+          "player_off": "Antal NAGY",
+          "minute": "62"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozsef SZENDREI",
+          "Sandor SALLAI",
+          "Jozsef VARGA",
+          "Jozsef KARDOS",
+          "Imre GARABA",
+          "Antal NAGY",
+          "Lajos DETARI",
+          "Gyozo BURCSA",
+          "Jozsef KIPRICH",
+          "Marton ESTERHAZY",
+          "Gyorgy BOGNAR"
+        ],
+        "away": [
+          "Tino LETTIERI",
+          "Bob LENARDUZZI",
+          "Bruce WILSON",
+          "Ian BRIDGE",
+          "Randy SAMUEL",
+          "Randy RAGAN",
+          "Gerry GRAY",
+          "Paul JAMES",
+          "David NORMAN",
+          "Carl VALENTINE",
+          "Igor VRABLIC"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-09",
+      "stage": "Group C",
+      "venue": "Estadio León",
+      "city": "León",
+      "home_team": "France",
+      "away_team": "Hungary",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Yannick STOPYRA",
+          "minute": "29"
+        },
+        {
+          "team": "France",
+          "player": "Jean TIGANA",
+          "minute": "62"
+        },
+        {
+          "team": "France",
+          "player": "Dominique ROCHETEAU",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Hungary",
+          "player_on": "Antal NAGY",
+          "player_off": "Peter HANNICH",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Dominique ROCHETEAU",
+          "player_off": "Jean-Pierre PAPIN",
+          "minute": "61"
+        },
+        {
+          "team": "Hungary",
+          "player_on": "Gyorgy BOGNAR",
+          "player_off": "Kalman KOVACS",
+          "minute": "65"
+        },
+        {
+          "team": "France",
+          "player_on": "Jean-Marc FERRERI",
+          "player_off": "Yannick STOPYRA",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Joel BATS",
+          "Manuel AMOROS",
+          "William AYACHE",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Luis FERNANDEZ",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Jean-Pierre PAPIN",
+          "Yannick STOPYRA"
+        ],
+        "away": [
+          "Peter DISZTL",
+          "Sandor SALLAI",
+          "Antal ROTH",
+          "Jozsef VARGA",
+          "Jozsef KARDOS",
+          "Imre GARABA",
+          "Laszlo DAJKA",
+          "Lajos DETARI",
+          "Peter HANNICH",
+          "Marton ESTERHAZY",
+          "Kalman KOVACS"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-09",
+      "stage": "Group C",
+      "venue": "Estadio Irapuato",
+      "city": "Irapuato",
+      "home_team": "Soviet Union",
+      "away_team": "Canada",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Oleg BLOKHIN",
+          "minute": "58"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Aleksandr ZAVAROV",
+          "minute": "74"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Igor BELANOV",
+          "player_off": "Oleg PROTASOV",
+          "minute": "57"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Aleksandr ZAVAROV",
+          "player_off": "Oleg BLOKHIN",
+          "minute": "62"
+        },
+        {
+          "team": "Canada",
+          "player_on": "Branko SEGOTA",
+          "player_off": "Paul JAMES",
+          "minute": "64"
+        },
+        {
+          "team": "Canada",
+          "player_on": "George PAKOS",
+          "player_off": "Gerry GRAY",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Viktor CHANOV",
+          "Gennadi MOROZOV",
+          "Aleksandr BUBNOV",
+          "Oleg KUZNETSOV",
+          "Andrei BAL",
+          "Gennadi LITOVCHENKO",
+          "Serguei ALEINIKOV",
+          "Oleg BLOKHIN",
+          "Sergei RODIONOV",
+          "Vadim YEVTUSHENKO",
+          "Oleg PROTASOV"
+        ],
+        "away": [
+          "Tino LETTIERI",
+          "Bob LENARDUZZI",
+          "Bruce WILSON",
+          "Ian BRIDGE",
+          "Randy SAMUEL",
+          "Randy RAGAN",
+          "Gerry GRAY",
+          "Paul JAMES",
+          "David NORMAN",
+          "Carl VALENTINE",
+          "Dale MITCHELL"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-01",
+      "stage": "Group D",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "SOCRATES",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "MULLER",
+          "player_off": "CASAGRANDE",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "FALCAO",
+          "player_off": "JUNIOR",
+          "minute": "79"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Juan Antonio SENOR",
+          "player_off": "FRANCISCO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "CARLOS",
+          "EDSON",
+          "EDINHO",
+          "JUNIOR",
+          "JULIO CESAR",
+          "BRANCO",
+          "ALEMAO",
+          "SOCRATES",
+          "ELZO",
+          "CASAGRANDE",
+          "CARECA"
+        ],
+        "away": [
+          "Andoni ZUBIZARRETA",
+          "TOMAS",
+          "Jose Antonio CAMACHO",
+          "Antonio MACEDA",
+          "GOIKO",
+          "JULIO ALBERTO",
+          "VICTOR",
+          "FRANCISCO",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-03",
+      "stage": "Group D",
+      "venue": "Estadio Tres de Marzo",
+      "city": "Guadalajara",
+      "home_team": "Algeria",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Northern Ireland",
+          "player": "Norman WHITESIDE",
+          "minute": "6"
+        },
+        {
+          "team": "Algeria",
+          "player": "Djamel ZIDANE",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Algeria",
+          "player_on": "Rachid HARKOUK",
+          "player_off": "Rabah MADJER",
+          "minute": "33"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Ian STEWART",
+          "player_off": "Steven PENNEY",
+          "minute": "67"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Lakhdar BELLOUMI",
+          "player_off": "Djamel ZIDANE",
+          "minute": "71"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Colin CLARKE",
+          "player_off": "Norman WHITESIDE",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Larbi EL HADI",
+          "Mahmoud GUENDOUZ",
+          "Nordine KOURICHI",
+          "Abdellah MEDJADI",
+          "Faouzi MANSOURI",
+          "Mohamed KACI SAID",
+          "Karim MAROC",
+          "Djamel ZIDANE",
+          "Alim BEN MABROUK",
+          "Salah ASSAD",
+          "Rabah MADJER"
+        ],
+        "away": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "John O NEILL",
+          "Alan McDONALD",
+          "Nigel WORTHINGTON",
+          "David McCREERY",
+          "Sam McILROY",
+          "Steven PENNEY",
+          "Norman WHITESIDE",
+          "Billy HAMILTON"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-06",
+      "stage": "Group D",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Algeria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "FALCAO",
+          "player_off": "EDSON",
+          "minute": "10"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MULLER",
+          "player_off": "CASAGRANDE",
+          "minute": "59"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Tedj BENSAOULA",
+          "player_off": "Salah ASSAD",
+          "minute": "68"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Djamel ZIDANE",
+          "player_off": "Lakhdar BELLOUMI",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "CARLOS",
+          "EDSON",
+          "EDINHO",
+          "JUNIOR",
+          "JULIO CESAR",
+          "BRANCO",
+          "ALEMAO",
+          "SOCRATES",
+          "ELZO",
+          "CASAGRANDE",
+          "CARECA"
+        ],
+        "away": [
+          "Nasser DRID",
+          "Mahmoud GUENDOUZ",
+          "Abdellah MEDJADI",
+          "Faouzi MANSOURI",
+          "Fadil MEGHARIA",
+          "Mohamed KACI SAID",
+          "Lakhdar BELLOUMI",
+          "Alim BEN MABROUK",
+          "Salah ASSAD",
+          "Djamel MENAD",
+          "Rabah MADJER"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-07",
+      "stage": "Group D",
+      "venue": "Estadio Tres de Marzo",
+      "city": "Guadalajara",
+      "home_team": "Spain",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Emilio BUTRAGUENO",
+          "minute": "2"
+        },
+        {
+          "team": "Spain",
+          "player": "JULIO SALINAS",
+          "minute": "18"
+        },
+        {
+          "team": "Northern Ireland",
+          "player": "Colin CLARKE",
+          "minute": "47"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Ramon Maria CALDERE",
+          "player_off": "Rafael GORDILLO",
+          "minute": "54"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Ian STEWART",
+          "player_off": "Steven PENNEY",
+          "minute": "54"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Billy HAMILTON",
+          "player_off": "Nigel WORTHINGTON",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Juan Antonio SENOR",
+          "player_off": "JULIO SALINAS",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "TOMAS",
+          "Jose Antonio CAMACHO",
+          "GOIKO",
+          "VICTOR",
+          "Rafael GORDILLO",
+          "Ricardo GALLEGO",
+          "FRANCISCO",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ],
+        "away": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "John O NEILL",
+          "Alan McDONALD",
+          "Nigel WORTHINGTON",
+          "David McCREERY",
+          "Sam McILROY",
+          "Steven PENNEY",
+          "Norman WHITESIDE",
+          "Colin CLARKE"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-12",
+      "stage": "Group D",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Northern Ireland",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "15"
+        },
+        {
+          "team": "Brazil",
+          "player": "JOSIMAR",
+          "minute": "42"
+        },
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "CASAGRANDE",
+          "player_off": "MULLER",
+          "minute": "27"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Billy HAMILTON",
+          "player_off": "Norman WHITESIDE",
+          "minute": "67"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZICO",
+          "player_off": "SOCRATES",
+          "minute": "68"
+        },
+        {
+          "team": "Northern Ireland",
+          "player_on": "Gerry ARMSTRONG",
+          "player_off": "David CAMPBELL",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "CARLOS",
+          "EDINHO",
+          "JUNIOR",
+          "JOSIMAR",
+          "JULIO CESAR",
+          "BRANCO",
+          "ALEMAO",
+          "SOCRATES",
+          "ELZO",
+          "MULLER",
+          "CARECA"
+        ],
+        "away": [
+          "Pat JENNINGS",
+          "Jimmy NICHOLL",
+          "Mal DONAGHY",
+          "John O NEILL",
+          "Alan McDONALD",
+          "David McCREERY",
+          "Sam McILROY",
+          "David CAMPBELL",
+          "Norman WHITESIDE",
+          "Ian STEWART",
+          "Colin CLARKE"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-12",
+      "stage": "Group D",
+      "venue": "Estadio Tecnológico",
+      "city": "Monterrey",
+      "home_team": "Spain",
+      "away_team": "Algeria",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Ramon Maria CALDERE",
+          "minute": "15"
+        },
+        {
+          "team": "Spain",
+          "player": "Ramon Maria CALDERE",
+          "minute": "68"
+        },
+        {
+          "team": "Spain",
+          "player": "ELOY",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Algeria",
+          "player_on": "Larbi EL HADI",
+          "player_off": "Nasser DRID",
+          "minute": "20"
+        },
+        {
+          "team": "Spain",
+          "player_on": "ELOY",
+          "player_off": "Emilio BUTRAGUENO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Algeria",
+          "player_on": "Djamel MENAD",
+          "player_off": "Djamel ZIDANE",
+          "minute": "58"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Juan Antonio SENOR",
+          "player_off": "MICHEL",
+          "minute": "63"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "TOMAS",
+          "Jose Antonio CAMACHO",
+          "GOIKO",
+          "VICTOR",
+          "Ricardo GALLEGO",
+          "FRANCISCO",
+          "Ramon Maria CALDERE",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ],
+        "away": [
+          "Nasser DRID",
+          "Mahmoud GUENDOUZ",
+          "Nordine KOURICHI",
+          "Faouzi MANSOURI",
+          "Fadil MEGHARIA",
+          "Mohamed KACI SAID",
+          "Karim MAROC",
+          "Lakhdar BELLOUMI",
+          "Djamel ZIDANE",
+          "Rabah MADJER",
+          "Rachid HARKOUK"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-04",
+      "stage": "Group E",
+      "venue": "Estadio La Corregidora",
+      "city": "Querétaro",
+      "home_team": "West Germany",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Antonio ALZAMENDI",
+          "minute": "4"
+        },
+        {
+          "team": "West Germany",
+          "player": "Klaus ALLOFS",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Andreas BREHME",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Mario SARALEGUI",
+          "player_off": "Jorge BARRIOS",
+          "minute": "56"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Karl-Heinz RUMMENIGGE",
+          "player_off": "Lothar MATTHAEUS",
+          "minute": "70"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Venancio RAMOS",
+          "player_off": "Antonio ALZAMENDI",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Andreas BREHME",
+          "Karlheinz FOERSTER",
+          "Norbert EDER",
+          "Thomas BERTHOLD",
+          "Klaus AUGENTHALER",
+          "Lothar MATTHAEUS",
+          "Felix MAGATH",
+          "Rudi VOELLER",
+          "Klaus ALLOFS"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Eduardo ACEVEDO",
+          "Victor DIOGO",
+          "Jose BATISTA",
+          "Miguel BOSSIO",
+          "Jorge BARRIOS",
+          "Enzo FRANCESCOLI",
+          "Sergio SANTIN",
+          "Antonio ALZAMENDI",
+          "Jorge DA SILVA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-04",
+      "stage": "Group E",
+      "venue": "Estadio Neza '86",
+      "city": "Nezahualcóyotl",
+      "home_team": "Denmark",
+      "away_team": "Scotland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Preben ELKJAER LARSEN",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Frank McAVENNIE",
+          "player_off": "Paul STURROCK",
+          "minute": "61"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "John SIVEBAEK",
+          "player_off": "Frank ARNESEN",
+          "minute": "74"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Eamonn BANNON",
+          "player_off": "Gordon STRACHAN",
+          "minute": "74"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jan MOLBY",
+          "player_off": "Jesper OLSEN",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Troels RASMUSSEN",
+          "Soren BUSK",
+          "Morten OLSEN",
+          "Ivan NIELSEN",
+          "Jens BERTELSEN",
+          "Soren LERBY",
+          "Jesper OLSEN",
+          "Klaus BERGGREEN",
+          "Michael LAUDRUP",
+          "Frank ARNESEN",
+          "Preben ELKJAER LARSEN"
+        ],
+        "away": [
+          "Jim LEIGHTON",
+          "Richard GOUGH",
+          "Maurice MALPAS",
+          "Alex McLEISH",
+          "Willie MILLER",
+          "Stephen NICOL",
+          "Graeme SOUNESS",
+          "Gordon STRACHAN",
+          "Roy AITKEN",
+          "Charlie NICHOLAS",
+          "Paul STURROCK"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-08",
+      "stage": "Group E",
+      "venue": "Estadio La Corregidora",
+      "city": "Querétaro",
+      "home_team": "West Germany",
+      "away_team": "Scotland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Gordon STRACHAN",
+          "minute": "18"
+        },
+        {
+          "team": "West Germany",
+          "player": "Rudi VOELLER",
+          "minute": "22"
+        },
+        {
+          "team": "West Germany",
+          "player": "Klaus ALLOFS",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Frank McAVENNIE",
+          "player_off": "Stephen NICOL",
+          "minute": "60"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Ditmar JAKOBS",
+          "player_off": "Hans Peter BRIEGEL",
+          "minute": "63"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "David COOPER",
+          "player_off": "Eamonn BANNON",
+          "minute": "74"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Karl-Heinz RUMMENIGGE",
+          "player_off": "Pierre LITTBARSKI",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Norbert EDER",
+          "Thomas BERTHOLD",
+          "Klaus AUGENTHALER",
+          "Pierre LITTBARSKI",
+          "Lothar MATTHAEUS",
+          "Felix MAGATH",
+          "Rudi VOELLER",
+          "Klaus ALLOFS"
+        ],
+        "away": [
+          "Jim LEIGHTON",
+          "Richard GOUGH",
+          "Maurice MALPAS",
+          "Willie MILLER",
+          "Stephen NICOL",
+          "David NAREY",
+          "Graeme SOUNESS",
+          "Gordon STRACHAN",
+          "Roy AITKEN",
+          "Eamonn BANNON",
+          "Steve ARCHIBALD"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-08",
+      "stage": "Group E",
+      "venue": "Estadio Neza '86",
+      "city": "Nezahualcóyotl",
+      "home_team": "Denmark",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Preben ELKJAER LARSEN",
+          "minute": "11"
+        },
+        {
+          "team": "Denmark",
+          "player": "Soren LERBY",
+          "minute": "41"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Enzo FRANCESCOLI",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "team": "Denmark",
+          "player": "Michael LAUDRUP",
+          "minute": "52"
+        },
+        {
+          "team": "Denmark",
+          "player": "Preben ELKJAER LARSEN",
+          "minute": "67"
+        },
+        {
+          "team": "Denmark",
+          "player": "Preben ELKJAER LARSEN",
+          "minute": "80"
+        },
+        {
+          "team": "Denmark",
+          "player": "Jesper OLSEN",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Jan MOLBY",
+          "player_off": "Jens BERTELSEN",
+          "minute": "57"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Venancio RAMOS",
+          "player_off": "Antonio ALZAMENDI",
+          "minute": "57"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Jose ZALAZAR",
+          "player_off": "Sergio SANTIN",
+          "minute": "57"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jesper OLSEN",
+          "player_off": "Michael LAUDRUP",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Troels RASMUSSEN",
+          "Soren BUSK",
+          "Morten OLSEN",
+          "Ivan NIELSEN",
+          "Jens BERTELSEN",
+          "Henrik ANDERSEN",
+          "Soren LERBY",
+          "Klaus BERGGREEN",
+          "Michael LAUDRUP",
+          "Frank ARNESEN",
+          "Preben ELKJAER LARSEN"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Eduardo ACEVEDO",
+          "Victor DIOGO",
+          "Jose BATISTA",
+          "Miguel BOSSIO",
+          "Enzo FRANCESCOLI",
+          "Sergio SANTIN",
+          "Mario SARALEGUI",
+          "Antonio ALZAMENDI",
+          "Jorge DA SILVA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-13",
+      "stage": "Group E",
+      "venue": "Estadio La Corregidora",
+      "city": "Querétaro",
+      "home_team": "Denmark",
+      "away_team": "West Germany",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Jesper OLSEN",
+          "minute": "43",
+          "penalty": true
+        },
+        {
+          "team": "Denmark",
+          "player": "John ERIKSEN",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "John ERIKSEN",
+          "player_off": "Preben ELKJAER LARSEN",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Wolfgang ROLFF",
+          "minute": "45+1"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Allan SIMONSEN",
+          "player_off": "Jesper OLSEN",
+          "minute": "71"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Karl-Heinz RUMMENIGGE",
+          "player_off": "Karlheinz FOERSTER",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Lars HOGH",
+          "John SIVEBAEK",
+          "Soren BUSK",
+          "Morten OLSEN",
+          "Henrik ANDERSEN",
+          "Soren LERBY",
+          "Jan MOLBY",
+          "Jesper OLSEN",
+          "Michael LAUDRUP",
+          "Frank ARNESEN",
+          "Preben ELKJAER LARSEN"
+        ],
+        "away": [
+          "Harald SCHUMACHER",
+          "Andreas BREHME",
+          "Karlheinz FOERSTER",
+          "Matthias HERGET",
+          "Norbert EDER",
+          "Thomas BERTHOLD",
+          "Ditmar JAKOBS",
+          "Lothar MATTHAEUS",
+          "Wolfgang ROLFF",
+          "Rudi VOELLER",
+          "Klaus ALLOFS"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-13",
+      "stage": "Group E",
+      "venue": "Estadio Neza '86",
+      "city": "Nezahualcóyotl",
+      "home_team": "Scotland",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "David COOPER",
+          "player_off": "Paul STURROCK",
+          "minute": "70"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Charlie NICHOLAS",
+          "player_off": "Stephen NICOL",
+          "minute": "70"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Mario SARALEGUI",
+          "player_off": "Venancio RAMOS",
+          "minute": "70"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Antonio ALZAMENDI",
+          "player_off": "Enzo FRANCESCOLI",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jim LEIGHTON",
+          "Richard GOUGH",
+          "Willie MILLER",
+          "Stephen NICOL",
+          "David NAREY",
+          "Arthur ALBISTON",
+          "Gordon STRACHAN",
+          "Roy AITKEN",
+          "Paul McSTAY",
+          "Graeme SHARP",
+          "Paul STURROCK"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Eduardo ACEVEDO",
+          "Victor DIOGO",
+          "Jose BATISTA",
+          "Alfonso PEREIRA",
+          "Jorge BARRIOS",
+          "Enzo FRANCESCOLI",
+          "Sergio SANTIN",
+          "Venancio RAMOS",
+          "Wilmar CABRERA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-02",
+      "stage": "Group F",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "Morocco",
+      "away_team": "Poland",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Kazimierz PRZYBYS",
+          "player_off": "Dariusz KUBICKI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Jan URBAN",
+          "player_off": "Dariusz DZIEKANOWSKI",
+          "minute": "56"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdel Aziz SOULAYMANI",
+          "player_off": "Mustapha EL HADAOUI",
+          "minute": "87"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdelrazzak KHAIRI",
+          "player_off": "Mohamed TIMOUMI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Badou ZAKI",
+          "Labid KHALIFA",
+          "Abdelmajid LAMRISS",
+          "Mustafa EL BIYAZ",
+          "Noureddine BOUYAHYAOUI",
+          "Abdelmajid DOLMY",
+          "Mustapha EL HADAOUI",
+          "Aziz BOUDERBALA",
+          "Mohamed TIMOUMI",
+          "Abdelkarim KRIMAU",
+          "Mustafa MERRY"
+        ],
+        "away": [
+          "Jozef MLYNARCZYK",
+          "Marek OSTROWSKI",
+          "Roman WOJCICKI",
+          "Stefan MAJEWSKI",
+          "Dariusz KUBICKI",
+          "Waldemar MATYSIK",
+          "Ryszard KOMORNICKI",
+          "Andrzej BUNCOL",
+          "Dariusz DZIEKANOWSKI",
+          "Wlodimierz SMOLAREK",
+          "Zbigniew BONIEK"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-03",
+      "stage": "Group F",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "Portugal",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "CARLOS MANUEL",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "FUTRE",
+          "player_off": "GOMES",
+          "minute": "73"
+        },
+        {
+          "team": "England",
+          "player_on": "Steve HODGE",
+          "player_off": "Chris WADDLE",
+          "minute": "80"
+        },
+        {
+          "team": "England",
+          "player_on": "Peter BEARDSLEY",
+          "player_off": "Bryan ROBSON",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JOSE ANTONIO",
+          "player_off": "DIAMANTINO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "BENTO",
+          "ALVARO",
+          "FREDERICO",
+          "OLIVEIRA",
+          "INACIO",
+          "ANTONIO SOUSA",
+          "CARLOS MANUEL",
+          "PACHECO",
+          "ANDRE",
+          "GOMES",
+          "DIAMANTINO"
+        ],
+        "away": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Kenny SANSOM",
+          "Terry BUTCHER",
+          "Terry FENWICK",
+          "Glenn HODDLE",
+          "Bryan ROBSON",
+          "Ray WILKINS",
+          "Chris WADDLE",
+          "Mark HATELEY",
+          "Gary LINEKER"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-07",
+      "stage": "Group F",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "Poland",
+      "away_team": "Portugal",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Wlodimierz SMOLAREK",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "FUTRE",
+          "player_off": "GOMES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Jan KARAS",
+          "player_off": "Ryszard KOMORNICKI",
+          "minute": "57"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "JAIME MAGALHAES",
+          "player_off": "ANDRE",
+          "minute": "72"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Andrzej ZGUTCZYNSKI",
+          "player_off": "Wlodimierz SMOLAREK",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jozef MLYNARCZYK",
+          "Marek OSTROWSKI",
+          "Roman WOJCICKI",
+          "Stefan MAJEWSKI",
+          "Krzysztof PAWLAK",
+          "Waldemar MATYSIK",
+          "Ryszard KOMORNICKI",
+          "Dariusz DZIEKANOWSKI",
+          "Jan URBAN",
+          "Wlodimierz SMOLAREK",
+          "Zbigniew BONIEK"
+        ],
+        "away": [
+          "DAMAS",
+          "ALVARO",
+          "FREDERICO",
+          "OLIVEIRA",
+          "INACIO",
+          "ANTONIO SOUSA",
+          "CARLOS MANUEL",
+          "PACHECO",
+          "ANDRE",
+          "GOMES",
+          "DIAMANTINO"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-11",
+      "stage": "Group F",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "England",
+      "away_team": "Poland",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "9"
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "14"
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "34"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Jan KARAS",
+          "player_off": "Ryszard KOMORNICKI",
+          "minute": "22"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Andrzej BUNCOL",
+          "player_off": "Waldemar MATYSIK",
+          "minute": "45+1"
+        },
+        {
+          "team": "England",
+          "player_on": "Chris WADDLE",
+          "player_off": "Peter BEARDSLEY",
+          "minute": "75"
+        },
+        {
+          "team": "England",
+          "player_on": "Kerry DIXON",
+          "player_off": "Gary LINEKER",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Kenny SANSOM",
+          "Terry BUTCHER",
+          "Terry FENWICK",
+          "Glenn HODDLE",
+          "Peter REID",
+          "Trevor STEVEN",
+          "Steve HODGE",
+          "Gary LINEKER",
+          "Peter BEARDSLEY"
+        ],
+        "away": [
+          "Jozef MLYNARCZYK",
+          "Marek OSTROWSKI",
+          "Roman WOJCICKI",
+          "Stefan MAJEWSKI",
+          "Krzysztof PAWLAK",
+          "Waldemar MATYSIK",
+          "Ryszard KOMORNICKI",
+          "Dariusz DZIEKANOWSKI",
+          "Jan URBAN",
+          "Wlodimierz SMOLAREK",
+          "Zbigniew BONIEK"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-06",
+      "stage": "Group F",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "Morocco",
+      "away_team": "England",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Steve HODGE",
+          "player_off": "Bryan ROBSON",
+          "minute": "41"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Lahcen OUDANI",
+          "player_off": "Abdelmajid LAMRISS",
+          "minute": "73"
+        },
+        {
+          "team": "England",
+          "player_on": "Gary A. STEVENS",
+          "player_off": "Mark HATELEY",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdel Aziz SOULAYMANI",
+          "player_off": "Mustafa MERRY",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Badou ZAKI",
+          "Labid KHALIFA",
+          "Abdelmajid LAMRISS",
+          "Mustafa EL BIYAZ",
+          "Noureddine BOUYAHYAOUI",
+          "Abdelmajid DOLMY",
+          "Aziz BOUDERBALA",
+          "Mohamed TIMOUMI",
+          "Abdelrazzak KHAIRI",
+          "Abdelkarim KRIMAU",
+          "Mustafa MERRY"
+        ],
+        "away": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Kenny SANSOM",
+          "Terry BUTCHER",
+          "Terry FENWICK",
+          "Glenn HODDLE",
+          "Bryan ROBSON",
+          "Ray WILKINS",
+          "Chris WADDLE",
+          "Mark HATELEY",
+          "Gary LINEKER"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-11",
+      "stage": "Group F",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "Portugal",
+      "away_team": "Morocco",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Abdelrazzak KHAIRI",
+          "minute": "19"
+        },
+        {
+          "team": "Morocco",
+          "player": "Abdelrazzak KHAIRI",
+          "minute": "27"
+        },
+        {
+          "team": "Morocco",
+          "player": "Abdelkarim KRIMAU",
+          "minute": "62"
+        },
+        {
+          "team": "Portugal",
+          "player": "DIAMANTINO",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Portugal",
+          "player_on": "RUI AGUAS",
+          "player_off": "ALVARO",
+          "minute": "55"
+        },
+        {
+          "team": "Portugal",
+          "player_on": "DIAMANTINO",
+          "player_off": "ANTONIO SOUSA",
+          "minute": "69"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdel Aziz SOULAYMANI",
+          "player_off": "Mustapha EL HADAOUI",
+          "minute": "71"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "DAMAS",
+          "ALVARO",
+          "FREDERICO",
+          "OLIVEIRA",
+          "INACIO",
+          "ANTONIO SOUSA",
+          "CARLOS MANUEL",
+          "PACHECO",
+          "JAIME MAGALHAES",
+          "GOMES",
+          "FUTRE"
+        ],
+        "away": [
+          "Badou ZAKI",
+          "Labid KHALIFA",
+          "Abdelmajid LAMRISS",
+          "Mustafa EL BIYAZ",
+          "Noureddine BOUYAHYAOUI",
+          "Abdelmajid DOLMY",
+          "Mustapha EL HADAOUI",
+          "Aziz BOUDERBALA",
+          "Mohamed TIMOUMI",
+          "Abdelrazzak KHAIRI",
+          "Abdelkarim KRIMAU"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-15",
+      "stage": "Round of 16",
+      "venue": "Estadio León",
+      "city": "León",
+      "home_team": "Belgium",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Igor BELANOV",
+          "minute": "27"
+        },
+        {
+          "team": "Belgium",
+          "player": "Enzo SCIFO",
+          "minute": "56"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Igor BELANOV",
+          "minute": "70"
+        },
+        {
+          "team": "Belgium",
+          "player": "Jan CEULEMANS",
+          "minute": "77"
+        },
+        {
+          "team": "Belgium",
+          "player": "Stephane DEMOL",
+          "minute": "102"
+        },
+        {
+          "team": "Belgium",
+          "player": "Nico CLAESEN",
+          "minute": "110"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Igor BELANOV",
+          "minute": "111",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Sergei RODIONOV",
+          "player_off": "Aleksandr ZAVAROV",
+          "minute": "72"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Vadim YEVTUSHENKO",
+          "player_off": "Pavel YAKOVENKO",
+          "minute": "79"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Leo CLIJSTERS",
+          "player_off": "Georges GRUN",
+          "minute": "99"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Leo VAN DER ELST",
+          "player_off": "Eric GERETS",
+          "minute": "112"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Michel RENQUIN",
+          "Georges GRUN",
+          "Stephane DEMOL",
+          "Patrick VERVOORT",
+          "Frank VERCAUTEREN",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Nico CLAESEN",
+          "Daniel VEYT"
+        ],
+        "away": [
+          "Rinat DASAEV",
+          "Vladimir BESSONOV",
+          "Anatoli DEMYANENKO",
+          "Oleg KUZNETSOV",
+          "Ivan YAREMCHUK",
+          "Pavel YAKOVENKO",
+          "Aleksandr ZAVAROV",
+          "Andrei BAL",
+          "Serguei ALEINIKOV",
+          "Vasili RATS",
+          "Igor BELANOV"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-16",
+      "stage": "Round of 16",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Brazil",
+      "away_team": "Poland",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "SOCRATES",
+          "minute": "30",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "JOSIMAR",
+          "minute": "55"
+        },
+        {
+          "team": "Brazil",
+          "player": "EDINHO",
+          "minute": "79"
+        },
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "83",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Jan FURTOK",
+          "player_off": "Kazimierz PRZYBYS",
+          "minute": "59"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZICO",
+          "player_off": "SOCRATES",
+          "minute": "69"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "SILAS",
+          "player_off": "MULLER",
+          "minute": "73"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Wladyslaw ZMUDA",
+          "player_off": "Jan URBAN",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "CARLOS",
+          "EDINHO",
+          "JUNIOR",
+          "JOSIMAR",
+          "JULIO CESAR",
+          "BRANCO",
+          "ALEMAO",
+          "SOCRATES",
+          "ELZO",
+          "MULLER",
+          "CARECA"
+        ],
+        "away": [
+          "Jozef MLYNARCZYK",
+          "Kazimierz PRZYBYS",
+          "Marek OSTROWSKI",
+          "Roman WOJCICKI",
+          "Stefan MAJEWSKI",
+          "Ryszard TARASIEWICZ",
+          "Jan KARAS",
+          "Dariusz DZIEKANOWSKI",
+          "Jan URBAN",
+          "Wlodimierz SMOLAREK",
+          "Zbigniew BONIEK"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-16",
+      "stage": "Round of 16",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Argentina",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Pedro PASCULLI",
+          "minute": "42"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Jorge DA SILVA",
+          "player_off": "Wilmar CABRERA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Ruben PAZ",
+          "player_off": "Eduardo ACEVEDO",
+          "minute": "61"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Julio OLARTICOECHEA",
+          "player_off": "Sergio BATISTA",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Jose CUCIUFFO",
+          "Oscar GARRE",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO",
+          "Pedro PASCULLI"
+        ],
+        "away": [
+          "Fernando ALVEZ",
+          "Nelson GUTIERREZ",
+          "Eduardo ACEVEDO",
+          "Alfonso PEREIRA",
+          "Eliseo RIVERO",
+          "Miguel BOSSIO",
+          "Jorge BARRIOS",
+          "Enzo FRANCESCOLI",
+          "Sergio SANTIN",
+          "Venancio RAMOS",
+          "Wilmar CABRERA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-17",
+      "stage": "Round of 16",
+      "venue": "Estadio Olimpico '68",
+      "city": "Mexico City",
+      "home_team": "France",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Michel PLATINI",
+          "minute": "15"
+        },
+        {
+          "team": "France",
+          "player": "Yannick STOPYRA",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonio DI GENNARO",
+          "player_off": "Giuseppe BARESI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gianluca VIALLI",
+          "player_off": "Giuseppe GALDERISI",
+          "minute": "58"
+        },
+        {
+          "team": "France",
+          "player_on": "Thierry TUSSEAU",
+          "player_off": "Luis FERNANDEZ",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Jean-Marc FERRERI",
+          "player_off": "Michel PLATINI",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Joel BATS",
+          "Manuel AMOROS",
+          "William AYACHE",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Luis FERNANDEZ",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Dominique ROCHETEAU",
+          "Yannick STOPYRA"
+        ],
+        "away": [
+          "Giovanni GALLI",
+          "Giuseppe BERGOMI",
+          "Antonio CABRINI",
+          "Gaetano SCIREA",
+          "Pietro VIERCHOWOD",
+          "Salvatore BAGNI",
+          "Giuseppe BARESI",
+          "Fernando DE NAPOLI",
+          "Bruno CONTI",
+          "Alessandro ALTOBELLI",
+          "Giuseppe GALDERISI"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-17",
+      "stage": "Round of 16",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "West Germany",
+      "away_team": "Morocco",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Lothar MATTHAEUS",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Rudi VOELLER",
+          "minute": "45"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Karlheinz FOERSTER",
+          "Norbert EDER",
+          "Thomas BERTHOLD",
+          "Ditmar JAKOBS",
+          "Lothar MATTHAEUS",
+          "Felix MAGATH",
+          "Rudi VOELLER",
+          "Karl-Heinz RUMMENIGGE",
+          "Klaus ALLOFS"
+        ],
+        "away": [
+          "Badou ZAKI",
+          "Labid KHALIFA",
+          "Abdelmajid LAMRISS",
+          "Noureddine BOUYAHYAOUI",
+          "Lahcen OUDANI",
+          "Abdelmajid DOLMY",
+          "Mustapha EL HADAOUI",
+          "Aziz BOUDERBALA",
+          "Mohamed TIMOUMI",
+          "Abdelrazzak KHAIRI",
+          "Abdelkarim KRIMAU"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-18",
+      "stage": "Round of 16",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "England",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "31"
+        },
+        {
+          "team": "England",
+          "player": "Peter BEARDSLEY",
+          "minute": "56"
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Gary A. STEVENS",
+          "player_off": "Peter REID",
+          "minute": "58"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Jorge GUASCH",
+          "player_off": "Juan TORALES",
+          "minute": "64"
+        },
+        {
+          "team": "England",
+          "player_on": "Mark HATELEY",
+          "player_off": "Peter BEARDSLEY",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Kenny SANSOM",
+          "Alvin MARTIN",
+          "Terry BUTCHER",
+          "Glenn HODDLE",
+          "Peter REID",
+          "Trevor STEVEN",
+          "Steve HODGE",
+          "Gary LINEKER",
+          "Peter BEARDSLEY"
+        ],
+        "away": [
+          "Roberto FERNANDEZ",
+          "Juan TORALES",
+          "Cesar ZABALA",
+          "Vladimiro SCHETTINA",
+          "Rogelio DELGADO",
+          "Jorge NUNEZ",
+          "Buenaventura FERREIRA",
+          "Julio Cesar ROMERO",
+          "Adolfino CANETE",
+          "Roberto CABANAS",
+          "Alfredo MENDOZA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-18",
+      "stage": "Round of 16",
+      "venue": "Estadio La Corregidora",
+      "city": "Querétaro",
+      "home_team": "Spain",
+      "away_team": "Denmark",
+      "score": {
+        "home": 5,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Jesper OLSEN",
+          "minute": "33",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "Emilio BUTRAGUENO",
+          "minute": "43"
+        },
+        {
+          "team": "Spain",
+          "player": "Emilio BUTRAGUENO",
+          "minute": "57"
+        },
+        {
+          "team": "Spain",
+          "player": "GOIKO",
+          "minute": "68",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "Emilio BUTRAGUENO",
+          "minute": "80"
+        },
+        {
+          "team": "Spain",
+          "player": "Emilio BUTRAGUENO",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "ELOY",
+          "player_off": "JULIO SALINAS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "John ERIKSEN",
+          "player_off": "Henrik ANDERSEN",
+          "minute": "60"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jan MOLBY",
+          "player_off": "Jesper OLSEN",
+          "minute": "71"
+        },
+        {
+          "team": "Spain",
+          "player_on": "FRANCISCO",
+          "player_off": "MICHEL",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "TOMAS",
+          "Jose Antonio CAMACHO",
+          "GOIKO",
+          "JULIO ALBERTO",
+          "VICTOR",
+          "Ricardo GALLEGO",
+          "Ramon Maria CALDERE",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ],
+        "away": [
+          "Lars HOGH",
+          "Soren BUSK",
+          "Morten OLSEN",
+          "Ivan NIELSEN",
+          "Jens BERTELSEN",
+          "Henrik ANDERSEN",
+          "Soren LERBY",
+          "Jesper OLSEN",
+          "Klaus BERGGREEN",
+          "Michael LAUDRUP",
+          "Preben ELKJAER LARSEN"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-15",
+      "stage": "Round of 16",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Manuel NEGRETE",
+          "minute": "34"
+        },
+        {
+          "team": "Mexico",
+          "player": "Raul SERVIN",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Nasko SIRAKOV",
+          "player_off": "Plamen GETOV",
+          "minute": "59"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Bozhidar ISKRENOV",
+          "player_off": "Atanas PASHEV",
+          "minute": "70"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Carlos DE LOS COBOS",
+          "player_off": "Tomas BOY",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Pablo LARIOS",
+          "Fernando QUIRARTE",
+          "Felix CRUZ",
+          "Raul SERVIN",
+          "Rafael AMADOR",
+          "Miguel ESPANA",
+          "Tomas BOY",
+          "Carlos MUNOZ",
+          "Manuel NEGRETE",
+          "Hugo SANCHEZ",
+          "Javier AGUIRRE"
+        ],
+        "away": [
+          "Borislav MIHAYLOV",
+          "Nikolai ARABOV",
+          "Petar PETROV",
+          "Georgi DIMITROV",
+          "Radoslav ZDRAVKOV",
+          "Ayan SADAKOV",
+          "Zhivko GOSPODINOV",
+          "Plamen GETOV",
+          "Georgi YORDANOV",
+          "Atanas PASHEV",
+          "Kostadin KOSTADINOV"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-21",
+      "stage": "Quarterfinal",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CARECA",
+          "minute": "17"
+        },
+        {
+          "team": "France",
+          "player": "Michel PLATINI",
+          "minute": "41"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "ZICO",
+          "player_off": "MULLER",
+          "minute": "71"
+        },
+        {
+          "team": "France",
+          "player_on": "Jean-Marc FERRERI",
+          "player_off": "Alain GIRESSE",
+          "minute": "84"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "SILAS",
+          "player_off": "JUNIOR",
+          "minute": "90+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Bruno BELLONE",
+          "player_off": "Dominique ROCHETEAU",
+          "minute": "99"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "CARLOS",
+          "EDINHO",
+          "JUNIOR",
+          "JOSIMAR",
+          "JULIO CESAR",
+          "BRANCO",
+          "ALEMAO",
+          "SOCRATES",
+          "ELZO",
+          "MULLER",
+          "CARECA"
+        ],
+        "away": [
+          "Joel BATS",
+          "Manuel AMOROS",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Thierry TUSSEAU",
+          "Luis FERNANDEZ",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Dominique ROCHETEAU",
+          "Yannick STOPYRA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-21",
+      "stage": "Quarterfinal",
+      "venue": "Estadio Universitario",
+      "city": "Monterrey",
+      "home_team": "West Germany",
+      "away_team": "Mexico",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Carlos DE LOS COBOS",
+          "player_off": "Tomas BOY",
+          "minute": "32"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Dieter HOENESS",
+          "player_off": "Karl-Heinz RUMMENIGGE",
+          "minute": "58"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Francisco CRUZ",
+          "player_off": "Rafael AMADOR",
+          "minute": "70"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Pierre LITTBARSKI",
+          "player_off": "Norbert EDER",
+          "minute": "115"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Andreas BREHME",
+          "Karlheinz FOERSTER",
+          "Norbert EDER",
+          "Thomas BERTHOLD",
+          "Ditmar JAKOBS",
+          "Lothar MATTHAEUS",
+          "Felix MAGATH",
+          "Karl-Heinz RUMMENIGGE",
+          "Klaus ALLOFS"
+        ],
+        "away": [
+          "Pablo LARIOS",
+          "Fernando QUIRARTE",
+          "Felix CRUZ",
+          "Raul SERVIN",
+          "Rafael AMADOR",
+          "Miguel ESPANA",
+          "Tomas BOY",
+          "Carlos MUNOZ",
+          "Manuel NEGRETE",
+          "Hugo SANCHEZ",
+          "Javier AGUIRRE"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-22",
+      "stage": "Quarterfinal",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Argentina",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "51"
+        },
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "55"
+        },
+        {
+          "team": "England",
+          "player": "Gary LINEKER",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Chris WADDLE",
+          "player_off": "Peter REID",
+          "minute": "69"
+        },
+        {
+          "team": "England",
+          "player_on": "John BARNES",
+          "player_off": "Trevor STEVEN",
+          "minute": "74"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Carlos TAPIA",
+          "player_off": "Jorge BURRUCHAGA",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Jose CUCIUFFO",
+          "Julio OLARTICOECHEA",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Hector ENRIQUE",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO"
+        ],
+        "away": [
+          "Peter SHILTON",
+          "Gary STEVENS",
+          "Kenny SANSOM",
+          "Terry BUTCHER",
+          "Terry FENWICK",
+          "Glenn HODDLE",
+          "Peter REID",
+          "Trevor STEVEN",
+          "Steve HODGE",
+          "Gary LINEKER",
+          "Peter BEARDSLEY"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-22",
+      "stage": "Quarterfinal",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Belgium",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 5,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Jan CEULEMANS",
+          "minute": "35"
+        },
+        {
+          "team": "Spain",
+          "player": "Juan Antonio SENOR",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Juan Antonio SENOR",
+          "player_off": "TOMAS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "ELOY",
+          "player_off": "JULIO SALINAS",
+          "minute": "63"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Hugo BROOS",
+          "player_off": "Daniel VEYT",
+          "minute": "82"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Leo VAN DER ELST",
+          "player_off": "Frank VERCAUTEREN",
+          "minute": "105"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Michel RENQUIN",
+          "Georges GRUN",
+          "Stephane DEMOL",
+          "Patrick VERVOORT",
+          "Frank VERCAUTEREN",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Nico CLAESEN",
+          "Daniel VEYT"
+        ],
+        "away": [
+          "Andoni ZUBIZARRETA",
+          "TOMAS",
+          "Jose Antonio CAMACHO",
+          "JULIO ALBERTO",
+          "CHENDO",
+          "VICTOR",
+          "Ricardo GALLEGO",
+          "Ramon Maria CALDERE",
+          "MICHEL",
+          "Emilio BUTRAGUENO",
+          "JULIO SALINAS"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-25",
+      "stage": "Semifinal",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "West Germany",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Andreas BREHME",
+          "minute": "9"
+        },
+        {
+          "team": "West Germany",
+          "player": "Rudi VOELLER",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Rudi VOELLER",
+          "player_off": "Karl-Heinz RUMMENIGGE",
+          "minute": "57"
+        },
+        {
+          "team": "France",
+          "player_on": "Daniel XUEREB",
+          "player_off": "Bruno BELLONE",
+          "minute": "66"
+        },
+        {
+          "team": "France",
+          "player_on": "Philippe VERCRUYSSE",
+          "player_off": "Alain GIRESSE",
+          "minute": "72"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Andreas BREHME",
+          "Karlheinz FOERSTER",
+          "Norbert EDER",
+          "Ditmar JAKOBS",
+          "Lothar MATTHAEUS",
+          "Felix MAGATH",
+          "Wolfgang ROLFF",
+          "Karl-Heinz RUMMENIGGE",
+          "Klaus ALLOFS"
+        ],
+        "away": [
+          "Joel BATS",
+          "Manuel AMOROS",
+          "William AYACHE",
+          "Patrick BATTISTON",
+          "Maxime BOSSIS",
+          "Luis FERNANDEZ",
+          "Michel PLATINI",
+          "Alain GIRESSE",
+          "Jean TIGANA",
+          "Bruno BELLONE",
+          "Yannick STOPYRA"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-25",
+      "stage": "Semifinal",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Argentina",
+      "away_team": "Belgium",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "51"
+        },
+        {
+          "team": "Argentina",
+          "player": "Diego MARADONA",
+          "minute": "63"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Philippe DESMET",
+          "player_off": "Michel RENQUIN",
+          "minute": "54"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Ricardo BOCHINI",
+          "player_off": "Jorge BURRUCHAGA",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Jose CUCIUFFO",
+          "Julio OLARTICOECHEA",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Hector ENRIQUE",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO"
+        ],
+        "away": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Michel RENQUIN",
+          "Georges GRUN",
+          "Stephane DEMOL",
+          "Patrick VERVOORT",
+          "Frank VERCAUTEREN",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Nico CLAESEN",
+          "Daniel VEYT"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-28",
+      "stage": "Third-place match",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "France",
+      "away_team": "Belgium",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Jan CEULEMANS",
+          "minute": "11"
+        },
+        {
+          "team": "France",
+          "player": "Jean-Marc FERRERI",
+          "minute": "27"
+        },
+        {
+          "team": "France",
+          "player": "Jean-Pierre PAPIN",
+          "minute": "43"
+        },
+        {
+          "team": "Belgium",
+          "player": "Nico CLAESEN",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player": "Bernard GENGHINI",
+          "minute": "104"
+        },
+        {
+          "team": "France",
+          "player": "Manuel AMOROS",
+          "minute": "111",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Franky VAN DER ELST",
+          "player_off": "Michel RENQUIN",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Maxime BOSSIS",
+          "player_off": "Yvon LE ROUX",
+          "minute": "55"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Leo VAN DER ELST",
+          "player_off": "Enzo SCIFO",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player_on": "Thierry TUSSEAU",
+          "player_off": "Jean TIGANA",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Albert RUST",
+          "Manuel AMOROS",
+          "Patrick BATTISTON",
+          "Michel BIBARD",
+          "Yvon LE ROUX",
+          "Jean-Marc FERRERI",
+          "Bernard GENGHINI",
+          "Jean TIGANA",
+          "Philippe VERCRUYSSE",
+          "Bruno BELLONE",
+          "Jean-Pierre PAPIN"
+        ],
+        "away": [
+          "Jean Marie PFAFF",
+          "Eric GERETS",
+          "Michel RENQUIN",
+          "Georges GRUN",
+          "Stephane DEMOL",
+          "Patrick VERVOORT",
+          "Enzo SCIFO",
+          "Jan CEULEMANS",
+          "Raymond MOMMENS",
+          "Nico CLAESEN",
+          "Daniel VEYT"
+        ]
+      }
+    },
+    {
+      "date": "1986-06-29",
+      "stage": "Final",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Argentina",
+      "away_team": "West Germany",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Jose BROWN",
+          "minute": "23"
+        },
+        {
+          "team": "Argentina",
+          "player": "Jorge VALDANO",
+          "minute": "56"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz RUMMENIGGE",
+          "minute": "74"
+        },
+        {
+          "team": "West Germany",
+          "player": "Rudi VOELLER",
+          "minute": "81"
+        },
+        {
+          "team": "Argentina",
+          "player": "Jorge BURRUCHAGA",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Rudi VOELLER",
+          "player_off": "Klaus ALLOFS",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Dieter HOENESS",
+          "player_off": "Felix MAGATH",
+          "minute": "62"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Marcelo TROBBIANI",
+          "player_off": "Jorge BURRUCHAGA",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nery PUMPIDO",
+          "Jose BROWN",
+          "Jose CUCIUFFO",
+          "Julio OLARTICOECHEA",
+          "Oscar RUGGERI",
+          "Sergio BATISTA",
+          "Jorge BURRUCHAGA",
+          "Diego MARADONA",
+          "Hector ENRIQUE",
+          "Ricardo GIUSTI",
+          "Jorge VALDANO"
+        ],
+        "away": [
+          "Harald SCHUMACHER",
+          "Hans Peter BRIEGEL",
+          "Andreas BREHME",
+          "Karlheinz FOERSTER",
+          "Norbert EDER",
+          "Thomas BERTHOLD",
+          "Ditmar JAKOBS",
+          "Lothar MATTHAEUS",
+          "Felix MAGATH",
+          "Karl-Heinz RUMMENIGGE",
+          "Klaus ALLOFS"
+        ]
+      }
+    }
+  ]
+}

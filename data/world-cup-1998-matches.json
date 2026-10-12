@@ -1,0 +1,5738 @@
+{
+  "tournament": "FIFA World Cup 1998",
+  "host_country": "France",
+  "matches_played": 64,
+  "format": "Eight first-round groups of four teams, followed by a round of 16, quarterfinals, semifinals, a third-place match, and final.",
+  "sources": [
+    "https://www.rsssf.org/tables/98full.html",
+    "https://www.rsssf.org/tables/98f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1998/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1998-06-10",
+      "stage": "Group A",
+      "venue": "Stade de France",
+      "city": "Saint-Denis",
+      "home_team": "Brazil",
+      "away_team": "Scotland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CESAR SAMPAIO",
+          "minute": "5"
+        },
+        {
+          "team": "Scotland",
+          "player": "John COLLINS",
+          "minute": "38",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "Tom BOYD",
+          "minute": "74",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "LEONARDO",
+          "player_off": "GIOVANNI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "BEBETO",
+          "minute": "72"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Billy McKINLAY",
+          "player_off": "Darren JACKSON",
+          "minute": "78"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Tosh McKINLAY",
+          "player_off": "Christian DAILLY",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "CAFU",
+          "ALDAIR",
+          "JUNIOR BAIANO",
+          "ROBERTO CARLOS",
+          "CESAR SAMPAIO",
+          "GIOVANNI",
+          "DUNGA",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ],
+        "away": [
+          "Jim LEIGHTON",
+          "Tom BOYD",
+          "Colin CALDERWOOD",
+          "Colin HENDRY",
+          "Craig BURLEY",
+          "John COLLINS",
+          "Paul LAMBERT",
+          "Christian DAILLY",
+          "Kevin GALLACHER",
+          "Gordon DURIE",
+          "Darren JACKSON"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-10",
+      "stage": "Group A",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Morocco",
+      "away_team": "Norway",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Mustafa HADJI",
+          "minute": "37"
+        },
+        {
+          "team": "Norway",
+          "player": "Youssef CHIPPO",
+          "minute": "45+1",
+          "own_goal": true
+        },
+        {
+          "team": "Morocco",
+          "player": "Abdeljalil HADDA",
+          "minute": "60"
+        },
+        {
+          "team": "Norway",
+          "player": "Dan EGGEN",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Norway",
+          "player_on": "Vidar RISETH",
+          "player_off": "Ole Gunnar SOLSKJAER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Stale SOLBAKKEN",
+          "player_off": "Havard FLO",
+          "minute": "72"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Gharib AMZINE",
+          "player_off": "Youssef CHIPPO",
+          "minute": "78"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ali EL KHATTABI",
+          "player_off": "Abdeljalil HADDA",
+          "minute": "86"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Rachid AZZOUZI",
+          "player_off": "Taher EL KHALEJ",
+          "minute": "90"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Driss BEN ZEKRI",
+          "Abdelilah SABER",
+          "Abdelkarim EL HADRIOUI",
+          "Youssef ROSSI",
+          "Noureddine NAYBET",
+          "Mustafa HADJI",
+          "Said CHIBA",
+          "Youssef CHIPPO",
+          "Taher EL KHALEJ",
+          "Abdeljalil HADDA",
+          "Salaheddine BASSIR"
+        ],
+        "away": [
+          "Frode GRODAS",
+          "Ronny JOHNSEN",
+          "Henning BERG",
+          "Stig BJORNEBYE",
+          "Dan EGGEN",
+          "Erik MYKLAND",
+          "Oyvind LEONHARDSEN",
+          "Kjetil REKDAL",
+          "Havard FLO",
+          "Ole Gunnar SOLSKJAER",
+          "Tore Andre FLO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-11",
+      "stage": "Group B",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Italy",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "11"
+        },
+        {
+          "team": "Chile",
+          "player": "Marcelo SALAS",
+          "minute": "45+3"
+        },
+        {
+          "team": "Chile",
+          "player": "Marcelo SALAS",
+          "minute": "48"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "84",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Luigi DI BIAGIO",
+          "player_off": "Roberto DI MATTEO",
+          "minute": "57"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Enrico CHIESA",
+          "player_off": "Angelo DI LIVIO",
+          "minute": "61"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Miguel RAMIREZ",
+          "player_off": "Javier MARGAS",
+          "minute": "63"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Filippo INZAGHI",
+          "player_off": "Christian VIERI",
+          "minute": "71"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jose SIERRA",
+          "player_off": "Fabian ESTAY",
+          "minute": "81"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Fernando CORNEJO",
+          "player_off": "Clarence ACUNA",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro COSTACURTA",
+          "Alessandro NESTA",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Angelo DI LIVIO",
+          "Roberto DI MATTEO",
+          "Roberto BAGGIO",
+          "Christian VIERI"
+        ],
+        "away": [
+          "Nelson TAPIA",
+          "Ronald FUENTES",
+          "Francisco ROJAS",
+          "Javier MARGAS",
+          "Pedro REYES",
+          "Moises VILLARROEL",
+          "Nelson PARRAGUEZ",
+          "Clarence ACUNA",
+          "Fabian ESTAY",
+          "Ivan ZAMORANO",
+          "Marcelo SALAS"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-11",
+      "stage": "Group B",
+      "venue": "Stade de Toulouse",
+      "city": "Toulouse",
+      "home_team": "Cameroon",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Cameroon",
+          "player": "Pierre NJANKA",
+          "minute": "77"
+        },
+        {
+          "team": "Austria",
+          "player": "Toni POLSTER",
+          "minute": "90+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Joseph-Desire JOB",
+          "player_off": "Samuel IPOUA",
+          "minute": "65"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Salomon OLEMBE",
+          "player_off": "Augustine SIMO",
+          "minute": "65"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Ivica VASTIC",
+          "player_off": "Andreas HERZOG",
+          "minute": "82"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Peter STOEGER",
+          "player_off": "Harald CERNY",
+          "minute": "82"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Mario HAAS",
+          "player_off": "Heimo PFEIFENBERGER",
+          "minute": "82"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Alphonse-Marie TCHAMI",
+          "player_off": "Francois OMAM-BIYIK",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jacques SONGOO",
+          "Pierre WOME",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "Pierre NJANKA",
+          "Didier ANGIBEAUD",
+          "Augustine SIMO",
+          "Joseph NDO",
+          "Francois OMAM-BIYIK",
+          "Patrick MBOMA",
+          "Samuel IPOUA"
+        ],
+        "away": [
+          "Michael KONSEL",
+          "Peter SCHOETTEL",
+          "Anton PFEFFER",
+          "Wolfgang FEIERSINGER",
+          "Heimo PFEIFENBERGER",
+          "Andreas HERZOG",
+          "Arnold WETL",
+          "Roman MAHLICH",
+          "Dietmar KUEHBAUER",
+          "Harald CERNY",
+          "Toni POLSTER"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-16",
+      "stage": "Group A",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Brazil",
+      "away_team": "Morocco",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "9"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "45+2"
+        },
+        {
+          "team": "Brazil",
+          "player": "BEBETO",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "DORIVA",
+          "player_off": "CESAR SAMPAIO",
+          "minute": "68"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EDMUNDO",
+          "player_off": "BEBETO",
+          "minute": "72"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Gharib AMZINE",
+          "player_off": "Said CHIBA",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Lahcen ABRAMI",
+          "player_off": "Abdelilah SABER",
+          "minute": "76"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "RIVALDO",
+          "minute": "87"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ali EL KHATTABI",
+          "player_off": "Abdeljalil HADDA",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "CAFU",
+          "ALDAIR",
+          "JUNIOR BAIANO",
+          "ROBERTO CARLOS",
+          "CESAR SAMPAIO",
+          "DUNGA",
+          "LEONARDO",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ],
+        "away": [
+          "Driss BEN ZEKRI",
+          "Abdelilah SABER",
+          "Abdelkarim EL HADRIOUI",
+          "Youssef ROSSI",
+          "Noureddine NAYBET",
+          "Mustafa HADJI",
+          "Said CHIBA",
+          "Youssef CHIPPO",
+          "Taher EL KHALEJ",
+          "Abdeljalil HADDA",
+          "Salaheddine BASSIR"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-16",
+      "stage": "Group A",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Scotland",
+      "away_team": "Norway",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Norway",
+          "player": "Havard FLO",
+          "minute": "46"
+        },
+        {
+          "team": "Scotland",
+          "player": "Craig BURLEY",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "David WEIR",
+          "player_off": "Colin CALDERWOOD",
+          "minute": "59"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Mini JAKOBSEN",
+          "player_off": "Havard FLO",
+          "minute": "60"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Jackie McNAMARA",
+          "player_off": "Darren JACKSON",
+          "minute": "61"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Egil OSTENSTAD",
+          "player_off": "Vidar RISETH",
+          "minute": "71"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Gunnar HALLE",
+          "player_off": "Henning BERG",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jim LEIGHTON",
+          "Tom BOYD",
+          "Colin CALDERWOOD",
+          "Colin HENDRY",
+          "Craig BURLEY",
+          "John COLLINS",
+          "Paul LAMBERT",
+          "Christian DAILLY",
+          "Kevin GALLACHER",
+          "Gordon DURIE",
+          "Darren JACKSON"
+        ],
+        "away": [
+          "Frode GRODAS",
+          "Ronny JOHNSEN",
+          "Henning BERG",
+          "Stig BJORNEBYE",
+          "Dan EGGEN",
+          "Stale SOLBAKKEN",
+          "Kjetil REKDAL",
+          "Havard FLO",
+          "Vidar RISETH",
+          "Roar STRAND",
+          "Tore Andre FLO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-17",
+      "stage": "Group B",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Chile",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Marcelo SALAS",
+          "minute": "70"
+        },
+        {
+          "team": "Austria",
+          "player": "Ivica VASTIC",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Austria",
+          "player_on": "Markus SCHOPP",
+          "player_off": "Harald CERNY",
+          "minute": "45+1"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Andreas HERZOG",
+          "player_off": "Dietmar KUEHBAUER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Jose SIERRA",
+          "player_off": "Fabian ESTAY",
+          "minute": "56"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Cristian CASTANEDA",
+          "player_off": "Moises VILLARROEL",
+          "minute": "69"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Ivica VASTIC",
+          "player_off": "Mario HAAS",
+          "minute": "73"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nelson TAPIA",
+          "Ronald FUENTES",
+          "Francisco ROJAS",
+          "Javier MARGAS",
+          "Pedro REYES",
+          "Moises VILLARROEL",
+          "Nelson PARRAGUEZ",
+          "Clarence ACUNA",
+          "Fabian ESTAY",
+          "Ivan ZAMORANO",
+          "Marcelo SALAS"
+        ],
+        "away": [
+          "Michael KONSEL",
+          "Peter SCHOETTEL",
+          "Anton PFEFFER",
+          "Wolfgang FEIERSINGER",
+          "Heimo PFEIFENBERGER",
+          "Arnold WETL",
+          "Roman MAHLICH",
+          "Dietmar KUEHBAUER",
+          "Mario HAAS",
+          "Harald CERNY",
+          "Toni POLSTER"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-17",
+      "stage": "Group B",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Italy",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Luigi DI BIAGIO",
+          "minute": "7"
+        },
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "75"
+        },
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Joseph-Desire JOB",
+          "player_off": "Samuel IPOUA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Roberto DI MATTEO",
+          "player_off": "Demetrio ALBERTINI",
+          "minute": "62"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Alessandro DEL PIERO",
+          "player_off": "Roberto BAGGIO",
+          "minute": "65"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Samuel ETOO",
+          "player_off": "Patrick MBOMA",
+          "minute": "66"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Alphonse-Marie TCHAMI",
+          "player_off": "Francois OMAM-BIYIK",
+          "minute": "66"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Angelo DI LIVIO",
+          "player_off": "Francesco MORIERO",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro COSTACURTA",
+          "Alessandro NESTA",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Luigi DI BIAGIO",
+          "Francesco MORIERO",
+          "Roberto BAGGIO",
+          "Christian VIERI"
+        ],
+        "away": [
+          "Jacques SONGOO",
+          "Pierre WOME",
+          "Rigobert SONG",
+          "Raymond KALLA",
+          "Pierre NJANKA",
+          "Didier ANGIBEAUD",
+          "Joseph NDO",
+          "Salomon OLEMBE",
+          "Francois OMAM-BIYIK",
+          "Patrick MBOMA",
+          "Samuel IPOUA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-23",
+      "stage": "Group A",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Norway",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "BEBETO",
+          "minute": "78"
+        },
+        {
+          "team": "Norway",
+          "player": "Tore Andre FLO",
+          "minute": "83"
+        },
+        {
+          "team": "Norway",
+          "player": "Kjetil REKDAL",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Norway",
+          "player_on": "Erik MYKLAND",
+          "player_off": "Roar STRAND",
+          "minute": "45+1"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Ole Gunnar SOLSKJAER",
+          "player_off": "Havard FLO",
+          "minute": "68"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Jostein FLO",
+          "player_off": "Vidar RISETH",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Frode GRODAS",
+          "Ronny JOHNSEN",
+          "Henning BERG",
+          "Stig BJORNEBYE",
+          "Dan EGGEN",
+          "Oyvind LEONHARDSEN",
+          "Kjetil REKDAL",
+          "Havard FLO",
+          "Vidar RISETH",
+          "Roar STRAND",
+          "Tore Andre FLO"
+        ],
+        "away": [
+          "TAFFAREL",
+          "CAFU",
+          "JUNIOR BAIANO",
+          "ROBERTO CARLOS",
+          "GONCALVES",
+          "DUNGA",
+          "LEONARDO",
+          "DENILSON",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-23",
+      "stage": "Group A",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Scotland",
+      "away_team": "Morocco",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Salaheddine BASSIR",
+          "minute": "23"
+        },
+        {
+          "team": "Morocco",
+          "player": "Abdeljalil HADDA",
+          "minute": "46"
+        },
+        {
+          "team": "Morocco",
+          "player": "Salaheddine BASSIR",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Tosh McKINLAY",
+          "player_off": "Jackie McNAMARA",
+          "minute": "54"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Youssef ROSSI",
+          "player_off": "Abdelilah SABER",
+          "minute": "72"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Rachid AZZOUZI",
+          "player_off": "Gharib AMZINE",
+          "minute": "76"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Scott BOOTH",
+          "player_off": "Gordon DURIE",
+          "minute": "83"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Jamal SALAMI",
+          "player_off": "Youssef CHIPPO",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jim LEIGHTON",
+          "Colin HENDRY",
+          "David WEIR",
+          "Jackie McNAMARA",
+          "Tom BOYD",
+          "Kevin GALLACHER",
+          "Craig BURLEY",
+          "Gordon DURIE",
+          "John COLLINS",
+          "Paul LAMBERT",
+          "Christian DAILLY"
+        ],
+        "away": [
+          "Driss BEN ZEKRI",
+          "Lahcen ABRAMI",
+          "Abdelilah SABER",
+          "Smahi TRIKI",
+          "Noureddine NAYBET",
+          "Mustafa HADJI",
+          "Gharib AMZINE",
+          "Youssef CHIPPO",
+          "Taher EL KHALEJ",
+          "Abdeljalil HADDA",
+          "Salaheddine BASSIR"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-23",
+      "stage": "Group B",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Italy",
+      "away_team": "Austria",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "48"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BAGGIO",
+          "minute": "90"
+        },
+        {
+          "team": "Austria",
+          "player": "Andreas HERZOG",
+          "minute": "90+2",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe BERGOMI",
+          "player_off": "Alessandro NESTA",
+          "minute": "4"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Filippo INZAGHI",
+          "player_off": "Christian VIERI",
+          "minute": "60"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Mario HAAS",
+          "player_off": "Toni POLSTER",
+          "minute": "62"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Roberto BAGGIO",
+          "player_off": "Alessandro DEL PIERO",
+          "minute": "72"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Peter STOEGER",
+          "player_off": "Dietmar KUEHBAUER",
+          "minute": "73"
+        },
+        {
+          "team": "Austria",
+          "player_on": "Andreas HERZOG",
+          "player_off": "Heimo PFEIFENBERGER",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro COSTACURTA",
+          "Alessandro NESTA",
+          "Gianluca PESSOTTO",
+          "Dino BAGGIO",
+          "Luigi DI BIAGIO",
+          "Francesco MORIERO",
+          "Alessandro DEL PIERO",
+          "Christian VIERI"
+        ],
+        "away": [
+          "Michael KONSEL",
+          "Peter SCHOETTEL",
+          "Anton PFEFFER",
+          "Wolfgang FEIERSINGER",
+          "Heimo PFEIFENBERGER",
+          "Hannes REINMAYR",
+          "Arnold WETL",
+          "Roman MAHLICH",
+          "Dietmar KUEHBAUER",
+          "Ivica VASTIC",
+          "Toni POLSTER"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-23",
+      "stage": "Group B",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Chile",
+      "away_team": "Cameroon",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Jose SIERRA",
+          "minute": "20"
+        },
+        {
+          "team": "Cameroon",
+          "player": "Patrick MBOMA",
+          "minute": "56"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Cameroon",
+          "player_on": "Didier ANGIBEAUD",
+          "player_off": "Salomon OLEMBE",
+          "minute": "68"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Fernando CORNEJO",
+          "player_off": "Moises VILLARROEL",
+          "minute": "70"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Fabian ESTAY",
+          "player_off": "Jose SIERRA",
+          "minute": "70"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "Alphonse-Marie TCHAMI",
+          "player_off": "Joseph-Desire JOB",
+          "minute": "72"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Miguel RAMIREZ",
+          "player_off": "Francisco ROJAS",
+          "minute": "77"
+        },
+        {
+          "team": "Cameroon",
+          "player_on": "LAUREN",
+          "player_off": "Joseph NDO",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Nelson TAPIA",
+          "Ronald FUENTES",
+          "Francisco ROJAS",
+          "Javier MARGAS",
+          "Pedro REYES",
+          "Moises VILLARROEL",
+          "Nelson PARRAGUEZ",
+          "Clarence ACUNA",
+          "Jose SIERRA",
+          "Ivan ZAMORANO",
+          "Marcelo SALAS"
+        ],
+        "away": [
+          "Jacques SONGOO",
+          "Pierre WOME",
+          "Rigobert SONG",
+          "Pierre NJANKA",
+          "Michel PENSEE",
+          "Joseph NDO",
+          "Marcel MAHOUVE",
+          "Salomon OLEMBE",
+          "Francois OMAM-BIYIK",
+          "Patrick MBOMA",
+          "Joseph-Desire JOB"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-12",
+      "stage": "Group C",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Saudi Arabia",
+      "away_team": "Denmark",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Marc RIEPER",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Allan NIELSEN",
+          "player_off": "Morten WIEGHORST",
+          "minute": "65"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Per FRANDSEN",
+          "player_off": "Martin JORGENSEN",
+          "minute": "73"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Hamza SALEH",
+          "player_off": "Fuad AMIN",
+          "minute": "78"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Obeid AL DOSARI",
+          "player_off": "Said AL OWAIRAN",
+          "minute": "79"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Youssef AL TUNAYAN",
+          "player_off": "Sami AL JABER",
+          "minute": "84"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jan HEINTZE",
+          "player_off": "Brian LAUDRUP",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL JAHANI",
+          "Mohammed AL KHILAIWI",
+          "Abdullah ZUBROMAWI",
+          "Hussein AL SULAIMANI",
+          "Khamis AL DOSSARI",
+          "Fuad AMIN",
+          "Ibrahim AL SHAHRANI",
+          "Khaled AL MUWALLID",
+          "Sami AL JABER",
+          "Said AL OWAIRAN"
+        ],
+        "away": [
+          "Peter SCHMEICHEL",
+          "Michael SCHJONBERG",
+          "Marc RIEPER",
+          "Jes HOGH",
+          "Thomas HELVEG",
+          "Soren COLDING",
+          "Michael LAUDRUP",
+          "Morten WIEGHORST",
+          "Brian LAUDRUP",
+          "Ebbe SAND",
+          "Martin JORGENSEN"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-12",
+      "stage": "Group C",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "France",
+      "away_team": "South Africa",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Christophe DUGARRY",
+          "minute": "36"
+        },
+        {
+          "team": "France",
+          "player": "Pierre ISSA",
+          "minute": "77",
+          "own_goal": true
+        },
+        {
+          "team": "France",
+          "player": "Thierry HENRY",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Christophe DUGARRY",
+          "player_off": "Stephane GUIVARCH",
+          "minute": "26"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Helman MKALELE",
+          "player_off": "Brendan AUGUSTINE",
+          "minute": "56"
+        },
+        {
+          "team": "France",
+          "player_on": "Alain BOGHOSSIAN",
+          "player_off": "Emmanuel PETIT",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "David TREZEGUET",
+          "player_off": "Youri DJORKAEFF",
+          "minute": "84"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Shaun BARTLETT",
+          "player_off": "Benni McCARTHY",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Laurent BLANC",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Didier DESCHAMPS",
+          "Zinedine ZIDANE",
+          "Emmanuel PETIT",
+          "Youri DJORKAEFF",
+          "Stephane GUIVARCH",
+          "Thierry HENRY"
+        ],
+        "away": [
+          "Hans VONK",
+          "David NYATHI",
+          "Willem JACKSON",
+          "Mark FISH",
+          "Phil MASINGA",
+          "Lucas RADEBE",
+          "Pierre ISSA",
+          "Brendan AUGUSTINE",
+          "Quinton FORTUNE",
+          "John MOSHOEU",
+          "Benni McCARTHY"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-18",
+      "stage": "Group C",
+      "venue": "Stade de Toulouse",
+      "city": "Toulouse",
+      "home_team": "South Africa",
+      "away_team": "Denmark",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Allan NIELSEN",
+          "minute": "12"
+        },
+        {
+          "team": "South Africa",
+          "player": "Benni McCARTHY",
+          "minute": "51"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Africa",
+          "player_on": "Alfred PHIRI",
+          "player_off": "Brendan AUGUSTINE",
+          "minute": "45"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Jan HEINTZE",
+          "player_off": "Michael LAUDRUP",
+          "minute": "58"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Miklos MOLNAR",
+          "player_off": "Ebbe SAND",
+          "minute": "58"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Phil MASINGA",
+          "player_off": "Shaun BARTLETT",
+          "minute": "77"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Morten WIEGHORST",
+          "player_off": "Michael SCHJONBERG",
+          "minute": "82"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Delron BUCKLEY",
+          "player_off": "David NYATHI",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hans VONK",
+          "David NYATHI",
+          "Mark FISH",
+          "Helman MKALELE",
+          "Lucas RADEBE",
+          "Pierre ISSA",
+          "Shaun BARTLETT",
+          "Brendan AUGUSTINE",
+          "Quinton FORTUNE",
+          "John MOSHOEU",
+          "Benni McCARTHY"
+        ],
+        "away": [
+          "Peter SCHMEICHEL",
+          "Michael SCHJONBERG",
+          "Marc RIEPER",
+          "Jes HOGH",
+          "Thomas HELVEG",
+          "Soren COLDING",
+          "Allan NIELSEN",
+          "Michael LAUDRUP",
+          "Brian LAUDRUP",
+          "Ebbe SAND",
+          "Martin JORGENSEN"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-18",
+      "stage": "Group C",
+      "venue": "Stade de Gerland",
+      "city": "Lyon",
+      "home_team": "France",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Thierry HENRY",
+          "minute": "37"
+        },
+        {
+          "team": "France",
+          "player": "David TREZEGUET",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player": "Thierry HENRY",
+          "minute": "78"
+        },
+        {
+          "team": "France",
+          "player": "Bixente LIZARAZU",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "David TREZEGUET",
+          "player_off": "Christophe DUGARRY",
+          "minute": "30"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Ibrahim AL HARBI",
+          "player_off": "Said AL OWAIRAN",
+          "minute": "33"
+        },
+        {
+          "team": "France",
+          "player_on": "Youri DJORKAEFF",
+          "player_off": "Bernard DIOMEDE",
+          "minute": "58"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Khaled AL MUWALLID",
+          "player_off": "Ibrahim AL HARBI",
+          "minute": "65"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Ahmed AL DOSARI",
+          "player_off": "Mohammed AL JAHANI",
+          "minute": "76"
+        },
+        {
+          "team": "France",
+          "player_on": "Robert PIRES",
+          "player_off": "Thierry HENRY",
+          "minute": "79"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Laurent BLANC",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Didier DESCHAMPS",
+          "Zinedine ZIDANE",
+          "Alain BOGHOSSIAN",
+          "Thierry HENRY",
+          "Bernard DIOMEDE",
+          "Christophe DUGARRY"
+        ],
+        "away": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL JAHANI",
+          "Mohammed AL KHILAIWI",
+          "Abdullah ZUBROMAWI",
+          "Hussein AL SULAIMANI",
+          "Khamis AL DOSSARI",
+          "Fuad AMIN",
+          "Ibrahim AL SHAHRANI",
+          "Hamza SALEH",
+          "Sami AL JABER",
+          "Said AL OWAIRAN"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-24",
+      "stage": "Group C",
+      "venue": "Stade Gerland",
+      "city": "Lyon",
+      "home_team": "Denmark",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Youri DJORKAEFF",
+          "minute": "12",
+          "penalty": true
+        },
+        {
+          "team": "Denmark",
+          "player": "Michael LAUDRUP",
+          "minute": "42",
+          "penalty": true
+        },
+        {
+          "team": "France",
+          "player": "Emmanuel PETIT",
+          "minute": "56"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Soren COLDING",
+          "player_off": "Jacob LAURSEN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Ebbe SAND",
+          "player_off": "Martin JORGENSEN",
+          "minute": "54"
+        },
+        {
+          "team": "France",
+          "player_on": "Alain BOGHOSSIAN",
+          "player_off": "Emmanuel PETIT",
+          "minute": "64"
+        },
+        {
+          "team": "France",
+          "player_on": "Thierry HENRY",
+          "player_off": "Robert PIRES",
+          "minute": "71"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Stig TOFTING",
+          "player_off": "Brian LAUDRUP",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Stephane GUIVARCH",
+          "player_off": "David TREZEGUET",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter SCHMEICHEL",
+          "Michael SCHJONBERG",
+          "Marc RIEPER",
+          "Jes HOGH",
+          "Jan HEINTZE",
+          "Thomas HELVEG",
+          "Jacob LAURSEN",
+          "Allan NIELSEN",
+          "Michael LAUDRUP",
+          "Brian LAUDRUP",
+          "Martin JORGENSEN"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Vincent CANDELA",
+          "Marcel DESAILLY",
+          "Frank LEBOEUF",
+          "Christian KAREMBEU",
+          "Patrick VIEIRA",
+          "Emmanuel PETIT",
+          "Youri DJORKAEFF",
+          "Robert PIRES",
+          "Bernard DIOMEDE",
+          "David TREZEGUET"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-24",
+      "stage": "Group C",
+      "venue": "Stade de Bordeaux",
+      "city": "Bordeaux",
+      "home_team": "South Africa",
+      "away_team": "Saudi Arabia",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "South Africa",
+          "player": "Shaun BARTLETT",
+          "minute": "18"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "Sami AL JABER",
+          "minute": "45+2",
+          "penalty": true
+        },
+        {
+          "team": "Saudi Arabia",
+          "player": "Youssef AL TUNAYAN",
+          "minute": "74",
+          "penalty": true
+        },
+        {
+          "team": "South Africa",
+          "player": "Shaun BARTLETT",
+          "minute": "90+3",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Africa",
+          "player_on": "Jerry SIKHOSANA",
+          "player_off": "Benni McCARTHY",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Delron BUCKLEY",
+          "player_off": "Willem JACKSON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Ibrahim AL SHAHRANI",
+          "player_off": "Fahad AL MEHALEL",
+          "minute": "64"
+        },
+        {
+          "team": "South Africa",
+          "player_on": "Doctor KHUMALO",
+          "player_off": "Quinton FORTUNE",
+          "minute": "67"
+        },
+        {
+          "team": "Saudi Arabia",
+          "player_on": "Ibrahim AL HARBI",
+          "player_off": "Youssef AL TUNAYAN",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Hans VONK",
+          "David NYATHI",
+          "Willem JACKSON",
+          "Mark FISH",
+          "Helman MKALELE",
+          "Lucas RADEBE",
+          "Pierre ISSA",
+          "Shaun BARTLETT",
+          "Quinton FORTUNE",
+          "John MOSHOEU",
+          "Benni McCARTHY"
+        ],
+        "away": [
+          "Mohammed AL DEAYEA",
+          "Mohammed AL JAHANI",
+          "Abdullah ZUBROMAWI",
+          "Hussein AL SULAIMANI",
+          "Khamis AL DOSSARI",
+          "Fuad AMIN",
+          "Nawaf AL TEMYAT",
+          "Hamza SALEH",
+          "Sami AL JABER",
+          "Fahad AL MEHALEL",
+          "Youssef AL TUNAYAN"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-13",
+      "stage": "Group D",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Spain",
+      "away_team": "Nigeria",
+      "score": {
+        "home": 2,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Fernando HIERRO",
+          "minute": "21"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Mutiu ADEPOJU",
+          "minute": "24"
+        },
+        {
+          "team": "Spain",
+          "player": "RAUL",
+          "minute": "47"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Andoni ZUBIZARRETA",
+          "minute": "73",
+          "own_goal": true
+        },
+        {
+          "team": "Nigeria",
+          "player": "Sunday OLISEH",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Spain",
+          "player_on": "Guillermo AMOR",
+          "player_off": "Albert FERRER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Joseba ETXEBERRIA",
+          "player_off": "ALFONSO",
+          "minute": "58"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Rasheed YEKINI",
+          "player_off": "Mobi OPARAKU",
+          "minute": "70"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Albert CELADES",
+          "player_off": "Miguel Angel NADAL",
+          "minute": "77"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Tijani BABANGIDA",
+          "player_off": "Victor IKPEBA",
+          "minute": "83"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Godwin OKPARA",
+          "player_off": "Garba LAWAL",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "Albert FERRER",
+          "Rafael ALKORTA",
+          "SERGI",
+          "IVAN CAMPO",
+          "Miguel Angel NADAL",
+          "Fernando HIERRO",
+          "LUIS ENRIQUE",
+          "RAUL",
+          "ALFONSO",
+          "KIKO"
+        ],
+        "away": [
+          "Peter RUFAI",
+          "Mobi OPARAKU",
+          "Uche OKECHUKWU",
+          "Finidi GEORGE",
+          "Jay Jay OKOCHA",
+          "Sunday OLISEH",
+          "Celestine BABAYARO",
+          "Taribo WEST",
+          "Mutiu ADEPOJU",
+          "Garba LAWAL",
+          "Victor IKPEBA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-12",
+      "stage": "Group D",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Paraguay",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Denis CANIZA",
+          "player_off": "Carlos MORALES",
+          "minute": "43"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Emil KOSTADINOV",
+          "player_off": "Lyuboslav PENEV",
+          "minute": "68"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Cesar RAMIREZ",
+          "player_off": "Jose CARDOZO",
+          "minute": "70"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Daniel BORIMIROV",
+          "player_off": "Ilian ILIEV",
+          "minute": "77"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Julio Cesar YEGROS",
+          "player_off": "Jorge CAMPOS",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jose Luis CHILAVERT",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Pedro SARABIA",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Julio Cesar ENCISO",
+          "Carlos MORALES",
+          "Jose CARDOZO",
+          "Miguel BENITEZ",
+          "Jorge CAMPOS"
+        ],
+        "away": [
+          "Zdravko ZDRAVKOV",
+          "Radostin KISHISHEV",
+          "Trifon IVANOV",
+          "Ivaylo PETKOV",
+          "Ivaylo YORDANOV",
+          "Zlatko YANKOV",
+          "Krasimir BALAKOV",
+          "Anatoli NANKOV",
+          "Hristo STOICHKOV",
+          "Lyuboslav PENEV",
+          "Ilian ILIEV"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-19",
+      "stage": "Group D",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Nigeria",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Nigeria",
+          "player": "Victor IKPEBA",
+          "minute": "28"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Daniel BORIMIROV",
+          "player_off": "Marian HRISTOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Lyuboslav PENEV",
+          "player_off": "Ilian ILIEV",
+          "minute": "66"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Nwankwo KANU",
+          "player_off": "Daniel AMOKACHI",
+          "minute": "67"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Rasheed YEKINI",
+          "player_off": "Victor IKPEBA",
+          "minute": "75"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Tijani BABANGIDA",
+          "player_off": "Finidi GEORGE",
+          "minute": "84"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Georgi BACHEV",
+          "player_off": "Zlatko YANKOV",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter RUFAI",
+          "Uche OKECHUKWU",
+          "Finidi GEORGE",
+          "Jay Jay OKOCHA",
+          "Sunday OLISEH",
+          "Celestine BABAYARO",
+          "Taribo WEST",
+          "Mutiu ADEPOJU",
+          "Garba LAWAL",
+          "Daniel AMOKACHI",
+          "Victor IKPEBA"
+        ],
+        "away": [
+          "Zdravko ZDRAVKOV",
+          "Radostin KISHISHEV",
+          "Trifon IVANOV",
+          "Ivaylo PETKOV",
+          "Gosho GINCHEV",
+          "Zlatko YANKOV",
+          "Krasimir BALAKOV",
+          "Marian HRISTOV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Ilian ILIEV"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-19",
+      "stage": "Group D",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Spain",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Carlos PAREDES",
+          "player_off": "Jorge CAMPOS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Fernando MORIENTES",
+          "player_off": "Juan Antonio PIZZI",
+          "minute": "52"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Albert CELADES",
+          "player_off": "ABELARDO",
+          "minute": "56"
+        },
+        {
+          "team": "Spain",
+          "player_on": "KIKO",
+          "player_off": "RAUL",
+          "minute": "65"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Julio Cesar YEGROS",
+          "player_off": "Roberto ACUNA",
+          "minute": "73"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Cesar RAMIREZ",
+          "player_off": "Aristides ROJAS",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "Rafael ALKORTA",
+          "ABELARDO",
+          "SERGI",
+          "AGUILERA",
+          "Fernando HIERRO",
+          "Guillermo AMOR",
+          "LUIS ENRIQUE",
+          "Juan Antonio PIZZI",
+          "RAUL",
+          "Joseba ETXEBERRIA"
+        ],
+        "away": [
+          "Jose Luis CHILAVERT",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Pedro SARABIA",
+          "Denis CANIZA",
+          "Aristides ROJAS",
+          "Roberto ACUNA",
+          "Julio Cesar ENCISO",
+          "Miguel BENITEZ",
+          "Jorge CAMPOS"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-24",
+      "stage": "Group D",
+      "venue": "Stade de Toulouse",
+      "city": "Toulouse",
+      "home_team": "Nigeria",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Celso AYALA",
+          "minute": "1"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Wilson ORUMA",
+          "minute": "11"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Miguel BENITEZ",
+          "minute": "58"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Jose CARDOZO",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Nigeria",
+          "player_on": "Godwin OKPARA",
+          "player_off": "Sunday OLISEH",
+          "minute": "45+1"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Julio Cesar YEGROS",
+          "player_off": "Denis CANIZA",
+          "minute": "55"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Roberto ACUNA",
+          "player_off": "Miguel BENITEZ",
+          "minute": "67"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Finidi GEORGE",
+          "player_off": "Wilson ORUMA",
+          "minute": "68"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Aristides ROJAS",
+          "player_off": "Hugo BRIZUELA",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter RUFAI",
+          "Nwankwo KANU",
+          "Uche OKAFOR",
+          "Austin EGUAVOEN",
+          "Ben IROHA",
+          "Rasheed YEKINI",
+          "Sunday OLISEH",
+          "Taribo WEST",
+          "Garba LAWAL",
+          "Tijani BABANGIDA",
+          "Wilson ORUMA"
+        ],
+        "away": [
+          "Jose Luis CHILAVERT",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Pedro SARABIA",
+          "Denis CANIZA",
+          "Carlos PAREDES",
+          "Julio Cesar ENCISO",
+          "Jose CARDOZO",
+          "Miguel BENITEZ",
+          "Hugo BRIZUELA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-24",
+      "stage": "Group D",
+      "venue": "Stade du Parc Lescure",
+      "city": "Bordeaux",
+      "home_team": "Spain",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Fernando HIERRO",
+          "minute": "6",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "LUIS ENRIQUE",
+          "minute": "18"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando MORIENTES",
+          "minute": "55"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Emil KOSTADINOV",
+          "minute": "58"
+        },
+        {
+          "team": "Spain",
+          "player": "Fernando MORIENTES",
+          "minute": "81"
+        },
+        {
+          "team": "Spain",
+          "player": "Georgi BACHEV",
+          "minute": "88",
+          "own_goal": true
+        },
+        {
+          "team": "Spain",
+          "player": "KIKO",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Lyuboslav PENEV",
+          "player_off": "Anatoli NANKOV",
+          "minute": "28"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Ilian ILIEV",
+          "player_off": "Hristo STOICHKOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Spain",
+          "player_on": "RAUL",
+          "player_off": "Joseba ETXEBERRIA",
+          "minute": "50"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Marian HRISTOV",
+          "player_off": "Krasimir BALAKOV",
+          "minute": "61"
+        },
+        {
+          "team": "Spain",
+          "player_on": "KIKO",
+          "player_off": "ALFONSO",
+          "minute": "65"
+        },
+        {
+          "team": "Spain",
+          "player_on": "Julen GUERRERO",
+          "player_off": "LUIS ENRIQUE",
+          "minute": "69"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andoni ZUBIZARRETA",
+          "Rafael ALKORTA",
+          "SERGI",
+          "AGUILERA",
+          "Miguel Angel NADAL",
+          "Fernando HIERRO",
+          "Guillermo AMOR",
+          "LUIS ENRIQUE",
+          "Fernando MORIENTES",
+          "ALFONSO",
+          "Joseba ETXEBERRIA"
+        ],
+        "away": [
+          "Zdravko ZDRAVKOV",
+          "Radostin KISHISHEV",
+          "Trifon IVANOV",
+          "Gosho GINCHEV",
+          "Ivaylo YORDANOV",
+          "Krasimir BALAKOV",
+          "Anatoli NANKOV",
+          "Daniel BORIMIROV",
+          "Emil KOSTADINOV",
+          "Hristo STOICHKOV",
+          "Georgi BACHEV"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-13",
+      "stage": "Group E",
+      "venue": "Stade de Gerland",
+      "city": "Lyon",
+      "home_team": "Mexico",
+      "away_team": "South Korea",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "South Korea",
+          "player": "HA Seok Ju",
+          "minute": "27"
+        },
+        {
+          "team": "Mexico",
+          "player": "Ricardo PELAEZ",
+          "minute": "50"
+        },
+        {
+          "team": "Mexico",
+          "player": "Luis HERNANDEZ",
+          "minute": "75"
+        },
+        {
+          "team": "Mexico",
+          "player": "Luis HERNANDEZ",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Jesus ARELLANO",
+          "player_off": "Braulio LUNA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Ricardo PELAEZ",
+          "player_off": "Jaime ORDIALES",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JANG Hyung Seok",
+          "player_off": "NOH Jung Yoon",
+          "minute": "55"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "CHOI Sung Yong",
+          "player_off": "KIM Do Keun",
+          "minute": "60"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Marcelino BERNAL",
+          "player_off": "Alberto GARCIA ASPE",
+          "minute": "70"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "SEO Jung Won",
+          "player_off": "KO Jong Soo",
+          "minute": "75"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Duilio DAVINO",
+          "Pavel PARDO",
+          "Ramon RAMIREZ",
+          "Alberto GARCIA ASPE",
+          "Raul LARA",
+          "Braulio LUNA",
+          "Jaime ORDIALES",
+          "Cuauhtemoc BLANCO",
+          "Luis HERNANDEZ"
+        ],
+        "away": [
+          "KIM Byung Ji",
+          "LEE Minsung",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "YOO Sang Chul",
+          "KIM Do Keun",
+          "NOH Jung Yoon",
+          "KO Jong Soo",
+          "LEE Sang Yoon",
+          "HA Seok Ju",
+          "KIM Do Hoon"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-13",
+      "stage": "Group E",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Netherlands",
+      "away_team": "Belgium",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Eric DEFLANDRE",
+          "player_off": "Bertrand CRASSON",
+          "minute": "22"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Emile MPENZA",
+          "player_off": "Luis OLIVEIRA",
+          "minute": "60"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Boudewijn ZENDEN",
+          "player_off": "Clarence SEEDORF",
+          "minute": "65"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Dennis BERGKAMP",
+          "player_off": "Jimmy Floyd HASSELBAINK",
+          "minute": "65"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Wim JONK",
+          "player_off": "Ronald DE BOER",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Arthur NUMAN",
+          "Ronald DE BOER",
+          "Clarence SEEDORF",
+          "Phillip COCU",
+          "Aron WINTER",
+          "Patrick KLUIVERT",
+          "Marc OVERMARS",
+          "Jimmy Floyd HASSELBAINK"
+        ],
+        "away": [
+          "Filip DE WILDE",
+          "Bertrand CRASSON",
+          "Vital BORKELMANS",
+          "Mike VERSTRAETEN",
+          "Lorenzo STAELENS",
+          "Franky VAN DER ELST",
+          "Marc WILMOTS",
+          "Philippe CLEMENT",
+          "Danny BOFFIN",
+          "Luis OLIVEIRA",
+          "Luc NILIS"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-20",
+      "stage": "Group E",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Belgium",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Marc WILMOTS",
+          "minute": "42"
+        },
+        {
+          "team": "Belgium",
+          "player": "Marc WILMOTS",
+          "minute": "47"
+        },
+        {
+          "team": "Mexico",
+          "player": "Alberto GARCIA ASPE",
+          "minute": "55",
+          "penalty": true
+        },
+        {
+          "team": "Mexico",
+          "player": "Cuauhtemoc BLANCO",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Gert VERHEYEN",
+          "player_off": "Danny BOFFIN",
+          "minute": "17"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jesus ARELLANO",
+          "player_off": "Francisco PALENCIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "German VILLA",
+          "player_off": "Jaime ORDIALES",
+          "minute": "57"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Glen DE BOECK",
+          "player_off": "Franky VAN DER ELST",
+          "minute": "67"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Raul LARA",
+          "player_off": "Alberto GARCIA ASPE",
+          "minute": "67"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Emile MPENZA",
+          "player_off": "Luc NILIS",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Filip DE WILDE",
+          "Gordan VIDOVIC",
+          "Vital BORKELMANS",
+          "Eric DEFLANDRE",
+          "Lorenzo STAELENS",
+          "Franky VAN DER ELST",
+          "Marc WILMOTS",
+          "Enzo SCIFO",
+          "Danny BOFFIN",
+          "Luis OLIVEIRA",
+          "Luc NILIS"
+        ],
+        "away": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Joel SANCHEZ",
+          "Duilio DAVINO",
+          "Pavel PARDO",
+          "Ramon RAMIREZ",
+          "Alberto GARCIA ASPE",
+          "Jaime ORDIALES",
+          "Cuauhtemoc BLANCO",
+          "Luis HERNANDEZ",
+          "Francisco PALENCIA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-20",
+      "stage": "Group E",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Netherlands",
+      "away_team": "South Korea",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Phillip COCU",
+          "minute": "37"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Marc OVERMARS",
+          "minute": "41"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Dennis BERGKAMP",
+          "minute": "71"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Pierre VAN HOOIJDONK",
+          "minute": "80"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Ronald DE BOER",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "South Korea",
+          "player_on": "KIM Taeyoung",
+          "player_off": "CHOI Sung Yong",
+          "minute": "53"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KO Jong Soo",
+          "player_off": "KIM Do Hoon",
+          "minute": "69"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Pierre VAN HOOIJDONK",
+          "player_off": "Dennis BERGKAMP",
+          "minute": "77"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Donggook",
+          "player_off": "SEO Jung Won",
+          "minute": "77"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Winston BOGARDE",
+          "player_off": "Arthur NUMAN",
+          "minute": "80"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Boudewijn ZENDEN",
+          "player_off": "Ronald DE BOER",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Arthur NUMAN",
+          "Wim JONK",
+          "Ronald DE BOER",
+          "Phillip COCU",
+          "Edgar DAVIDS",
+          "Aron WINTER",
+          "Dennis BERGKAMP",
+          "Marc OVERMARS"
+        ],
+        "away": [
+          "KIM Byung Ji",
+          "CHOI Youngil",
+          "LEE Minsung",
+          "HONG Myungbo",
+          "CHOI Sung Yong",
+          "YOO Sang Chul",
+          "KIM Do Keun",
+          "SEO Jung Won",
+          "LEE Sang Yoon",
+          "KIM Do Hoon",
+          "CHOI Yongsoo"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-25",
+      "stage": "Group E",
+      "venue": "Stade Geoffroy-Guichard",
+      "city": "Saint-Étienne",
+      "home_team": "Netherlands",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Phillip COCU",
+          "minute": "4"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Ronald DE BOER",
+          "minute": "18"
+        },
+        {
+          "team": "Mexico",
+          "player": "Ricardo PELAEZ",
+          "minute": "75"
+        },
+        {
+          "team": "Mexico",
+          "player": "Luis HERNANDEZ",
+          "minute": "90+4"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Jesus ARELLANO",
+          "player_off": "Braulio LUNA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Ricardo PELAEZ",
+          "player_off": "Joel SANCHEZ",
+          "minute": "55"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Aron WINTER",
+          "player_off": "Wim JONK",
+          "minute": "70"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Winston BOGARDE",
+          "player_off": "Arthur NUMAN",
+          "minute": "71"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Jimmy Floyd HASSELBAINK",
+          "player_off": "Dennis BERGKAMP",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Michael REIZIGER",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Arthur NUMAN",
+          "Wim JONK",
+          "Ronald DE BOER",
+          "Phillip COCU",
+          "Edgar DAVIDS",
+          "Dennis BERGKAMP",
+          "Marc OVERMARS"
+        ],
+        "away": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Joel SANCHEZ",
+          "Duilio DAVINO",
+          "Salvador CARMONA",
+          "German VILLA",
+          "Ramon RAMIREZ",
+          "Alberto GARCIA ASPE",
+          "Braulio LUNA",
+          "Cuauhtemoc BLANCO",
+          "Luis HERNANDEZ"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-25",
+      "stage": "Group E",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Belgium",
+      "away_team": "South Korea",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Luc NILIS",
+          "minute": "7"
+        },
+        {
+          "team": "South Korea",
+          "player": "YOO Sang Chul",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Belgium",
+          "player_on": "Mbo MPENZA",
+          "player_off": "Luis OLIVEIRA",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "LEE Lim Saeng",
+          "player_off": "CHOI Sung Yong",
+          "minute": "45+1"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "KO Jong Soo",
+          "player_off": "KIM Do Keun",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Franky VAN DER ELST",
+          "player_off": "Enzo SCIFO",
+          "minute": "65"
+        },
+        {
+          "team": "South Korea",
+          "player_on": "JANG Hyung Seok",
+          "player_off": "LEE Sang Hun",
+          "minute": "66"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Emile MPENZA",
+          "player_off": "Philippe CLEMENT",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Philippe VANDE WALLE",
+          "Gordan VIDOVIC",
+          "Vital BORKELMANS",
+          "Eric DEFLANDRE",
+          "Lorenzo STAELENS",
+          "Marc WILMOTS",
+          "Nico VAN KERCKHOVEN",
+          "Enzo SCIFO",
+          "Philippe CLEMENT",
+          "Luis OLIVEIRA",
+          "Luc NILIS"
+        ],
+        "away": [
+          "KIM Byung Ji",
+          "LEE Minsung",
+          "LEE Sang Hun",
+          "KIM Taeyoung",
+          "HONG Myungbo",
+          "CHOI Sung Yong",
+          "YOO Sang Chul",
+          "KIM Do Keun",
+          "SEO Jung Won",
+          "HA Seok Ju",
+          "CHOI Yongsoo"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-15",
+      "stage": "Group F",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Germany",
+      "away_team": "United States",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Andreas MOELLER",
+          "minute": "10"
+        },
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "67"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Frankie HEJDUK",
+          "player_off": "Mike BURNS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Didi HAMANN",
+          "player_off": "Thomas HAESSLER",
+          "minute": "50"
+        },
+        {
+          "team": "United States",
+          "player_on": "Roy WEGERLE",
+          "player_off": "Eric WYNALDA",
+          "minute": "65"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Christian ZIEGE",
+          "player_off": "Stefan REUTER",
+          "minute": "70"
+        },
+        {
+          "team": "United States",
+          "player_on": "Tab RAMOS",
+          "player_off": "Chad DEERING",
+          "minute": "72"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Markus BABBEL",
+          "player_off": "Andreas MOELLER",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas KOEPKE",
+          "Christian WOERNS",
+          "Juergen KOHLER",
+          "Olaf THON",
+          "Stefan REUTER",
+          "Joerg HEINRICH",
+          "Andreas MOELLER",
+          "Thomas HAESSLER",
+          "Jens JEREMIES",
+          "Juergen KLINSMANN",
+          "Oliver BIERHOFF"
+        ],
+        "away": [
+          "Kasey KELLER",
+          "Eddie POPE",
+          "Mike BURNS",
+          "Thomas DOOLEY",
+          "David REGIS",
+          "Cobi JONES",
+          "Chad DEERING",
+          "Brian MAISONNEUVE",
+          "Claudio REYNA",
+          "Earnie STEWART",
+          "Eric WYNALDA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-14",
+      "stage": "Group F",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Yugoslavia",
+      "away_team": "Iran",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Sinisa MIHAJLOVIC",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dejan STANKOVIC",
+          "player_off": "Branko BRNOVIC",
+          "minute": "50"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Perica OGNJENOVIC",
+          "player_off": "Savo MILOSEVIC",
+          "minute": "58"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Darko KOVACEVIC",
+          "player_off": "Dragan STOJKOVIC",
+          "minute": "68"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Ali Reza MANSOURIAN",
+          "player_off": "Hamid ESTILI",
+          "minute": "68"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ivica KRALJ",
+          "Zoran MIRKOVIC",
+          "Goran DJOROVIC",
+          "Sinisa MIHAJLOVIC",
+          "Zeljko PETROVIC",
+          "Slavisa JOKANOVIC",
+          "Branko BRNOVIC",
+          "Vladimir JUGOVIC",
+          "Dragan STOJKOVIC",
+          "Predrag MIJATOVIC",
+          "Savo MILOSEVIC"
+        ],
+        "away": [
+          "Nima NAKISA",
+          "Mohammad KHAKPOUR",
+          "Nader KHANI",
+          "Javad ZARINCHEH",
+          "Mehdi PASHAZADEH",
+          "Mehdi MAHDAVIKIA",
+          "Karim BAGHERI",
+          "Hamid ESTILI",
+          "Mehrdad MINAVAND",
+          "Ali DAEI",
+          "Khodadad AZIZI"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-21",
+      "stage": "Group F",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Germany",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Predrag MIJATOVIC",
+          "minute": "13"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Dragan STOJKOVIC",
+          "minute": "52"
+        },
+        {
+          "team": "Germany",
+          "player": "Sinisa MIHAJLOVIC",
+          "minute": "72",
+          "own_goal": true
+        },
+        {
+          "team": "Germany",
+          "player": "Oliver BIERHOFF",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Lothar MATTHAEUS",
+          "player_off": "Didi HAMANN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Ulf KIRSTEN",
+          "player_off": "Andreas MOELLER",
+          "minute": "57"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Perica OGNJENOVIC",
+          "player_off": "Darko KOVACEVIC",
+          "minute": "57"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Michael TARNAT",
+          "player_off": "Christian ZIEGE",
+          "minute": "66"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dejan GOVEDARICA",
+          "player_off": "Dejan STANKOVIC",
+          "minute": "66"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Miroslav STEVIC",
+          "player_off": "Zeljko PETROVIC",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas KOEPKE",
+          "Christian WOERNS",
+          "Juergen KOHLER",
+          "Olaf THON",
+          "Joerg HEINRICH",
+          "Andreas MOELLER",
+          "Jens JEREMIES",
+          "Didi HAMANN",
+          "Christian ZIEGE",
+          "Juergen KLINSMANN",
+          "Oliver BIERHOFF"
+        ],
+        "away": [
+          "Ivica KRALJ",
+          "Goran DJOROVIC",
+          "Sinisa MIHAJLOVIC",
+          "Slobodan KOMLJENOVIC",
+          "Zeljko PETROVIC",
+          "Slavisa JOKANOVIC",
+          "Vladimir JUGOVIC",
+          "Dragan STOJKOVIC",
+          "Dejan STANKOVIC",
+          "Predrag MIJATOVIC",
+          "Darko KOVACEVIC"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-21",
+      "stage": "Group F",
+      "venue": "Stade de Gerland",
+      "city": "Lyon",
+      "home_team": "United States",
+      "away_team": "Iran",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Iran",
+          "player": "Hamid ESTILI",
+          "minute": "41"
+        },
+        {
+          "team": "Iran",
+          "player": "Mehdi MAHDAVIKIA",
+          "minute": "83"
+        },
+        {
+          "team": "United States",
+          "player": "Brian McBRIDE",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "United States",
+          "player_on": "Earnie STEWART",
+          "player_off": "Tab RAMOS",
+          "minute": "57"
+        },
+        {
+          "team": "United States",
+          "player_on": "Preki RADOSAVLJEVIC",
+          "player_off": "Roy WEGERLE",
+          "minute": "57"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Ali Reza MANSOURIAN",
+          "player_off": "Khodadad AZIZI",
+          "minute": "74"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Afshin PEYRAVANI",
+          "player_off": "Nader KHANI",
+          "minute": "75"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Naim SADAVI",
+          "player_off": "Javad ZARINCHEH",
+          "minute": "77"
+        },
+        {
+          "team": "United States",
+          "player_on": "Brian MAISONNEUVE",
+          "player_off": "Thomas DOOLEY",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Kasey KELLER",
+          "Eddie POPE",
+          "Thomas DOOLEY",
+          "David REGIS",
+          "Frankie HEJDUK",
+          "Tab RAMOS",
+          "Cobi JONES",
+          "Claudio REYNA",
+          "Roy WEGERLE",
+          "Joe Max MOORE",
+          "Brian McBRIDE"
+        ],
+        "away": [
+          "Ahmed ABEDZADEH",
+          "Mohammad KHAKPOUR",
+          "Nader KHANI",
+          "Javad ZARINCHEH",
+          "Mehdi PASHAZADEH",
+          "Mehdi MAHDAVIKIA",
+          "Karim BAGHERI",
+          "Hamid ESTILI",
+          "Mehrdad MINAVAND",
+          "Ali DAEI",
+          "Khodadad AZIZI"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-25",
+      "stage": "Group F",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Germany",
+      "away_team": "Iran",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Oliver BIERHOFF",
+          "minute": "50"
+        },
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "57"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Didi HAMANN",
+          "player_off": "Olaf THON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Ulf KIRSTEN",
+          "player_off": "Thomas HAESSLER",
+          "minute": "69"
+        },
+        {
+          "team": "Iran",
+          "player_on": "Sirous DIN MOHAMMADI",
+          "player_off": "Javad ZARINCHEH",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Christian ZIEGE",
+          "player_off": "Michael TARNAT",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas KOEPKE",
+          "Christian WOERNS",
+          "Juergen KOHLER",
+          "Thomas HELMER",
+          "Olaf THON",
+          "Joerg HEINRICH",
+          "Lothar MATTHAEUS",
+          "Thomas HAESSLER",
+          "Juergen KLINSMANN",
+          "Oliver BIERHOFF",
+          "Michael TARNAT"
+        ],
+        "away": [
+          "Ahmed ABEDZADEH",
+          "Mohammad KHAKPOUR",
+          "Nader KHANI",
+          "Javad ZARINCHEH",
+          "Mehdi PASHAZADEH",
+          "Mehdi MAHDAVIKIA",
+          "Karim BAGHERI",
+          "Hamid ESTILI",
+          "Mehrdad MINAVAND",
+          "Ali DAEI",
+          "Khodadad AZIZI"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-25",
+      "stage": "Group F",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Yugoslavia",
+      "away_team": "United States",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Slobodan KOMLJENOVIC",
+          "minute": "3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Perica OGNJENOVIC",
+          "player_off": "Predrag MIJATOVIC",
+          "minute": "30"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Branko BRNOVIC",
+          "player_off": "Dejan STANKOVIC",
+          "minute": "54"
+        },
+        {
+          "team": "United States",
+          "player_on": "Preki RADOSAVLJEVIC",
+          "player_off": "Joe Max MOORE",
+          "minute": "58"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dejan SAVICEVIC",
+          "player_off": "Dragan STOJKOVIC",
+          "minute": "62"
+        },
+        {
+          "team": "United States",
+          "player_on": "Eric WYNALDA",
+          "player_off": "Frankie HEJDUK",
+          "minute": "64"
+        },
+        {
+          "team": "United States",
+          "player_on": "Marcelo BALBOA",
+          "player_off": "Thomas DOOLEY",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Ivica KRALJ",
+          "Goran DJOROVIC",
+          "Sinisa MIHAJLOVIC",
+          "Slobodan KOMLJENOVIC",
+          "Zeljko PETROVIC",
+          "Slavisa JOKANOVIC",
+          "Vladimir JUGOVIC",
+          "Dragan STOJKOVIC",
+          "Dejan STANKOVIC",
+          "Predrag MIJATOVIC",
+          "Savo MILOSEVIC"
+        ],
+        "away": [
+          "Brad FRIEDEL",
+          "Mike BURNS",
+          "Thomas DOOLEY",
+          "David REGIS",
+          "Frankie HEJDUK",
+          "Cobi JONES",
+          "Brian MAISONNEUVE",
+          "Claudio REYNA",
+          "Earnie STEWART",
+          "Joe Max MOORE",
+          "Brian McBRIDE"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-15",
+      "stage": "Group G",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Romania",
+      "away_team": "Colombia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Adrian ILIE",
+          "minute": "45+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Adolfo VALENCIA",
+          "player_off": "Victor ARISTIZABAL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Ovidiu STANGA",
+          "player_off": "Gabriel POPESCU",
+          "minute": "68"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Lucian MARINESCU",
+          "player_off": "Gheorghe HAGI",
+          "minute": "76"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Radu NICULESCU",
+          "player_off": "Viorel MOLDOVAN",
+          "minute": "84"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Leider PRECIADO",
+          "player_off": "Faustino ASPRILLA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bogdan STELEA",
+          "Dan PETRESCU",
+          "Liviu CIOBOTARIU",
+          "Iulian FILIPESCU",
+          "Constantin GALCA",
+          "Gheorghe POPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Adrian ILIE",
+          "Gabriel POPESCU",
+          "Viorel MOLDOVAN"
+        ],
+        "away": [
+          "Faryd MONDRAGON",
+          "Ever PALACIOS",
+          "Jose SANTA",
+          "Jorge BERMUDEZ",
+          "Wilmer CABRERA",
+          "Mauricio SERNA",
+          "Harold LOZANO",
+          "Carlos VALDERRAMA",
+          "Victor ARISTIZABAL",
+          "Freddy RINCON",
+          "Faustino ASPRILLA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-15",
+      "stage": "Group G",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "England",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Alan SHEARER",
+          "minute": "42"
+        },
+        {
+          "team": "England",
+          "player": "Paul SCHOLES",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Tunisia",
+          "player_on": "Zoubeir BEYA",
+          "player_off": "Skander SOUAYEH",
+          "minute": "45+1"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Imed BEN YOUNES",
+          "player_off": "Mehdi BEN SLIMANE",
+          "minute": "65"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Tarek THABET",
+          "player_off": "Hatem TRABELSI",
+          "minute": "79"
+        },
+        {
+          "team": "England",
+          "player_on": "Michael OWEN",
+          "player_off": "Teddy SHERINGHAM",
+          "minute": "85"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David SEAMAN",
+          "Sol CAMPBELL",
+          "Graeme LE SAUX",
+          "Tony ADAMS",
+          "Gareth SOUTHGATE",
+          "Paul INCE",
+          "David BATTY",
+          "Darren ANDERTON",
+          "Alan SHEARER",
+          "Teddy SHERINGHAM",
+          "Paul SCHOLES"
+        ],
+        "away": [
+          "Choukri EL OUAER",
+          "Sami TRABELSI",
+          "Mounir BOUKADIDA",
+          "Hatem TRABELSI",
+          "CLAYTON",
+          "Khaled BADRA",
+          "Kais GHODHBANE",
+          "Sirajeddine CHIHI",
+          "Skander SOUAYEH",
+          "Adel SELLIMI",
+          "Mehdi BEN SLIMANE"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-22",
+      "stage": "Group G",
+      "venue": "Stade de la Mosson",
+      "city": "Montpellier",
+      "home_team": "Colombia",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Colombia",
+          "player": "Leider PRECIADO",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Victor ARISTIZABAL",
+          "player_off": "Freddy RINCON",
+          "minute": "56"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Leider PRECIADO",
+          "player_off": "Adolfo VALENCIA",
+          "minute": "56"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Jorge BOLANO",
+          "player_off": "Mauricio SERNA",
+          "minute": "62"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Imed BEN YOUNES",
+          "player_off": "Adel SELLIMI",
+          "minute": "68"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Faycal BEN AHMED",
+          "player_off": "Zoubeir BEYA",
+          "minute": "73"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Kais GHODHBANE",
+          "player_off": "Tarek THABET",
+          "minute": "76"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Faryd MONDRAGON",
+          "Ever PALACIOS",
+          "Jose SANTA",
+          "Jorge BERMUDEZ",
+          "Wilmer CABRERA",
+          "Mauricio SERNA",
+          "Harold LOZANO",
+          "Carlos VALDERRAMA",
+          "Freddy RINCON",
+          "Anthony DE AVILA",
+          "Adolfo VALENCIA"
+        ],
+        "away": [
+          "Choukri EL OUAER",
+          "Sami TRABELSI",
+          "Ferid CHOUCHANE",
+          "Tarek THABET",
+          "CLAYTON",
+          "Zoubeir BEYA",
+          "Riadh BOUAZIZI",
+          "Sirajeddine CHIHI",
+          "Skander SOUAYEH",
+          "Adel SELLIMI",
+          "Mehdi BEN SLIMANE"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-22",
+      "stage": "Group G",
+      "venue": "Stade de Toulouse",
+      "city": "Toulouse",
+      "home_team": "England",
+      "away_team": "Romania",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Viorel MOLDOVAN",
+          "minute": "46"
+        },
+        {
+          "team": "England",
+          "player": "Michael OWEN",
+          "minute": "81"
+        },
+        {
+          "team": "Romania",
+          "player": "Dan PETRESCU",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "David BECKHAM",
+          "player_off": "Paul INCE",
+          "minute": "32"
+        },
+        {
+          "team": "England",
+          "player_on": "Michael OWEN",
+          "player_off": "Teddy SHERINGHAM",
+          "minute": "72"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Ovidiu STANGA",
+          "player_off": "Gheorghe HAGI",
+          "minute": "72"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Lucian MARINESCU",
+          "player_off": "Ovidiu STANGA",
+          "minute": "81"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Marius LACATUS",
+          "player_off": "Viorel MOLDOVAN",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David SEAMAN",
+          "Sol CAMPBELL",
+          "Graeme LE SAUX",
+          "Tony ADAMS",
+          "Gary NEVILLE",
+          "Paul INCE",
+          "David BATTY",
+          "Darren ANDERTON",
+          "Alan SHEARER",
+          "Teddy SHERINGHAM",
+          "Paul SCHOLES"
+        ],
+        "away": [
+          "Bogdan STELEA",
+          "Dan PETRESCU",
+          "Liviu CIOBOTARIU",
+          "Iulian FILIPESCU",
+          "Constantin GALCA",
+          "Gheorghe POPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Adrian ILIE",
+          "Gabriel POPESCU",
+          "Viorel MOLDOVAN"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-26",
+      "stage": "Group G",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Romania",
+      "away_team": "Tunisia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Tunisia",
+          "player": "Skander SOUAYEH",
+          "minute": "12",
+          "penalty": true
+        },
+        {
+          "team": "Romania",
+          "player": "Viorel MOLDOVAN",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Gheorghe POPESCU",
+          "player_off": "Christian DULCA",
+          "minute": "32"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Adrian ILIE",
+          "player_off": "Marius LACATUS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Riadh JELASSI",
+          "player_off": "Mehdi BEN SLIMANE",
+          "minute": "60"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Viorel MOLDOVAN",
+          "player_off": "Ilie DUMITRESCU",
+          "minute": "68"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Tarek THABET",
+          "player_off": "Kais GHODHBANE",
+          "minute": "85"
+        },
+        {
+          "team": "Tunisia",
+          "player_on": "Imed BEN YOUNES",
+          "player_off": "Skander SOUAYEH",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bogdan STELEA",
+          "Dan PETRESCU",
+          "Christian DULCA",
+          "Anton DOBOS",
+          "Liviu CIOBOTARIU",
+          "Constantin GALCA",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Lucian MARINESCU",
+          "Ilie DUMITRESCU",
+          "Marius LACATUS"
+        ],
+        "away": [
+          "Choukri EL OUAER",
+          "Sami TRABELSI",
+          "Mounir BOUKADIDA",
+          "Ferid CHOUCHANE",
+          "Zoubeir BEYA",
+          "Kais GHODHBANE",
+          "Riadh BOUAZIZI",
+          "Sirajeddine CHIHI",
+          "Skander SOUAYEH",
+          "Adel SELLIMI",
+          "Mehdi BEN SLIMANE"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-26",
+      "stage": "Group G",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "England",
+      "away_team": "Colombia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Darren ANDERTON",
+          "minute": "20"
+        },
+        {
+          "team": "England",
+          "player": "David BECKHAM",
+          "minute": "29"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Colombia",
+          "player_on": "Adolfo VALENCIA",
+          "player_off": "Anthony DE AVILA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Hamilton RICARD",
+          "player_off": "Leider PRECIADO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Colombia",
+          "player_on": "Victor ARISTIZABAL",
+          "player_off": "Mauricio SERNA",
+          "minute": "45+1"
+        },
+        {
+          "team": "England",
+          "player_on": "Steve McMANAMAN",
+          "player_off": "Paul SCHOLES",
+          "minute": "73"
+        },
+        {
+          "team": "England",
+          "player_on": "Robert LEE",
+          "player_off": "Darren ANDERTON",
+          "minute": "79"
+        },
+        {
+          "team": "England",
+          "player_on": "David BATTY",
+          "player_off": "Paul INCE",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "David SEAMAN",
+          "Sol CAMPBELL",
+          "Graeme LE SAUX",
+          "Tony ADAMS",
+          "Gary NEVILLE",
+          "Paul INCE",
+          "David BECKHAM",
+          "Darren ANDERTON",
+          "Alan SHEARER",
+          "Paul SCHOLES",
+          "Michael OWEN"
+        ],
+        "away": [
+          "Faryd MONDRAGON",
+          "Ever PALACIOS",
+          "Jorge BERMUDEZ",
+          "Wilmer CABRERA",
+          "Antonio MORENO",
+          "Mauricio SERNA",
+          "Harold LOZANO",
+          "Carlos VALDERRAMA",
+          "Freddy RINCON",
+          "Anthony DE AVILA",
+          "Leider PRECIADO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-14",
+      "stage": "Group H",
+      "venue": "Stade de Toulouse",
+      "city": "Toulouse",
+      "home_team": "Argentina",
+      "away_team": "Japan",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "28"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Abel BALBO",
+          "player_off": "Claudio LOPEZ",
+          "minute": "61"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Wagner LOPES",
+          "player_off": "Masashi NAKAYAMA",
+          "minute": "65"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Jose CHAMOT",
+          "player_off": "Roberto SENSINI",
+          "minute": "72"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takashi HIRANO",
+          "player_off": "Naoki SOMA",
+          "minute": "84"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Carlos ROA",
+          "Roberto AYALA",
+          "Roberto SENSINI",
+          "Nelson VIVAS",
+          "Javier ZANETTI",
+          "Matias ALMEYDA",
+          "Diego SIMEONE",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Claudio LOPEZ",
+          "Gabriel BATISTUTA"
+        ],
+        "away": [
+          "Yoshikatsu KAWAGUCHI",
+          "Akira NARAHASHI",
+          "Naoki SOMA",
+          "Masami IHARA",
+          "Yutaka AKITA",
+          "Eisuke NAKANISHI",
+          "Motohiro YAMAGUCHI",
+          "Hidetoshi NAKATA",
+          "Hiroshi NANAMI",
+          "Masashi NAKAYAMA",
+          "Shoji JO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-14",
+      "stage": "Group H",
+      "venue": "Stade Félix-Bollaert",
+      "city": "Lens",
+      "home_team": "Jamaica",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Mario STANIC",
+          "minute": "27"
+        },
+        {
+          "team": "Jamaica",
+          "player": "Robert EARLE",
+          "minute": "45"
+        },
+        {
+          "team": "Croatia",
+          "player": "Robert PROSINECKI",
+          "minute": "53"
+        },
+        {
+          "team": "Croatia",
+          "player": "Davor SUKER",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Jamaica",
+          "player_on": "Darryl POWELL",
+          "player_off": "Peter CARGILL",
+          "minute": "69"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Andrew WILLIAMS",
+          "player_off": "Robert EARLE",
+          "minute": "74"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Goran VLAOVIC",
+          "player_off": "Dario SIMIC",
+          "minute": "74"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Walter BOYD",
+          "player_off": "Paul HALL",
+          "minute": "81"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Warren BARRETT",
+          "Ian GOODISON",
+          "Ricardo GARDNER",
+          "Onandi LOWE",
+          "Frank SINCLAIR",
+          "Fitzroy SIMPSON",
+          "Peter CARGILL",
+          "Theodore WHITMORE",
+          "Robert EARLE",
+          "Deon BURTON",
+          "Paul HALL"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Igor STIMAC",
+          "Slaven BILIC",
+          "Zvonimir SOLDO",
+          "Dario SIMIC",
+          "Aljosa ASANOVIC",
+          "Robert PROSINECKI",
+          "Zvonimir BOBAN",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Davor SUKER"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-20",
+      "stage": "Group H",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Japan",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Davor SUKER",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Goran VLAOVIC",
+          "player_off": "Igor STIMAC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Masayuki OKANO",
+          "player_off": "Masashi NAKAYAMA",
+          "minute": "61"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Silvio MARIC",
+          "player_off": "Robert PROSINECKI",
+          "minute": "67"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Hiroaki MORISHIMA",
+          "player_off": "Akira NARAHASHI",
+          "minute": "79"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Wagner LOPES",
+          "player_off": "Hiroshi NANAMI",
+          "minute": "84"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Igor TUDOR",
+          "player_off": "Mario STANIC",
+          "minute": "88"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Yoshikatsu KAWAGUCHI",
+          "Akira NARAHASHI",
+          "Naoki SOMA",
+          "Masami IHARA",
+          "Yutaka AKITA",
+          "Eisuke NAKANISHI",
+          "Motohiro YAMAGUCHI",
+          "Hidetoshi NAKATA",
+          "Hiroshi NANAMI",
+          "Masashi NAKAYAMA",
+          "Shoji JO"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Igor STIMAC",
+          "Slaven BILIC",
+          "Zvonimir SOLDO",
+          "Dario SIMIC",
+          "Aljosa ASANOVIC",
+          "Robert PROSINECKI",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Krunoslav JURCIC",
+          "Davor SUKER"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-21",
+      "stage": "Group H",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Argentina",
+      "away_team": "Jamaica",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Ariel ORTEGA",
+          "minute": "31"
+        },
+        {
+          "team": "Argentina",
+          "player": "Ariel ORTEGA",
+          "minute": "55"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "73"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "83",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Nelson VIVAS",
+          "player_off": "Roberto SENSINI",
+          "minute": "25"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Peter CARGILL",
+          "player_off": "Deon BURTON",
+          "minute": "45+1"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Walter BOYD",
+          "player_off": "Stephen MALCOLM",
+          "minute": "62"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Robert EARLE",
+          "player_off": "Theodore WHITMORE",
+          "minute": "73"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Marcelo GALLARDO",
+          "player_off": "Claudio LOPEZ",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Mauricio PINEDA",
+          "player_off": "Diego SIMEONE",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Carlos ROA",
+          "Roberto AYALA",
+          "Jose CHAMOT",
+          "Roberto SENSINI",
+          "Javier ZANETTI",
+          "Matias ALMEYDA",
+          "Diego SIMEONE",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Claudio LOPEZ",
+          "Gabriel BATISTUTA"
+        ],
+        "away": [
+          "Warren BARRETT",
+          "Stephen MALCOLM",
+          "Christopher DAWES",
+          "Ian GOODISON",
+          "Ricardo GARDNER",
+          "Frank SINCLAIR",
+          "Fitzroy SIMPSON",
+          "Theodore WHITMORE",
+          "Darryl POWELL",
+          "Deon BURTON",
+          "Paul HALL"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-26",
+      "stage": "Group H",
+      "venue": "Stade de Gerland",
+      "city": "Lyon",
+      "home_team": "Jamaica",
+      "away_team": "Japan",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Jamaica",
+          "player": "Theodore WHITMORE",
+          "minute": "39"
+        },
+        {
+          "team": "Jamaica",
+          "player": "Theodore WHITMORE",
+          "minute": "54"
+        },
+        {
+          "team": "Japan",
+          "player": "Masashi NAKAYAMA",
+          "minute": "74"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Japan",
+          "player_on": "Wagner LOPES",
+          "player_off": "Shoji JO",
+          "minute": "58"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Takashi HIRANO",
+          "player_off": "Norio OMURA",
+          "minute": "58"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Walter BOYD",
+          "player_off": "Paul HALL",
+          "minute": "72"
+        },
+        {
+          "team": "Japan",
+          "player_on": "Shinji Ono",
+          "player_off": "Hiroshi NANAMI",
+          "minute": "78"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Deon BURTON",
+          "player_off": "Marcus GAYLE",
+          "minute": "80"
+        },
+        {
+          "team": "Jamaica",
+          "player_on": "Robert EARLE",
+          "player_off": "Fitzroy SIMPSON",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Aaron LAWRENCE",
+          "Stephen MALCOLM",
+          "Christopher DAWES",
+          "Ian GOODISON",
+          "Ricardo GARDNER",
+          "Onandi LOWE",
+          "Frank SINCLAIR",
+          "Fitzroy SIMPSON",
+          "Theodore WHITMORE",
+          "Marcus GAYLE",
+          "Paul HALL"
+        ],
+        "away": [
+          "Yoshikatsu KAWAGUCHI",
+          "Akira NARAHASHI",
+          "Naoki SOMA",
+          "Masami IHARA",
+          "Norio OMURA",
+          "Yutaka AKITA",
+          "Motohiro YAMAGUCHI",
+          "Hidetoshi NAKATA",
+          "Hiroshi NANAMI",
+          "Masashi NAKAYAMA",
+          "Shoji JO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-26",
+      "stage": "Group H",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Argentina",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Mauricio PINEDA",
+          "minute": "36"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Croatia",
+          "player_on": "Goran VLAOVIC",
+          "player_off": "Silvio MARIC",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Claudio LOPEZ",
+          "player_off": "Ariel ORTEGA",
+          "minute": "52"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Diego SIMEONE",
+          "player_off": "Javier ZANETTI",
+          "minute": "67"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Igor STIMAC",
+          "player_off": "Robert PROSINECKI",
+          "minute": "67"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio BERTI",
+          "player_off": "Marcelo GALLARDO",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Carlos ROA",
+          "Roberto AYALA",
+          "Mauricio PINEDA",
+          "Pablo PAZ",
+          "Nelson VIVAS",
+          "Javier ZANETTI",
+          "Matias ALMEYDA",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Marcelo GALLARDO",
+          "Gabriel BATISTUTA"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Slaven BILIC",
+          "Zvonimir SOLDO",
+          "Dario SIMIC",
+          "Aljosa ASANOVIC",
+          "Robert PROSINECKI",
+          "Zvonimir BOBAN",
+          "Silvio MARIC",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Davor SUKER"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-27",
+      "stage": "Round of 16",
+      "venue": "Stade de France",
+      "city": "Saint-Denis",
+      "home_team": "Italy",
+      "away_team": "Norway",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Christian VIERI",
+          "minute": "18"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Norway",
+          "player_on": "Roar STRAND",
+          "player_off": "Oyvind LEONHARDSEN",
+          "minute": "13"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Stale SOLBAKKEN",
+          "player_off": "Roar STRAND",
+          "minute": "39"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Angelo DI LIVIO",
+          "player_off": "Francesco MORIERO",
+          "minute": "63"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gianluca PESSOTTO",
+          "player_off": "Demetrio ALBERTINI",
+          "minute": "72"
+        },
+        {
+          "team": "Norway",
+          "player_on": "Ole Gunnar SOLSKJAER",
+          "player_off": "Havard FLO",
+          "minute": "73"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Enrico CHIESA",
+          "player_off": "Alessandro DEL PIERO",
+          "minute": "77"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Gianluca PAGLIUCA",
+          "Giuseppe BERGOMI",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro COSTACURTA",
+          "Demetrio ALBERTINI",
+          "Dino BAGGIO",
+          "Luigi DI BIAGIO",
+          "Francesco MORIERO",
+          "Alessandro DEL PIERO",
+          "Christian VIERI"
+        ],
+        "away": [
+          "Frode GRODAS",
+          "Ronny JOHNSEN",
+          "Henning BERG",
+          "Stig BJORNEBYE",
+          "Dan EGGEN",
+          "Erik MYKLAND",
+          "Oyvind LEONHARDSEN",
+          "Kjetil REKDAL",
+          "Havard FLO",
+          "Vidar RISETH",
+          "Tore Andre FLO"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-27",
+      "stage": "Round of 16",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Brazil",
+      "away_team": "Chile",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "CESAR SAMPAIO",
+          "minute": "11"
+        },
+        {
+          "team": "Brazil",
+          "player": "CESAR SAMPAIO",
+          "minute": "26"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "45+3",
+          "penalty": true
+        },
+        {
+          "team": "Chile",
+          "player": "Marcelo SALAS",
+          "minute": "70"
+        },
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Fabian ESTAY",
+          "player_off": "Jose SIERRA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Marcelo VEGA",
+          "player_off": "Miguel RAMIREZ",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "BEBETO",
+          "minute": "65"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "GONCALVES",
+          "player_off": "ALDAIR",
+          "minute": "78"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Luis MUSRRI",
+          "player_off": "Clarence ACUNA",
+          "minute": "80"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "CAFU",
+          "ALDAIR",
+          "JUNIOR BAIANO",
+          "ROBERTO CARLOS",
+          "CESAR SAMPAIO",
+          "DUNGA",
+          "LEONARDO",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ],
+        "away": [
+          "Nelson TAPIA",
+          "Ronald FUENTES",
+          "Javier MARGAS",
+          "Pedro REYES",
+          "Miguel RAMIREZ",
+          "Mauricio AROS",
+          "Clarence ACUNA",
+          "Jose SIERRA",
+          "Fernando CORNEJO",
+          "Ivan ZAMORANO",
+          "Marcelo SALAS"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-28",
+      "stage": "Round of 16",
+      "venue": "Stade Félix-Bollaert",
+      "city": "Lens",
+      "home_team": "France",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "extra_time": true,
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Laurent BLANC",
+          "minute": "114"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Paraguay",
+          "player_on": "Julio Cesar YEGROS",
+          "player_off": "Jorge CAMPOS",
+          "minute": "55"
+        },
+        {
+          "team": "France",
+          "player_on": "Robert PIRES",
+          "player_off": "Thierry HENRY",
+          "minute": "65"
+        },
+        {
+          "team": "France",
+          "player_on": "Alain BOGHOSSIAN",
+          "player_off": "Emmanuel PETIT",
+          "minute": "69"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Denis CANIZA",
+          "player_off": "Carlos PAREDES",
+          "minute": "75"
+        },
+        {
+          "team": "France",
+          "player_on": "Stephane GUIVARCH",
+          "player_off": "Bernard DIOMEDE",
+          "minute": "76"
+        },
+        {
+          "team": "Paraguay",
+          "player_on": "Aristides ROJAS",
+          "player_off": "Jose CARDOZO",
+          "minute": "90+1"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Laurent BLANC",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Didier DESCHAMPS",
+          "Emmanuel PETIT",
+          "Youri DJORKAEFF",
+          "Thierry HENRY",
+          "Bernard DIOMEDE",
+          "David TREZEGUET"
+        ],
+        "away": [
+          "Jose Luis CHILAVERT",
+          "Francisco ARCE",
+          "Carlos GAMARRA",
+          "Celso AYALA",
+          "Pedro SARABIA",
+          "Roberto ACUNA",
+          "Carlos PAREDES",
+          "Julio Cesar ENCISO",
+          "Jose CARDOZO",
+          "Miguel BENITEZ",
+          "Jorge CAMPOS"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-28",
+      "stage": "Round of 16",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Nigeria",
+      "away_team": "Denmark",
+      "score": {
+        "home": 1,
+        "away": 4
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Peter MOLLER",
+          "minute": "3"
+        },
+        {
+          "team": "Denmark",
+          "player": "Brian LAUDRUP",
+          "minute": "12"
+        },
+        {
+          "team": "Denmark",
+          "player": "Ebbe SAND",
+          "minute": "58"
+        },
+        {
+          "team": "Denmark",
+          "player": "Thomas HELVEG",
+          "minute": "76"
+        },
+        {
+          "team": "Nigeria",
+          "player": "Tijani BABANGIDA",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Ebbe SAND",
+          "player_off": "Peter MOLLER",
+          "minute": "58"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Rasheed YEKINI",
+          "player_off": "Nwankwo KANU",
+          "minute": "65"
+        },
+        {
+          "team": "Nigeria",
+          "player_on": "Tijani BABANGIDA",
+          "player_off": "Garba LAWAL",
+          "minute": "73"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Morten WIEGHORST",
+          "player_off": "Brian LAUDRUP",
+          "minute": "77"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Per FRANDSEN",
+          "player_off": "Michael LAUDRUP",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Peter RUFAI",
+          "Nwankwo KANU",
+          "Uche OKECHUKWU",
+          "Finidi GEORGE",
+          "Jay Jay OKOCHA",
+          "Sunday OLISEH",
+          "Celestine BABAYARO",
+          "Taribo WEST",
+          "Mutiu ADEPOJU",
+          "Garba LAWAL",
+          "Victor IKPEBA"
+        ],
+        "away": [
+          "Peter SCHMEICHEL",
+          "Marc RIEPER",
+          "Jes HOGH",
+          "Jan HEINTZE",
+          "Thomas HELVEG",
+          "Soren COLDING",
+          "Allan NIELSEN",
+          "Michael LAUDRUP",
+          "Brian LAUDRUP",
+          "Peter MOLLER",
+          "Martin JORGENSEN"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-29",
+      "stage": "Round of 16",
+      "venue": "Stade de Gerland",
+      "city": "Lyon",
+      "home_team": "Germany",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Luis HERNANDEZ",
+          "minute": "47"
+        },
+        {
+          "team": "Germany",
+          "player": "Juergen KLINSMANN",
+          "minute": "74"
+        },
+        {
+          "team": "Germany",
+          "player": "Oliver BIERHOFF",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Christian ZIEGE",
+          "player_off": "Thomas HELMER",
+          "minute": "37"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Salvador CARMONA",
+          "player_off": "Marcelino BERNAL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Jesus ARELLANO",
+          "player_off": "Francisco PALENCIA",
+          "minute": "53"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Andreas MOELLER",
+          "player_off": "Joerg HEINRICH",
+          "minute": "57"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Ulf KIRSTEN",
+          "player_off": "Thomas HAESSLER",
+          "minute": "73"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Ricardo PELAEZ",
+          "player_off": "Alberto GARCIA ASPE",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas KOEPKE",
+          "Christian WOERNS",
+          "Thomas HELMER",
+          "Markus BABBEL",
+          "Joerg HEINRICH",
+          "Lothar MATTHAEUS",
+          "Thomas HAESSLER",
+          "Didi HAMANN",
+          "Juergen KLINSMANN",
+          "Oliver BIERHOFF",
+          "Michael TARNAT"
+        ],
+        "away": [
+          "Jorge CAMPOS",
+          "Claudio SUAREZ",
+          "Duilio DAVINO",
+          "Pavel PARDO",
+          "German VILLA",
+          "Marcelino BERNAL",
+          "Alberto GARCIA ASPE",
+          "Raul LARA",
+          "Cuauhtemoc BLANCO",
+          "Luis HERNANDEZ",
+          "Francisco PALENCIA"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-29",
+      "stage": "Round of 16",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Netherlands",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Dennis BERGKAMP",
+          "minute": "38"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Slobodan KOMLJENOVIC",
+          "minute": "48"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Edgar DAVIDS",
+          "minute": "90+2"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Dejan SAVICEVIC",
+          "player_off": "Dragan STOJKOVIC",
+          "minute": "56"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Nisa SAVELJIC",
+          "player_off": "Sinisa MIHAJLOVIC",
+          "minute": "78"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Michael REIZIGER",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Arthur NUMAN",
+          "Ronald DE BOER",
+          "Clarence SEEDORF",
+          "Phillip COCU",
+          "Edgar DAVIDS",
+          "Dennis BERGKAMP",
+          "Marc OVERMARS"
+        ],
+        "away": [
+          "Ivica KRALJ",
+          "Zoran MIRKOVIC",
+          "Goran DJOROVIC",
+          "Sinisa MIHAJLOVIC",
+          "Slobodan KOMLJENOVIC",
+          "Zeljko PETROVIC",
+          "Slavisa JOKANOVIC",
+          "Branko BRNOVIC",
+          "Vladimir JUGOVIC",
+          "Dragan STOJKOVIC",
+          "Predrag MIJATOVIC"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-30",
+      "stage": "Round of 16",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Romania",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Davor SUKER",
+          "minute": "45+2",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Gheorghe CRAIOVEANU",
+          "player_off": "Gheorghe HAGI",
+          "minute": "56"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Radu NICULESCU",
+          "player_off": "Gabriel POPESCU",
+          "minute": "60"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Lucian MARINESCU",
+          "player_off": "Dan PETRESCU",
+          "minute": "75"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Petar KRPAN",
+          "player_off": "Goran VLAOVIC",
+          "minute": "75"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Igor TUDOR",
+          "player_off": "Mario STANIC",
+          "minute": "82"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Bogdan STELEA",
+          "Dan PETRESCU",
+          "Liviu CIOBOTARIU",
+          "Iulian FILIPESCU",
+          "Constantin GALCA",
+          "Gheorghe POPESCU",
+          "Dorinel MUNTEANU",
+          "Gheorghe HAGI",
+          "Adrian ILIE",
+          "Gabriel POPESCU",
+          "Viorel MOLDOVAN"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Igor STIMAC",
+          "Slaven BILIC",
+          "Dario SIMIC",
+          "Aljosa ASANOVIC",
+          "Zvonimir BOBAN",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Krunoslav JURCIC",
+          "Davor SUKER",
+          "Goran VLAOVIC"
+        ]
+      }
+    },
+    {
+      "date": "1998-06-30",
+      "stage": "Round of 16",
+      "venue": "Stade Geoffroy-Guichard",
+      "city": "Saint-Étienne",
+      "home_team": "Argentina",
+      "away_team": "England",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Gabriel BATISTUTA",
+          "minute": "5",
+          "penalty": true
+        },
+        {
+          "team": "England",
+          "player": "Alan SHEARER",
+          "minute": "9",
+          "penalty": true
+        },
+        {
+          "team": "England",
+          "player": "Michael OWEN",
+          "minute": "16"
+        },
+        {
+          "team": "Argentina",
+          "player": "Javier ZANETTI",
+          "minute": "45+1"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Hernan CRESPO",
+          "player_off": "Claudio LOPEZ",
+          "minute": "68"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Marcelo GALLARDO",
+          "player_off": "Gabriel BATISTUTA",
+          "minute": "68"
+        },
+        {
+          "team": "England",
+          "player_on": "Gareth SOUTHGATE",
+          "player_off": "Graeme LE SAUX",
+          "minute": "71"
+        },
+        {
+          "team": "England",
+          "player_on": "Paul MERSON",
+          "player_off": "Paul SCHOLES",
+          "minute": "78"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Sergio BERTI",
+          "player_off": "Diego SIMEONE",
+          "minute": "90+1"
+        },
+        {
+          "team": "England",
+          "player_on": "David BATTY",
+          "player_off": "Darren ANDERTON",
+          "minute": "97"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Carlos ROA",
+          "Roberto AYALA",
+          "Jose CHAMOT",
+          "Nelson VIVAS",
+          "Javier ZANETTI",
+          "Matias ALMEYDA",
+          "Diego SIMEONE",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Claudio LOPEZ",
+          "Gabriel BATISTUTA"
+        ],
+        "away": [
+          "David SEAMAN",
+          "Sol CAMPBELL",
+          "Graeme LE SAUX",
+          "Tony ADAMS",
+          "Gary NEVILLE",
+          "Paul INCE",
+          "David BECKHAM",
+          "Darren ANDERTON",
+          "Alan SHEARER",
+          "Paul SCHOLES",
+          "Michael OWEN"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-03",
+      "stage": "Quarterfinal",
+      "venue": "Stade de France",
+      "city": "Saint-Denis",
+      "home_team": "France",
+      "away_team": "Italy",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "penalty_shootout": {
+        "home": 3,
+        "away": 4
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Demetrio ALBERTINI",
+          "player_off": "Dino BAGGIO",
+          "minute": "52"
+        },
+        {
+          "team": "France",
+          "player_on": "David TREZEGUET",
+          "player_off": "Stephane GUIVARCH",
+          "minute": "65"
+        },
+        {
+          "team": "France",
+          "player_on": "Thierry HENRY",
+          "player_off": "Christian KAREMBEU",
+          "minute": "65"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Roberto BAGGIO",
+          "player_off": "Alessandro DEL PIERO",
+          "minute": "67"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Angelo DI LIVIO",
+          "player_off": "Gianluca PESSOTTO",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Laurent BLANC",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Christian KAREMBEU",
+          "Didier DESCHAMPS",
+          "Zinedine ZIDANE",
+          "Emmanuel PETIT",
+          "Youri DJORKAEFF",
+          "Stephane GUIVARCH"
+        ],
+        "away": [
+          "Gianluca PAGLIUCA",
+          "Giuseppe BERGOMI",
+          "Paolo MALDINI",
+          "Fabio CANNAVARO",
+          "Alessandro COSTACURTA",
+          "Gianluca PESSOTTO",
+          "Dino BAGGIO",
+          "Luigi DI BIAGIO",
+          "Francesco MORIERO",
+          "Alessandro DEL PIERO",
+          "Christian VIERI"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-03",
+      "stage": "Quarterfinal",
+      "venue": "Stade de la Beaujoire",
+      "city": "Nantes",
+      "home_team": "Brazil",
+      "away_team": "Denmark",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Denmark",
+          "player": "Martin JORGENSEN",
+          "minute": "2"
+        },
+        {
+          "team": "Brazil",
+          "player": "BEBETO",
+          "minute": "10"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "25"
+        },
+        {
+          "team": "Denmark",
+          "player": "Brian LAUDRUP",
+          "minute": "50"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVALDO",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Denmark",
+          "player_on": "Stig TOFTING",
+          "player_off": "Allan NIELSEN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "BEBETO",
+          "minute": "64"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Ebbe SAND",
+          "player_off": "Peter MOLLER",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EMERSON",
+          "player_off": "LEONARDO",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ZE ROBERTO",
+          "player_off": "RIVALDO",
+          "minute": "87"
+        },
+        {
+          "team": "Denmark",
+          "player_on": "Michael SCHJONBERG",
+          "player_off": "Thomas HELVEG",
+          "minute": "87"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "CAFU",
+          "ALDAIR",
+          "JUNIOR BAIANO",
+          "ROBERTO CARLOS",
+          "CESAR SAMPAIO",
+          "DUNGA",
+          "LEONARDO",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ],
+        "away": [
+          "Peter SCHMEICHEL",
+          "Marc RIEPER",
+          "Jes HOGH",
+          "Jan HEINTZE",
+          "Thomas HELVEG",
+          "Soren COLDING",
+          "Allan NIELSEN",
+          "Michael LAUDRUP",
+          "Brian LAUDRUP",
+          "Peter MOLLER",
+          "Martin JORGENSEN"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-04",
+      "stage": "Quarterfinal",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Netherlands",
+      "away_team": "Argentina",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Patrick KLUIVERT",
+          "minute": "12"
+        },
+        {
+          "team": "Argentina",
+          "player": "Claudio LOPEZ",
+          "minute": "17"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Dennis BERGKAMP",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Marc OVERMARS",
+          "player_off": "Ronald DE BOER",
+          "minute": "64"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Mauricio PINEDA",
+          "player_off": "Matias ALMEYDA",
+          "minute": "68"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Abel BALBO",
+          "player_off": "Jose CHAMOT",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Michael REIZIGER",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Arthur NUMAN",
+          "Wim JONK",
+          "Ronald DE BOER",
+          "Phillip COCU",
+          "Edgar DAVIDS",
+          "Dennis BERGKAMP",
+          "Patrick KLUIVERT"
+        ],
+        "away": [
+          "Carlos ROA",
+          "Roberto AYALA",
+          "Jose CHAMOT",
+          "Roberto SENSINI",
+          "Javier ZANETTI",
+          "Matias ALMEYDA",
+          "Diego SIMEONE",
+          "Ariel ORTEGA",
+          "Juan VERON",
+          "Claudio LOPEZ",
+          "Gabriel BATISTUTA"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-04",
+      "stage": "Quarterfinal",
+      "venue": "Stade de Gerland",
+      "city": "Lyon",
+      "home_team": "Germany",
+      "away_team": "Croatia",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Robert JARNI",
+          "minute": "45+3"
+        },
+        {
+          "team": "Croatia",
+          "player": "Goran VLAOVIC",
+          "minute": "80"
+        },
+        {
+          "team": "Croatia",
+          "player": "Davor SUKER",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Germany",
+          "player_on": "Ulf KIRSTEN",
+          "player_off": "Thomas HAESSLER",
+          "minute": "69"
+        },
+        {
+          "team": "Germany",
+          "player_on": "Olaf MARSCHALL",
+          "player_off": "Didi HAMANN",
+          "minute": "79"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Silvio MARIC",
+          "player_off": "Goran VLAOVIC",
+          "minute": "83"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Andreas KOEPKE",
+          "Christian WOERNS",
+          "Juergen KOHLER",
+          "Joerg HEINRICH",
+          "Lothar MATTHAEUS",
+          "Thomas HAESSLER",
+          "Jens JEREMIES",
+          "Didi HAMANN",
+          "Juergen KLINSMANN",
+          "Oliver BIERHOFF",
+          "Michael TARNAT"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Igor STIMAC",
+          "Slaven BILIC",
+          "Zvonimir SOLDO",
+          "Dario SIMIC",
+          "Aljosa ASANOVIC",
+          "Zvonimir BOBAN",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Davor SUKER",
+          "Goran VLAOVIC"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-07",
+      "stage": "Semifinal",
+      "venue": "Stade Vélodrome",
+      "city": "Marseille",
+      "home_team": "Brazil",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "penalty_shootout": {
+        "home": 4,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RONALDO",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Patrick KLUIVERT",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Aron WINTER",
+          "player_off": "Michael REIZIGER",
+          "minute": "56"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "BEBETO",
+          "minute": "70"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Pierre VAN HOOIJDONK",
+          "player_off": "Boudewijn ZENDEN",
+          "minute": "75"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EMERSON",
+          "player_off": "LEONARDO",
+          "minute": "85"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Clarence SEEDORF",
+          "player_off": "Wim JONK",
+          "minute": "111"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "ALDAIR",
+          "JUNIOR BAIANO",
+          "ROBERTO CARLOS",
+          "ZE CARLOS II",
+          "CESAR SAMPAIO",
+          "DUNGA",
+          "LEONARDO",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ],
+        "away": [
+          "Edwin VAN DER SAR",
+          "Michael REIZIGER",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Wim JONK",
+          "Ronald DE BOER",
+          "Phillip COCU",
+          "Edgar DAVIDS",
+          "Dennis BERGKAMP",
+          "Patrick KLUIVERT",
+          "Boudewijn ZENDEN"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-08",
+      "stage": "Semifinal",
+      "venue": "Stade de France",
+      "city": "Saint-Denis",
+      "home_team": "France",
+      "away_team": "Croatia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Davor SUKER",
+          "minute": "46"
+        },
+        {
+          "team": "France",
+          "player": "Lilian THURAM",
+          "minute": "47"
+        },
+        {
+          "team": "France",
+          "player": "Lilian THURAM",
+          "minute": "70"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "France",
+          "player_on": "Thierry HENRY",
+          "player_off": "Christian KAREMBEU",
+          "minute": "31"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Silvio MARIC",
+          "player_off": "Zvonimir BOBAN",
+          "minute": "63"
+        },
+        {
+          "team": "France",
+          "player_on": "David TREZEGUET",
+          "player_off": "Stephane GUIVARCH",
+          "minute": "68"
+        },
+        {
+          "team": "France",
+          "player_on": "Frank LEBOEUF",
+          "player_off": "Youri DJORKAEFF",
+          "minute": "77"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Robert PROSINECKI",
+          "player_off": "Mario STANIC",
+          "minute": "89"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Laurent BLANC",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Christian KAREMBEU",
+          "Didier DESCHAMPS",
+          "Zinedine ZIDANE",
+          "Emmanuel PETIT",
+          "Youri DJORKAEFF",
+          "Stephane GUIVARCH"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Igor STIMAC",
+          "Slaven BILIC",
+          "Zvonimir SOLDO",
+          "Dario SIMIC",
+          "Aljosa ASANOVIC",
+          "Zvonimir BOBAN",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Davor SUKER",
+          "Goran VLAOVIC"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-11",
+      "stage": "Third-place match",
+      "venue": "Parc des Princes",
+      "city": "Paris",
+      "home_team": "Netherlands",
+      "away_team": "Croatia",
+      "score": {
+        "home": 1,
+        "away": 2
+      },
+      "scorers": [
+        {
+          "team": "Croatia",
+          "player": "Robert PROSINECKI",
+          "minute": "14"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Boudewijn ZENDEN",
+          "minute": "22"
+        },
+        {
+          "team": "Croatia",
+          "player": "Davor SUKER",
+          "minute": "36"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Marc OVERMARS",
+          "player_off": "Phillip COCU",
+          "minute": "46"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Pierre VAN HOOIJDONK",
+          "player_off": "Dennis BERGKAMP",
+          "minute": "58"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Goran VLAOVIC",
+          "player_off": "Robert PROSINECKI",
+          "minute": "79"
+        },
+        {
+          "team": "Croatia",
+          "player_on": "Igor TUDOR",
+          "player_off": "Zvonimir BOBAN",
+          "minute": "86"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "Edwin VAN DER SAR",
+          "Jaap STAM",
+          "Frank DE BOER",
+          "Arthur NUMAN",
+          "Wim JONK",
+          "Clarence SEEDORF",
+          "Phillip COCU",
+          "Edgar DAVIDS",
+          "Dennis BERGKAMP",
+          "Patrick KLUIVERT",
+          "Boudewijn ZENDEN"
+        ],
+        "away": [
+          "Drazen LADIC",
+          "Igor STIMAC",
+          "Slaven BILIC",
+          "Zvonimir SOLDO",
+          "Aljosa ASANOVIC",
+          "Robert PROSINECKI",
+          "Zvonimir BOBAN",
+          "Mario STANIC",
+          "Robert JARNI",
+          "Krunoslav JURCIC",
+          "Davor SUKER"
+        ]
+      }
+    },
+    {
+      "date": "1998-07-12",
+      "stage": "Final",
+      "venue": "Stade de France",
+      "city": "Saint-Denis",
+      "home_team": "Brazil",
+      "away_team": "France",
+      "score": {
+        "home": 0,
+        "away": 3
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Zinedine ZIDANE",
+          "minute": "27"
+        },
+        {
+          "team": "France",
+          "player": "Zinedine ZIDANE",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player": "Emmanuel PETIT",
+          "minute": "90+3"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "DENILSON",
+          "player_off": "LEONARDO",
+          "minute": "45+1"
+        },
+        {
+          "team": "France",
+          "player_on": "Alain BOGHOSSIAN",
+          "player_off": "Christian KAREMBEU",
+          "minute": "57"
+        },
+        {
+          "team": "France",
+          "player_on": "Christophe DUGARRY",
+          "player_off": "Stephane GUIVARCH",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EDMUNDO",
+          "player_off": "CESAR SAMPAIO",
+          "minute": "73"
+        },
+        {
+          "team": "France",
+          "player_on": "Patrick VIEIRA",
+          "player_off": "Youri DJORKAEFF",
+          "minute": "74"
+        }
+      ],
+      "lineup": {
+        "home": [
+          "TAFFAREL",
+          "CAFU",
+          "ALDAIR",
+          "JUNIOR BAIANO",
+          "CESAR SAMPAIO",
+          "ROBERTO CARLOS",
+          "DUNGA",
+          "LEONARDO",
+          "RONALDO",
+          "RIVALDO",
+          "BEBETO"
+        ],
+        "away": [
+          "Fabien BARTHEZ",
+          "Bixente LIZARAZU",
+          "Youri DJORKAEFF",
+          "Marcel DESAILLY",
+          "Lilian THURAM",
+          "Frank LEBOEUF",
+          "Didier DESCHAMPS",
+          "Zinedine ZIDANE",
+          "Christian KAREMBEU",
+          "Stephane GUIVARCH",
+          "Emmanuel PETIT"
+        ]
+      }
+    }
+  ]
+}

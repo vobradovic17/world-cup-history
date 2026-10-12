@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0c354a">
+  <meta name="description" content="Explore the national sides in the World Cup archive, from champions to teams whose best finish came in the group stage.">
+  <title>Teams | World Cup History</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="tournament.css">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="teams.css">
+  <script src="teams.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#team-directory">Skip to teams</a>
+  <header class="site-header">
+    <a class="wordmark" href="index.html#top" aria-label="World Cup History home"><span class="wordmark-mark" aria-hidden="true">◒</span><span>world cup<br><em>history</em></span></a>
+    <nav class="site-nav" aria-label="Primary navigation"><a href="index.html">Tournaments</a><a class="is-current" aria-current="page" href="teams.html">Teams</a><a href="players.html">Players</a></nav>
+  </header>
+  <main>
+    <div class="teams-content" id="team-directory">
+      <div class="teams-directory-intro intro" aria-labelledby="page-title">
+        <div class="teams-heading intro-copy">
+          <p class="teams-eyebrow eyebrow"><span class="teams-eyebrow-line eyebrow-line" aria-hidden="true"></span>A century of football (1930 - 2030)</p>
+          <h1 id="page-title">Every team.<br><em>Every Era.</em></h1>
+        </div>
+        <div class="intro-meta"><p>Explore the national sides in the World Cup archive, from the champions to teams whose best finish came in the group stage.</p></div>
+      </div>
+  <p class="visually-hidden" id="team-keyboard-help">Use the up and down arrow keys to move between teams. Press Enter or Space to open or close a team.</p>
+  <ol class="team-list team-list-unified" aria-describedby="team-keyboard-help">
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-1" aria-expanded="false" aria-controls="team-panel-1" data-team="Brazil"><span class="team-identity"><span class="team-name">Brazil</span><img class="team-national-flag" src="assets/team-flags/br.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="5 times">5×</span></span><span class="team-years"><span class="team-year-with-trophy">1958<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1962<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1970<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1994<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">2002<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-1" role="region" aria-labelledby="team-toggle-1" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-2" aria-expanded="false" aria-controls="team-panel-2" data-team="Germany"><span class="team-identity"><span class="team-name">Germany</span><img class="team-national-flag" src="assets/team-flags/de.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="4 times">4×</span></span><span class="team-years"><span class="team-year-with-trophy">1954<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1974<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1990<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">2014<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-2" role="region" aria-labelledby="team-toggle-2" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-3" aria-expanded="false" aria-controls="team-panel-3" data-team="Italy"><span class="team-identity"><span class="team-name">Italy</span><img class="team-national-flag" src="assets/team-flags/it.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="4 times">4×</span></span><span class="team-years"><span class="team-year-with-trophy">1934<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1938<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1982<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">2006<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-3" role="region" aria-labelledby="team-toggle-3" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-4" aria-expanded="false" aria-controls="team-panel-4" data-team="Argentina"><span class="team-identity"><span class="team-name">Argentina</span><img class="team-national-flag" src="assets/team-flags/ar.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years"><span class="team-year-with-trophy">1978<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1986<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">2022<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-4" role="region" aria-labelledby="team-toggle-4" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-5" aria-expanded="false" aria-controls="team-panel-5" data-team="France"><span class="team-identity"><span class="team-name">France</span><img class="team-national-flag" src="assets/team-flags/fr.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years"><span class="team-year-with-trophy">1998<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">2018<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-5" role="region" aria-labelledby="team-toggle-5" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-6" aria-expanded="false" aria-controls="team-panel-6" data-team="Uruguay"><span class="team-identity"><span class="team-name">Uruguay</span><img class="team-national-flag" src="assets/team-flags/uy.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years"><span class="team-year-with-trophy">1930<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">1950<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-6" role="region" aria-labelledby="team-toggle-6" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-7" aria-expanded="false" aria-controls="team-panel-7" data-team="Spain"><span class="team-identity"><span class="team-name">Spain</span><img class="team-national-flag" src="assets/team-flags/es.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years"><span class="team-year-with-trophy">2010<span class="team-year-trophy" aria-hidden="true">🏆</span></span> · <span class="team-year-with-trophy">2026<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-7" role="region" aria-labelledby="team-toggle-7" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-8" aria-expanded="false" aria-controls="team-panel-8" data-team="England"><span class="team-identity"><span class="team-name">England</span><img class="team-national-flag" src="assets/team-flags/gb-eng.svg" alt="" loading="lazy"></span><span class="team-finish">Champions <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years"><span class="team-year-with-trophy">1966<span class="team-year-trophy" aria-hidden="true">🏆</span></span></span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-8" role="region" aria-labelledby="team-toggle-8" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-9" aria-expanded="false" aria-controls="team-panel-9" data-team="Netherlands"><span class="team-identity"><span class="team-name">Netherlands</span><img class="team-national-flag" src="assets/team-flags/nl.svg" alt="" loading="lazy"></span><span class="team-finish">Runners-up <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years">1974 · 1978 · 2010</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-9" role="region" aria-labelledby="team-toggle-9" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-10" aria-expanded="false" aria-controls="team-panel-10" data-team="Hungary"><span class="team-identity"><span class="team-name">Hungary</span><img class="team-national-flag" src="assets/team-flags/hu.svg" alt="" loading="lazy"></span><span class="team-finish">Runners-up <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1938 · 1954</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-10" role="region" aria-labelledby="team-toggle-10" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-11" aria-expanded="false" aria-controls="team-panel-11" data-team="Czechoslovakia"><span class="team-identity"><span class="team-name">Czechoslovakia</span><img class="team-national-flag" src="assets/team-flags/cz.svg" alt="" loading="lazy"></span><span class="team-finish">Runners-up <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1934 · 1962</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-11" role="region" aria-labelledby="team-toggle-11" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-12" aria-expanded="false" aria-controls="team-panel-12" data-team="Sweden"><span class="team-identity"><span class="team-name">Sweden</span><img class="team-national-flag" src="assets/team-flags/se.svg" alt="" loading="lazy"></span><span class="team-finish">Runners-up <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1958</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-12" role="region" aria-labelledby="team-toggle-12" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-13" aria-expanded="false" aria-controls="team-panel-13" data-team="Croatia"><span class="team-identity"><span class="team-name">Croatia</span><img class="team-national-flag" src="assets/team-flags/hr.svg" alt="" loading="lazy"></span><span class="team-finish">Runners-up <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2018</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-13" role="region" aria-labelledby="team-toggle-13" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-14" aria-expanded="false" aria-controls="team-panel-14" data-team="Poland"><span class="team-identity"><span class="team-name">Poland</span><img class="team-national-flag" src="assets/team-flags/pl.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1974 · 1982</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-14" role="region" aria-labelledby="team-toggle-14" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-15" aria-expanded="false" aria-controls="team-panel-15" data-team="Austria"><span class="team-identity"><span class="team-name">Austria</span><img class="team-national-flag" src="assets/team-flags/at.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1954</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-15" role="region" aria-labelledby="team-toggle-15" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-16" aria-expanded="false" aria-controls="team-panel-16" data-team="Portugal"><span class="team-identity"><span class="team-name">Portugal</span><img class="team-national-flag" src="assets/team-flags/pt.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1966</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-16" role="region" aria-labelledby="team-toggle-16" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-17" aria-expanded="false" aria-controls="team-panel-17" data-team="Belgium"><span class="team-identity"><span class="team-name">Belgium</span><img class="team-national-flag" src="assets/team-flags/be.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2018</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-17" role="region" aria-labelledby="team-toggle-17" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-18" aria-expanded="false" aria-controls="team-panel-18" data-team="United States"><span class="team-identity"><span class="team-name">United States</span><img class="team-national-flag" src="assets/team-flags/us.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1930</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-18" role="region" aria-labelledby="team-toggle-18" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-19" aria-expanded="false" aria-controls="team-panel-19" data-team="Chile"><span class="team-identity"><span class="team-name">Chile</span><img class="team-national-flag" src="assets/team-flags/cl.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1962</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-19" role="region" aria-labelledby="team-toggle-19" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-20" aria-expanded="false" aria-controls="team-panel-20" data-team="Turkey"><span class="team-identity"><span class="team-name">Turkey</span><img class="team-national-flag" src="assets/team-flags/tr.svg" alt="" loading="lazy"></span><span class="team-finish">Third place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2002</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-20" role="region" aria-labelledby="team-toggle-20" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-21" aria-expanded="false" aria-controls="team-panel-21" data-team="Yugoslavia"><span class="team-identity"><span class="team-name">Yugoslavia</span><img class="team-national-flag" src="assets/team-flags/yugoslavia.svg" alt="" loading="lazy"></span><span class="team-finish">Fourth place <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1930 · 1962</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-21" role="region" aria-labelledby="team-toggle-21" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-22" aria-expanded="false" aria-controls="team-panel-22" data-team="Soviet Union"><span class="team-identity"><span class="team-name">Soviet Union</span><img class="team-national-flag" src="assets/team-flags/soviet-union.svg" alt="" loading="lazy"></span><span class="team-finish">Fourth place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1966</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-22" role="region" aria-labelledby="team-toggle-22" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-23" aria-expanded="false" aria-controls="team-panel-23" data-team="Bulgaria"><span class="team-identity"><span class="team-name">Bulgaria</span><img class="team-national-flag" src="assets/team-flags/bg.svg" alt="" loading="lazy"></span><span class="team-finish">Fourth place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1994</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-23" role="region" aria-labelledby="team-toggle-23" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-24" aria-expanded="false" aria-controls="team-panel-24" data-team="South Korea"><span class="team-identity"><span class="team-name">South Korea</span><img class="team-national-flag" src="assets/team-flags/kr.svg" alt="" loading="lazy"></span><span class="team-finish">Fourth place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2002</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-24" role="region" aria-labelledby="team-toggle-24" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-25" aria-expanded="false" aria-controls="team-panel-25" data-team="Morocco"><span class="team-identity"><span class="team-name">Morocco</span><img class="team-national-flag" src="assets/team-flags/ma.svg" alt="" loading="lazy"></span><span class="team-finish">Fourth place <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2022</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-25" role="region" aria-labelledby="team-toggle-25" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-26" aria-expanded="false" aria-controls="team-panel-26" data-team="Switzerland"><span class="team-identity"><span class="team-name">Switzerland</span><img class="team-national-flag" src="assets/team-flags/ch.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="4 times">4×</span></span><span class="team-years">1934 · 1938 · 1954 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-26" role="region" aria-labelledby="team-toggle-26" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-27" aria-expanded="false" aria-controls="team-panel-27" data-team="Mexico"><span class="team-identity"><span class="team-name">Mexico</span><img class="team-national-flag" src="assets/team-flags/mx.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1970 · 1986</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-27" role="region" aria-labelledby="team-toggle-27" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-28" aria-expanded="false" aria-controls="team-panel-28" data-team="Cuba"><span class="team-identity"><span class="team-name">Cuba</span><img class="team-national-flag" src="assets/team-flags/cu.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1938</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-28" role="region" aria-labelledby="team-toggle-28" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-29" aria-expanded="false" aria-controls="team-panel-29" data-team="Northern Ireland"><span class="team-identity"><span class="team-name">Northern Ireland</span><img class="team-national-flag" src="assets/team-flags/gb-nir.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1958</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-29" role="region" aria-labelledby="team-toggle-29" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-30" aria-expanded="false" aria-controls="team-panel-30" data-team="Wales"><span class="team-identity"><span class="team-name">Wales</span><img class="team-national-flag" src="assets/team-flags/gb-wls.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1958</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-30" role="region" aria-labelledby="team-toggle-30" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-31" aria-expanded="false" aria-controls="team-panel-31" data-team="North Korea"><span class="team-identity"><span class="team-name">North Korea</span><img class="team-national-flag" src="assets/team-flags/kp.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1966</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-31" role="region" aria-labelledby="team-toggle-31" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-32" aria-expanded="false" aria-controls="team-panel-32" data-team="Peru"><span class="team-identity"><span class="team-name">Peru</span><img class="team-national-flag" src="assets/team-flags/pe.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1970</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-32" role="region" aria-labelledby="team-toggle-32" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-33" aria-expanded="false" aria-controls="team-panel-33" data-team="Republic of Ireland"><span class="team-identity"><span class="team-name">Republic of Ireland</span><img class="team-national-flag" src="assets/team-flags/ie.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1990</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-33" role="region" aria-labelledby="team-toggle-33" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-34" aria-expanded="false" aria-controls="team-panel-34" data-team="Cameroon"><span class="team-identity"><span class="team-name">Cameroon</span><img class="team-national-flag" src="assets/team-flags/cm.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1990</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-34" role="region" aria-labelledby="team-toggle-34" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-35" aria-expanded="false" aria-controls="team-panel-35" data-team="Romania"><span class="team-identity"><span class="team-name">Romania</span><img class="team-national-flag" src="assets/team-flags/ro.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1994</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-35" role="region" aria-labelledby="team-toggle-35" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-36" aria-expanded="false" aria-controls="team-panel-36" data-team="Denmark"><span class="team-identity"><span class="team-name">Denmark</span><img class="team-national-flag" src="assets/team-flags/dk.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1998</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-36" role="region" aria-labelledby="team-toggle-36" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-37" aria-expanded="false" aria-controls="team-panel-37" data-team="Senegal"><span class="team-identity"><span class="team-name">Senegal</span><img class="team-national-flag" src="assets/team-flags/sn.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2002</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-37" role="region" aria-labelledby="team-toggle-37" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-38" aria-expanded="false" aria-controls="team-panel-38" data-team="Ukraine"><span class="team-identity"><span class="team-name">Ukraine</span><img class="team-national-flag" src="assets/team-flags/ua.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2006</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-38" role="region" aria-labelledby="team-toggle-38" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-39" aria-expanded="false" aria-controls="team-panel-39" data-team="Paraguay"><span class="team-identity"><span class="team-name">Paraguay</span><img class="team-national-flag" src="assets/team-flags/py.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2010</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-39" role="region" aria-labelledby="team-toggle-39" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-40" aria-expanded="false" aria-controls="team-panel-40" data-team="Ghana"><span class="team-identity"><span class="team-name">Ghana</span><img class="team-national-flag" src="assets/team-flags/gh.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2010</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-40" role="region" aria-labelledby="team-toggle-40" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-41" aria-expanded="false" aria-controls="team-panel-41" data-team="Colombia"><span class="team-identity"><span class="team-name">Colombia</span><img class="team-national-flag" src="assets/team-flags/co.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2014</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-41" role="region" aria-labelledby="team-toggle-41" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-42" aria-expanded="false" aria-controls="team-panel-42" data-team="Costa Rica"><span class="team-identity"><span class="team-name">Costa Rica</span><img class="team-national-flag" src="assets/team-flags/cr.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2014</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-42" role="region" aria-labelledby="team-toggle-42" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-43" aria-expanded="false" aria-controls="team-panel-43" data-team="Russia"><span class="team-identity"><span class="team-name">Russia</span><img class="team-national-flag" src="assets/team-flags/ru.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2018</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-43" role="region" aria-labelledby="team-toggle-43" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-44" aria-expanded="false" aria-controls="team-panel-44" data-team="Norway"><span class="team-identity"><span class="team-name">Norway</span><img class="team-national-flag" src="assets/team-flags/no.svg" alt="" loading="lazy"></span><span class="team-finish">Quarter-finals <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-44" role="region" aria-labelledby="team-toggle-44" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-45" aria-expanded="false" aria-controls="team-panel-45" data-team="East Germany"><span class="team-identity"><span class="team-name">East Germany</span><img class="team-national-flag" src="assets/team-flags/east-germany.svg" alt="" loading="lazy"></span><span class="team-finish">Second round <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1974</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-45" role="region" aria-labelledby="team-toggle-45" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-46" aria-expanded="false" aria-controls="team-panel-46" data-team="Japan"><span class="team-identity"><span class="team-name">Japan</span><img class="team-national-flag" src="assets/team-flags/jp.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="4 times">4×</span></span><span class="team-years">2002 · 2010 · 2018 · 2022</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-46" role="region" aria-labelledby="team-toggle-46" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-47" aria-expanded="false" aria-controls="team-panel-47" data-team="Nigeria"><span class="team-identity"><span class="team-name">Nigeria</span><img class="team-national-flag" src="assets/team-flags/ng.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years">1994 · 1998 · 2014</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-47" role="region" aria-labelledby="team-toggle-47" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-48" aria-expanded="false" aria-controls="team-panel-48" data-team="Australia"><span class="team-identity"><span class="team-name">Australia</span><img class="team-national-flag" src="assets/team-flags/au.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">2006 · 2022</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-48" role="region" aria-labelledby="team-toggle-48" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-49" aria-expanded="false" aria-controls="team-panel-49" data-team="Egypt"><span class="team-identity"><span class="team-name">Egypt</span><img class="team-national-flag" src="assets/team-flags/eg.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1934 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-49" role="region" aria-labelledby="team-toggle-49" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-50" aria-expanded="false" aria-controls="team-panel-50" data-team="Dutch East Indies"><span class="team-identity"><span class="team-name">Dutch East Indies</span><img class="team-national-flag" src="assets/team-flags/nl.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1938</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-50" role="region" aria-labelledby="team-toggle-50" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-51" aria-expanded="false" aria-controls="team-panel-51" data-team="Saudi Arabia"><span class="team-identity"><span class="team-name">Saudi Arabia</span><img class="team-national-flag" src="assets/team-flags/sa.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1994</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-51" role="region" aria-labelledby="team-toggle-51" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-52" aria-expanded="false" aria-controls="team-panel-52" data-team="Ecuador"><span class="team-identity"><span class="team-name">Ecuador</span><img class="team-national-flag" src="assets/team-flags/ec.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2006</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-52" role="region" aria-labelledby="team-toggle-52" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-53" aria-expanded="false" aria-controls="team-panel-53" data-team="Slovakia"><span class="team-identity"><span class="team-name">Slovakia</span><img class="team-national-flag" src="assets/team-flags/sk.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2010</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-53" role="region" aria-labelledby="team-toggle-53" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-54" aria-expanded="false" aria-controls="team-panel-54" data-team="Algeria"><span class="team-identity"><span class="team-name">Algeria</span><img class="team-national-flag" src="assets/team-flags/dz.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2014</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-54" role="region" aria-labelledby="team-toggle-54" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-55" aria-expanded="false" aria-controls="team-panel-55" data-team="Greece"><span class="team-identity"><span class="team-name">Greece</span><img class="team-national-flag" src="assets/team-flags/gr.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2014</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-55" role="region" aria-labelledby="team-toggle-55" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-56" aria-expanded="false" aria-controls="team-panel-56" data-team="Canada"><span class="team-identity"><span class="team-name">Canada</span><img class="team-national-flag" src="assets/team-flags/ca.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 16 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-56" role="region" aria-labelledby="team-toggle-56" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-57" aria-expanded="false" aria-controls="team-panel-57" data-team="South Africa"><span class="team-identity"><span class="team-name">South Africa</span><img class="team-national-flag" src="assets/team-flags/za.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 32 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-57" role="region" aria-labelledby="team-toggle-57" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-58" aria-expanded="false" aria-controls="team-panel-58" data-team="Ivory Coast"><span class="team-identity"><span class="team-name">Ivory Coast</span><img class="team-national-flag" src="assets/team-flags/ci.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 32 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-58" role="region" aria-labelledby="team-toggle-58" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-59" aria-expanded="false" aria-controls="team-panel-59" data-team="Bosnia and Herzegovina"><span class="team-identity"><span class="team-name">Bosnia and Herzegovina</span><img class="team-national-flag" src="assets/team-flags/ba.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 32 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-59" role="region" aria-labelledby="team-toggle-59" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-60" aria-expanded="false" aria-controls="team-panel-60" data-team="DR Congo"><span class="team-identity"><span class="team-name">DR Congo</span><img class="team-national-flag" src="assets/team-flags/cd.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 32 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-60" role="region" aria-labelledby="team-toggle-60" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-61" aria-expanded="false" aria-controls="team-panel-61" data-team="Cape Verde"><span class="team-identity"><span class="team-name">Cape Verde</span><img class="team-national-flag" src="assets/team-flags/cv.svg" alt="" loading="lazy"></span><span class="team-finish">Round of 32 <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-61" role="region" aria-labelledby="team-toggle-61" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-62" aria-expanded="false" aria-controls="team-panel-62" data-team="Scotland"><span class="team-identity"><span class="team-name">Scotland</span><img class="team-national-flag" src="assets/team-flags/gb-sct.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="9 times">9×</span></span><span class="team-years">1954 · 1958 · 1974 · 1978 · 1982 · 1986 · 1990 · 1998 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-62" role="region" aria-labelledby="team-toggle-62" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-63" aria-expanded="false" aria-controls="team-panel-63" data-team="Iran"><span class="team-identity"><span class="team-name">Iran</span><img class="team-national-flag" src="assets/team-flags/ir.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="7 times">7×</span></span><span class="team-years">1978 · 1998 · 2006 · 2014 · 2018 · 2022 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-63" role="region" aria-labelledby="team-toggle-63" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-64" aria-expanded="false" aria-controls="team-panel-64" data-team="Tunisia"><span class="team-identity"><span class="team-name">Tunisia</span><img class="team-national-flag" src="assets/team-flags/tn.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="7 times">7×</span></span><span class="team-years">1978 · 1998 · 2002 · 2006 · 2018 · 2022 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-64" role="region" aria-labelledby="team-toggle-64" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-65" aria-expanded="false" aria-controls="team-panel-65" data-team="Bolivia"><span class="team-identity"><span class="team-name">Bolivia</span><img class="team-national-flag" src="assets/team-flags/bo.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years">1930 · 1950 · 1994</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-65" role="region" aria-labelledby="team-toggle-65" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-66" aria-expanded="false" aria-controls="team-panel-66" data-team="Honduras"><span class="team-identity"><span class="team-name">Honduras</span><img class="team-national-flag" src="assets/team-flags/hn.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years">1982 · 2010 · 2014</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-66" role="region" aria-labelledby="team-toggle-66" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-67" aria-expanded="false" aria-controls="team-panel-67" data-team="Serbia"><span class="team-identity"><span class="team-name">Serbia</span><img class="team-national-flag" src="assets/team-flags/rs.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years">2010 · 2018 · 2022</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-67" role="region" aria-labelledby="team-toggle-67" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-68" aria-expanded="false" aria-controls="team-panel-68" data-team="New Zealand"><span class="team-identity"><span class="team-name">New Zealand</span><img class="team-national-flag" src="assets/team-flags/nz.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="3 times">3×</span></span><span class="team-years">1982 · 2010 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-68" role="region" aria-labelledby="team-toggle-68" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-69" aria-expanded="false" aria-controls="team-panel-69" data-team="El Salvador"><span class="team-identity"><span class="team-name">El Salvador</span><img class="team-national-flag" src="assets/team-flags/sv.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1970 · 1982</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-69" role="region" aria-labelledby="team-toggle-69" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-70" aria-expanded="false" aria-controls="team-panel-70" data-team="Slovenia"><span class="team-identity"><span class="team-name">Slovenia</span><img class="team-national-flag" src="assets/team-flags/si.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">2002 · 2010</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-70" role="region" aria-labelledby="team-toggle-70" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-71" aria-expanded="false" aria-controls="team-panel-71" data-team="Czech Republic"><span class="team-identity"><span class="team-name">Czech Republic</span><img class="team-national-flag" src="assets/team-flags/cz.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">2006 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-71" role="region" aria-labelledby="team-toggle-71" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-72" aria-expanded="false" aria-controls="team-panel-72" data-team="Qatar"><span class="team-identity"><span class="team-name">Qatar</span><img class="team-national-flag" src="assets/team-flags/qa.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">2022 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-72" role="region" aria-labelledby="team-toggle-72" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-73" aria-expanded="false" aria-controls="team-panel-73" data-team="Panama"><span class="team-identity"><span class="team-name">Panama</span><img class="team-national-flag" src="assets/team-flags/pa.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">2018 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-73" role="region" aria-labelledby="team-toggle-73" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-74" aria-expanded="false" aria-controls="team-panel-74" data-team="Iraq"><span class="team-identity"><span class="team-name">Iraq</span><img class="team-national-flag" src="assets/team-flags/iq.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1986 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-74" role="region" aria-labelledby="team-toggle-74" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-75" aria-expanded="false" aria-controls="team-panel-75" data-team="Haiti"><span class="team-identity"><span class="team-name">Haiti</span><img class="team-national-flag" src="assets/team-flags/ht.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="2 times">2×</span></span><span class="team-years">1974 · 2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-75" role="region" aria-labelledby="team-toggle-75" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-76" aria-expanded="false" aria-controls="team-panel-76" data-team="Israel"><span class="team-identity"><span class="team-name">Israel</span><img class="team-national-flag" src="assets/team-flags/il.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1970</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-76" role="region" aria-labelledby="team-toggle-76" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-77" aria-expanded="false" aria-controls="team-panel-77" data-team="Zaire"><span class="team-identity"><span class="team-name">Zaire</span><img class="team-national-flag" src="assets/team-flags/zaire.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1974</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-77" role="region" aria-labelledby="team-toggle-77" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-78" aria-expanded="false" aria-controls="team-panel-78" data-team="Kuwait"><span class="team-identity"><span class="team-name">Kuwait</span><img class="team-national-flag" src="assets/team-flags/kw.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1982</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-78" role="region" aria-labelledby="team-toggle-78" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-79" aria-expanded="false" aria-controls="team-panel-79" data-team="United Arab Emirates"><span class="team-identity"><span class="team-name">United Arab Emirates</span><img class="team-national-flag" src="assets/team-flags/ae.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1990</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-79" role="region" aria-labelledby="team-toggle-79" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-80" aria-expanded="false" aria-controls="team-panel-80" data-team="Jamaica"><span class="team-identity"><span class="team-name">Jamaica</span><img class="team-national-flag" src="assets/team-flags/jm.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">1998</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-80" role="region" aria-labelledby="team-toggle-80" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-81" aria-expanded="false" aria-controls="team-panel-81" data-team="China"><span class="team-identity"><span class="team-name">China</span><img class="team-national-flag" src="assets/team-flags/cn.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2002</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-81" role="region" aria-labelledby="team-toggle-81" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-82" aria-expanded="false" aria-controls="team-panel-82" data-team="Angola"><span class="team-identity"><span class="team-name">Angola</span><img class="team-national-flag" src="assets/team-flags/ao.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2006</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-82" role="region" aria-labelledby="team-toggle-82" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-83" aria-expanded="false" aria-controls="team-panel-83" data-team="Trinidad and Tobago"><span class="team-identity"><span class="team-name">Trinidad and Tobago</span><img class="team-national-flag" src="assets/team-flags/tt.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2006</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-83" role="region" aria-labelledby="team-toggle-83" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-84" aria-expanded="false" aria-controls="team-panel-84" data-team="Togo"><span class="team-identity"><span class="team-name">Togo</span><img class="team-national-flag" src="assets/team-flags/tg.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2006</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-84" role="region" aria-labelledby="team-toggle-84" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-85" aria-expanded="false" aria-controls="team-panel-85" data-team="Serbia and Montenegro"><span class="team-identity"><span class="team-name">Serbia and Montenegro</span><img class="team-national-flag" src="assets/team-flags/serbia-montenegro.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2006</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-85" role="region" aria-labelledby="team-toggle-85" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-86" aria-expanded="false" aria-controls="team-panel-86" data-team="Iceland"><span class="team-identity"><span class="team-name">Iceland</span><img class="team-national-flag" src="assets/team-flags/is.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2018</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-86" role="region" aria-labelledby="team-toggle-86" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-87" aria-expanded="false" aria-controls="team-panel-87" data-team="Curaçao"><span class="team-identity"><span class="team-name">Curaçao</span><img class="team-national-flag" src="assets/team-flags/cw.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-87" role="region" aria-labelledby="team-toggle-87" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-88" aria-expanded="false" aria-controls="team-panel-88" data-team="Jordan"><span class="team-identity"><span class="team-name">Jordan</span><img class="team-national-flag" src="assets/team-flags/jo.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-88" role="region" aria-labelledby="team-toggle-88" hidden></div>
+    </li>
+    <li class="team-item">
+      <button class="team-row" type="button" id="team-toggle-89" aria-expanded="false" aria-controls="team-panel-89" data-team="Uzbekistan"><span class="team-identity"><span class="team-name">Uzbekistan</span><img class="team-national-flag" src="assets/team-flags/uz.svg" alt="" loading="lazy"></span><span class="team-finish">Group stage <span class="team-finish-count" aria-label="1 time">1×</span></span><span class="team-years">2026</span><span class="team-chevron" aria-hidden="true">⌄</span></button>
+      <div class="team-panel" id="team-panel-89" role="region" aria-labelledby="team-toggle-89" hidden></div>
+    </li>
+  </ol>
+    </div>
+  </main>
+  <footer class="site-footer"><span>World Cup History © 2026</span><span>Made for the curious</span><a href="index.html#tournament-timeline">Explore tournaments <span aria-hidden="true">↗</span></a></footer>
+</body>
+</html>

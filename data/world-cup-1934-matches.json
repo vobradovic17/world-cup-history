@@ -1,0 +1,1112 @@
+{
+  "tournament": "FIFA World Cup 1934",
+  "host_country": "Italy",
+  "matches_played": 17,
+  "substitution_policy": "No in-match substitutions were permitted in the 1934 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.rsssf.org/tables/34full.html",
+    "https://fbref.com/en/comps/1/1934/schedule/1934-World-Cup-Scores-and-Fixtures",
+    "https://github.com/openfootball/worldcup.json/blob/master/1934/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio del PNF",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "United States",
+      "score": {
+        "home": 7,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Giampiero COMBI",
+          "Luigi ALLEMANDI",
+          "Virginio ROSETTA",
+          "Luigi BERTOLINI",
+          "Giovanni FERRARI",
+          "Giuseppe MEAZZA",
+          "Luis MONTI",
+          "Mario PIZZIOLO",
+          "Raimundo ORSI",
+          "Angelo SCHIAVIO",
+          "Anfilogino GUARISI"
+        ],
+        "away": [
+          "Julius HJULIAN",
+          "Ed CZERKIEWICZ",
+          "George MOORHOUSE",
+          "Peter PIETRAS",
+          "Walter DICK",
+          "Aldo DONELLI",
+          "Tom FLORIE",
+          "Billy GONSALVES",
+          "Bill McLEAN",
+          "Werner NILSEN",
+          "Francis RYAN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Angelo SCHIAVIO",
+          "minute": "18"
+        },
+        {
+          "team": "Italy",
+          "player": "Raimundo ORSI",
+          "minute": "20"
+        },
+        {
+          "team": "Italy",
+          "player": "Angelo SCHIAVIO",
+          "minute": "29"
+        },
+        {
+          "team": "United States",
+          "player": "Aldo DONELLI",
+          "minute": "57"
+        },
+        {
+          "team": "Italy",
+          "player": "Giovanni FERRARI",
+          "minute": "63"
+        },
+        {
+          "team": "Italy",
+          "player": "Angelo SCHIAVIO",
+          "minute": "64"
+        },
+        {
+          "team": "Italy",
+          "player": "Raimundo ORSI",
+          "minute": "69"
+        },
+        {
+          "team": "Italy",
+          "player": "Giuseppe MEAZZA",
+          "minute": "90"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio Littorio",
+      "city": "Trieste",
+      "home_team": "Czechoslovakia",
+      "away_team": "Romania",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Frantisek PLANICKA",
+          "Josef CTYROKY",
+          "Ladislav ZENISEK",
+          "Stefan CAMBAL",
+          "Josef KOSTALEK",
+          "Rudolf KRCIL",
+          "Oldrich NEJEDLY",
+          "Antonin PUC",
+          "Frantisek JUNEK",
+          "Josef SILNY",
+          "Jiri SOBOTKA"
+        ],
+        "away": [
+          "William ZOMBORY",
+          "Gheorghe ALBU",
+          "Rudolf KOTORMANY",
+          "Vasile DEHELEANU",
+          "Josif MORAVETZ",
+          "Emerich VOGL",
+          "Silviu BINDEA",
+          "Iuliu BODOLA",
+          "Stefan DOBAY",
+          "Nicolae KOVACS",
+          "Gratian SEPI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Stefan DOBAY",
+          "minute": "11"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Antonin PUC",
+          "minute": "50"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "67"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio Giovanni Berta",
+      "city": "Florence",
+      "home_team": "Germany",
+      "away_team": "Belgium",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Willibald KRESS",
+          "Sigmund HARINGER",
+          "Paul JANES",
+          "Hans SCHWARTZ",
+          "Paul ZIELINSKI",
+          "Edmund CONEN",
+          "Karl HOHMANN",
+          "Stanislaus KOBIERSKI",
+          "Ernest LEHNER",
+          "Otto SIFFLING",
+          "Fritz SZEPAN"
+        ],
+        "away": [
+          "Andre VAN DE WEYER",
+          "Costant JOACIM",
+          "Philibert SMELLINCKX",
+          "Jean CLAESSENS",
+          "Frans PEERAER",
+          "Felix WELKENHUYSEN",
+          "Jean CAPELLE",
+          "Francois DE VRIES",
+          "Laurent GRIMMONPREZ",
+          "Bernard VOORHOOF",
+          "Albert HEREMANS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Stanislaus KOBIERSKI",
+          "minute": "25"
+        },
+        {
+          "team": "Belgium",
+          "player": "Bernard VOORHOOF",
+          "minute": "29"
+        },
+        {
+          "team": "Belgium",
+          "player": "Bernard VOORHOOF",
+          "minute": "43"
+        },
+        {
+          "team": "Germany",
+          "player": "Otto SIFFLING",
+          "minute": "49"
+        },
+        {
+          "team": "Germany",
+          "player": "Edmund CONEN",
+          "minute": "66"
+        },
+        {
+          "team": "Germany",
+          "player": "Edmund CONEN",
+          "minute": "70"
+        },
+        {
+          "team": "Germany",
+          "player": "Edmund CONEN",
+          "minute": "87"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio Mussolini",
+      "city": "Turin",
+      "home_team": "Austria",
+      "away_team": "France",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Peter PLATZER",
+          "Karl SESTA",
+          "Franz CISAR",
+          "Josef SMISTIK",
+          "Hans URBANEK",
+          "Franz WAGNER",
+          "Josef BICAN",
+          "Toni SCHALL",
+          "Matthias SINDELAR",
+          "Rudi VIERTL",
+          "Karl ZISCHEK"
+        ],
+        "away": [
+          "Alex THEPOT",
+          "Jacques MAIRESSE",
+          "Etienne MATTLER",
+          "Edmond DELFOUR",
+          "Noel LIETAER",
+          "Roger RIO",
+          "Georges VERRIEST",
+          "Joseph ALCAZAR",
+          "Alfred ASTON",
+          "Fritz KELLER",
+          "Jean NICOLAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Jean NICOLAS",
+          "minute": "18"
+        },
+        {
+          "team": "Austria",
+          "player": "Matthias SINDELAR",
+          "minute": "44"
+        },
+        {
+          "team": "Austria",
+          "player": "Toni SCHALL",
+          "minute": "93"
+        },
+        {
+          "team": "Austria",
+          "player": "Josef BICAN",
+          "minute": "109"
+        },
+        {
+          "team": "France",
+          "player": "Georges VERRIEST",
+          "minute": "116",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio Marassi",
+      "city": "Genoa",
+      "home_team": "Spain",
+      "away_team": "Brazil",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ricardo ZAMORA",
+          "I QUINCOCES",
+          "CIRIACO",
+          "MARCULETA",
+          "CILAURREN",
+          "IRARAGORRI",
+          "Simon LECUE",
+          "Jose MUGUERZA",
+          "GOROSTIZA",
+          "LAFUENTE",
+          "Isidro LANGARA"
+        ],
+        "away": [
+          "PEDROSA",
+          "LUIZ LUZ",
+          "SYLVIO HOFFMANN",
+          "CANALLI",
+          "TINOCO",
+          "MARTIM",
+          "WALDEMAR DE BRITTO",
+          "PATESKO",
+          "ARMANDINHO",
+          "LEONIDAS",
+          "LUISINHO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "IRARAGORRI",
+          "minute": "18",
+          "penalty": true
+        },
+        {
+          "team": "Spain",
+          "player": "IRARAGORRI",
+          "minute": "25"
+        },
+        {
+          "team": "Spain",
+          "player": "Isidro LANGARA",
+          "minute": "29"
+        },
+        {
+          "team": "Brazil",
+          "player": "LEONIDAS",
+          "minute": "55"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Ricardo Zamora saved a penalty from Waldemar de Brito in the 62nd minute."
+      ]
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio San Siro",
+      "city": "Milan",
+      "home_team": "Switzerland",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Frank SECHEHAYE",
+          "Severino MINELLI",
+          "Walter WEILER",
+          "Albert GUINCHARD",
+          "Ernst HUFSCHMID",
+          "Fernand JACCARD",
+          "Andre ABEGGLEN",
+          "Giuseppe BOSSI",
+          "Leopold KIELHOLZ",
+          "Raymond PASELLO",
+          "Willy VON KAENEL"
+        ],
+        "away": [
+          "Gejus VAN DER MEULEN",
+          "Sjef VAN RUN",
+          "Mauk WEBER",
+          "Puck VAN HEEL",
+          "Willem ANDERIESEN",
+          "Henk PELLIKAAN",
+          "Beb BAKHUYS",
+          "Kick SMIT",
+          "Joop VAN NELLEN",
+          "Leen VENTE",
+          "Frank WELS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Leopold KIELHOLZ",
+          "minute": "7"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Kick SMIT",
+          "minute": "29"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Leopold KIELHOLZ",
+          "minute": "43"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Andre ABEGGLEN",
+          "minute": "66"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Leen VENTE",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio Littoriale",
+      "city": "Bologna",
+      "home_team": "Sweden",
+      "away_team": "Argentina",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Anders RYDBERG",
+          "Nils AXELSSON",
+          "Sven ANDERSSON",
+          "Ernst ANDERSSON",
+          "Rune CARLSSON",
+          "Nils ROSEN",
+          "Gosta DUNKER",
+          "Ragnar GUSTAVSSON",
+          "Sven JONASSON",
+          "Tore KELLER",
+          "Knut KROON"
+        ],
+        "away": [
+          "Hector FRESCHI",
+          "Ernesto BELIS",
+          "Juan PEDEVILLA",
+          "Arcadio LOPEZ",
+          "Jose NEHIN",
+          "Costantino URBIETA SOSA",
+          "Alfredo DE VINCENZI",
+          "Alberto GALATEO",
+          "Roberto IRANETA",
+          "Francisco RUA",
+          "Federico WILDE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Ernesto BELIS",
+          "minute": "4"
+        },
+        {
+          "team": "Sweden",
+          "player": "Sven JONASSON",
+          "minute": "9"
+        },
+        {
+          "team": "Argentina",
+          "player": "Alberto GALATEO",
+          "minute": "48"
+        },
+        {
+          "team": "Sweden",
+          "player": "Sven JONASSON",
+          "minute": "67"
+        },
+        {
+          "team": "Sweden",
+          "player": "Knut KROON",
+          "minute": "79"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-27",
+      "stage": "Round of 16",
+      "venue": "Stadio Ascarelli",
+      "city": "Naples",
+      "home_team": "Hungary",
+      "away_team": "Egypt",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Antal SZABO",
+          "Gyula FUTO",
+          "Laszlo STERNBERG",
+          "Gyula LAZAR",
+          "Istvan PALOTAS",
+          "Gyorgy SZUCS",
+          "Imre MARKOS",
+          "Gabor SZABO",
+          "Pal TELEKI",
+          "Geza TOLDI",
+          "Jeno VINCZE"
+        ],
+        "away": [
+          "Kamel MASOUD",
+          "Ali Mohammed EL KAF",
+          "Ismail RAFA AT",
+          "Abdel SHARLI",
+          "Hassan EL FAR",
+          "Mohamed Hassan HELMI",
+          "Mohamed LATIF",
+          "Hassan RAGHAB",
+          "Mostafa KAMEL TAHA",
+          "Abdel Rahman FAWZI",
+          "Mahmoud MOUKHTAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Pal TELEKI",
+          "minute": "11"
+        },
+        {
+          "team": "Hungary",
+          "player": "Geza TOLDI",
+          "minute": "31"
+        },
+        {
+          "team": "Egypt",
+          "player": "Abdel Rahman FAWZI",
+          "minute": "35"
+        },
+        {
+          "team": "Egypt",
+          "player": "Abdel Rahman FAWZI",
+          "minute": "39"
+        },
+        {
+          "team": "Hungary",
+          "player": "Jeno VINCZE",
+          "minute": "53"
+        },
+        {
+          "team": "Hungary",
+          "player": "Geza TOLDI",
+          "minute": "61"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-31",
+      "stage": "Quarter-final",
+      "venue": "Stadio San Siro",
+      "city": "Milan",
+      "home_team": "Germany",
+      "away_team": "Sweden",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Willibald KRESS",
+          "Willy BUSCH",
+          "Sigmund HARINGER",
+          "Rudolf GRAMLICH",
+          "Paul ZIELINSKI",
+          "Edmund CONEN",
+          "Karl HOHMANN",
+          "Stanislaus KOBIERSKI",
+          "Ernest LEHNER",
+          "Otto SIFFLING",
+          "Fritz SZEPAN"
+        ],
+        "away": [
+          "Anders RYDBERG",
+          "Nils AXELSSON",
+          "Sven ANDERSSON",
+          "Ernst ANDERSSON",
+          "Rune CARLSSON",
+          "Nils ROSEN",
+          "Gosta DUNKER",
+          "Ragnar GUSTAVSSON",
+          "Sven JONASSON",
+          "Tore KELLER",
+          "Knut KROON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Karl HOHMANN",
+          "minute": "60"
+        },
+        {
+          "team": "Germany",
+          "player": "Karl HOHMANN",
+          "minute": "63"
+        },
+        {
+          "team": "Sweden",
+          "player": "Gosta DUNKER",
+          "minute": "82"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-05-31",
+      "stage": "Quarter-final",
+      "venue": "Stadio Littoriale",
+      "city": "Bologna",
+      "home_team": "Austria",
+      "away_team": "Hungary",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Peter PLATZER",
+          "Karl SESTA",
+          "Franz CISAR",
+          "Josef SMISTIK",
+          "Hans URBANEK",
+          "Franz WAGNER",
+          "Josef BICAN",
+          "Matthias SINDELAR",
+          "Johann HORVATH",
+          "Rudi VIERTL",
+          "Karl ZISCHEK"
+        ],
+        "away": [
+          "Antal SZABO",
+          "Laszlo STERNBERG",
+          "Jozsef VAGO",
+          "Istvan PALOTAS",
+          "Antal SZALAY",
+          "Gyorgy SZUCS",
+          "Gyorgy SAROSI",
+          "Istvan AVAR",
+          "Tibor KEMENY",
+          "Imre MARKOS",
+          "Geza TOLDI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Johann HORVATH",
+          "minute": "8"
+        },
+        {
+          "team": "Austria",
+          "player": "Karl ZISCHEK",
+          "minute": "51"
+        },
+        {
+          "team": "Hungary",
+          "player": "Gyorgy SAROSI",
+          "minute": "60",
+          "penalty": true
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Hungary's Markos was sent off in the 80th minute."
+      ]
+    },
+    {
+      "date": "1934-05-31",
+      "stage": "Quarter-final",
+      "venue": "Stadio Giovanni Berta",
+      "city": "Florence",
+      "home_team": "Italy",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Giampiero COMBI",
+          "Luigi ALLEMANDI",
+          "Eraldo MONZEGLIO",
+          "Armando CASTELLAZZI",
+          "Giovanni FERRARI",
+          "Giuseppe MEAZZA",
+          "Luis MONTI",
+          "Mario PIZZIOLO",
+          "Enrique GUAITA",
+          "Raimundo ORSI",
+          "Angelo SCHIAVIO"
+        ],
+        "away": [
+          "Ricardo ZAMORA",
+          "I QUINCOCES",
+          "CIRIACO",
+          "CILAURREN",
+          "IRARAGORRI",
+          "Jose MUGUERZA",
+          "FEDE",
+          "GOROSTIZA",
+          "LAFUENTE",
+          "Isidro LANGARA",
+          "Luis REGUEIRO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Luis REGUEIRO",
+          "minute": "30"
+        },
+        {
+          "team": "Italy",
+          "player": "Giovanni FERRARI",
+          "minute": "44"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The match was replayed the following day because it remained level after extra time."
+      ]
+    },
+    {
+      "date": "1934-05-31",
+      "stage": "Quarter-final",
+      "venue": "Stadio Mussolini",
+      "city": "Turin",
+      "home_team": "Czechoslovakia",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Frantisek PLANICKA",
+          "Josef CTYROKY",
+          "Ladislav ZENISEK",
+          "Stefan CAMBAL",
+          "Josef KOSTALEK",
+          "Rudolf KRCIL",
+          "Oldrich NEJEDLY",
+          "Antonin PUC",
+          "Frantisek JUNEK",
+          "Jiri SOBOTKA",
+          "Frantisek SVOBODA"
+        ],
+        "away": [
+          "Frank SECHEHAYE",
+          "Severino MINELLI",
+          "Walter WEILER",
+          "Albert GUINCHARD",
+          "Ernst HUFSCHMID",
+          "Fernand JACCARD",
+          "Andre ABEGGLEN",
+          "Alfred JAECK",
+          "Willy JAEGGI",
+          "Leopold KIELHOLZ",
+          "Willy VON KAENEL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Leopold KIELHOLZ",
+          "minute": "18"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Frantisek SVOBODA",
+          "minute": "24"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Jiri SOBOTKA",
+          "minute": "49"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Willy JAEGGI",
+          "minute": "78"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "82"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-06-01",
+      "stage": "Quarter-final replay",
+      "venue": "Stadio Giovanni Berta",
+      "city": "Florence",
+      "home_team": "Italy",
+      "away_team": "Spain",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Giampiero COMBI",
+          "Luigi ALLEMANDI",
+          "Eraldo MONZEGLIO",
+          "Luigi BERTOLINI",
+          "Giuseppe MEAZZA",
+          "Luis MONTI",
+          "Attilio FERRARIS",
+          "Felice BOREL",
+          "Atilio DEMARIA",
+          "Enrique GUAITA",
+          "Raimundo ORSI"
+        ],
+        "away": [
+          "Juan NOGUES",
+          "I QUINCOCES",
+          "ZABALO",
+          "CILAURREN",
+          "Simon LECUE",
+          "Jose MUGUERZA",
+          "CRISANTO BOSCH",
+          "I Guillermo CAMPANAL",
+          "CHACHO",
+          "Luis REGUEIRO",
+          "Martin VENTOLRA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Giuseppe MEAZZA",
+          "minute": "11"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-06-03",
+      "stage": "Semi-final",
+      "venue": "Stadio San Siro",
+      "city": "Milan",
+      "home_team": "Italy",
+      "away_team": "Austria",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Giampiero COMBI",
+          "Luigi ALLEMANDI",
+          "Eraldo MONZEGLIO",
+          "Luigi BERTOLINI",
+          "Giovanni FERRARI",
+          "Attilio FERRARIS",
+          "Giuseppe MEAZZA",
+          "Luis MONTI",
+          "Enrique GUAITA",
+          "Raimundo ORSI",
+          "Angelo SCHIAVIO"
+        ],
+        "away": [
+          "Peter PLATZER",
+          "Karl SESTA",
+          "Franz CISAR",
+          "Josef SMISTIK",
+          "Hans URBANEK",
+          "Franz WAGNER",
+          "Josef BICAN",
+          "Toni SCHALL",
+          "Matthias SINDELAR",
+          "Rudi VIERTL",
+          "Karl ZISCHEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Enrique GUAITA",
+          "minute": "19"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-06-03",
+      "stage": "Semi-final",
+      "venue": "Stadio del PNF",
+      "city": "Rome",
+      "home_team": "Czechoslovakia",
+      "away_team": "Germany",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Frantisek PLANICKA",
+          "Josef CTYROKY",
+          "Jaroslav BURGR",
+          "Stefan CAMBAL",
+          "Josef KOSTALEK",
+          "Rudolf KRCIL",
+          "Oldrich NEJEDLY",
+          "Antonin PUC",
+          "Frantisek JUNEK",
+          "Jiri SOBOTKA",
+          "Frantisek SVOBODA"
+        ],
+        "away": [
+          "Willibald KRESS",
+          "Willy BUSCH",
+          "Sigmund HARINGER",
+          "Paul ZIELINSKI",
+          "Jakob BENDER",
+          "Edmund CONEN",
+          "Stanislaus KOBIERSKI",
+          "Ernest LEHNER",
+          "Rudolf NOACK",
+          "Otto SIFFLING",
+          "Fritz SZEPAN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "21"
+        },
+        {
+          "team": "Germany",
+          "player": "Rudolf NOACK",
+          "minute": "62"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "69"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player": "Oldrich NEJEDLY",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some early sources credited the second Czechoslovak goal to Krcil; FIFA later recognised it as Nejedlý's."
+      ]
+    },
+    {
+      "date": "1934-06-07",
+      "stage": "Third-place match",
+      "venue": "Stadio Ascarelli",
+      "city": "Naples",
+      "home_team": "Germany",
+      "away_team": "Austria",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Hans JAKOB",
+          "Willy BUSCH",
+          "Paul JANES",
+          "Reinhold MUENZENBERG",
+          "Paul ZIELINSKI",
+          "Jakob BENDER",
+          "Edmund CONEN",
+          "Mathias HEIDEMANN",
+          "Ernest LEHNER",
+          "Otto SIFFLING",
+          "Fritz SZEPAN"
+        ],
+        "away": [
+          "Peter PLATZER",
+          "Karl SESTA",
+          "Franz CISAR",
+          "Josef SMISTIK",
+          "Hans URBANEK",
+          "Franz WAGNER",
+          "Josef BICAN",
+          "Georg BRAUN",
+          "Johann HORVATH",
+          "Rudi VIERTL",
+          "Karl ZISCHEK"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Germany",
+          "player": "Ernest LEHNER",
+          "minute": "1"
+        },
+        {
+          "team": "Germany",
+          "player": "Edmund CONEN",
+          "minute": "27"
+        },
+        {
+          "team": "Austria",
+          "player": "Johann HORVATH",
+          "minute": "28"
+        },
+        {
+          "team": "Germany",
+          "player": "Ernest LEHNER",
+          "minute": "42"
+        },
+        {
+          "team": "Austria",
+          "player": "Karl SESTA",
+          "minute": "54"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1934-06-10",
+      "stage": "Final",
+      "venue": "Stadio del PNF",
+      "city": "Rome",
+      "home_team": "Italy",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Giampiero COMBI",
+          "Luigi ALLEMANDI",
+          "Eraldo MONZEGLIO",
+          "Luigi BERTOLINI",
+          "Giovanni FERRARI",
+          "Attilio FERRARIS",
+          "Giuseppe MEAZZA",
+          "Luis MONTI",
+          "Enrique GUAITA",
+          "Raimundo ORSI",
+          "Angelo SCHIAVIO"
+        ],
+        "away": [
+          "Frantisek PLANICKA",
+          "Josef CTYROKY",
+          "Ladislav ZENISEK",
+          "Stefan CAMBAL",
+          "Josef KOSTALEK",
+          "Rudolf KRCIL",
+          "Oldrich NEJEDLY",
+          "Antonin PUC",
+          "Frantisek JUNEK",
+          "Jiri SOBOTKA",
+          "Frantisek SVOBODA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Antonin PUC",
+          "minute": "71"
+        },
+        {
+          "team": "Italy",
+          "player": "Raimundo ORSI",
+          "minute": "81"
+        },
+        {
+          "team": "Italy",
+          "player": "Angelo SCHIAVIO",
+          "minute": "95"
+        }
+      ],
+      "substitutions": []
+    }
+  ]
+}

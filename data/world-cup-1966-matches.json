@@ -1,0 +1,1859 @@
+{
+  "tournament": "FIFA World Cup 1966",
+  "host_country": "England",
+  "matches_played": 32,
+  "format": "Four first-round groups of four teams, followed by quarter-finals, semi-finals, a third-place match and a final.",
+  "substitution_policy": "No in-match substitutions were permitted in the 1966 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.rsssf.org/tables/66full.html",
+    "https://www.rsssf.org/tables/66f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1966/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1966-07-11",
+      "stage": "Group A",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "England",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "George COHEN",
+          "Ray WILSON",
+          "Jack CHARLTON",
+          "Bobby MOORE",
+          "Nobby STILES",
+          "Alan BALL",
+          "Jimmy GREAVES",
+          "Bobby CHARLTON",
+          "John CONNELLY",
+          "Roger HUNT"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Horacio TROCHE",
+          "Jorge MANICERA",
+          "Nestor GONCALVES",
+          "Luis UBINA",
+          "Omar CAETANO",
+          "Julio CORTES",
+          "Hector SILVA",
+          "Pedro ROCHA",
+          "Domingo PEREZ",
+          "Milton VIERA"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-13",
+      "stage": "Group A",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "France",
+      "away_team": "Mexico",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Marcel AUBOUR",
+          "Bernard BOSQUIER",
+          "Robert BUDZYNSKI",
+          "Gabriel DE MICHELE",
+          "Jean DJORKAEFF",
+          "Marcel ARTELESA",
+          "Joseph BONNEL",
+          "Robert HERBIN",
+          "Nestor COMBIN",
+          "Philippe GONDET",
+          "Gerard HAUSSER"
+        ],
+        "away": [
+          "Ignacio CALDERON",
+          "Arturo CHAIREZ",
+          "Gustavo PENA",
+          "Gabriel NUNEZ",
+          "Isidoro DIAZ",
+          "Guillermo HERNANDEZ",
+          "Magdaleno MERCADO",
+          "Aaron PADILLA",
+          "Javier FRAGOSO",
+          "Salvador REYES",
+          "Enrique BORJA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Enrique BORJA",
+          "minute": "48"
+        },
+        {
+          "team": "France",
+          "player": "Gerard HAUSSER",
+          "minute": "62"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-15",
+      "stage": "Group A",
+      "venue": "White City",
+      "city": "London",
+      "home_team": "Uruguay",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ladislao MAZURKIEWICZ",
+          "Horacio TROCHE",
+          "Jorge MANICERA",
+          "Nestor GONCALVES",
+          "Luis UBINA",
+          "Omar CAETANO",
+          "Julio CORTES",
+          "Jose SASIA",
+          "Pedro ROCHA",
+          "Domingo PEREZ",
+          "Milton VIERA"
+        ],
+        "away": [
+          "Marcel AUBOUR",
+          "Bernard BOSQUIER",
+          "Robert BUDZYNSKI",
+          "Jean DJORKAEFF",
+          "Marcel ARTELESA",
+          "Joseph BONNEL",
+          "Yves HERBERT",
+          "Hector DE BOURGOING",
+          "Philippe GONDET",
+          "Gerard HAUSSER",
+          "Jacques SIMON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Hector DE BOURGOING",
+          "minute": "15",
+          "penalty": true
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pedro ROCHA",
+          "minute": "26"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Julio CORTES",
+          "minute": "31"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-16",
+      "stage": "Group A",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "England",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "George COHEN",
+          "Ray WILSON",
+          "Jack CHARLTON",
+          "Bobby MOORE",
+          "Nobby STILES",
+          "Martin PETERS",
+          "Jimmy GREAVES",
+          "Bobby CHARLTON",
+          "Terry PAINE",
+          "Roger HUNT"
+        ],
+        "away": [
+          "Ignacio CALDERON",
+          "Arturo CHAIREZ",
+          "Gustavo PENA",
+          "Jesus DEL MURO",
+          "Ignacio JAUREGUI",
+          "Gabriel NUNEZ",
+          "Isidoro DIAZ",
+          "Guillermo HERNANDEZ",
+          "Aaron PADILLA",
+          "Salvador REYES",
+          "Enrique BORJA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Bobby CHARLTON",
+          "minute": "37"
+        },
+        {
+          "team": "England",
+          "player": "Roger HUNT",
+          "minute": "75"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-19",
+      "stage": "Group A",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "Uruguay",
+      "away_team": "Mexico",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ladislao MAZURKIEWICZ",
+          "Horacio TROCHE",
+          "Jorge MANICERA",
+          "Nestor GONCALVES",
+          "Luis UBINA",
+          "Omar CAETANO",
+          "Julio CORTES",
+          "Jose SASIA",
+          "Pedro ROCHA",
+          "Domingo PEREZ",
+          "Milton VIERA"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Arturo CHAIREZ",
+          "Gustavo PENA",
+          "Gabriel NUNEZ",
+          "Isidoro DIAZ",
+          "Ernesto CISNEROS",
+          "Guillermo HERNANDEZ",
+          "Magdaleno MERCADO",
+          "Aaron PADILLA",
+          "Salvador REYES",
+          "Enrique BORJA"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-20",
+      "stage": "Group A",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "England",
+      "away_team": "France",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "George COHEN",
+          "Ray WILSON",
+          "Jack CHARLTON",
+          "Bobby MOORE",
+          "Nobby STILES",
+          "Martin PETERS",
+          "Ian CALLAGHAN",
+          "Jimmy GREAVES",
+          "Bobby CHARLTON",
+          "Roger HUNT"
+        ],
+        "away": [
+          "Marcel AUBOUR",
+          "Bernard BOSQUIER",
+          "Robert BUDZYNSKI",
+          "Jean DJORKAEFF",
+          "Marcel ARTELESA",
+          "Joseph BONNEL",
+          "Yves HERBERT",
+          "Robert HERBIN",
+          "Philippe GONDET",
+          "Gerard HAUSSER",
+          "Jacques SIMON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Roger HUNT",
+          "minute": "38"
+        },
+        {
+          "team": "England",
+          "player": "Roger HUNT",
+          "minute": "75"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-12",
+      "stage": "Group B",
+      "venue": "Hillsborough",
+      "city": "Sheffield",
+      "home_team": "West Germany",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Hans TILKOWSKI",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Wolfgang WEBER",
+          "Franz BECKENBAUER",
+          "Albert BRUELLS",
+          "Helmut HALLER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD"
+        ],
+        "away": [
+          "Charly ELSENER",
+          "Hans-Ruedi FUHRER",
+          "Andre GROBETY",
+          "Heinz SCHNEITER",
+          "Ely TACCHELLA",
+          "Heinz BAENI",
+          "Richard DUERR",
+          "Karl ODERMATT",
+          "Robert HOSP",
+          "Fritz KUENZLI",
+          "Jean-Claude SCHINDELHOLZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Sigi HELD",
+          "minute": "15"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut HALLER",
+          "minute": "20"
+        },
+        {
+          "team": "West Germany",
+          "player": "Franz BECKENBAUER",
+          "minute": "39"
+        },
+        {
+          "team": "West Germany",
+          "player": "Franz BECKENBAUER",
+          "minute": "52"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut HALLER",
+          "minute": "77",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-13",
+      "stage": "Group B",
+      "venue": "Villa Park",
+      "city": "Birmingham",
+      "home_team": "Argentina",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Antonio ROMA",
+          "Roberto PERFUMO",
+          "Silvio MARZOLINI",
+          "Roberto FERRERO",
+          "Antonio RATTIN",
+          "Rafael ALBRECHT",
+          "Jorge SOLARI",
+          "Alberto GONZALEZ",
+          "Luis ARTIME",
+          "Ermindo ONEGA",
+          "Oscar MAS"
+        ],
+        "away": [
+          "Jose IRIBAR",
+          "Manuel SANCHIS",
+          "ELADIO",
+          "Luis DEL SOL",
+          "Ignacio ZOCO",
+          "Luis SUAREZ",
+          "GALLEGO",
+          "PIRRI",
+          "Armando UFARTE",
+          "Francisco GENTO",
+          "Joaquin PEIRO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Luis ARTIME",
+          "minute": "65"
+        },
+        {
+          "team": "Spain",
+          "player": "PIRRI",
+          "minute": "71"
+        },
+        {
+          "team": "Argentina",
+          "player": "Luis ARTIME",
+          "minute": "79"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-15",
+      "stage": "Group B",
+      "venue": "Hillsborough",
+      "city": "Sheffield",
+      "home_team": "Spain",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jose IRIBAR",
+          "Manuel SANCHIS",
+          "Severino REIJA",
+          "Luis DEL SOL",
+          "Ignacio ZOCO",
+          "Luis SUAREZ",
+          "GALLEGO",
+          "PIRRI",
+          "AMANCIO",
+          "Francisco GENTO",
+          "Joaquin PEIRO"
+        ],
+        "away": [
+          "Charly ELSENER",
+          "Kurt ARMBRUSTER",
+          "Rene BRODMANN",
+          "Hans-Ruedi FUHRER",
+          "Werner LEIMGRUBER",
+          "Xavier STIERLI",
+          "Heinz BAENI",
+          "Koebi KUHN",
+          "Vittore GOTTARDI",
+          "Robert HOSP",
+          "Rene-Pierre QUENTIN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Rene-Pierre QUENTIN",
+          "minute": "28"
+        },
+        {
+          "team": "Spain",
+          "player": "Manuel SANCHIS",
+          "minute": "57"
+        },
+        {
+          "team": "Spain",
+          "player": "AMANCIO",
+          "minute": "75"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-16",
+      "stage": "Group B",
+      "venue": "Villa Park",
+      "city": "Birmingham",
+      "home_team": "Argentina",
+      "away_team": "West Germany",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Antonio ROMA",
+          "Roberto PERFUMO",
+          "Silvio MARZOLINI",
+          "Roberto FERRERO",
+          "Antonio RATTIN",
+          "Rafael ALBRECHT",
+          "Jorge SOLARI",
+          "Alberto GONZALEZ",
+          "Luis ARTIME",
+          "Ermindo ONEGA",
+          "Oscar MAS"
+        ],
+        "away": [
+          "Hans TILKOWSKI",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Wolfgang WEBER",
+          "Franz BECKENBAUER",
+          "Albert BRUELLS",
+          "Helmut HALLER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [],
+      "notes": [
+        "Albrecht was sent off in the 67th minute."
+      ]
+    },
+    {
+      "date": "1966-07-19",
+      "stage": "Group B",
+      "venue": "Hillsborough",
+      "city": "Sheffield",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Antonio ROMA",
+          "Roberto PERFUMO",
+          "Oscar CALICS",
+          "Silvio MARZOLINI",
+          "Roberto FERRERO",
+          "Antonio RATTIN",
+          "Jorge SOLARI",
+          "Alberto GONZALEZ",
+          "Luis ARTIME",
+          "Ermindo ONEGA",
+          "Oscar MAS"
+        ],
+        "away": [
+          "Leo EICHMANN",
+          "Kurt ARMBRUSTER",
+          "Rene BRODMANN",
+          "Hans-Ruedi FUHRER",
+          "Xavier STIERLI",
+          "Heinz BAENI",
+          "Koebi KUHN",
+          "Vittore GOTTARDI",
+          "Robert HOSP",
+          "Fritz KUENZLI",
+          "Rene-Pierre QUENTIN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Luis ARTIME",
+          "minute": "53"
+        },
+        {
+          "team": "Argentina",
+          "player": "Ermindo ONEGA",
+          "minute": "81"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-20",
+      "stage": "Group B",
+      "venue": "Villa Park",
+      "city": "Birmingham",
+      "home_team": "West Germany",
+      "away_team": "Spain",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Hans TILKOWSKI",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Wolfgang WEBER",
+          "Franz BECKENBAUER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD",
+          "Lothar EMMERICH",
+          "Werner KRAEMER"
+        ],
+        "away": [
+          "Jose IRIBAR",
+          "Manuel SANCHIS",
+          "Severino REIJA",
+          "ADELARDO",
+          "Ignacio ZOCO",
+          "Jesus GLARIA",
+          "GALLEGO",
+          "AMANCIO",
+          "MARCELINO",
+          "Jose Maria FUSTE",
+          "Carlos LAPETRA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Jose Maria FUSTE",
+          "minute": "22"
+        },
+        {
+          "team": "West Germany",
+          "player": "Lothar EMMERICH",
+          "minute": "38"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "84"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-12",
+      "stage": "Group C",
+      "venue": "Goodison Park",
+      "city": "Liverpool",
+      "home_team": "Brazil",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "BELLINI",
+          "ALTAIR",
+          "PAULO HENRIQUE",
+          "DENILSON",
+          "LIMA",
+          "PELE",
+          "GARRINCHA",
+          "JAIRZINHO",
+          "ALCINDO"
+        ],
+        "away": [
+          "Georgi NAIDENOV",
+          "Aleksandar SHALAMANOV",
+          "Ivan VUTSOV",
+          "Boris GAGANELOV",
+          "Dimitar PENEV",
+          "Dinko DERMENDZHIEV",
+          "Stoyan KITOV",
+          "Dobromir JECHEV",
+          "Georgi ASPARUKHOV",
+          "Ivan KOLEV",
+          "Dimitar YAKIMOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "15"
+        },
+        {
+          "team": "Brazil",
+          "player": "GARRINCHA",
+          "minute": "63"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-13",
+      "stage": "Group C",
+      "venue": "Old Trafford",
+      "city": "Manchester",
+      "home_team": "Portugal",
+      "away_team": "Hungary",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "CARVALHO",
+          "VICENTE",
+          "HILARIO",
+          "MORAIS",
+          "ALEXANDRE BAPTISTA",
+          "MARIO COLUNA",
+          "JAIME GRACA",
+          "ANTONIO SIMOES",
+          "JOSE AUGUSTO",
+          "EUSEBIO",
+          "JOSE TORRES"
+        ],
+        "away": [
+          "Antal SZENTIMIHALYI",
+          "Beno KAPOSZTA",
+          "Sandor MATRAI",
+          "Kalman SOVARI",
+          "Kalman MESZOLY",
+          "Ferenc SIPOS",
+          "Istvan NAGY",
+          "Ferenc BENE",
+          "Florian ALBERT",
+          "Janos FARKAS",
+          "Gyula RAKOSI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "JOSE AUGUSTO",
+          "minute": "2"
+        },
+        {
+          "team": "Hungary",
+          "player": "Ferenc BENE",
+          "minute": "60"
+        },
+        {
+          "team": "Portugal",
+          "player": "JOSE AUGUSTO",
+          "minute": "67"
+        },
+        {
+          "team": "Portugal",
+          "player": "JOSE TORRES",
+          "minute": "90"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-15",
+      "stage": "Group C",
+      "venue": "Goodison Park",
+      "city": "Liverpool",
+      "home_team": "Hungary",
+      "away_team": "Brazil",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jozsef GELEI",
+          "Beno KAPOSZTA",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Gusztav SZEPESI",
+          "Ferenc SIPOS",
+          "Imre MATHESZ",
+          "Ferenc BENE",
+          "Florian ALBERT",
+          "Janos FARKAS",
+          "Gyula RAKOSI"
+        ],
+        "away": [
+          "GILMAR",
+          "DJALMA SANTOS",
+          "BELLINI",
+          "ALTAIR",
+          "PAULO HENRIQUE",
+          "GERSON",
+          "LIMA",
+          "TOSTAO",
+          "GARRINCHA",
+          "JAIRZINHO",
+          "ALCINDO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Ferenc BENE",
+          "minute": "2"
+        },
+        {
+          "team": "Brazil",
+          "player": "TOSTAO",
+          "minute": "14"
+        },
+        {
+          "team": "Hungary",
+          "player": "Janos FARKAS",
+          "minute": "64"
+        },
+        {
+          "team": "Hungary",
+          "player": "Kalman MESZOLY",
+          "minute": "73",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-16",
+      "stage": "Group C",
+      "venue": "Old Trafford",
+      "city": "Manchester",
+      "home_team": "Portugal",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "JOSE PEREIRA",
+          "VICENTE",
+          "GERMANO",
+          "HILARIO",
+          "FESTA",
+          "MARIO COLUNA",
+          "JAIME GRACA",
+          "ANTONIO SIMOES",
+          "JOSE AUGUSTO",
+          "EUSEBIO",
+          "JOSE TORRES"
+        ],
+        "away": [
+          "Georgi NAIDENOV",
+          "Aleksandar SHALAMANOV",
+          "Ivan VUTSOV",
+          "Boris GAGANELOV",
+          "Dimitar PENEV",
+          "Dinko DERMENDZHIEV",
+          "Dobromir JECHEV",
+          "Georgi ASPARUKHOV",
+          "Petar ZHEKOV",
+          "Dimitar YAKIMOV",
+          "Aleksandar KOSTOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "Ivan VUTSOV",
+          "minute": "17",
+          "own_goal": true
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "38"
+        },
+        {
+          "team": "Portugal",
+          "player": "JOSE TORRES",
+          "minute": "81"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-19",
+      "stage": "Group C",
+      "venue": "Goodison Park",
+      "city": "Liverpool",
+      "home_team": "Portugal",
+      "away_team": "Brazil",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "JOSE PEREIRA",
+          "VICENTE",
+          "HILARIO",
+          "MORAIS",
+          "ALEXANDRE BAPTISTA",
+          "MARIO COLUNA",
+          "JAIME GRACA",
+          "ANTONIO SIMOES",
+          "JOSE AUGUSTO",
+          "EUSEBIO",
+          "JOSE TORRES"
+        ],
+        "away": [
+          "MANGA",
+          "FIDELIS",
+          "BRITO",
+          "ORLANDO",
+          "RILDO",
+          "DENILSON",
+          "LIMA",
+          "PELE",
+          "JAIRZINHO",
+          "SILVA BATUTA",
+          "PARANA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "ANTONIO SIMOES",
+          "minute": "15"
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "27"
+        },
+        {
+          "team": "Brazil",
+          "player": "RILDO",
+          "minute": "73"
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "85"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-20",
+      "stage": "Group C",
+      "venue": "Old Trafford",
+      "city": "Manchester",
+      "home_team": "Hungary",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jozsef GELEI",
+          "Beno KAPOSZTA",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Gusztav SZEPESI",
+          "Ferenc SIPOS",
+          "Imre MATHESZ",
+          "Ferenc BENE",
+          "Florian ALBERT",
+          "Janos FARKAS",
+          "Gyula RAKOSI"
+        ],
+        "away": [
+          "Simeon SIMEONOV",
+          "Ivan VUTSOV",
+          "Boris GAGANELOV",
+          "Dimitar PENEV",
+          "Dimitar LARGOV",
+          "Ivan DAVIDOV",
+          "Dobromir JECHEV",
+          "Georgi ASPARUKHOV",
+          "Ivan KOLEV",
+          "Dimitar YAKIMOV",
+          "Nikola KOTKOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Georgi ASPARUKHOV",
+          "minute": "15"
+        },
+        {
+          "team": "Hungary",
+          "player": "Ivan DAVIDOV",
+          "minute": "43",
+          "own_goal": true
+        },
+        {
+          "team": "Hungary",
+          "player": "Kalman MESZOLY",
+          "minute": "45"
+        },
+        {
+          "team": "Hungary",
+          "player": "Ferenc BENE",
+          "minute": "54"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-12",
+      "stage": "Group D",
+      "venue": "Ayresome Park",
+      "city": "Middlesbrough",
+      "home_team": "Soviet Union",
+      "away_team": "North Korea",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Anzor KAVAZASHVILI",
+          "Leonid OSTROVSKI",
+          "Vladimir PONOMARYOV",
+          "Albert SHESTERNYOV",
+          "Murtaz KHURTSILAVA",
+          "Yozhef SABO",
+          "Georgi SICHINAVA",
+          "Igor CHISLENKO",
+          "Galimzyan KHUSAINOV",
+          "Anatoli BANISHEVSKI",
+          "Eduard MALOFEYEV"
+        ],
+        "away": [
+          "LEE Chang Myung",
+          "PAK Li Sup",
+          "SHIN Yung Kyoo",
+          "KANG Bong Chil",
+          "LIM Zoong Sun",
+          "IM Seung Hwi",
+          "PAK Doo Ik",
+          "KANG Ryong Woon",
+          "HAN Bong Zin",
+          "PAK Seung Zin",
+          "KIM Seung Il"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Eduard MALOFEYEV",
+          "minute": "31"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Anatoli BANISHEVSKI",
+          "minute": "33"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Eduard MALOFEYEV",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-13",
+      "stage": "Group D",
+      "venue": "Roker Park",
+      "city": "Sunderland",
+      "home_team": "Italy",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Roberto ROSATO",
+          "Sandro SALVADORE",
+          "Giacomo BULGARELLI",
+          "Giovanni LODETTI",
+          "Sandro MAZZOLA",
+          "Gianni RIVERA",
+          "Paolo BARISON",
+          "Marino PERANI"
+        ],
+        "away": [
+          "Juan OLIVARES",
+          "Luis EYZAGUIRRE",
+          "Elias FIGUEROA",
+          "Hugo VILLANUEVA",
+          "Humberto CRUZ",
+          "Alberto FOUILLOUX",
+          "Ruben MARCOS",
+          "Ignacio PRIETO",
+          "Leonel SANCHEZ",
+          "Pedro ARAYA",
+          "Armando TOBAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Sandro MAZZOLA",
+          "minute": "8"
+        },
+        {
+          "team": "Italy",
+          "player": "Paolo BARISON",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-15",
+      "stage": "Group D",
+      "venue": "Ayresome Park",
+      "city": "Middlesbrough",
+      "home_team": "Chile",
+      "away_team": "North Korea",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Juan OLIVARES",
+          "Elias FIGUEROA",
+          "Alberto VALENTINI",
+          "Hugo VILLANUEVA",
+          "Humberto CRUZ",
+          "Alberto FOUILLOUX",
+          "Ruben MARCOS",
+          "Ignacio PRIETO",
+          "Leonel SANCHEZ",
+          "Pedro ARAYA",
+          "Honorino LANDA"
+        ],
+        "away": [
+          "LEE Chang Myung",
+          "PAK Li Sup",
+          "SHIN Yung Kyoo",
+          "LIM Zoong Sun",
+          "LI Dong Woon",
+          "IM Seung Hwi",
+          "PAK Doo Ik",
+          "HAN Bong Zin",
+          "OH Yoon Kyung",
+          "PAK Seung Zin",
+          "KIM Seung Il"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Ruben MARCOS",
+          "minute": "26",
+          "penalty": true
+        },
+        {
+          "team": "North Korea",
+          "player": "PAK Seung Zin",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-16",
+      "stage": "Group D",
+      "venue": "Roker Park",
+      "city": "Sunderland",
+      "home_team": "Soviet Union",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Vladimir PONOMARYOV",
+          "Albert SHESTERNYOV",
+          "Vasily DANILOV",
+          "Murtaz KHURTSILAVA",
+          "Yozhef SABO",
+          "Valeri VORONIN",
+          "Igor CHISLENKO",
+          "Galimzyan KHUSAINOV",
+          "Anatoli BANISHEVSKI",
+          "Eduard MALOFEYEV"
+        ],
+        "away": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Roberto ROSATO",
+          "Sandro SALVADORE",
+          "Giacomo BULGARELLI",
+          "Gianfranco LEONCINI",
+          "Giovanni LODETTI",
+          "Sandro MAZZOLA",
+          "Luigi MERONI",
+          "Ezio PASCUTTI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Igor CHISLENKO",
+          "minute": "57"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-19",
+      "stage": "Group D",
+      "venue": "Ayresome Park",
+      "city": "Middlesbrough",
+      "home_team": "North Korea",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEE Chang Myung",
+          "SHIN Yung Kyoo",
+          "LIM Zoong Sun",
+          "IM Seung Hwi",
+          "PAK Doo Ik",
+          "HAN Bong Zin",
+          "OH Yoon Kyung",
+          "HA Yung Won",
+          "PAK Seung Zin",
+          "YANG Seung Kook",
+          "KIM Bong Hwan"
+        ],
+        "away": [
+          "Enrico ALBERTOSI",
+          "Giacinto FACCHETTI",
+          "Aristide GUARNERI",
+          "Francesco JANICH",
+          "Spartaco LANDINI",
+          "Giacomo BULGARELLI",
+          "Romano FOGLI",
+          "Sandro MAZZOLA",
+          "Gianni RIVERA",
+          "Paolo BARISON",
+          "Marino PERANI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "North Korea",
+          "player": "PAK Doo Ik",
+          "minute": "42"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-20",
+      "stage": "Group D",
+      "venue": "Roker Park",
+      "city": "Sunderland",
+      "home_team": "Soviet Union",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Anzor KAVAZASHVILI",
+          "Leonid OSTROVSKI",
+          "Valentin AFONIN",
+          "Albert SHESTERNYOV",
+          "Viktor GETMANOV",
+          "Alexey KORNEEV",
+          "Valeri VORONIN",
+          "Viktor SEREBRYANIKOV",
+          "Slava METREVELI",
+          "Valeriy PORKUYAN",
+          "Eduard MARKAROV"
+        ],
+        "away": [
+          "Juan OLIVARES",
+          "Elias FIGUEROA",
+          "Alberto VALENTINI",
+          "Hugo VILLANUEVA",
+          "Humberto CRUZ",
+          "Ruben MARCOS",
+          "Ignacio PRIETO",
+          "Leonel SANCHEZ",
+          "Pedro ARAYA",
+          "Honorino LANDA",
+          "Guillermo YAVAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Valeriy PORKUYAN",
+          "minute": "28"
+        },
+        {
+          "team": "Chile",
+          "player": "Ruben MARCOS",
+          "minute": "32"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Valeriy PORKUYAN",
+          "minute": "85"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-23",
+      "stage": "Quarter-final",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "England",
+      "away_team": "Argentina",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "George COHEN",
+          "Ray WILSON",
+          "Jack CHARLTON",
+          "Bobby MOORE",
+          "Nobby STILES",
+          "Alan BALL",
+          "Martin PETERS",
+          "Bobby CHARLTON",
+          "Geoff HURST",
+          "Roger HUNT"
+        ],
+        "away": [
+          "Antonio ROMA",
+          "Roberto PERFUMO",
+          "Silvio MARZOLINI",
+          "Roberto FERRERO",
+          "Antonio RATTIN",
+          "Rafael ALBRECHT",
+          "Jorge SOLARI",
+          "Alberto GONZALEZ",
+          "Luis ARTIME",
+          "Ermindo ONEGA",
+          "Oscar MAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Geoff HURST",
+          "minute": "78"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Rattin was sent off in the 35th minute."
+      ]
+    },
+    {
+      "date": "1966-07-23",
+      "stage": "Quarter-final",
+      "venue": "Hillsborough",
+      "city": "Sheffield",
+      "home_team": "West Germany",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Hans TILKOWSKI",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Wolfgang WEBER",
+          "Franz BECKENBAUER",
+          "Helmut HALLER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD",
+          "Lothar EMMERICH"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Horacio TROCHE",
+          "Jorge MANICERA",
+          "Nestor GONCALVES",
+          "Luis UBINA",
+          "Omar CAETANO",
+          "Julio CORTES",
+          "Hector SILVA",
+          "Pedro ROCHA",
+          "Domingo PEREZ",
+          "Hector SALVA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Helmut HALLER",
+          "minute": "11"
+        },
+        {
+          "team": "West Germany",
+          "player": "Franz BECKENBAUER",
+          "minute": "70"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "75"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut HALLER",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Troche was sent off in the 49th minute and Silva in the 54th minute.",
+        "Some sources award the last goal to Held."
+      ]
+    },
+    {
+      "date": "1966-07-23",
+      "stage": "Quarter-final",
+      "venue": "Goodison Park",
+      "city": "Liverpool",
+      "home_team": "Portugal",
+      "away_team": "North Korea",
+      "score": {
+        "home": 5,
+        "away": 3
+      },
+      "lineup": {
+        "home": [
+          "JOSE PEREIRA",
+          "VICENTE",
+          "HILARIO",
+          "MORAIS",
+          "ALEXANDRE BAPTISTA",
+          "MARIO COLUNA",
+          "JAIME GRACA",
+          "ANTONIO SIMOES",
+          "JOSE AUGUSTO",
+          "EUSEBIO",
+          "JOSE TORRES"
+        ],
+        "away": [
+          "LEE Chang Myung",
+          "SHIN Yung Kyoo",
+          "LIM Zoong Sun",
+          "LI Dong Woon",
+          "IM Seung Hwi",
+          "PAK Doo Ik",
+          "HAN Bong Zin",
+          "OH Yoon Kyung",
+          "HA Yung Won",
+          "PAK Seung Zin",
+          "YANG Seung Kook"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "North Korea",
+          "player": "PAK Seung Zin",
+          "minute": "1"
+        },
+        {
+          "team": "North Korea",
+          "player": "LI Dong Woon",
+          "minute": "22"
+        },
+        {
+          "team": "North Korea",
+          "player": "YANG Seung Kook",
+          "minute": "25"
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "27"
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "43",
+          "penalty": true
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "56"
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "59",
+          "penalty": true
+        },
+        {
+          "team": "Portugal",
+          "player": "JOSE AUGUSTO",
+          "minute": "80"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-23",
+      "stage": "Quarter-final",
+      "venue": "Roker Park",
+      "city": "Sunderland",
+      "home_team": "Soviet Union",
+      "away_team": "Hungary",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Lev YASHIN",
+          "Vladimir PONOMARYOV",
+          "Albert SHESTERNYOV",
+          "Vasily DANILOV",
+          "Yozhef SABO",
+          "Valeri VORONIN",
+          "Igor CHISLENKO",
+          "Galimzyan KHUSAINOV",
+          "Valeriy PORKUYAN",
+          "Anatoli BANISHEVSKI",
+          "Eduard MALOFEYEV"
+        ],
+        "away": [
+          "Jozsef GELEI",
+          "Beno KAPOSZTA",
+          "Sandor MATRAI",
+          "Kalman MESZOLY",
+          "Gusztav SZEPESI",
+          "Ferenc SIPOS",
+          "Istvan NAGY",
+          "Ferenc BENE",
+          "Florian ALBERT",
+          "Janos FARKAS",
+          "Gyula RAKOSI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Igor CHISLENKO",
+          "minute": "5"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Valeriy PORKUYAN",
+          "minute": "46"
+        },
+        {
+          "team": "Hungary",
+          "player": "Ferenc BENE",
+          "minute": "57"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-25",
+      "stage": "Semi-final",
+      "venue": "Goodison Park",
+      "city": "Liverpool",
+      "home_team": "West Germany",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Hans TILKOWSKI",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Wolfgang WEBER",
+          "Friedel LUTZ",
+          "Franz BECKENBAUER",
+          "Helmut HALLER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD",
+          "Lothar EMMERICH"
+        ],
+        "away": [
+          "Lev YASHIN",
+          "Vladimir PONOMARYOV",
+          "Albert SHESTERNYOV",
+          "Vasily DANILOV",
+          "Yozhef SABO",
+          "Valeri VORONIN",
+          "Igor CHISLENKO",
+          "Galimzyan KHUSAINOV",
+          "Valeriy PORKUYAN",
+          "Anatoli BANISHEVSKI",
+          "Eduard MALOFEYEV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Helmut HALLER",
+          "minute": "43"
+        },
+        {
+          "team": "West Germany",
+          "player": "Franz BECKENBAUER",
+          "minute": "67"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Valeriy PORKUYAN",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Chislenko was sent off in the 44th minute."
+      ]
+    },
+    {
+      "date": "1966-07-26",
+      "stage": "Semi-final",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "England",
+      "away_team": "Portugal",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "George COHEN",
+          "Ray WILSON",
+          "Jack CHARLTON",
+          "Bobby MOORE",
+          "Nobby STILES",
+          "Alan BALL",
+          "Martin PETERS",
+          "Bobby CHARLTON",
+          "Geoff HURST",
+          "Roger HUNT"
+        ],
+        "away": [
+          "JOSE PEREIRA",
+          "HILARIO",
+          "ALEXANDRE BAPTISTA",
+          "JOSE CARLOS",
+          "FESTA",
+          "MARIO COLUNA",
+          "JAIME GRACA",
+          "ANTONIO SIMOES",
+          "JOSE AUGUSTO",
+          "EUSEBIO",
+          "JOSE TORRES"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Bobby CHARLTON",
+          "minute": "30"
+        },
+        {
+          "team": "England",
+          "player": "Bobby CHARLTON",
+          "minute": "80"
+        },
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "82",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-28",
+      "stage": "Third-place match",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "Portugal",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "JOSE PEREIRA",
+          "HILARIO",
+          "ALEXANDRE BAPTISTA",
+          "JOSE CARLOS",
+          "FESTA",
+          "MARIO COLUNA",
+          "JAIME GRACA",
+          "ANTONIO SIMOES",
+          "JOSE AUGUSTO",
+          "EUSEBIO",
+          "JOSE TORRES"
+        ],
+        "away": [
+          "Lev YASHIN",
+          "Vladimir PONOMARYOV",
+          "Vasily DANILOV",
+          "Alexey KORNEEV",
+          "Murtaz KHURTSILAVA",
+          "Valeri VORONIN",
+          "Georgi SICHINAVA",
+          "Viktor SEREBRYANIKOV",
+          "Slava METREVELI",
+          "Anatoli BANISHEVSKI",
+          "Eduard MALOFEYEV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Portugal",
+          "player": "EUSEBIO",
+          "minute": "12",
+          "penalty": true
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Eduard MALOFEYEV",
+          "minute": "43"
+        },
+        {
+          "team": "Portugal",
+          "player": "JOSE TORRES",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1966-07-30",
+      "stage": "Final",
+      "venue": "Wembley Stadium",
+      "city": "London",
+      "home_team": "England",
+      "away_team": "West Germany",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "George COHEN",
+          "Ray WILSON",
+          "Jack CHARLTON",
+          "Bobby MOORE",
+          "Nobby STILES",
+          "Alan BALL",
+          "Martin PETERS",
+          "Bobby CHARLTON",
+          "Geoff HURST",
+          "Roger HUNT"
+        ],
+        "away": [
+          "Hans TILKOWSKI",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Willi SCHULZ",
+          "Wolfgang WEBER",
+          "Franz BECKENBAUER",
+          "Helmut HALLER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD",
+          "Lothar EMMERICH"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Helmut HALLER",
+          "minute": "12"
+        },
+        {
+          "team": "England",
+          "player": "Geoff HURST",
+          "minute": "18"
+        },
+        {
+          "team": "England",
+          "player": "Martin PETERS",
+          "minute": "78"
+        },
+        {
+          "team": "West Germany",
+          "player": "Wolfgang WEBER",
+          "minute": "89"
+        },
+        {
+          "team": "England",
+          "player": "Geoff HURST",
+          "minute": "101"
+        },
+        {
+          "team": "England",
+          "player": "Geoff HURST",
+          "minute": "120"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "This was the 200th match in World Cup history."
+      ]
+    }
+  ]
+}

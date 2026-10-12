@@ -1,0 +1,182 @@
+:root {
+  --content-max: 1440px;
+  --content-gutter: clamp(1.25rem, 3.8vw, 3.5rem);
+  --ink: #102944;
+  --ink-soft: #557087;
+  --blue: #103e70;
+  --blue-deep: #07294e;
+  --blue-pale: #d9e8ee;
+  --mint: #b7e2c5;
+  --paper: #eef3ec;
+  --line: rgba(16, 41, 68, .17);
+  --serif: "Playfair Display", Georgia, serif;
+  --sans: "DM Sans", Arial, sans-serif;
+  --mono: "DM Mono", monospace;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; color: var(--ink); background: var(--paper); font-family: var(--sans); }
+button, a { font: inherit; color: inherit; }
+button { cursor: pointer; }
+.skip-link { position: fixed; z-index: 20; top: -3rem; left: 1rem; padding: .65rem 1rem; background: var(--mint); color: var(--blue-deep); }
+.skip-link:focus { top: 1rem; }
+.site-shell { min-height: 100svh; display: grid; grid-template-rows: auto auto auto auto; }
+.site-header { min-height: 78px; padding: 12px max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)); display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
+.wordmark { display: inline-flex; align-items: center; gap: .8rem; text-decoration: none; font: 700 1.08rem/ .84 var(--serif); letter-spacing: -.02em; text-transform: uppercase; }
+.wordmark em { color: #16815c; font-style: normal; }
+.wordmark-mark { display: grid; place-items: center; width: 40px; height: 40px; border: 2px solid var(--ink); border-radius: 50%; font-size: 2.1rem; line-height: .7; transform: rotate(-24deg); }
+.band-stat, .timeline-heading, .site-footer, .detail-topline, .detail-footer, .eyebrow, .site-nav { font-family: var(--mono); font-size: 10px; text-transform: uppercase; letter-spacing: .09em; }
+.site-nav { display: flex; align-items: center; gap: 2rem; font-size: 18px; }
+.site-nav a { color: var(--ink-soft); text-decoration: none; }
+.site-nav a:hover, .site-nav a:focus-visible, .site-nav a.is-current { color: #16815c; }
+.intro { display: flex; justify-content: space-between; gap: 2rem; padding: 3vh max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)) 2.2vh; }
+.eyebrow { display: flex; align-items: center; gap: .7rem; margin: 0 0 1.1rem; color: #16815c; font-size: 16px; }
+.eyebrow-line { display: inline-block; width: 28px; height: 1px; background: currentColor; }
+h1 { margin: 0; max-width: 720px; font: 700 clamp(2.6rem, 5.5vw, 5.9rem)/.91 var(--serif); letter-spacing: -.06em; }
+h1 span, h2 em { color: #16815c; font-style: italic; }
+.intro-meta { width: min(28rem, 31vw); align-self: end; padding-bottom: .25rem; }
+.intro-meta p { margin: 0 0 1rem; color: var(--ink-soft); font-size: 13px; line-height: 1.5; }
+.scroll-cue { display: flex; align-items: center; gap: .5rem; color: var(--ink); font: 10px var(--mono); text-transform: uppercase; letter-spacing: .08em; }
+.scroll-dot { width: 7px; height: 7px; border-radius: 50%; background: #d2683f; }
+.timeline { min-height: 0; display: grid; grid-template-rows: auto 1fr; }
+.timeline-heading { display: flex; justify-content: space-between; align-items: center; padding: .5rem max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)) .55rem; color: var(--ink-soft); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.timeline-count { color: #16815c; }
+.tournament-list { display: flex; flex-direction: column; scrollbar-width: thin; scrollbar-color: rgba(16, 41, 68, .35) transparent; }
+.tournament { --band-height: 3.78rem; --detail-min-height: min(52svh, 40rem); position: relative; min-height: var(--band-height); flex: 0 0 var(--band-height); overflow: hidden; cursor: pointer; background: var(--blue-pale); border-bottom: 1px solid rgba(16, 41, 68, .12); outline: none; transition: min-height .65s cubic-bezier(.2,.85,.25,1), background .3s ease, color .3s ease; }
+.band-row { width: min(100%, var(--content-max)); min-height: var(--band-height); margin-inline: auto; padding-inline: var(--content-gutter); display: grid; grid-template-columns: 30% 25% 1fr auto; align-items: center; gap: 1rem; }
+.tournament:nth-child(even) { background: var(--blue-pale); }
+.tournament:hover, .tournament:focus-visible { background: #c3dadd; }
+.tournament.is-active { min-height: calc(var(--detail-min-height) + var(--band-height)); flex: 0 0 auto; color: var(--paper); background: var(--blue); }
+.band-number { color: var(--ink-soft); font: 10px var(--mono); }
+.is-active .band-number { color: var(--mint); }
+.band-title, .band-winner, .band-stat { display: flex; align-items: baseline; gap: .8rem; }
+.band-year { font: 700 clamp(1.5rem, 2.35vw, 2.8rem)/1 var(--serif); letter-spacing: -.05em; }
+.band-country { color: var(--ink-soft); font-size: 15px; }
+.is-active .band-country { color: rgba(238,243,236,.68); }
+.band-winner { font-size: 15px; }
+.winner-label { color: #16815c; font: 11px var(--mono); text-transform: uppercase; letter-spacing: .07em; }
+.trophy-icon { display: inline-block; font-size: 1.05rem; line-height: 1; vertical-align: middle; }
+.is-active .winner-label { color: var(--mint); }
+.band-stat { justify-content: flex-start; gap: 1.5rem; color: var(--ink-soft); font-size: 11px; }
+.is-active .band-stat { color: rgba(238,243,236,.62); }
+.band-arrow { justify-self: end; display: grid; place-items: center; width: 1.25rem; height: 1.25rem; font-size: 1.1rem; line-height: 1; opacity: .55; transform: translateX(0); transition: transform .3s ease, opacity .3s ease; }
+.band-arrow::before { content: '←'; }
+.tournament:hover .band-arrow, .tournament:focus-visible .band-arrow { transform: translateX(3px); opacity: 1; }
+.is-active .band-arrow { opacity: 1; transform: translateY(2px); }
+.is-active .band-arrow::before { content: '↓'; }
+.is-active:hover .band-arrow, .is-active:focus-visible .band-arrow { transform: translate(3px, 2px); }
+.tournament-detail { position: absolute; inset: 0; display: flex; flex-direction: column; opacity: 0; pointer-events: none; transition: opacity .4s ease .1s; }
+.is-active .tournament-detail { position: relative; inset: auto; min-height: calc(var(--detail-min-height) + var(--band-height)); opacity: 1; pointer-events: auto; background: linear-gradient(to bottom, var(--blue) var(--band-height), #2b5f8c 100%); }
+.detail-header { flex: 0 0 var(--band-height); cursor: pointer; }
+.is-active .detail-header { background: var(--blue); }
+.detail-body { width: min(100%, var(--content-max)); min-height: var(--detail-min-height); flex: 1 0 auto; margin-inline: auto; display: grid; grid-template-columns: 33% 1fr; cursor: default; }
+.detail-image { min-width: 0; background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://images.unsplash.com/photo-1553778263-73a83bab9b0c?auto=format&fit=crop&w=1100&q=84"); background-position: center; background-size: cover; filter: saturate(.8) contrast(1.04); }
+.image-1930 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/f/fa/Uruguay_argentina_saludan.jpg"); }
+.image-1934 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/e/ea/1934_FIFA_World_Cup_Final_-_Italy_v_Czechoslovakia_-_Pozzo%2C_Monzeglio%2C_Bertolini%2C_Combi%2C_Monti_and_Carcano.jpg"); }
+.image-1938 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/3/3e/Italy_v_Hungary_WC_1938_%282%29.jpg"); }
+.image-1950 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/9/9b/Uruguay_gol_schiaffino_1950.jpg"); }
+.image-1954 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/8/8b/Fussball-Weltmeisterschaft_1954_%28Com_M03-0108-005-0020%29.jpg"); }
+.image-1958 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/e/ea/Pele_v_sweden_1958.jpg"); }
+.image-1962 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("assets/garrincha-1962.jpg"); }
+.image-1966 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/7/7a/England_vs_germany_hurst_heads_to_goal.jpg"); }
+.image-1970 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/8/85/Pele_celebrating_1970.jpg"); }
+.image-1974 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/6/61/Finale_wereldkampioenschap_voetbal_1974_in_Munchen%2C_West_Duitsland_tegen_Nederland_2-1%3B_Neeskens%2C_Beckenbauer%2C_Rep_en_Breitner.jpg"); }
+.image-1978 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/f/f0/Fillol_tarantini_final.jpg"); }
+.image-1982 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/d/df/Paolo_Rossi_at_the_1982_FIFA_World_Cup.jpg"); }
+.image-1986 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://upload.wikimedia.org/wikipedia/commons/2/2c/Maradona-Mundial_86_con_la_copa.JPG"); }
+.image-1990 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://www.planet-wissen.de/gesellschaft/sport/fussball_weltmeisterschaft_neunzig/dasteamvordemfinalegegenargentinien100~_v-HintergrundL.jpg"); }
+.image-1994 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://commons.wikimedia.org/wiki/Special:FilePath/1994%20World%20Cup.jpg?width=1400"); }
+.image-1998 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("assets/france-1998-victory-parade.jpg"); }
+.image-2002 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://www.nissan-stadium.jp/worldcup/images/20020630-000.jpg"); }
+.image-2006 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://commons.wikimedia.org/wiki/Special:FilePath/Italy%20vs%20France%202006.jpg?width=1400"); }
+.image-2010 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://www.soccerdigestweb.com/files/topics/72006_ext_04_0.jpg"); }
+.image-2014 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://commons.wikimedia.org/wiki/Special:FilePath/G%C3%B6tze%20kicks%20the%20match%20winning%20goal.jpg?width=1400"); }
+.image-2018 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://commons.wikimedia.org/wiki/Special:FilePath/Kylian%20Mbapp%C3%A9%20with%20the%202018%20Soccer%20World%20Cup%20trophy.jpg?width=1400"); }
+.image-2022 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://live.staticflickr.com/65535/52572793550_a37e4c9b5d_b.jpg"); }
+.image-2026 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("https://assets.the-afc.com/2026_FIFA_World_Cup/Finals/Matches/Final/Spain-Argentina/Reaction/Spain-Argentina-Reaction-%287%29.jpg"); }
+.image-2030 { background-image: linear-gradient(90deg, rgba(7,41,78,.05), rgba(7,41,78,.25)), url("assets/world-cup-trophy-2030.jpg"); }
+.detail-copy { display: flex; flex-direction: column; justify-content: flex-start; padding: 1.2rem 8vw 1.2rem 2.25vw; }
+.detail-topline, .detail-footer { display: flex; justify-content: space-between; gap: 1rem; color: var(--mint); font-size: 9px; }
+.detail-copy h2 { margin: 1.5rem 0 1.25rem; font: 700 clamp(2rem, 4.5vw, 5.2rem)/.87 var(--serif); letter-spacing: -.06em; }
+.detail-copy p { max-width: 27rem; margin: 0; color: rgba(238,243,236,.76); font-size: 13px; line-height: 1.5; }
+.tournament-link { align-self: flex-start; display: inline-flex; align-items: center; gap: .65rem; margin: 1rem 0; padding: .65rem .85rem; border: 1px solid rgba(238,243,236,.55); color: var(--paper); background: rgba(238,243,236,.08); font: 10px var(--mono); letter-spacing: .08em; text-decoration: none; text-transform: uppercase; transition: color .2s ease, background .2s ease, border-color .2s ease; }
+.tournament-link:hover { border-color: var(--mint); color: var(--blue-deep); background: var(--mint); }
+.tournament-link:focus-visible { outline: 2px solid var(--paper); outline-offset: 3px; }
+.image-1930 + .detail-copy p, .image-1934 + .detail-copy p, .image-1938 + .detail-copy p, .image-1950 + .detail-copy p, .image-1954 + .detail-copy p, .image-1958 + .detail-copy p, .image-1962 + .detail-copy p, .image-1966 + .detail-copy p, .image-1970 + .detail-copy p, .image-1974 + .detail-copy p, .image-1978 + .detail-copy p, .image-1982 + .detail-copy p, .image-1986 + .detail-copy p, .image-1990 + .detail-copy p, .image-1994 + .detail-copy p { max-width: 34rem; font-size: 14px; line-height: 1.65; }
+.image-1994 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-1998 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2002 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2006 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2010 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2014 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2018 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2022 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2026 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.image-2030 + .detail-copy p { max-width: 40rem; font-size: 15px; line-height: 1.72; letter-spacing: .005em; }
+.detail-footer { margin-top: auto; padding-top: .85rem; border-top: 1px solid rgba(238,243,236,.2); color: rgba(238,243,236,.65); }
+.score { color: var(--paper); }
+.score b { color: var(--mint); font-size: 13px; }
+.is-active > .band-row { display: none; }
+.tournament.is-active .detail-header .band-arrow { display: grid; opacity: 1; pointer-events: auto; }
+.site-footer { display: flex; justify-content: space-between; padding: 10px max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)); color: var(--ink-soft); border-top: 1px solid var(--line); font-size: 9px; }
+.site-footer a { color: var(--ink); text-decoration: none; }
+.site-footer a:hover { color: #16815c; }
+.about-drawer { position: fixed; z-index: 10; top: 0; right: 0; width: min(30rem, 90vw); height: 100svh; padding: 8rem 5vw; color: var(--paper); background: var(--blue-deep); transform: translateX(100%); transition: transform .45s cubic-bezier(.2,.8,.2,1); }
+.about-drawer.is-open { transform: translateX(0); }
+.about-drawer h2 { margin: 1rem 0; font: 700 clamp(2rem, 4vw, 3rem)/.95 var(--serif); letter-spacing: -.05em; }
+.about-drawer > p:last-child { color: rgba(238,243,236,.7); line-height: 1.6; }
+.drawer-close { position: absolute; top: 1.2rem; right: 2rem; border: 0; color: var(--paper); background: transparent; font-size: 2rem; }
+
+@media (min-width: 1441px) {
+  .band-row { padding-inline: 0; }
+}
+
+@media (max-width: 780px) {
+  .site-shell { min-height: 100svh; }
+  .site-header { min-height: 68px; padding: 10px 5vw; }
+  .header-note, .edition-label { display: none; }
+  .wordmark { font-size: .96rem; }
+  .wordmark-mark { width: 34px; height: 34px; font-size: 1.8rem; }
+  .site-nav { gap: 1rem; font-size: 14px; }
+  .eyebrow { font-size: 14px; }
+  .intro { min-height: 24rem; flex-direction: column; padding: 2.8rem 5vw 1.8rem; }
+  .intro-meta { width: 100%; max-width: 28rem; margin-left: auto; }
+  .timeline-heading { padding-inline: 5vw; }
+  .tournament-list { min-height: 0; }
+  .tournament { --band-height: 4.06rem; min-height: var(--band-height); flex-basis: var(--band-height); }
+  .band-row { grid-template-columns: 2.3rem 1fr auto; gap: .65rem; padding-inline: 5vw; }
+  .tournament { --detail-min-height: 55svh; }
+  .tournament.is-active { min-height: calc(var(--detail-min-height) + var(--band-height)); }
+  .band-winner, .band-stat { display: none; }
+  .band-title { display: block; }
+  .band-country { display: block; margin-top: .1rem; font-size: 13px; }
+  .is-active .detail-body { grid-template-columns: 38% 1fr; }
+  .detail-copy { padding: 1rem 5vw 1rem .65rem; }
+  .detail-topline span:last-child, .detail-footer span:last-child { display: none; }
+  .detail-copy h2 { font-size: clamp(1.9rem, 8vw, 3.2rem); }
+  .detail-copy p { font-size: 12px; }
+  .image-1994 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-1998 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2002 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2006 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2010 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2014 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2018 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2022 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2026 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .image-2030 + .detail-copy p { max-width: 34rem; font-size: 12px; line-height: 1.6; }
+  .site-footer { padding: 12px 5vw; }
+  .site-footer span:nth-child(2) { display: none; }
+}
+
+@media (max-width: 500px) {
+  .site-header { gap: .5rem; }
+  .wordmark { gap: .5rem; font-size: .82rem; }
+  .wordmark-mark { width: 30px; height: 30px; font-size: 1.55rem; flex: none; }
+  .site-nav { gap: .5rem; font-size: 12px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+}

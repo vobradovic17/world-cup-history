@@ -1,0 +1,1145 @@
+{
+  "tournament": "FIFA World Cup 1930",
+  "host_country": "Uruguay",
+  "matches_played": 18,
+  "substitution_policy": "No in-match substitutions were permitted in the 1930 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.thesoccerweb.com/worldcup/1930.html",
+    "https://www.rsssf.org/tables/30full.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1930/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1930-07-13",
+      "stage": "Group A",
+      "venue": "Estadio Pocitos",
+      "city": "Montevideo",
+      "home_team": "France",
+      "away_team": "Mexico",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Alex THEPOT",
+          "Marcel CAPELLE",
+          "Etienne MATTLER",
+          "Augustin CHANTREL",
+          "Marcel PINEL",
+          "Alex VILLAPLANE",
+          "Edmond DELFOUR",
+          "Marcel LANGILLER",
+          "Lucien LAURENT",
+          "Ernest LIBERATI",
+          "Andre MASCHINOT"
+        ],
+        "away": [
+          "Oscar BONFIGLIO",
+          "Rafael GARZA",
+          "Manuel ROSAS",
+          "Efrain AMEZCUA",
+          "Felipe ROSAS",
+          "Alfredo SANCHEZ",
+          "Juan CARRENO",
+          "Hilario LOPEZ",
+          "Dionisio MEJIA",
+          "Jose RUIZ",
+          "Luis PEREZ"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Lucien LAURENT",
+          "minute": "19"
+        },
+        {
+          "team": "France",
+          "player": "Marcel LANGILLER",
+          "minute": "40"
+        },
+        {
+          "team": "France",
+          "player": "Andre MASCHINOT",
+          "minute": "43"
+        },
+        {
+          "team": "Mexico",
+          "player": "Juan CARRENO",
+          "minute": "70"
+        },
+        {
+          "team": "France",
+          "player": "Andre MASCHINOT",
+          "minute": "87"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-13",
+      "stage": "Group D",
+      "venue": "Parque Central",
+      "city": "Montevideo",
+      "home_team": "United States",
+      "away_team": "Belgium",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jimmy DOUGLAS",
+          "George MOORHOUSE",
+          "Ralph TRACY",
+          "Alexander WOOD",
+          "Jimmy GALLAGHER",
+          "Andrew AULD",
+          "Jim BROWN",
+          "Tom FLORIE",
+          "Billy GONSALVES",
+          "Bart McGHEE",
+          "Bert PATENAUDE"
+        ],
+        "away": [
+          "Arnold BADJOU",
+          "Nikolaas HOYDONCKX",
+          "Theodore NOUWENS",
+          "Jean DE CLERQ",
+          "Jan DIDDENS",
+          "Auguste HELLEMANS",
+          "Pierre BRAINE",
+          "Fernand ADAMS",
+          "Jacques MOESCHAL",
+          "Louis VERSYP",
+          "Bernard VOORHOOF"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Bart McGHEE",
+          "minute": "23"
+        },
+        {
+          "team": "United States",
+          "player": "Tom FLORIE",
+          "minute": "45"
+        },
+        {
+          "team": "United States",
+          "player": "Bert PATENAUDE",
+          "minute": "69"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-14",
+      "stage": "Group B",
+      "venue": "Parque Central",
+      "city": "Montevideo",
+      "home_team": "Yugoslavia",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Milovan JAKSIC",
+          "Milutin IVKOVIC",
+          "Dragan MIHAJLOVIC",
+          "Ljubisa STEFANOVIC",
+          "Milorad ARSENIJEVIC",
+          "Momcilo DJOKIC",
+          "Ivica BEK",
+          "Blagoje MARJANOVIC",
+          "Branislav SEKULIC",
+          "Djordje VUJADINOVIC",
+          "Aleksandar TIRNANIC"
+        ],
+        "away": [
+          "JOEL",
+          "ITALIA",
+          "BRILHANTE",
+          "FAUSTO",
+          "HERMOGENES",
+          "FERNANDO GIUDICELLI",
+          "TEOPHILO",
+          "POLY",
+          "PREGUINHO",
+          "NILO",
+          "ARAKEN"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Aleksandar TIRNANIC",
+          "minute": "21"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Ivica BEK",
+          "minute": "30"
+        },
+        {
+          "team": "Brazil",
+          "player": "PREGUINHO",
+          "minute": "62"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-14",
+      "stage": "Group C",
+      "venue": "Estadio Pocitos",
+      "city": "Montevideo",
+      "home_team": "Romania",
+      "away_team": "Peru",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ion LAPUSNEANU",
+          "Rudolf BUERGER",
+          "Adalbert STEINER",
+          "Emerich VOGL",
+          "Alfred EISENBEISSER",
+          "Ladislau RAFFINSKY",
+          "Adalbert DESU",
+          "Nicolae KOVACS",
+          "Constantin STANCIU",
+          "Rudolf WETZER",
+          "Stefan BARBU"
+        ],
+        "away": [
+          "Juan VALDIVIESO",
+          "Mario DE LAS CASAS",
+          "Alberto SORIA",
+          "Alberto DENEGRI",
+          "Placido GALINDO",
+          "Domingo GARCIA",
+          "Jose Maria LAVALLE",
+          "Demetrio NEYRA",
+          "Luis SOUZA",
+          "Alejandro VILLANUEVA",
+          "Julio LORES"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Romania",
+          "player": "Adalbert DESU",
+          "minute": "1"
+        },
+        {
+          "team": "Peru",
+          "player": "Luis SOUZA",
+          "minute": "75"
+        },
+        {
+          "team": "Romania",
+          "player": "Constantin STANCIU",
+          "minute": "79"
+        },
+        {
+          "team": "Romania",
+          "player": "Nicolae KOVACS",
+          "minute": "89"
+        }
+      ],
+      "notes": [
+        "Plácido Galindo was sent off in the 56th minute."
+      ]
+    },
+    {
+      "date": "1930-07-15",
+      "stage": "Group A",
+      "venue": "Parque Central",
+      "city": "Montevideo",
+      "home_team": "Argentina",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Angel BOSSIO",
+          "Jose DELLA TORRE",
+          "Ramon MUTTIS",
+          "Luis MONTI",
+          "Juan EVARISTO",
+          "Pedro SUAREZ",
+          "Francisco VARALLO",
+          "Mario EVARISTO",
+          "Manuel FERREIRA",
+          "Roberto CERRO",
+          "Natalio PERINETTI"
+        ],
+        "away": [
+          "Alex THEPOT",
+          "Marcel CAPELLE",
+          "Etienne MATTLER",
+          "Augustin CHANTREL",
+          "Marcel PINEL",
+          "Alex VILLAPLANE",
+          "Edmond DELFOUR",
+          "Marcel LANGILLER",
+          "Lucien LAURENT",
+          "Ernest LIBERATI",
+          "Andre MASCHINOT"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Luis MONTI",
+          "minute": "81"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-16",
+      "stage": "Group A",
+      "venue": "Parque Central",
+      "city": "Montevideo",
+      "home_team": "Chile",
+      "away_team": "Mexico",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Roberto CORTES",
+          "Victor MORALES",
+          "Ulises POIRIER",
+          "Humberto ELGUETA",
+          "Guillermo SAAVEDRA",
+          "Arturo TORRES",
+          "Tomas OJEDA",
+          "Carlos SCHNEBERGER",
+          "Guillermo SUBIABRE",
+          "Carlos VIDAL",
+          "Eberardo VILLALOBOS"
+        ],
+        "away": [
+          "Isidoro SOTA",
+          "Rafael GARZA",
+          "Manuel ROSAS",
+          "Efrain AMEZCUA",
+          "Alfredo SANCHEZ",
+          "Felipe ROSAS",
+          "Juan CARRENO",
+          "Roberto GAYON",
+          "Hilario LOPEZ",
+          "Jose RUIZ",
+          "Luis PEREZ"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Carlos VIDAL",
+          "minute": "3"
+        },
+        {
+          "team": "Chile",
+          "player": "Manuel ROSAS",
+          "minute": "51",
+          "own_goal": true
+        },
+        {
+          "team": "Chile",
+          "player": "Carlos VIDAL",
+          "minute": "65"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-17",
+      "stage": "Group B",
+      "venue": "Parque Central",
+      "city": "Montevideo",
+      "home_team": "Yugoslavia",
+      "away_team": "Bolivia",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Milovan JAKSIC",
+          "Milutin IVKOVIC",
+          "Dragan MIHAJLOVIC",
+          "Ljubisa STEFANOVIC",
+          "Milorad ARSENIJEVIC",
+          "Momcilo DJOKIC",
+          "Ivica BEK",
+          "Blagoje MARJANOVIC",
+          "Dragutin NAJDANOVIC",
+          "Djordje VUJADINOVIC",
+          "Aleksandar TIRNANIC"
+        ],
+        "away": [
+          "Jesus BERMUDEZ",
+          "Casiano CHAVARRIA",
+          "Segundo DURANDAL",
+          "Jorge ARGOTE",
+          "Diogenes LARA",
+          "Jorge BALDERRAMA",
+          "Mario ALBORTA",
+          "Jose BUSTAMANTE",
+          "Rene FERNANDEZ",
+          "Gumercindo GOMEZ",
+          "Rafael MENDEZ"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Ivica BEK",
+          "minute": "60"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Blagoje MARJANOVIC",
+          "minute": "65"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Ivica BEK",
+          "minute": "67"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Djordje VUJADINOVIC",
+          "minute": "85"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-17",
+      "stage": "Group D",
+      "venue": "Parque Central",
+      "city": "Montevideo",
+      "home_team": "United States",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jimmy DOUGLAS",
+          "George MOORHOUSE",
+          "Ralph TRACY",
+          "Alexander WOOD",
+          "Jimmy GALLAGHER",
+          "Andrew AULD",
+          "Jim BROWN",
+          "Tom FLORIE",
+          "Billy GONSALVES",
+          "Bart McGHEE",
+          "Bert PATENAUDE"
+        ],
+        "away": [
+          "Modesto DENIS",
+          "Jose Leon MIRACCA",
+          "Quiterio OLMEDO",
+          "Francisco AGUIRRE",
+          "Eusebio DIAZ",
+          "Romildo ETCHEVERRY",
+          "Diogenes DOMINGUEZ",
+          "Aurelio GONZALEZ",
+          "Lino NESSI",
+          "Luis VARGAS PENA",
+          "Delfin BENITEZ CACERES"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Bert PATENAUDE",
+          "minute": "10"
+        },
+        {
+          "team": "United States",
+          "player": "Bert PATENAUDE",
+          "minute": "15"
+        },
+        {
+          "team": "United States",
+          "player": "Bert PATENAUDE",
+          "minute": "50"
+        }
+      ],
+      "notes": [
+        "Some historical sources credit the 18th-minute own goal to Bert Patenaude."
+      ]
+    },
+    {
+      "date": "1930-07-18",
+      "stage": "Group C",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Uruguay",
+      "away_team": "Peru",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Enrique BALLESTRERO",
+          "Jose NASAZZI",
+          "Domingo TEJERA",
+          "Jose ANDRADE",
+          "Lorenzo FERNANDEZ",
+          "Alvaro GESTIDO",
+          "Hector CASTRO",
+          "Pedro CEA",
+          "Victoriano IRIARTE",
+          "Pedro PETRONE",
+          "Santos URDINARAN"
+        ],
+        "away": [
+          "Jorge PARDON",
+          "Mario DE LAS CASAS",
+          "Antonio MAQUILON",
+          "Eduardo ASTENGO",
+          "Alberto DENEGRI",
+          "Placido GALINDO",
+          "Jose Maria LAVALLE",
+          "Demetrio NEYRA",
+          "Luis SOUZA",
+          "Alejandro VILLANUEVA",
+          "Julio LORES"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Hector CASTRO",
+          "minute": "60"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-19",
+      "stage": "Group A",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Chile",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Roberto CORTES",
+          "Ernesto CHAPARRO",
+          "Guillermo RIVEROS",
+          "Guillermo SAAVEDRA",
+          "Arturo TORRES",
+          "Casimiro TORRES",
+          "Tomas OJEDA",
+          "Carlos SCHNEBERGER",
+          "Guillermo SUBIABRE",
+          "Carlos VIDAL",
+          "Eberardo VILLALOBOS"
+        ],
+        "away": [
+          "Alex THEPOT",
+          "Marcel CAPELLE",
+          "Etienne MATTLER",
+          "Augustin CHANTREL",
+          "Marcel PINEL",
+          "Alex VILLAPLANE",
+          "Celestin DELMER",
+          "Edmond DELFOUR",
+          "Marcel LANGILLER",
+          "Ernest LIBERATI",
+          "Emile VEINANTE"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Guillermo SUBIABRE",
+          "minute": "65"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-19",
+      "stage": "Group A",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Argentina",
+      "away_team": "Mexico",
+      "score": {
+        "home": 6,
+        "away": 3
+      },
+      "lineup": {
+        "home": [
+          "Angel BOSSIO",
+          "Alberto CHIVIDINI",
+          "Jose DELLA TORRE",
+          "Rodolfo ORLANDINI",
+          "Fernando PATERNOSTER",
+          "Adolfo ZUMELZU",
+          "Atilio DEMARIA",
+          "Carlos PEUCELLE",
+          "Francisco VARALLO",
+          "Carlos SPADARO",
+          "Guillermo STABILE"
+        ],
+        "away": [
+          "Oscar BONFIGLIO",
+          "Francisco GARZA GUTIERREZ",
+          "Rafael GARZA",
+          "Manuel ROSAS",
+          "Raimundo RODRIGUEZ",
+          "Felipe ROSAS",
+          "Alfredo SANCHEZ",
+          "Juan CARRENO",
+          "Roberto GAYON",
+          "Hilario LOPEZ",
+          "Felipe OLIVARES"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "8"
+        },
+        {
+          "team": "Argentina",
+          "player": "Adolfo ZUMELZU",
+          "minute": "12"
+        },
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "17"
+        },
+        {
+          "team": "Mexico",
+          "player": "Manuel ROSAS",
+          "minute": "42",
+          "penalty": true
+        },
+        {
+          "team": "Argentina",
+          "player": "Francisco VARALLO",
+          "minute": "53"
+        },
+        {
+          "team": "Argentina",
+          "player": "Adolfo ZUMELZU",
+          "minute": "55"
+        },
+        {
+          "team": "Mexico",
+          "player": "Manuel ROSAS",
+          "minute": "65"
+        },
+        {
+          "team": "Mexico",
+          "player": "Roberto GAYON",
+          "minute": "75"
+        },
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "80"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-20",
+      "stage": "Group D",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Paraguay",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Pedro BENITEZ",
+          "Salvador FLORES",
+          "Quiterio OLMEDO",
+          "Santiago BENITEZ",
+          "Eusebio DIAZ",
+          "Tranquilino GARCETE",
+          "Delfin BENITEZ CACERES",
+          "Aurelio GONZALEZ",
+          "Lino NESSI",
+          "Luis VARGAS PENA",
+          "Gerardo ROMERO"
+        ],
+        "away": [
+          "Arnold BADJOU",
+          "Henri DE DEKEN",
+          "Nikolaas HOYDONCKX",
+          "Theodore NOUWENS",
+          "Jan DIDDENS",
+          "Auguste HELLEMANS",
+          "Pierre BRAINE",
+          "Fernand ADAMS",
+          "Gerard DELBEKE",
+          "Jacques MOESCHAL",
+          "Louis VERSYP"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Paraguay",
+          "player": "Luis VARGAS PENA",
+          "minute": "40"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-20",
+      "stage": "Group B",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Brazil",
+      "away_team": "Bolivia",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "VELLOSO",
+          "ITALIA",
+          "ZE LUIS",
+          "FAUSTO",
+          "HERMOGENES",
+          "FERNANDO GIUDICELLI",
+          "CARVALHO LEITE",
+          "BENEDICTO",
+          "MODERATO",
+          "RUSSINHO",
+          "PREGUINHO"
+        ],
+        "away": [
+          "Jesus BERMUDEZ",
+          "Casiano CHAVARRIA",
+          "Segundo DURANDAL",
+          "Diogenes LARA",
+          "Renato SAINZ",
+          "Jorge BALDERRAMA",
+          "Mario ALBORTA",
+          "Jose BUSTAMANTE",
+          "Rene FERNANDEZ",
+          "Rafael MENDEZ",
+          "Eduardo REYES ORTIZ"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "MODERATO",
+          "minute": "37"
+        },
+        {
+          "team": "Brazil",
+          "player": "PREGUINHO",
+          "minute": "67"
+        },
+        {
+          "team": "Brazil",
+          "player": "MODERATO",
+          "minute": "73"
+        },
+        {
+          "team": "Brazil",
+          "player": "PREGUINHO",
+          "minute": "83"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-21",
+      "stage": "Group C",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Uruguay",
+      "away_team": "Romania",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Enrique BALLESTRERO",
+          "Jose NASAZZI",
+          "Ernesto MASCHERONI",
+          "Jose ANDRADE",
+          "Lorenzo FERNANDEZ",
+          "Alvaro GESTIDO",
+          "Juan ANSELMO",
+          "Pedro CEA",
+          "Pablo DORADO",
+          "Victoriano IRIARTE",
+          "Hector SCARONE"
+        ],
+        "away": [
+          "Ion LAPUSNEANU",
+          "Rudolf BUERGER",
+          "Emerich VOGL",
+          "Iosif CZAKO",
+          "Alfred EISENBEISSER",
+          "Ladislau RAFFINSKY",
+          "Corneliu ROBE",
+          "Adalbert DESU",
+          "Nicolae KOVACS",
+          "Rudolf WETZER",
+          "Stefan BARBU"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Pablo DORADO",
+          "minute": "7"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Hector SCARONE",
+          "minute": "24"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan ANSELMO",
+          "minute": "30"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pedro CEA",
+          "minute": "35"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-22",
+      "stage": "Group A",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Argentina",
+      "away_team": "Chile",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Angel BOSSIO",
+          "Jose DELLA TORRE",
+          "Rodolfo ORLANDINI",
+          "Fernando PATERNOSTER",
+          "Luis MONTI",
+          "Juan EVARISTO",
+          "Carlos PEUCELLE",
+          "Francisco VARALLO",
+          "Mario EVARISTO",
+          "Manuel FERREIRA",
+          "Guillermo STABILE"
+        ],
+        "away": [
+          "Roberto CORTES",
+          "Ernesto CHAPARRO",
+          "Victor MORALES",
+          "Guillermo SAAVEDRA",
+          "Arturo TORRES",
+          "Casimiro TORRES",
+          "Juan AGUILERA",
+          "Guillermo ARELLANO",
+          "Guillermo SUBIABRE",
+          "Carlos VIDAL",
+          "Eberardo VILLALOBOS"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "12"
+        },
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "13"
+        },
+        {
+          "team": "Chile",
+          "player": "Guillermo SUBIABRE",
+          "minute": "15"
+        },
+        {
+          "team": "Argentina",
+          "player": "Mario EVARISTO",
+          "minute": "51"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-26",
+      "stage": "Semi-final",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Argentina",
+      "away_team": "United States",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Juan BOTASSO",
+          "Jose DELLA TORRE",
+          "Rodolfo ORLANDINI",
+          "Fernando PATERNOSTER",
+          "Luis MONTI",
+          "Juan EVARISTO",
+          "Carlos PEUCELLE",
+          "Mario EVARISTO",
+          "Manuel FERREIRA",
+          "Alejandro SCOPELLI",
+          "Guillermo STABILE"
+        ],
+        "away": [
+          "Jimmy DOUGLAS",
+          "George MOORHOUSE",
+          "Ralph TRACY",
+          "Alexander WOOD",
+          "Jimmy GALLAGHER",
+          "Andrew AULD",
+          "Jim BROWN",
+          "Tom FLORIE",
+          "Billy GONSALVES",
+          "Bart McGHEE",
+          "Bert PATENAUDE"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Luis MONTI",
+          "minute": "20"
+        },
+        {
+          "team": "Argentina",
+          "player": "Alejandro SCOPELLI",
+          "minute": "56"
+        },
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "69"
+        },
+        {
+          "team": "Argentina",
+          "player": "Carlos PEUCELLE",
+          "minute": "80"
+        },
+        {
+          "team": "Argentina",
+          "player": "Carlos PEUCELLE",
+          "minute": "85"
+        },
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "87"
+        },
+        {
+          "team": "United States",
+          "player": "Jim BROWN",
+          "minute": "89"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-27",
+      "stage": "Semi-final",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Uruguay",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Enrique BALLESTRERO",
+          "Jose NASAZZI",
+          "Ernesto MASCHERONI",
+          "Jose ANDRADE",
+          "Lorenzo FERNANDEZ",
+          "Alvaro GESTIDO",
+          "Juan ANSELMO",
+          "Pedro CEA",
+          "Pablo DORADO",
+          "Victoriano IRIARTE",
+          "Hector SCARONE"
+        ],
+        "away": [
+          "Milovan JAKSIC",
+          "Milutin IVKOVIC",
+          "Dragan MIHAJLOVIC",
+          "Ljubisa STEFANOVIC",
+          "Milorad ARSENIJEVIC",
+          "Momcilo DJOKIC",
+          "Ivica BEK",
+          "Blagoje MARJANOVIC",
+          "Branislav SEKULIC",
+          "Djordje VUJADINOVIC",
+          "Aleksandar TIRNANIC"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Djordje VUJADINOVIC",
+          "minute": "4"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pedro CEA",
+          "minute": "18"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan ANSELMO",
+          "minute": "20"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan ANSELMO",
+          "minute": "31"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Victoriano IRIARTE",
+          "minute": "61"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pedro CEA",
+          "minute": "67"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pedro CEA",
+          "minute": "72"
+        }
+      ]
+    },
+    {
+      "date": "1930-07-30",
+      "stage": "Final",
+      "venue": "Estadio Centenario",
+      "city": "Montevideo",
+      "home_team": "Uruguay",
+      "away_team": "Argentina",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Enrique BALLESTRERO",
+          "Jose NASAZZI",
+          "Ernesto MASCHERONI",
+          "Jose ANDRADE",
+          "Lorenzo FERNANDEZ",
+          "Alvaro GESTIDO",
+          "Hector CASTRO",
+          "Pedro CEA",
+          "Pablo DORADO",
+          "Victoriano IRIARTE",
+          "Hector SCARONE"
+        ],
+        "away": [
+          "Juan BOTASSO",
+          "Jose DELLA TORRE",
+          "Fernando PATERNOSTER",
+          "Luis MONTI",
+          "Juan EVARISTO",
+          "Pedro SUAREZ",
+          "Carlos PEUCELLE",
+          "Francisco VARALLO",
+          "Mario EVARISTO",
+          "Manuel FERREIRA",
+          "Guillermo STABILE"
+        ]
+      },
+      "substitutions": [],
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Pablo DORADO",
+          "minute": "12"
+        },
+        {
+          "team": "Argentina",
+          "player": "Carlos PEUCELLE",
+          "minute": "20"
+        },
+        {
+          "team": "Argentina",
+          "player": "Guillermo STABILE",
+          "minute": "37"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Pedro CEA",
+          "minute": "57"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Victoriano IRIARTE",
+          "minute": "68"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Hector CASTRO",
+          "minute": "89"
+        }
+      ]
+    }
+  ]
+}

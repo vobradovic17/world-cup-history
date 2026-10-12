@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" role="img" aria-label="Soviet Union flag">
+  <path fill="#cc0000" d="M0 0h30v20H0z"/>
+  <path fill="#ffdf00" d="m8.2 2.1.55 1.1 1.22.18-.88.86.21 1.22-1.1-.58-1.1.58.21-1.22-.88-.86 1.22-.18z"/>
+  <path fill="none" stroke="#ffdf00" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2" d="m6.2 10.1 7.4-4.3m-5.5-1.1 5.5 9.2m-6.8.2h9.1m-7.1-1.2 2.1 1.2 2.5-.5m-2.7-8.4 2.6-1.5 1.8 3.1-2.6 1.5z"/>
+</svg>

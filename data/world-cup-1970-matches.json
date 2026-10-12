@@ -1,0 +1,2523 @@
+{
+  "tournament": "FIFA World Cup 1970",
+  "host_country": "Mexico",
+  "matches_played": 32,
+  "format": "Four first-round groups of four teams, followed by quarter-finals, semi-finals, a third-place match and a final.",
+  "sources": [
+    "https://www.rsssf.org/tables/70full.html",
+    "https://www.rsssf.org/tables/70f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1970/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1970-05-31",
+      "stage": "Group A",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ignacio CALDERON",
+          "Gustavo PENA",
+          "Mario PEREZ",
+          "Guillermo HERNANDEZ",
+          "Jose VANTOLRA",
+          "Javier GUZMAN",
+          "Hector PULIDO",
+          "Mario VELARDE",
+          "Horacio LOPEZ SALGADO",
+          "Javier VALDIVIA",
+          "Javier FRAGOSO"
+        ],
+        "away": [
+          "Anzor KAVAZASHVILI",
+          "Vladimir KAPLICHNI",
+          "Evgeni LOVCHEV",
+          "Gennadi LOGOFET",
+          "Albert SHESTERNYOV",
+          "Kakhi ASATIANI",
+          "Vladimir MUNTYAN",
+          "Viktor SEREBRYANIKOV",
+          "Anatoly BISHOVETS",
+          "Gennadi YEVRYUZHIKHIN",
+          "Givili NODIYA"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Anatoli PUZACH",
+          "player_off": "Viktor SEREBRYANIKOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Vitali KHMELNITSKI",
+          "player_off": "Givili NODIYA",
+          "minute": "66"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Antonio MUNGUIA",
+          "player_off": "Mario VELARDE",
+          "minute": "67"
+        }
+      ],
+      "notes": [
+        "The match was preceded by the World Cup opening ceremony."
+      ]
+    },
+    {
+      "date": "1970-06-03",
+      "stage": "Group A",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Belgium",
+      "away_team": "El Salvador",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Christian PIOT",
+          "Georges HEYLENS",
+          "Jean THISSEN",
+          "Nicolas DEWALQUE",
+          "Jan DOCKX",
+          "Leon SEMMELING",
+          "Wilfried VAN MOER",
+          "Johannes DEVRINDT",
+          "Paul VAN HIMST",
+          "Wilfried PUIS",
+          "Raoul LAMBERT"
+        ],
+        "away": [
+          "Raul MAGANA",
+          "Roberto RIVAS",
+          "Salvador MARIONA",
+          "Saturnino OSORIO",
+          "Mauricio MANZANO",
+          "Jose QUINTANILLA",
+          "Mauricio RODRIGUEZ",
+          "Alfredo VASQUEZ",
+          "Juan MARTINEZ",
+          "Salvador CABEZAS",
+          "Ernesto APARICIO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Wilfried VAN MOER",
+          "minute": "12"
+        },
+        {
+          "team": "Belgium",
+          "player": "Wilfried VAN MOER",
+          "minute": "54"
+        },
+        {
+          "team": "Belgium",
+          "player": "Raoul LAMBERT",
+          "minute": "79",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "El Salvador",
+          "player_on": "Santiago CORTES",
+          "player_off": "Mauricio MANZANO",
+          "minute": "67"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Odilon POLLEUNIS",
+          "player_off": "Leon SEMMELING",
+          "minute": "79"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Genaro SERMENO",
+          "player_off": "Mauricio RODRIGUEZ",
+          "minute": "80"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-06",
+      "stage": "Group A",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Soviet Union",
+      "away_team": "Belgium",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Anzor KAVAZASHVILI",
+          "Valentin AFONIN",
+          "Revaz DZODZVASHVILI",
+          "Vladimir KAPLICHNI",
+          "Murtaz KHURTSILAVA",
+          "Albert SHESTERNYOV",
+          "Kakhi ASATIANI",
+          "Vladimir MUNTYAN",
+          "Anatoly BISHOVETS",
+          "Gennadi YEVRYUZHIKHIN",
+          "Vitali KHMELNITSKI"
+        ],
+        "away": [
+          "Christian PIOT",
+          "Georges HEYLENS",
+          "Jean THISSEN",
+          "Nicolas DEWALQUE",
+          "Leon JECK",
+          "Jan DOCKX",
+          "Leon SEMMELING",
+          "Wilfried VAN MOER",
+          "Paul VAN HIMST",
+          "Wilfried PUIS",
+          "Raoul LAMBERT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Anatoly BISHOVETS",
+          "minute": "14"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Kakhi ASATIANI",
+          "minute": "57"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Anatoly BISHOVETS",
+          "minute": "63"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Vitali KHMELNITSKI",
+          "minute": "76"
+        },
+        {
+          "team": "Belgium",
+          "player": "Raoul LAMBERT",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Evgeni LOVCHEV",
+          "player_off": "Vladimir KAPLICHNI",
+          "minute": "34"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Nicolai KISELYOV",
+          "player_off": "Revaz DZODZVASHVILI",
+          "minute": "73"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-07",
+      "stage": "Group A",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "El Salvador",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ignacio CALDERON",
+          "Gustavo PENA",
+          "Mario PEREZ",
+          "Jose VANTOLRA",
+          "Javier GUZMAN",
+          "Antonio MUNGUIA",
+          "Jose Luis GONZALEZ",
+          "Enrique BORJA",
+          "Aaron PADILLA",
+          "Javier VALDIVIA",
+          "Javier FRAGOSO"
+        ],
+        "away": [
+          "Raul MAGANA",
+          "Roberto RIVAS",
+          "Salvador MARIONA",
+          "Santiago CORTES",
+          "Saturnino OSORIO",
+          "Jose QUINTANILLA",
+          "Mauricio RODRIGUEZ",
+          "Alfredo VASQUEZ",
+          "Juan MARTINEZ",
+          "Salvador CABEZAS",
+          "Ernesto APARICIO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Javier VALDIVIA",
+          "minute": "45"
+        },
+        {
+          "team": "Mexico",
+          "player": "Javier VALDIVIA",
+          "minute": "46"
+        },
+        {
+          "team": "Mexico",
+          "player": "Javier FRAGOSO",
+          "minute": "58"
+        },
+        {
+          "team": "Mexico",
+          "player": "Juan Ignacio BASAGUREN",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Horacio LOPEZ SALGADO",
+          "player_off": "Enrique BORJA",
+          "minute": "45+1"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Sergio MENDEZ",
+          "player_off": "Ernesto APARICIO",
+          "minute": "58"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Mario MONGE",
+          "player_off": "Santiago CORTES",
+          "minute": "68"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Juan Ignacio BASAGUREN",
+          "player_off": "Horacio LOPEZ SALGADO",
+          "minute": "76"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-10",
+      "stage": "Group A",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Soviet Union",
+      "away_team": "El Salvador",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Anzor KAVAZASHVILI",
+          "Valentin AFONIN",
+          "Revaz DZODZVASHVILI",
+          "Murtaz KHURTSILAVA",
+          "Albert SHESTERNYOV",
+          "Nicolai KISELYOV",
+          "Vladimir MUNTYAN",
+          "Viktor SEREBRYANIKOV",
+          "Anatoly BISHOVETS",
+          "Anatoli PUZACH",
+          "Vitali KHMELNITSKI"
+        ],
+        "away": [
+          "Raul MAGANA",
+          "Roberto RIVAS",
+          "Salvador MARIONA",
+          "Saturnino OSORIO",
+          "Guillermo CASTRO",
+          "Mauricio RODRIGUEZ",
+          "Alfredo VASQUEZ",
+          "Mario MONGE",
+          "Sergio MENDEZ",
+          "Salvador CABEZAS",
+          "Jaime PORTILLO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Soviet Union",
+          "player": "Anatoly BISHOVETS",
+          "minute": "51"
+        },
+        {
+          "team": "Soviet Union",
+          "player": "Anatoly BISHOVETS",
+          "minute": "74"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Kakhi ASATIANI",
+          "player_off": "Nicolai KISELYOV",
+          "minute": "81"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Ernesto APARICIO",
+          "player_off": "Salvador CABEZAS",
+          "minute": "82"
+        },
+        {
+          "team": "El Salvador",
+          "player_on": "Genaro SERMENO",
+          "player_off": "Mauricio RODRIGUEZ",
+          "minute": "86"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-11",
+      "stage": "Group A",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Mexico",
+      "away_team": "Belgium",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ignacio CALDERON",
+          "Gustavo PENA",
+          "Mario PEREZ",
+          "Jose VANTOLRA",
+          "Javier GUZMAN",
+          "Antonio MUNGUIA",
+          "Hector PULIDO",
+          "Jose Luis GONZALEZ",
+          "Aaron PADILLA",
+          "Javier VALDIVIA",
+          "Javier FRAGOSO"
+        ],
+        "away": [
+          "Christian PIOT",
+          "Georges HEYLENS",
+          "Jean THISSEN",
+          "Nicolas DEWALQUE",
+          "Leon JECK",
+          "Jan DOCKX",
+          "Leon SEMMELING",
+          "Wilfried VAN MOER",
+          "Paul VAN HIMST",
+          "Wilfried PUIS",
+          "Odilon POLLEUNIS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Gustavo PENA",
+          "minute": "14",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Mexico",
+          "player_on": "Juan Ignacio BASAGUREN",
+          "player_off": "Javier VALDIVIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Belgium",
+          "player_on": "Johannes DEVRINDT",
+          "player_off": "Odilon POLLEUNIS",
+          "minute": "65"
+        }
+      ],
+      "notes": [
+        "The Soviet Union won Group A by lot after finishing level with Mexico on points and goal difference."
+      ]
+    },
+    {
+      "date": "1970-06-02",
+      "stage": "Group B",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Uruguay",
+      "away_team": "Israel",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ladislao MAZURKIEWICZ",
+          "Atilio ANCHETA",
+          "Roberto MATOSAS",
+          "Luis UBINA",
+          "Juan MUJICA",
+          "Julio MONTERO",
+          "Luis CUBILLA",
+          "Pedro ROCHA",
+          "Victor ESPARRAGO",
+          "Ildo MANEIRO",
+          "Julio LOSADA"
+        ],
+        "away": [
+          "Itzhak VISSOKER",
+          "David PRIMO",
+          "Zvi ROSEN",
+          "Shmuel ROSENTHAL",
+          "Yeshaiyahu SCHWAGER",
+          "Itzhak SCHUM",
+          "Giora SPIEGEL",
+          "Jehoshua FAIGENBAUM",
+          "Mordechai SPIEGLER",
+          "Dani SHMULEVICH-ROM",
+          "Rahamim TALBI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Ildo MANEIRO",
+          "minute": "23"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan MUJICA",
+          "minute": "50"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Julio CORTES",
+          "player_off": "Pedro ROCHA",
+          "minute": "12"
+        },
+        {
+          "team": "Israel",
+          "player_on": "Shraga BAR",
+          "player_off": "Rahamim TALBI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Israel",
+          "player_on": "Johanan VALLACH",
+          "player_off": "Dani SHMULEVICH-ROM",
+          "minute": "57"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-03",
+      "stage": "Group B",
+      "venue": "Estadio La Bombonera",
+      "city": "Toluca",
+      "home_team": "Italy",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Pierluigi CERA",
+          "Comunardo NICCOLAI",
+          "Mario BERTINI",
+          "Sandro MAZZOLA",
+          "Giancarlo DE SISTI",
+          "Gigi RIVA",
+          "Angelo DOMENGHINI",
+          "Roberto BONINSEGNA"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Kurt AXELSSON",
+          "Bjorn NORDQVIST",
+          "Roland GRIP",
+          "Jan OLSSON",
+          "Tommy SVENSSON",
+          "Bo LARSSON",
+          "Leif ERIKSSON",
+          "Ove KINDVALL",
+          "Ove GRAHN",
+          "Claes CRONQVIST"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Angelo DOMENGHINI",
+          "minute": "10"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Roberto ROSATO",
+          "player_off": "Comunardo NICCOLAI",
+          "minute": "37"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Inge EJDERSTEDT",
+          "player_off": "Leif ERIKSSON",
+          "minute": "56"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Goran NICKLASSON",
+          "player_off": "Bo LARSSON",
+          "minute": "80"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-06",
+      "stage": "Group B",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Uruguay",
+      "away_team": "Italy",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ladislao MAZURKIEWICZ",
+          "Atilio ANCHETA",
+          "Roberto MATOSAS",
+          "Luis UBINA",
+          "Juan MUJICA",
+          "Julio MONTERO",
+          "Luis CUBILLA",
+          "Victor ESPARRAGO",
+          "Ildo MANEIRO",
+          "Julio CORTES",
+          "Ruben BARENO"
+        ],
+        "away": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Pierluigi CERA",
+          "Roberto ROSATO",
+          "Mario BERTINI",
+          "Sandro MAZZOLA",
+          "Giancarlo DE SISTI",
+          "Gigi RIVA",
+          "Angelo DOMENGHINI",
+          "Roberto BONINSEGNA"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe FURINO",
+          "player_off": "Angelo DOMENGHINI",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Oscar ZUBIA",
+          "player_off": "Ruben BARENO",
+          "minute": "70"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-07",
+      "stage": "Group B",
+      "venue": "Estadio La Bombonera",
+      "city": "Toluca",
+      "home_team": "Israel",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Itzhak VISSOKER",
+          "Shraga BAR",
+          "David PRIMO",
+          "Zvi ROSEN",
+          "Shmuel ROSENTHAL",
+          "Yeshaiyahu SCHWAGER",
+          "Johanan VALLACH",
+          "Itzhak SCHUM",
+          "Giora SPIEGEL",
+          "Jehoshua FAIGENBAUM",
+          "Mordechai SPIEGLER"
+        ],
+        "away": [
+          "Sven-Gunnar LARSSON",
+          "Hans SELANDER",
+          "Kurt AXELSSON",
+          "Roland GRIP",
+          "Jan OLSSON",
+          "Tommy SVENSSON",
+          "Bo LARSSON",
+          "Orjan PERSSON",
+          "Thomas NORDAHL",
+          "Ove KINDVALL",
+          "Tom TURESSON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Tom TURESSON",
+          "minute": "53"
+        },
+        {
+          "team": "Israel",
+          "player": "Mordechai SPIEGLER",
+          "minute": "56"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Israel",
+          "player_on": "Aharon SHURUK",
+          "player_off": "Johanan VALLACH",
+          "minute": "51"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Sten PALSSON",
+          "player_off": "Orjan PERSSON",
+          "minute": "76"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-10",
+      "stage": "Group B",
+      "venue": "Estadio Cuauhtémoc",
+      "city": "Puebla",
+      "home_team": "Sweden",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Sven-Gunnar LARSSON",
+          "Hans SELANDER",
+          "Kurt AXELSSON",
+          "Bjorn NORDQVIST",
+          "Roland GRIP",
+          "Tommy SVENSSON",
+          "Bo LARSSON",
+          "Leif ERIKSSON",
+          "Orjan PERSSON",
+          "Goran NICKLASSON",
+          "Ove KINDVALL"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Atilio ANCHETA",
+          "Roberto MATOSAS",
+          "Luis UBINA",
+          "Juan MUJICA",
+          "Julio MONTERO",
+          "Victor ESPARRAGO",
+          "Ildo MANEIRO",
+          "Julio CORTES",
+          "Oscar ZUBIA",
+          "Julio LOSADA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Ove GRAHN",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Tom TURESSON",
+          "player_off": "Ove KINDVALL",
+          "minute": "58"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Dagoberto FONTES",
+          "player_off": "Victor ESPARRAGO",
+          "minute": "61"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Ove GRAHN",
+          "player_off": "Goran NICKLASSON",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-11",
+      "stage": "Group B",
+      "venue": "Estadio La Bombonera",
+      "city": "Toluca",
+      "home_team": "Italy",
+      "away_team": "Israel",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Pierluigi CERA",
+          "Roberto ROSATO",
+          "Mario BERTINI",
+          "Sandro MAZZOLA",
+          "Giancarlo DE SISTI",
+          "Gigi RIVA",
+          "Angelo DOMENGHINI",
+          "Roberto BONINSEGNA"
+        ],
+        "away": [
+          "Itzhak VISSOKER",
+          "Shraga BAR",
+          "Menachem BELLO",
+          "David PRIMO",
+          "Zvi ROSEN",
+          "Shmuel ROSENTHAL",
+          "Yeshaiyahu SCHWAGER",
+          "Itzhak SCHUM",
+          "Giora SPIEGEL",
+          "Jehoshua FAIGENBAUM",
+          "Mordechai SPIEGLER"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Israel",
+          "player_on": "Dani SHMULEVICH-ROM",
+          "player_off": "Jehoshua FAIGENBAUM",
+          "minute": "45+1"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-02",
+      "stage": "Group C",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "England",
+      "away_team": "Romania",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "Keith NEWTON",
+          "Terry COOPER",
+          "Brian LABONE",
+          "Bobby MOORE",
+          "Alan MULLERY",
+          "Alan BALL",
+          "Bobby CHARLTON",
+          "Francis LEE",
+          "Geoff HURST",
+          "Martin PETERS"
+        ],
+        "away": [
+          "Stere ADAMACHE",
+          "Ludovic SATMAREANU",
+          "Nicolae LUPESCU",
+          "Mihai MOCANU",
+          "Cornel DINU",
+          "Emerich DEMBROVSCHI",
+          "Radu NUNWEILLER",
+          "Ion DUMITRU",
+          "Florea DUMITRACHE",
+          "Mircea LUCESCU",
+          "Gheorghe TATARU"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Geoff HURST",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Tommy WRIGHT",
+          "player_off": "Keith NEWTON",
+          "minute": "51"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Alexandru NEAGU",
+          "player_off": "Gheorghe TATARU",
+          "minute": "73"
+        },
+        {
+          "team": "England",
+          "player_on": "Peter OSGOOD",
+          "player_off": "Francis LEE",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-03",
+      "stage": "Group C",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "FELIX",
+          "BRITO",
+          "WILSON PIAZZA",
+          "CARLOS ALBERTO",
+          "EVERALDO",
+          "CLODOALDO",
+          "GERSON",
+          "TOSTAO",
+          "RIVELLINO",
+          "JAIRZINHO",
+          "PELE"
+        ],
+        "away": [
+          "Ivo VIKTOR",
+          "Karol DOBIAS",
+          "Vaclav MIGAS",
+          "Vladimir HAGARA",
+          "Alexander HORVATH",
+          "Ladislav KUNA",
+          "Ivan HRDLICKA",
+          "Frantisek VESELY",
+          "Ladislav PETRAS",
+          "Jozef ADAMEC",
+          "Karol JOKL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Ladislav PETRAS",
+          "minute": "11"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVELLINO",
+          "minute": "24"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "59"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "61"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "83"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Andrej KVASNAK",
+          "player_off": "Ivan HRDLICKA",
+          "minute": "46"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO CESAR",
+          "player_off": "GERSON",
+          "minute": "62"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Bohumil VESELY",
+          "player_off": "Frantisek VESELY",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-06",
+      "stage": "Group C",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Romania",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Stere ADAMACHE",
+          "Ludovic SATMAREANU",
+          "Nicolae LUPESCU",
+          "Mihai MOCANU",
+          "Cornel DINU",
+          "Emerich DEMBROVSCHI",
+          "Radu NUNWEILLER",
+          "Ion DUMITRU",
+          "Alexandru NEAGU",
+          "Florea DUMITRACHE",
+          "Mircea LUCESCU"
+        ],
+        "away": [
+          "Alexander VENCEL",
+          "Karol DOBIAS",
+          "Vaclav MIGAS",
+          "Alexander HORVATH",
+          "Jan ZLOCHA",
+          "Andrej KVASNAK",
+          "Bohumil VESELY",
+          "Ladislav KUNA",
+          "Ladislav PETRAS",
+          "Karol JOKL",
+          "Jozef JURKANIN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Czechoslovakia",
+          "player": "Ladislav PETRAS",
+          "minute": "5"
+        },
+        {
+          "team": "Romania",
+          "player": "Alexandru NEAGU",
+          "minute": "52"
+        },
+        {
+          "team": "Romania",
+          "player": "Florea DUMITRACHE",
+          "minute": "75",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Jozef ADAMEC",
+          "player_off": "Jozef JURKANIN",
+          "minute": "45+1"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Gheorghe TATARU",
+          "player_off": "Mircea LUCESCU",
+          "minute": "69"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Frantisek VESELY",
+          "player_off": "Karol JOKL",
+          "minute": "69"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Laszlo GERGELY",
+          "player_off": "Ion DUMITRU",
+          "minute": "81"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-07",
+      "stage": "Group C",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "FELIX",
+          "BRITO",
+          "WILSON PIAZZA",
+          "CARLOS ALBERTO",
+          "EVERALDO",
+          "CLODOALDO",
+          "TOSTAO",
+          "RIVELLINO",
+          "PAULO CESAR",
+          "JAIRZINHO",
+          "PELE"
+        ],
+        "away": [
+          "Gordon BANKS",
+          "Terry COOPER",
+          "Brian LABONE",
+          "Bobby MOORE",
+          "Tommy WRIGHT",
+          "Alan MULLERY",
+          "Alan BALL",
+          "Bobby CHARLTON",
+          "Francis LEE",
+          "Geoff HURST",
+          "Martin PETERS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Jeff ASTLE",
+          "player_off": "Francis LEE",
+          "minute": "63"
+        },
+        {
+          "team": "England",
+          "player_on": "Colin BELL",
+          "player_off": "Bobby CHARLTON",
+          "minute": "63"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBERTO",
+          "player_off": "TOSTAO",
+          "minute": "68"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-10",
+      "stage": "Group C",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Romania",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "FELIX",
+          "BRITO",
+          "WILSON PIAZZA",
+          "CARLOS ALBERTO",
+          "FONTANA",
+          "EVERALDO",
+          "CLODOALDO",
+          "TOSTAO",
+          "PAULO CESAR",
+          "JAIRZINHO",
+          "PELE"
+        ],
+        "away": [
+          "Stere ADAMACHE",
+          "Ludovic SATMAREANU",
+          "Nicolae LUPESCU",
+          "Mihai MOCANU",
+          "Cornel DINU",
+          "Emerich DEMBROVSCHI",
+          "Radu NUNWEILLER",
+          "Ion DUMITRU",
+          "Alexandru NEAGU",
+          "Florea DUMITRACHE",
+          "Mircea LUCESCU"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "19"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "22"
+        },
+        {
+          "team": "Romania",
+          "player": "Florea DUMITRACHE",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "67"
+        },
+        {
+          "team": "Romania",
+          "player": "Emerich DEMBROVSCHI",
+          "minute": "84"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Romania",
+          "player_on": "Necula RADUCANU",
+          "player_off": "Stere ADAMACHE",
+          "minute": "27"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MARCO ANTONIO",
+          "player_off": "EVERALDO",
+          "minute": "60"
+        },
+        {
+          "team": "Romania",
+          "player_on": "Gheorghe TATARU",
+          "player_off": "Florea DUMITRACHE",
+          "minute": "72"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "EDU",
+          "player_off": "CLODOALDO",
+          "minute": "74"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-11",
+      "stage": "Group C",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "England",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gordon BANKS",
+          "Keith NEWTON",
+          "Terry COOPER",
+          "Bobby MOORE",
+          "Jack CHARLTON",
+          "Alan MULLERY",
+          "Bobby CHARLTON",
+          "Colin BELL",
+          "Martin PETERS",
+          "Allan CLARKE",
+          "Jeff ASTLE"
+        ],
+        "away": [
+          "Ivo VIKTOR",
+          "Karol DOBIAS",
+          "Vaclav MIGAS",
+          "Vladimir HAGARA",
+          "Vladimir HRIVNAK",
+          "Ladislav KUNA",
+          "Jaroslav POLLAK",
+          "Frantisek VESELY",
+          "Ladislav PETRAS",
+          "Jozef ADAMEC",
+          "Jozef CAPKOVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Allan CLARKE",
+          "minute": "50",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "England",
+          "player_on": "Peter OSGOOD",
+          "player_off": "Jeff ASTLE",
+          "minute": "65"
+        },
+        {
+          "team": "England",
+          "player_on": "Alan BALL",
+          "player_off": "Bobby CHARLTON",
+          "minute": "65"
+        },
+        {
+          "team": "Czechoslovakia",
+          "player_on": "Karol JOKL",
+          "player_off": "Jozef CAPKOVIC",
+          "minute": "72"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-02",
+      "stage": "Group D",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "Peru",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Luis RUBINOS",
+          "Eloy CAMPOS",
+          "Orlando DE LA TORRE",
+          "Hector CHUMPITAZ",
+          "Nicolas FUENTES",
+          "Ramon MIFFLIN",
+          "Roberto CHALLE",
+          "Julio BAYLON",
+          "Pedro LEON",
+          "Teofilo CUBILLAS",
+          "Alberto GALLARDO"
+        ],
+        "away": [
+          "Simeon SIMEONOV",
+          "Aleksandar SHALAMANOV",
+          "Ivan DIMITROV",
+          "Stefan ALADZHOV",
+          "Dimitar PENEV",
+          "Ivan DAVIDOV",
+          "Hristo BONEV",
+          "Dinko DERMENDZHIEV",
+          "Georgi POPOV",
+          "Petar ZHEKOV",
+          "Dimitar YAKIMOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Dinko DERMENDZHIEV",
+          "minute": "13"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Hristo BONEV",
+          "minute": "49"
+        },
+        {
+          "team": "Peru",
+          "player": "Alberto GALLARDO",
+          "minute": "50"
+        },
+        {
+          "team": "Peru",
+          "player": "Hector CHUMPITAZ",
+          "minute": "55"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "73"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Javier GONZALES",
+          "player_off": "Eloy CAMPOS",
+          "minute": "29"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Hugo SOTIL",
+          "player_off": "Julio BAYLON",
+          "minute": "51"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Dimitar MARASHLIEV",
+          "player_off": "Georgi POPOV",
+          "minute": "59"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Georgi ASPARUKHOV",
+          "player_off": "Hristo BONEV",
+          "minute": "73"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-03",
+      "stage": "Group D",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "West Germany",
+      "away_team": "Morocco",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Horst-Dieter HOETTGES",
+          "Franz BECKENBAUER",
+          "Willi SCHULZ",
+          "Berti VOGTS",
+          "Klaus FICHTEL",
+          "Helmut HALLER",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD",
+          "Gerd MUELLER"
+        ],
+        "away": [
+          "Allal BEN KASSOU",
+          "Abdallah LAMRANI",
+          "Boujamaa BENKHRIF",
+          "Driss KANOUSSI",
+          "Kassem SLIMANI",
+          "Mohamed MAAROUFI",
+          "Ghandi SAID",
+          "Driss BAMOUS",
+          "Mohamed EL FILALI",
+          "Mahjoub GHAZOUANI",
+          "Houmane JARIR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Morocco",
+          "player": "Houmane JARIR",
+          "minute": "21"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "56"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "80"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Juergen GRABOWSKI",
+          "player_off": "Helmut HALLER",
+          "minute": "45"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Abdelkader EL KHYATI",
+          "player_off": "Mahjoub GHAZOUANI",
+          "minute": "56"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ahmed FARAS",
+          "player_off": "Driss BAMOUS",
+          "minute": "72"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Hennes LOEHR",
+          "player_off": "Horst-Dieter HOETTGES",
+          "minute": "77"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-06",
+      "stage": "Group D",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "Peru",
+      "away_team": "Morocco",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Luis RUBINOS",
+          "Orlando DE LA TORRE",
+          "Hector CHUMPITAZ",
+          "Nicolas FUENTES",
+          "Pedro GONZALES",
+          "Ramon MIFFLIN",
+          "Roberto CHALLE",
+          "Pedro LEON",
+          "Teofilo CUBILLAS",
+          "Alberto GALLARDO",
+          "Hugo SOTIL"
+        ],
+        "away": [
+          "Allal BEN KASSOU",
+          "Abdallah LAMRANI",
+          "Boujamaa BENKHRIF",
+          "Driss KANOUSSI",
+          "Kassem SLIMANI",
+          "Mohamed MAAROUFI",
+          "Ghandi SAID",
+          "Driss BAMOUS",
+          "Mohamed EL FILALI",
+          "Mahjoub GHAZOUANI",
+          "Houmane JARIR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "65"
+        },
+        {
+          "team": "Peru",
+          "player": "Roberto CHALLE",
+          "minute": "67"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Luis CRUZADO",
+          "player_off": "Ramon MIFFLIN",
+          "minute": "56"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Jilali FADILI",
+          "player_off": "Boujamaa BENKHRIF",
+          "minute": "66"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Osvaldo RAMIREZ",
+          "player_off": "Alberto GALLARDO",
+          "minute": "76"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ahmed ALAOUI",
+          "player_off": "Ghandi SAID",
+          "minute": "81"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-07",
+      "stage": "Group D",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "West Germany",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Franz BECKENBAUER",
+          "Berti VOGTS",
+          "Klaus FICHTEL",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Gerd MUELLER",
+          "Stan LIBUDA",
+          "Hennes LOEHR"
+        ],
+        "away": [
+          "Simeon SIMEONOV",
+          "Dimitar PENEV",
+          "Milko GAIDARSKI",
+          "Dobromir JECHEV",
+          "Boris GAGANELOV",
+          "Hristo BONEV",
+          "Dinko DERMENDZHIEV",
+          "Asparukh NIKODIMOV",
+          "Todor KOLEV",
+          "Dimitar MARASHLIEV",
+          "Georgi ASPARUKHOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Asparukh NIKODIMOV",
+          "minute": "12"
+        },
+        {
+          "team": "West Germany",
+          "player": "Stan LIBUDA",
+          "minute": "20"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "27"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "52",
+          "penalty": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "70"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "88"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Todor KOLEV",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Vasil MITKOV",
+          "player_off": "Dinko DERMENDZHIEV",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Juergen GRABOWSKI",
+          "player_off": "Hennes LOEHR",
+          "minute": "58"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Aleksandar SHALAMANOV",
+          "player_off": "Boris GAGANELOV",
+          "minute": "58"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Wolfgang WEBER",
+          "player_off": "Franz BECKENBAUER",
+          "minute": "72"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-10",
+      "stage": "Group D",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "West Germany",
+      "away_team": "Peru",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Franz BECKENBAUER",
+          "Berti VOGTS",
+          "Klaus FICHTEL",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Gerd MUELLER",
+          "Stan LIBUDA",
+          "Hennes LOEHR"
+        ],
+        "away": [
+          "Luis RUBINOS",
+          "Orlando DE LA TORRE",
+          "Hector CHUMPITAZ",
+          "Nicolas FUENTES",
+          "Pedro GONZALES",
+          "Ramon MIFFLIN",
+          "Roberto CHALLE",
+          "Pedro LEON",
+          "Teofilo CUBILLAS",
+          "Alberto GALLARDO",
+          "Hugo SOTIL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "19"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "26"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "39"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "44"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Bernd PATZKE",
+          "player_off": "Horst-Dieter HOETTGES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Osvaldo RAMIREZ",
+          "player_off": "Pedro LEON",
+          "minute": "56"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Luis CRUZADO",
+          "player_off": "Roberto CHALLE",
+          "minute": "72"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Juergen GRABOWSKI",
+          "player_off": "Stan LIBUDA",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-11",
+      "stage": "Group D",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "Bulgaria",
+      "away_team": "Morocco",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Stoyan YORDANOV",
+          "Aleksandar SHALAMANOV",
+          "Dimitar PENEV",
+          "Milko GAIDARSKI",
+          "Dobromir JECHEV",
+          "Asparukh NIKODIMOV",
+          "Todor KOLEV",
+          "Georgi POPOV",
+          "Dimitar YAKIMOV",
+          "Georgi ASPARUKHOV",
+          "Vasil MITKOV"
+        ],
+        "away": [
+          "Mohamed HAZZAZ",
+          "Boujamaa BENKHRIF",
+          "Driss KANOUSSI",
+          "Kassem SLIMANI",
+          "Jilali FADILI",
+          "Mohamed MAAROUFI",
+          "Ghandi SAID",
+          "Driss BAMOUS",
+          "Mohamed EL FILALI",
+          "Mahjoub GHAZOUANI",
+          "Ahmed ALAOUI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Dobromir JECHEV",
+          "minute": "40"
+        },
+        {
+          "team": "Morocco",
+          "player": "Mahjoub GHAZOUANI",
+          "minute": "61"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Ivan DIMITROV",
+          "player_off": "Dimitar PENEV",
+          "minute": "42"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Mustafa CHOUKRI",
+          "player_off": "Driss BAMOUS",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Hristo BONEV",
+          "player_off": "Dimitar YAKIMOV",
+          "minute": "50"
+        },
+        {
+          "team": "Morocco",
+          "player_on": "Ahmed FARAS",
+          "player_off": "Ahmed ALAOUI",
+          "minute": "74"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-14",
+      "stage": "Quarter-final",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Uruguay",
+      "away_team": "Soviet Union",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Ladislao MAZURKIEWICZ",
+          "Atilio ANCHETA",
+          "Roberto MATOSAS",
+          "Luis UBINA",
+          "Juan MUJICA",
+          "Julio MONTERO",
+          "Luis CUBILLA",
+          "Ildo MANEIRO",
+          "Julio CORTES",
+          "Julio MORALES",
+          "Dagoberto FONTES"
+        ],
+        "away": [
+          "Anzor KAVAZASHVILI",
+          "Valentin AFONIN",
+          "Revaz DZODZVASHVILI",
+          "Vladimir KAPLICHNI",
+          "Murtaz KHURTSILAVA",
+          "Albert SHESTERNYOV",
+          "Kakhi ASATIANI",
+          "Vladimir MUNTYAN",
+          "Anatoly BISHOVETS",
+          "Gennadi YEVRYUZHIKHIN",
+          "Vitali KHMELNITSKI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Victor ESPARRAGO",
+          "minute": "117"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Soviet Union",
+          "player_on": "Nicolai KISELYOV",
+          "player_off": "Kakhi ASATIANI",
+          "minute": "71"
+        },
+        {
+          "team": "Soviet Union",
+          "player_on": "Gennadi LOGOFET",
+          "player_off": "Murtaz KHURTSILAVA",
+          "minute": "86"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Alberto GOMEZ",
+          "player_off": "Julio MORALES",
+          "minute": "96"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Victor ESPARRAGO",
+          "player_off": "Dagoberto FONTES",
+          "minute": "103"
+        }
+      ],
+      "notes": [
+        "The Soviet Union protested that the ball had gone out of play during the cross leading to the goal; the protest was rejected."
+      ]
+    },
+    {
+      "date": "1970-06-14",
+      "stage": "Quarter-final",
+      "venue": "Estadio La Bombonera",
+      "city": "Toluca",
+      "home_team": "Italy",
+      "away_team": "Mexico",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Pierluigi CERA",
+          "Roberto ROSATO",
+          "Mario BERTINI",
+          "Sandro MAZZOLA",
+          "Giancarlo DE SISTI",
+          "Gigi RIVA",
+          "Angelo DOMENGHINI",
+          "Roberto BONINSEGNA"
+        ],
+        "away": [
+          "Ignacio CALDERON",
+          "Gustavo PENA",
+          "Mario PEREZ",
+          "Jose VANTOLRA",
+          "Javier GUZMAN",
+          "Antonio MUNGUIA",
+          "Hector PULIDO",
+          "Jose Luis GONZALEZ",
+          "Aaron PADILLA",
+          "Javier VALDIVIA",
+          "Javier FRAGOSO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Mexico",
+          "player": "Jose Luis GONZALEZ",
+          "minute": "13"
+        },
+        {
+          "team": "Italy",
+          "player": "Javier GUZMAN",
+          "minute": "25",
+          "own_goal": true
+        },
+        {
+          "team": "Italy",
+          "player": "Gigi RIVA",
+          "minute": "63"
+        },
+        {
+          "team": "Italy",
+          "player": "Gianni RIVERA",
+          "minute": "70"
+        },
+        {
+          "team": "Italy",
+          "player": "Gigi RIVA",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Gianni RIVERA",
+          "player_off": "Sandro MAZZOLA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Isidoro DIAZ",
+          "player_off": "Antonio MUNGUIA",
+          "minute": "60"
+        },
+        {
+          "team": "Mexico",
+          "player_on": "Enrique BORJA",
+          "player_off": "Jose Luis GONZALEZ",
+          "minute": "68"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Sergio GORI",
+          "player_off": "Angelo DOMENGHINI",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-14",
+      "stage": "Quarter-final",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Peru",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "FELIX",
+          "BRITO",
+          "WILSON PIAZZA",
+          "CARLOS ALBERTO",
+          "MARCO ANTONIO",
+          "CLODOALDO",
+          "GERSON",
+          "TOSTAO",
+          "RIVELLINO",
+          "JAIRZINHO",
+          "PELE"
+        ],
+        "away": [
+          "Luis RUBINOS",
+          "Eloy CAMPOS",
+          "Hector CHUMPITAZ",
+          "Nicolas FUENTES",
+          "Jose FERNANDEZ",
+          "Ramon MIFFLIN",
+          "Roberto CHALLE",
+          "Julio BAYLON",
+          "Pedro LEON",
+          "Teofilo CUBILLAS",
+          "Alberto GALLARDO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RIVELLINO",
+          "minute": "11"
+        },
+        {
+          "team": "Brazil",
+          "player": "TOSTAO",
+          "minute": "15"
+        },
+        {
+          "team": "Peru",
+          "player": "Alberto GALLARDO",
+          "minute": "28"
+        },
+        {
+          "team": "Brazil",
+          "player": "TOSTAO",
+          "minute": "52"
+        },
+        {
+          "team": "Peru",
+          "player": "Teofilo CUBILLAS",
+          "minute": "70"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "75"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Peru",
+          "player_on": "Hugo SOTIL",
+          "player_off": "Julio BAYLON",
+          "minute": "54"
+        },
+        {
+          "team": "Peru",
+          "player_on": "Eladio REYES",
+          "player_off": "Pedro LEON",
+          "minute": "61"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "PAULO CESAR",
+          "player_off": "GERSON",
+          "minute": "67"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "ROBERTO",
+          "player_off": "JAIRZINHO",
+          "minute": "80"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-14",
+      "stage": "Quarter-final",
+      "venue": "Estadio Guanajuato",
+      "city": "León",
+      "home_team": "West Germany",
+      "away_team": "England",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Horst-Dieter HOETTGES",
+          "Karl-Heinz SCHNELLINGER",
+          "Franz BECKENBAUER",
+          "Berti VOGTS",
+          "Klaus FICHTEL",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Gerd MUELLER",
+          "Stan LIBUDA",
+          "Hennes LOEHR"
+        ],
+        "away": [
+          "Peter BONETTI",
+          "Keith NEWTON",
+          "Terry COOPER",
+          "Brian LABONE",
+          "Bobby MOORE",
+          "Alan MULLERY",
+          "Alan BALL",
+          "Bobby CHARLTON",
+          "Francis LEE",
+          "Geoff HURST",
+          "Martin PETERS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Alan MULLERY",
+          "minute": "31"
+        },
+        {
+          "team": "England",
+          "player": "Martin PETERS",
+          "minute": "49"
+        },
+        {
+          "team": "West Germany",
+          "player": "Franz BECKENBAUER",
+          "minute": "68"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uwe SEELER",
+          "minute": "82"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "108"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Willi SCHULZ",
+          "player_off": "Horst-Dieter HOETTGES",
+          "minute": "45"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Juergen GRABOWSKI",
+          "player_off": "Stan LIBUDA",
+          "minute": "55"
+        },
+        {
+          "team": "England",
+          "player_on": "Colin BELL",
+          "player_off": "Bobby CHARLTON",
+          "minute": "70"
+        },
+        {
+          "team": "England",
+          "player_on": "Norman HUNTER",
+          "player_off": "Martin PETERS",
+          "minute": "81"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-17",
+      "stage": "Semi-final",
+      "venue": "Estadio Jalisco",
+      "city": "Guadalajara",
+      "home_team": "Brazil",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "FELIX",
+          "BRITO",
+          "WILSON PIAZZA",
+          "CARLOS ALBERTO",
+          "EVERALDO",
+          "CLODOALDO",
+          "GERSON",
+          "TOSTAO",
+          "RIVELLINO",
+          "JAIRZINHO",
+          "PELE"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Atilio ANCHETA",
+          "Roberto MATOSAS",
+          "Luis UBINA",
+          "Juan MUJICA",
+          "Julio MONTERO",
+          "Luis CUBILLA",
+          "Ildo MANEIRO",
+          "Julio CORTES",
+          "Julio MORALES",
+          "Dagoberto FONTES"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Luis CUBILLA",
+          "minute": "19"
+        },
+        {
+          "team": "Brazil",
+          "player": "CLODOALDO",
+          "minute": "44"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "76"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVELLINO",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Victor ESPARRAGO",
+          "player_off": "Ildo MANEIRO",
+          "minute": "77"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-17",
+      "stage": "Semi-final",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Italy",
+      "away_team": "West Germany",
+      "score": {
+        "home": 4,
+        "away": 3
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Pierluigi CERA",
+          "Roberto ROSATO",
+          "Mario BERTINI",
+          "Sandro MAZZOLA",
+          "Giancarlo DE SISTI",
+          "Gigi RIVA",
+          "Angelo DOMENGHINI",
+          "Roberto BONINSEGNA"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Karl-Heinz SCHNELLINGER",
+          "Franz BECKENBAUER",
+          "Willi SCHULZ",
+          "Berti VOGTS",
+          "Bernd PATZKE",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Gerd MUELLER",
+          "Hennes LOEHR",
+          "Juergen GRABOWSKI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Roberto BONINSEGNA",
+          "minute": "8"
+        },
+        {
+          "team": "West Germany",
+          "player": "Karl-Heinz SCHNELLINGER",
+          "minute": "90"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "94"
+        },
+        {
+          "team": "Italy",
+          "player": "Tarcisio BURGNICH",
+          "minute": "98"
+        },
+        {
+          "team": "Italy",
+          "player": "Gigi RIVA",
+          "minute": "104"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "110"
+        },
+        {
+          "team": "Italy",
+          "player": "Gianni RIVERA",
+          "minute": "111"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Gianni RIVERA",
+          "player_off": "Sandro MAZZOLA",
+          "minute": "45+1"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Stan LIBUDA",
+          "player_off": "Hennes LOEHR",
+          "minute": "53"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Sigi HELD",
+          "player_off": "Bernd PATZKE",
+          "minute": "66"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Fabrizio POLETTI",
+          "player_off": "Roberto ROSATO",
+          "minute": "90+1"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-20",
+      "stage": "Third-place match",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "West Germany",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Horst WOLTER",
+          "Karl-Heinz SCHNELLINGER",
+          "Wolfgang WEBER",
+          "Berti VOGTS",
+          "Klaus FICHTEL",
+          "Bernd PATZKE",
+          "Wolfgang OVERATH",
+          "Uwe SEELER",
+          "Sigi HELD",
+          "Gerd MUELLER",
+          "Stan LIBUDA"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Atilio ANCHETA",
+          "Roberto MATOSAS",
+          "Luis UBINA",
+          "Juan MUJICA",
+          "Julio MONTERO",
+          "Luis CUBILLA",
+          "Ildo MANEIRO",
+          "Julio CORTES",
+          "Julio MORALES",
+          "Dagoberto FONTES"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Wolfgang OVERATH",
+          "minute": "26"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Max LORENZ",
+          "player_off": "Karl-Heinz SCHNELLINGER",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Victor ESPARRAGO",
+          "player_off": "Dagoberto FONTES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Rodolfo SANDOVAL",
+          "player_off": "Ildo MANEIRO",
+          "minute": "67"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Hennes LOEHR",
+          "player_off": "Stan LIBUDA",
+          "minute": "73"
+        }
+      ]
+    },
+    {
+      "date": "1970-06-21",
+      "stage": "Final",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "home_team": "Brazil",
+      "away_team": "Italy",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "FELIX",
+          "BRITO",
+          "WILSON PIAZZA",
+          "CARLOS ALBERTO",
+          "EVERALDO",
+          "CLODOALDO",
+          "GERSON",
+          "TOSTAO",
+          "RIVELLINO",
+          "JAIRZINHO",
+          "PELE"
+        ],
+        "away": [
+          "Enrico ALBERTOSI",
+          "Tarcisio BURGNICH",
+          "Giacinto FACCHETTI",
+          "Pierluigi CERA",
+          "Roberto ROSATO",
+          "Mario BERTINI",
+          "Sandro MAZZOLA",
+          "Giancarlo DE SISTI",
+          "Gigi RIVA",
+          "Angelo DOMENGHINI",
+          "Roberto BONINSEGNA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "PELE",
+          "minute": "18"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto BONINSEGNA",
+          "minute": "37"
+        },
+        {
+          "team": "Brazil",
+          "player": "GERSON",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player": "CARLOS ALBERTO",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Antonio JULIANO",
+          "player_off": "Mario BERTINI",
+          "minute": "74"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Gianni RIVERA",
+          "player_off": "Roberto BONINSEGNA",
+          "minute": "84"
+        }
+      ]
+    }
+  ]
+}

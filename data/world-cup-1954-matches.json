@@ -1,0 +1,1855 @@
+{
+  "tournament": "FIFA World Cup 1954",
+  "host_country": "Switzerland",
+  "matches_played": 26,
+  "format": "First-round groups with two seeded teams per group, group playoffs where points were tied, followed by knockout rounds.",
+  "substitution_policy": "No in-match substitutions were permitted in the 1954 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.rsssf.org/tables/54full.html",
+    "https://fbref.com/en/comps/1/1954/schedule/1954-World-Cup-Scores-and-Fixtures",
+    "https://github.com/openfootball/worldcup.json/blob/master/1954/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1954-06-16",
+      "stage": "Group A",
+      "venue": "La Pontaise",
+      "city": "Lausanne",
+      "home_team": "Yugoslavia",
+      "away_team": "France",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Vladimir BEARA",
+          "Branko STANKOVIC",
+          "Tomislav CRNKOVIC",
+          "Ivan HORVAT",
+          "Zlatko CAJKOVSKI",
+          "Vujadin BOSKOV",
+          "Branko ZEBEC",
+          "Rajko MITIC",
+          "Bernard VUKAS",
+          "Stjepan BOBEK",
+          "Milos MILUTINOVIC"
+        ],
+        "away": [
+          "Francois REMETTER",
+          "Lazare GIANESSI",
+          "Raymond KAELBEL",
+          "Robert JONQUET",
+          "Armand PENVERNE",
+          "Jean-Jacques MARCEL",
+          "Rene DEREUDDRE",
+          "Leon GLOVACKI",
+          "Raymond KOPA",
+          "Andre STRAPPE",
+          "Jean VINCENT"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Milos MILUTINOVIC",
+          "minute": "15"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-16",
+      "stage": "Group A",
+      "venue": "Les Charmilles",
+      "city": "Geneva",
+      "home_team": "Brazil",
+      "away_team": "Mexico",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "CASTILHO",
+          "DJALMA SANTOS",
+          "NILTON SANTOS",
+          "BRANDAOZINHO",
+          "BAUER",
+          "PINHEIRO",
+          "DIDI",
+          "JULINHO",
+          "BALTAZAR",
+          "PINGA",
+          "RODRIGUES"
+        ],
+        "away": [
+          "Salvador MOTA",
+          "Narciso LOPEZ",
+          "Jorge ROMO",
+          "Juan GOMEZ",
+          "Raul CARDENAS",
+          "Rafael AVALOS",
+          "Alfredo TORRES",
+          "Jose NARANJO",
+          "Jose LAMADRID",
+          "Tomas BALCAZAR",
+          "Raul ARELLANO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "BALTAZAR",
+          "minute": "23"
+        },
+        {
+          "team": "Brazil",
+          "player": "DIDI",
+          "minute": "30"
+        },
+        {
+          "team": "Brazil",
+          "player": "PINGA",
+          "minute": "34"
+        },
+        {
+          "team": "Brazil",
+          "player": "PINGA",
+          "minute": "43"
+        },
+        {
+          "team": "Brazil",
+          "player": "JULINHO",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-17",
+      "stage": "Group B",
+      "venue": "Wankdorf Stadium",
+      "city": "Bern",
+      "home_team": "West Germany",
+      "away_team": "Turkey",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Toni TUREK",
+          "Fritz LABAND",
+          "Werner KOHLMEYER",
+          "Jupp POSIPAL",
+          "Karl MAI",
+          "Fritz WALTER",
+          "Horst ECKEL",
+          "Max MORLOCK",
+          "Berni KLODT",
+          "Ottmar WALTER",
+          "Hans SCHAEFER"
+        ],
+        "away": [
+          "Turgay SEREN",
+          "Ridvan BOLATLI",
+          "Basri DIRIMLILI",
+          "Mustafa ERTAN",
+          "Cetin ZEYBEK",
+          "Rober ERYOL",
+          "Erol KESKIN",
+          "Suat MAMAT",
+          "Ismail FERIDUN",
+          "Buhran SARGUN",
+          "Lefter KUCUKANDONYADIS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Suat MAMAT",
+          "minute": "2"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "14"
+        },
+        {
+          "team": "West Germany",
+          "player": "Berni KLODT",
+          "minute": "52"
+        },
+        {
+          "team": "West Germany",
+          "player": "Ottmar WALTER",
+          "minute": "60"
+        },
+        {
+          "team": "West Germany",
+          "player": "Max MORLOCK",
+          "minute": "84"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-17",
+      "stage": "Group B",
+      "venue": "Wankdorf Stadium",
+      "city": "Bern",
+      "home_team": "Hungary",
+      "away_team": "South Korea",
+      "score": {
+        "home": 9,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gyula GROSICS",
+          "Jeno BUZANSZKY",
+          "Mihaly LANTOS",
+          "Gyula LORANT",
+          "Jozsef BOZSIK",
+          "Ferenc SZOJKA",
+          "Sandor KOCSIS",
+          "Ferenc PUSKAS",
+          "Zoltan CZIBOR",
+          "Laszlo BUDAI",
+          "Peter PALOTAS"
+        ],
+        "away": [
+          "HONG Dook Jong",
+          "PARK Kyu Chong",
+          "PARK Yae Seung",
+          "MIN Byung Dae",
+          "KANG Chang Gi",
+          "CHUNG Nam Sik",
+          "CHU Yung Kwang",
+          "CHOI Chung Min",
+          "WOO Sang Kwon",
+          "SUNG Nak Woon",
+          "PARK Il Kap"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Ferenc PUSKAS",
+          "minute": "12"
+        },
+        {
+          "team": "Hungary",
+          "player": "Mihaly LANTOS",
+          "minute": "18"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "24"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "36"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "50"
+        },
+        {
+          "team": "Hungary",
+          "player": "Zoltan CZIBOR",
+          "minute": "59"
+        },
+        {
+          "team": "Hungary",
+          "player": "Peter PALOTAS",
+          "minute": "75"
+        },
+        {
+          "team": "Hungary",
+          "player": "Peter PALOTAS",
+          "minute": "83"
+        },
+        {
+          "team": "Hungary",
+          "player": "Ferenc PUSKAS",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-19",
+      "stage": "Group A",
+      "venue": "La Pontaise",
+      "city": "Lausanne",
+      "home_team": "Brazil",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "CASTILHO",
+          "DJALMA SANTOS",
+          "NILTON SANTOS",
+          "BRANDAOZINHO",
+          "BAUER",
+          "PINHEIRO",
+          "DIDI",
+          "JULINHO",
+          "BALTAZAR",
+          "PINGA",
+          "RODRIGUES"
+        ],
+        "away": [
+          "Vladimir BEARA",
+          "Branko STANKOVIC",
+          "Tomislav CRNKOVIC",
+          "Ivan HORVAT",
+          "Zlatko CAJKOVSKI",
+          "Vujadin BOSKOV",
+          "Branko ZEBEC",
+          "Rajko MITIC",
+          "Bernard VUKAS",
+          "Milos MILUTINOVIC",
+          "Dionizije DVORNIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Branko ZEBEC",
+          "minute": "48"
+        },
+        {
+          "team": "Brazil",
+          "player": "DIDI",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-19",
+      "stage": "Group A",
+      "venue": "Les Charmilles",
+      "city": "Geneva",
+      "home_team": "France",
+      "away_team": "Mexico",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Francois REMETTER",
+          "Lazare GIANESSI",
+          "Raymond KAELBEL",
+          "Roger MARCHE",
+          "Jean-Jacques MARCEL",
+          "Abderrhamane MAHJOUB",
+          "Abdelaziz BEN-TIFOUR",
+          "Rene DEREUDDRE",
+          "Raymond KOPA",
+          "Andre STRAPPE",
+          "Jean VINCENT"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Narciso LOPEZ",
+          "Jorge ROMO",
+          "Saturnino MARTINEZ",
+          "Raul CARDENAS",
+          "Rafael AVALOS",
+          "Alfredo TORRES",
+          "Jose NARANJO",
+          "Jose LAMADRID",
+          "Tomas BALCAZAR",
+          "Raul ARELLANO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "France",
+          "player": "Jean VINCENT",
+          "minute": "19"
+        },
+        {
+          "team": "France",
+          "player": "Raul CARDENAS",
+          "minute": "46",
+          "own_goal": true
+        },
+        {
+          "team": "Mexico",
+          "player": "Jose LAMADRID",
+          "minute": "54"
+        },
+        {
+          "team": "Mexico",
+          "player": "Tomas BALCAZAR",
+          "minute": "85"
+        },
+        {
+          "team": "France",
+          "player": "Raymond KOPA",
+          "minute": "88",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-20",
+      "stage": "Group B",
+      "venue": "St. Jakob Stadium",
+      "city": "Basel",
+      "home_team": "Hungary",
+      "away_team": "West Germany",
+      "score": {
+        "home": 8,
+        "away": 3
+      },
+      "lineup": {
+        "home": [
+          "Gyula GROSICS",
+          "Jeno BUZANSZKY",
+          "Mihaly LANTOS",
+          "Gyula LORANT",
+          "Jozsef BOZSIK",
+          "Jozsef ZAKARIAS",
+          "Jozsef TOTH",
+          "Sandor KOCSIS",
+          "Nandor HIDEGKUTI",
+          "Ferenc PUSKAS",
+          "Zoltan CZIBOR"
+        ],
+        "away": [
+          "Heinz KWIATKOWSKI",
+          "Werner KOHLMEYER",
+          "Hans BAUER",
+          "Jupp POSIPAL",
+          "Werner LIEBRICH",
+          "Paul MEBUS",
+          "Fritz WALTER",
+          "Horst ECKEL",
+          "Helmut RAHN",
+          "Richard HERRMANN",
+          "Alfred PFAFF"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "3"
+        },
+        {
+          "team": "Hungary",
+          "player": "Ferenc PUSKAS",
+          "minute": "17"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "21"
+        },
+        {
+          "team": "West Germany",
+          "player": "Alfred PFAFF",
+          "minute": "25"
+        },
+        {
+          "team": "Hungary",
+          "player": "Nandor HIDEGKUTI",
+          "minute": "52"
+        },
+        {
+          "team": "Hungary",
+          "player": "Nandor HIDEGKUTI",
+          "minute": "54"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "69"
+        },
+        {
+          "team": "Hungary",
+          "player": "Jozsef TOTH",
+          "minute": "75"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "77"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "78"
+        },
+        {
+          "team": "West Germany",
+          "player": "Richard HERRMANN",
+          "minute": "84"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-20",
+      "stage": "Group B",
+      "venue": "Les Charmilles",
+      "city": "Geneva",
+      "home_team": "Turkey",
+      "away_team": "South Korea",
+      "score": {
+        "home": 7,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Turgay SEREN",
+          "Ridvan BOLATLI",
+          "Basri DIRIMLILI",
+          "Mustafa ERTAN",
+          "Cetin ZEYBEK",
+          "Rober ERYOL",
+          "Erol KESKIN",
+          "Suat MAMAT",
+          "Ismail FERIDUN",
+          "Buhran SARGUN",
+          "Lefter KUCUKANDONYADIS"
+        ],
+        "away": [
+          "Hong Deok-young",
+          "Park Kyu-chong",
+          "Han Chang-wha",
+          "Lee Chung-kap",
+          "Kang Chang-gi",
+          "Kim Ji-sung",
+          "Choi Young-kwon",
+          "Lee Seo-nam",
+          "Lee Ki-joo",
+          "Woo Sang-kwon",
+          "Chung Kook-chin"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Turkey",
+          "player": "Suat MAMAT",
+          "minute": "10"
+        },
+        {
+          "team": "Turkey",
+          "player": "Lefter KUCUKANDONYADIS",
+          "minute": "18"
+        },
+        {
+          "team": "Turkey",
+          "player": "Suat MAMAT",
+          "minute": "30"
+        },
+        {
+          "team": "Turkey",
+          "player": "Buhran SARGUN",
+          "minute": "37"
+        },
+        {
+          "team": "Turkey",
+          "player": "Buhran SARGUN",
+          "minute": "64"
+        },
+        {
+          "team": "Turkey",
+          "player": "Buhran SARGUN",
+          "minute": "70"
+        },
+        {
+          "team": "Turkey",
+          "player": "Erol KESKIN",
+          "minute": "76"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-23",
+      "stage": "Group B playoff",
+      "venue": "Hardturm Stadium",
+      "city": "Zürich",
+      "home_team": "West Germany",
+      "away_team": "Turkey",
+      "score": {
+        "home": 7,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Toni TUREK",
+          "Fritz LABAND",
+          "Hans BAUER",
+          "Jupp POSIPAL",
+          "Karl MAI",
+          "Fritz WALTER",
+          "Horst ECKEL",
+          "Max MORLOCK",
+          "Berni KLODT",
+          "Ottmar WALTER",
+          "Hans SCHAEFER"
+        ],
+        "away": [
+          "Sukru ERSOY",
+          "Ridvan BOLATLI",
+          "Basri DIRIMLILI",
+          "Mustafa ERTAN",
+          "Naci ERDEM",
+          "Cetin ZEYBEK",
+          "Rober ERYOL",
+          "Erol KESKIN",
+          "Lefter KUCUKANDONYADIS",
+          "Onarici NECMI",
+          "Coskun TAS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Ottmar WALTER",
+          "minute": "7"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "12"
+        },
+        {
+          "team": "Turkey",
+          "player": "Mustafa ERTAN",
+          "minute": "21"
+        },
+        {
+          "team": "West Germany",
+          "player": "Max MORLOCK",
+          "minute": "30"
+        },
+        {
+          "team": "West Germany",
+          "player": "Max MORLOCK",
+          "minute": "60"
+        },
+        {
+          "team": "West Germany",
+          "player": "Fritz WALTER",
+          "minute": "62"
+        },
+        {
+          "team": "West Germany",
+          "player": "Max MORLOCK",
+          "minute": "77"
+        },
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "79"
+        },
+        {
+          "team": "Turkey",
+          "player": "Lefter KUCUKANDONYADIS",
+          "minute": "82"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-16",
+      "stage": "Group C",
+      "venue": "Hardturm Stadium",
+      "city": "Zürich",
+      "home_team": "Austria",
+      "away_team": "Scotland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Kurt SCHMIED",
+          "Gerhard HANAPPI",
+          "Ernst HAPPEL",
+          "Leopold BARSCHANDT",
+          "Ernst OCWIRK",
+          "Karl KOLLER",
+          "Robert KOERNER",
+          "Walter SCHLEGER",
+          "Erich PROBST",
+          "Alfred KOERNER",
+          "Robert DIENST"
+        ],
+        "away": [
+          "Fred MARTIN",
+          "Willie CUNNINGHAM",
+          "Jock AIRD",
+          "Jimmy DAVIDSON",
+          "Tommy DOCHERTY",
+          "Doug COWIE",
+          "John McKENZIE",
+          "Allan BROWN",
+          "Neil MOCHAN",
+          "Willie FERNIE",
+          "Willie ORMOND"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Erich PROBST",
+          "minute": "33"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-16",
+      "stage": "Group C",
+      "venue": "Wankdorf Stadium",
+      "city": "Bern",
+      "home_team": "Uruguay",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Roque MASPOLI",
+          "Jose SANTAMARIA",
+          "William MARTINEZ",
+          "Victor RODRIGUEZ ANDRADE",
+          "Obdulio VARELA",
+          "Luis CRUZ",
+          "Julio ABBADIE",
+          "Oscar MIGUEZ",
+          "Juan SCHIAFFINO",
+          "Carlos BORGES",
+          "Javier AMBROIS"
+        ],
+        "away": [
+          "Theodor REIMANN",
+          "Frantisek SAFRANEK",
+          "Ladislav NOVAK",
+          "Jiri TRNKA",
+          "Jiri HLEDIK",
+          "Jan HERTL",
+          "Vladislav HLAVACEK",
+          "Otto HEMELE",
+          "Emil PAZICKY",
+          "Jiri PESEK",
+          "Ladislav KACANI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "71"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan SCHIAFFINO",
+          "minute": "84"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-19",
+      "stage": "Group C",
+      "venue": "Hardturm Stadium",
+      "city": "Zürich",
+      "home_team": "Austria",
+      "away_team": "Czechoslovakia",
+      "score": {
+        "home": 5,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Kurt SCHMIED",
+          "Gerhard HANAPPI",
+          "Ernst HAPPEL",
+          "Leopold BARSCHANDT",
+          "Ernst OCWIRK",
+          "Karl KOLLER",
+          "Robert KOERNER",
+          "Theodor WAGNER",
+          "Erich PROBST",
+          "Alfred KOERNER",
+          "Ernst STOJASPAL"
+        ],
+        "away": [
+          "Imrich STACHO",
+          "Frantisek SAFRANEK",
+          "Ladislav NOVAK",
+          "Jiri TRNKA",
+          "Svatopluk PLUSKAL",
+          "Jan HERTL",
+          "Vladislav HLAVACEK",
+          "Otto HEMELE",
+          "Emil PAZICKY",
+          "Ladislav KACANI",
+          "Tadeas KRAUS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Ernst STOJASPAL",
+          "minute": "3"
+        },
+        {
+          "team": "Austria",
+          "player": "Erich PROBST",
+          "minute": "4"
+        },
+        {
+          "team": "Austria",
+          "player": "Erich PROBST",
+          "minute": "21"
+        },
+        {
+          "team": "Austria",
+          "player": "Erich PROBST",
+          "minute": "24"
+        },
+        {
+          "team": "Austria",
+          "player": "Ernst STOJASPAL",
+          "minute": "65"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-19",
+      "stage": "Group C",
+      "venue": "St. Jakob Stadium",
+      "city": "Basel",
+      "home_team": "Uruguay",
+      "away_team": "Scotland",
+      "score": {
+        "home": 7,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Roque MASPOLI",
+          "Jose SANTAMARIA",
+          "William MARTINEZ",
+          "Victor RODRIGUEZ ANDRADE",
+          "Obdulio VARELA",
+          "Luis CRUZ",
+          "Julio ABBADIE",
+          "Oscar MIGUEZ",
+          "Juan SCHIAFFINO",
+          "Carlos BORGES",
+          "Javier AMBROIS"
+        ],
+        "away": [
+          "Fred MARTIN",
+          "Willie CUNNINGHAM",
+          "Jock AIRD",
+          "Jimmy DAVIDSON",
+          "Tommy DOCHERTY",
+          "Doug COWIE",
+          "John McKENZIE",
+          "Allan BROWN",
+          "Neil MOCHAN",
+          "Willie FERNIE",
+          "Willie ORMOND"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Carlos BORGES",
+          "minute": "17"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "30"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Carlos BORGES",
+          "minute": "47"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Julio ABBADIE",
+          "minute": "54"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Carlos BORGES",
+          "minute": "57"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "83"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Julio ABBADIE",
+          "minute": "85"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-17",
+      "stage": "Group D",
+      "venue": "St. Jakob Stadium",
+      "city": "Basel",
+      "home_team": "England",
+      "away_team": "Belgium",
+      "score": {
+        "home": 4,
+        "away": 4
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Gilbert MERRICK",
+          "Ron STANIFORTH",
+          "Roger BYRNE",
+          "Billy WRIGHT",
+          "Syd OWEN",
+          "Jimmy DICKINSON",
+          "Stanley MATTHEWS",
+          "Ivor BROADIS",
+          "Nat LOFTHOUSE",
+          "Tommy TAYLOR",
+          "Tom FINNEY"
+        ],
+        "away": [
+          "Leopold GERNAEY",
+          "Marcel DRIES",
+          "Alfons VAN BRANDT",
+          "Constant HUYSMANS",
+          "Louis CARRE",
+          "Victor MEES",
+          "Denis HOUF",
+          "Rik COPPENS",
+          "Leopold ANOUL",
+          "Joseph MERMANS",
+          "Pieter VAN DEN BOSCH"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Belgium",
+          "player": "Leopold ANOUL",
+          "minute": "5"
+        },
+        {
+          "team": "England",
+          "player": "Ivor BROADIS",
+          "minute": "26"
+        },
+        {
+          "team": "England",
+          "player": "Nat LOFTHOUSE",
+          "minute": "36"
+        },
+        {
+          "team": "England",
+          "player": "Ivor BROADIS",
+          "minute": "63"
+        },
+        {
+          "team": "Belgium",
+          "player": "Rik COPPENS",
+          "minute": "67"
+        },
+        {
+          "team": "Belgium",
+          "player": "Leopold ANOUL",
+          "minute": "71"
+        },
+        {
+          "team": "England",
+          "player": "Nat LOFTHOUSE",
+          "minute": "91"
+        },
+        {
+          "team": "Belgium",
+          "player": "Jimmy DICKINSON",
+          "minute": "94",
+          "own_goal": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-17",
+      "stage": "Group D",
+      "venue": "La Pontaise",
+      "city": "Lausanne",
+      "home_team": "Switzerland",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Eugene PARLIER",
+          "Roger BOCQUET",
+          "Marcel FLUECKIGER",
+          "Andre NEURY",
+          "Willy KERNEN",
+          "Charles CASALI",
+          "Robert BALLAMAN",
+          "Jackie FATTON",
+          "Sepp HUEGI",
+          "Eugen MEIER",
+          "Roger VONLANTHEN"
+        ],
+        "away": [
+          "Giorgio GHEZZI",
+          "Guido VINCENZI",
+          "Giovanni GIACOMAZZI",
+          "Maino NERI",
+          "Omero TOGNON",
+          "Fulvio NESTI",
+          "Ermes MUCCINELLI",
+          "Egisto PANDOLFINI",
+          "Carlo GALLI",
+          "Benito LORENZI",
+          "Giampiero BONIPERTI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Robert BALLAMAN",
+          "minute": "18"
+        },
+        {
+          "team": "Italy",
+          "player": "Giampiero BONIPERTI",
+          "minute": "44"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Sepp HUEGI",
+          "minute": "78"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-20",
+      "stage": "Group D",
+      "venue": "Wankdorf Stadium",
+      "city": "Bern",
+      "home_team": "England",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Gilbert MERRICK",
+          "Ron STANIFORTH",
+          "Roger BYRNE",
+          "Billy WRIGHT",
+          "Jimmy DICKINSON",
+          "Bill McGARRY",
+          "Ivor BROADIS",
+          "Tommy TAYLOR",
+          "Tom FINNEY",
+          "Dennis WILSHAW",
+          "Jimmy MULLEN"
+        ],
+        "away": [
+          "Eugene PARLIER",
+          "Roger BOCQUET",
+          "Andre NEURY",
+          "Oliver EGGIMANN",
+          "Willy KERNEN",
+          "Heinz BIGLER",
+          "Kiki ANTENEN",
+          "Robert BALLAMAN",
+          "Jackie FATTON",
+          "Eugen MEIER",
+          "Roger VONLANTHEN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Jimmy MULLEN",
+          "minute": "43"
+        },
+        {
+          "team": "England",
+          "player": "Dennis WILSHAW",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-20",
+      "stage": "Group D",
+      "venue": "Stadio Comunale di Cornaredo",
+      "city": "Lugano",
+      "home_team": "Italy",
+      "away_team": "Belgium",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Giorgio GHEZZI",
+          "Giovanni GIACOMAZZI",
+          "Ardico MAGNINI",
+          "Maino NERI",
+          "Omero TOGNON",
+          "Fulvio NESTI",
+          "Egisto PANDOLFINI",
+          "Carlo GALLI",
+          "Gino CAPPELLO",
+          "Benito LORENZI",
+          "Amleto FRIGNANI"
+        ],
+        "away": [
+          "Leopold GERNAEY",
+          "Marcel DRIES",
+          "Alfons VAN BRANDT",
+          "Constant HUYSMANS",
+          "Louis CARRE",
+          "Victor MEES",
+          "Rik COPPENS",
+          "Leopold ANOUL",
+          "Joseph MERMANS",
+          "Poly VAN DEN BOSCH",
+          "Pieter VAN DEN BOSCH"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Egisto PANDOLFINI",
+          "minute": "41",
+          "penalty": true
+        },
+        {
+          "team": "Italy",
+          "player": "Carlo GALLI",
+          "minute": "48"
+        },
+        {
+          "team": "Italy",
+          "player": "Amleto FRIGNANI",
+          "minute": "58"
+        },
+        {
+          "team": "Italy",
+          "player": "Benito LORENZI",
+          "minute": "78"
+        },
+        {
+          "team": "Belgium",
+          "player": "Leopold ANOUL",
+          "minute": "81"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-23",
+      "stage": "Group D playoff",
+      "venue": "St. Jakob Stadium",
+      "city": "Basel",
+      "home_team": "Switzerland",
+      "away_team": "Italy",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Eugene PARLIER",
+          "Roger BOCQUET",
+          "Andre NEURY",
+          "Oliver EGGIMANN",
+          "Willy KERNEN",
+          "Charles CASALI",
+          "Kiki ANTENEN",
+          "Robert BALLAMAN",
+          "Jackie FATTON",
+          "Sepp HUEGI",
+          "Roger VONLANTHEN"
+        ],
+        "away": [
+          "Giovanni VIOLA",
+          "Giovanni GIACOMAZZI",
+          "Ardico MAGNINI",
+          "Omero TOGNON",
+          "Fulvio NESTI",
+          "Giacomo MARI",
+          "Armando SEGATO",
+          "Ermes MUCCINELLI",
+          "Egisto PANDOLFINI",
+          "Benito LORENZI",
+          "Amleto FRIGNANI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Sepp HUEGI",
+          "minute": "14"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Robert BALLAMAN",
+          "minute": "48"
+        },
+        {
+          "team": "Italy",
+          "player": "Fulvio NESTI",
+          "minute": "67"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Sepp HUEGI",
+          "minute": "85"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Jackie FATTON",
+          "minute": "90"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-26",
+      "stage": "Quarter-final",
+      "venue": "La Pontaise",
+      "city": "Lausanne",
+      "home_team": "Austria",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 7,
+        "away": 5
+      },
+      "lineup": {
+        "home": [
+          "Kurt SCHMIED",
+          "Gerhard HANAPPI",
+          "Ernst HAPPEL",
+          "Leopold BARSCHANDT",
+          "Ernst OCWIRK",
+          "Karl KOLLER",
+          "Robert KOERNER",
+          "Theodor WAGNER",
+          "Erich PROBST",
+          "Alfred KOERNER",
+          "Ernst STOJASPAL"
+        ],
+        "away": [
+          "Eugene PARLIER",
+          "Roger BOCQUET",
+          "Andre NEURY",
+          "Oliver EGGIMANN",
+          "Willy KERNEN",
+          "Charles CASALI",
+          "Kiki ANTENEN",
+          "Robert BALLAMAN",
+          "Jackie FATTON",
+          "Sepp HUEGI",
+          "Roger VONLANTHEN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Robert BALLAMAN",
+          "minute": "16"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Sepp HUEGI",
+          "minute": "17"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Sepp HUEGI",
+          "minute": "19"
+        },
+        {
+          "team": "Austria",
+          "player": "Theodor WAGNER",
+          "minute": "25"
+        },
+        {
+          "team": "Austria",
+          "player": "Alfred KOERNER",
+          "minute": "26"
+        },
+        {
+          "team": "Austria",
+          "player": "Theodor WAGNER",
+          "minute": "27"
+        },
+        {
+          "team": "Austria",
+          "player": "Ernst OCWIRK",
+          "minute": "32"
+        },
+        {
+          "team": "Austria",
+          "player": "Alfred KOERNER",
+          "minute": "34"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Robert BALLAMAN",
+          "minute": "39"
+        },
+        {
+          "team": "Austria",
+          "player": "Theodor WAGNER",
+          "minute": "53"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Sepp HUEGI",
+          "minute": "60"
+        },
+        {
+          "team": "Austria",
+          "player": "Erich PROBST",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Austria's Alfred Körner missed a penalty in the 42nd minute."
+      ]
+    },
+    {
+      "date": "1954-06-26",
+      "stage": "Quarter-final",
+      "venue": "St. Jakob Stadium",
+      "city": "Basel",
+      "home_team": "Uruguay",
+      "away_team": "England",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Roque MASPOLI",
+          "Jose SANTAMARIA",
+          "William MARTINEZ",
+          "Victor RODRIGUEZ ANDRADE",
+          "Obdulio VARELA",
+          "Luis CRUZ",
+          "Julio ABBADIE",
+          "Oscar MIGUEZ",
+          "Juan SCHIAFFINO",
+          "Carlos BORGES",
+          "Javier AMBROIS"
+        ],
+        "away": [
+          "Gilbert MERRICK",
+          "Ron STANIFORTH",
+          "Roger BYRNE",
+          "Billy WRIGHT",
+          "Jimmy DICKINSON",
+          "Bill McGARRY",
+          "Stanley MATTHEWS",
+          "Ivor BROADIS",
+          "Nat LOFTHOUSE",
+          "Tom FINNEY",
+          "Dennis WILSHAW"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Carlos BORGES",
+          "minute": "5"
+        },
+        {
+          "team": "England",
+          "player": "Nat LOFTHOUSE",
+          "minute": "16"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Obdulio VARELA",
+          "minute": "39"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan SCHIAFFINO",
+          "minute": "46"
+        },
+        {
+          "team": "England",
+          "player": "Tom FINNEY",
+          "minute": "67"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Javier AMBROIS",
+          "minute": "78"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-27",
+      "stage": "Quarter-final",
+      "venue": "Wankdorf Stadium",
+      "city": "Bern",
+      "home_team": "Hungary",
+      "away_team": "Brazil",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Gyula GROSICS",
+          "Jeno BUZANSZKY",
+          "Mihaly LANTOS",
+          "Gyula LORANT",
+          "Jozsef BOZSIK",
+          "Jozsef ZAKARIAS",
+          "Jozsef TOTH",
+          "Sandor KOCSIS",
+          "Nandor HIDEGKUTI",
+          "Zoltan CZIBOR",
+          "Mihaly TOTH"
+        ],
+        "away": [
+          "CASTILHO",
+          "DJALMA SANTOS",
+          "NILTON SANTOS",
+          "BRANDAOZINHO",
+          "BAUER",
+          "PINHEIRO",
+          "DIDI",
+          "JULINHO",
+          "MAURINHO",
+          "HUMBERTO",
+          "INDIO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Nandor HIDEGKUTI",
+          "minute": "4"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "7"
+        },
+        {
+          "team": "Brazil",
+          "player": "DJALMA SANTOS",
+          "minute": "18",
+          "penalty": true
+        },
+        {
+          "team": "Hungary",
+          "player": "Mihaly LANTOS",
+          "minute": "60",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "JULINHO",
+          "minute": "65"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Bozsik and Nílton Santos were sent off in the 71st minute; Humberto was sent off in the 79th minute."
+      ]
+    },
+    {
+      "date": "1954-06-27",
+      "stage": "Quarter-final",
+      "venue": "Les Charmilles",
+      "city": "Geneva",
+      "home_team": "West Germany",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Toni TUREK",
+          "Fritz LABAND",
+          "Werner KOHLMEYER",
+          "Werner LIEBRICH",
+          "Karl MAI",
+          "Fritz WALTER",
+          "Horst ECKEL",
+          "Helmut RAHN",
+          "Max MORLOCK",
+          "Ottmar WALTER",
+          "Hans SCHAEFER"
+        ],
+        "away": [
+          "Vladimir BEARA",
+          "Branko STANKOVIC",
+          "Tomislav CRNKOVIC",
+          "Ivan HORVAT",
+          "Zlatko CAJKOVSKI",
+          "Vujadin BOSKOV",
+          "Branko ZEBEC",
+          "Rajko MITIC",
+          "Bernard VUKAS",
+          "Stjepan BOBEK",
+          "Milos MILUTINOVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Ivan HORVAT",
+          "minute": "9",
+          "own_goal": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "85"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-30",
+      "stage": "Semi-final",
+      "venue": "La Pontaise",
+      "city": "Lausanne",
+      "home_team": "Hungary",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "extra_time": true,
+      "lineup": {
+        "home": [
+          "Gyula GROSICS",
+          "Jeno BUZANSZKY",
+          "Mihaly LANTOS",
+          "Gyula LORANT",
+          "Jozsef BOZSIK",
+          "Jozsef ZAKARIAS",
+          "Sandor KOCSIS",
+          "Nandor HIDEGKUTI",
+          "Zoltan CZIBOR",
+          "Laszlo BUDAI",
+          "Peter PALOTAS"
+        ],
+        "away": [
+          "Roque MASPOLI",
+          "Jose SANTAMARIA",
+          "William MARTINEZ",
+          "Victor RODRIGUEZ ANDRADE",
+          "Nestor CARBALLO",
+          "Luis CRUZ",
+          "Juan HOHBERG",
+          "Juan SCHIAFFINO",
+          "Carlos BORGES",
+          "Rafael SOUTO",
+          "Javier AMBROIS"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Zoltan CZIBOR",
+          "minute": "12"
+        },
+        {
+          "team": "Hungary",
+          "player": "Nandor HIDEGKUTI",
+          "minute": "47"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan HOHBERG",
+          "minute": "75"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan HOHBERG",
+          "minute": "86"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "109"
+        },
+        {
+          "team": "Hungary",
+          "player": "Sandor KOCSIS",
+          "minute": "116"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-06-30",
+      "stage": "Semi-final",
+      "venue": "St. Jakob Stadium",
+      "city": "Basel",
+      "home_team": "West Germany",
+      "away_team": "Austria",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Toni TUREK",
+          "Werner KOHLMEYER",
+          "Jupp POSIPAL",
+          "Werner LIEBRICH",
+          "Karl MAI",
+          "Fritz WALTER",
+          "Horst ECKEL",
+          "Helmut RAHN",
+          "Max MORLOCK",
+          "Ottmar WALTER",
+          "Hans SCHAEFER"
+        ],
+        "away": [
+          "Walter ZEMAN",
+          "Gerhard HANAPPI",
+          "Ernst HAPPEL",
+          "Ernst OCWIRK",
+          "Karl KOLLER",
+          "Robert KOERNER",
+          "Walter SCHLEGER",
+          "Theodor WAGNER",
+          "Erich PROBST",
+          "Alfred KOERNER",
+          "Ernst STOJASPAL"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Hans SCHAEFER",
+          "minute": "31"
+        },
+        {
+          "team": "West Germany",
+          "player": "Max MORLOCK",
+          "minute": "47"
+        },
+        {
+          "team": "Austria",
+          "player": "Erich PROBST",
+          "minute": "51"
+        },
+        {
+          "team": "West Germany",
+          "player": "Fritz WALTER",
+          "minute": "54",
+          "penalty": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Ottmar WALTER",
+          "minute": "61"
+        },
+        {
+          "team": "West Germany",
+          "player": "Fritz WALTER",
+          "minute": "64",
+          "penalty": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Ottmar WALTER",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1954-07-03",
+      "stage": "Third-place match",
+      "venue": "Hardturm Stadium",
+      "city": "Zürich",
+      "home_team": "Austria",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Kurt SCHMIED",
+          "Gerhard HANAPPI",
+          "Leopold BARSCHANDT",
+          "Walter KOLLMANN",
+          "Ernst OCWIRK",
+          "Karl KOLLER",
+          "Robert KOERNER",
+          "Theodor WAGNER",
+          "Erich PROBST",
+          "Robert DIENST",
+          "Ernst STOJASPAL"
+        ],
+        "away": [
+          "Roque MASPOLI",
+          "Jose SANTAMARIA",
+          "William MARTINEZ",
+          "Victor RODRIGUEZ ANDRADE",
+          "Nestor CARBALLO",
+          "Luis CRUZ",
+          "Julio ABBADIE",
+          "Juan HOHBERG",
+          "Juan SCHIAFFINO",
+          "Carlos BORGES",
+          "Omar MENDEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Austria",
+          "player": "Ernst STOJASPAL",
+          "minute": "16",
+          "penalty": true
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan HOHBERG",
+          "minute": "22"
+        },
+        {
+          "team": "Austria",
+          "player": "Luis CRUZ",
+          "minute": "59",
+          "own_goal": true
+        },
+        {
+          "team": "Austria",
+          "player": "Ernst OCWIRK",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "This was the 100th match in World Cup history."
+      ]
+    },
+    {
+      "date": "1954-07-04",
+      "stage": "Final",
+      "venue": "Wankdorf Stadium",
+      "city": "Bern",
+      "home_team": "West Germany",
+      "away_team": "Hungary",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Toni TUREK",
+          "Werner KOHLMEYER",
+          "Jupp POSIPAL",
+          "Werner LIEBRICH",
+          "Karl MAI",
+          "Fritz WALTER",
+          "Horst ECKEL",
+          "Helmut RAHN",
+          "Max MORLOCK",
+          "Ottmar WALTER",
+          "Hans SCHAEFER"
+        ],
+        "away": [
+          "Gyula GROSICS",
+          "Jeno BUZANSZKY",
+          "Mihaly LANTOS",
+          "Gyula LORANT",
+          "Jozsef BOZSIK",
+          "Jozsef ZAKARIAS",
+          "Sandor KOCSIS",
+          "Nandor HIDEGKUTI",
+          "Ferenc PUSKAS",
+          "Zoltan CZIBOR",
+          "Mihaly TOTH"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Hungary",
+          "player": "Ferenc PUSKAS",
+          "minute": "6"
+        },
+        {
+          "team": "Hungary",
+          "player": "Zoltan CZIBOR",
+          "minute": "8"
+        },
+        {
+          "team": "West Germany",
+          "player": "Max MORLOCK",
+          "minute": "10"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "18"
+        },
+        {
+          "team": "West Germany",
+          "player": "Helmut RAHN",
+          "minute": "84"
+        }
+      ],
+      "substitutions": []
+    }
+  ]
+}

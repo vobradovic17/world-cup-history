@@ -1,0 +1,2837 @@
+{
+  "tournament": "FIFA World Cup 1974",
+  "host_country": "West Germany",
+  "matches_played": 38,
+  "format": "Four first-round groups of four teams, followed by two second-phase groups of four teams; the group winners met in the final and the runners-up met in the third-place match.",
+  "sources": [
+    "https://www.rsssf.org/tables/74full.html",
+    "https://www.rsssf.org/tables/74f.html",
+    "https://github.com/openfootball/worldcup.json/blob/master/1974/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1974-06-14",
+      "stage": "Group A",
+      "venue": "Olympiastadion",
+      "city": "West Berlin",
+      "home_team": "West Germany",
+      "away_team": "Chile",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Bernd CULLMANN",
+          "Wolfgang OVERATH",
+          "Uli HOENESS",
+          "Juergen GRABOWSKI",
+          "Jupp HEYNCKES",
+          "Gerd MUELLER"
+        ],
+        "away": [
+          "Leopoldo VALLEJOS",
+          "Rolando GARCIA",
+          "Alberto QUINTANO",
+          "Antonio ARIAS",
+          "Elias FIGUEROA",
+          "Juan RODRIGUEZ",
+          "Francisco VALDES",
+          "Carlos REINOSO",
+          "Guillermo PAEZ",
+          "Carlos CASZELY",
+          "Sergio AHUMADA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Paul BREITNER",
+          "minute": "18"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Bernd HOELZENBEIN",
+          "player_off": "Wolfgang OVERATH",
+          "minute": "75"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Leonardo VELIZ",
+          "player_off": "Francisco VALDES",
+          "minute": "76"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Alfonso LARA",
+          "player_off": "Juan RODRIGUEZ",
+          "minute": "83"
+        }
+      ],
+      "notes": [
+        "Caszely was sent off in the 67th minute."
+      ]
+    },
+    {
+      "date": "1974-06-14",
+      "stage": "Group A",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "East Germany",
+      "away_team": "Australia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Juergen CROY",
+          "Bernd BRANSCH",
+          "Konrad WEISE",
+          "Siegmar WAETZLICH",
+          "Gerd KISCHE",
+          "Juergen POMMERENKE",
+          "Juergen SPARWASSER",
+          "Harald IRMSCHER",
+          "Wolfram LOEWE",
+          "Joachim STREICH",
+          "Eberhard VOGEL"
+        ],
+        "away": [
+          "Jack REILLY",
+          "Doug UTJESENOVIC",
+          "Peter WILSON",
+          "Manfred SCHAEFER",
+          "Colin CURRAN",
+          "Ray RICHARDS",
+          "Jimmy ROONEY",
+          "Jimmy MACKAY",
+          "John WARREN",
+          "Adrian ALSTON",
+          "Branko BULJEVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "East Germany",
+          "player": "Colin CURRAN",
+          "minute": "58",
+          "own_goal": true
+        },
+        {
+          "team": "East Germany",
+          "player": "Joachim STREICH",
+          "minute": "72"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "East Germany",
+          "player_on": "Martin HOFFMANN",
+          "player_off": "Wolfram LOEWE",
+          "minute": "55"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-18",
+      "stage": "Group A",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "West Germany",
+      "away_team": "Australia",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Bernd CULLMANN",
+          "Wolfgang OVERATH",
+          "Uli HOENESS",
+          "Juergen GRABOWSKI",
+          "Jupp HEYNCKES",
+          "Gerd MUELLER"
+        ],
+        "away": [
+          "Jack REILLY",
+          "Doug UTJESENOVIC",
+          "Peter WILSON",
+          "Manfred SCHAEFER",
+          "Colin CURRAN",
+          "Ray RICHARDS",
+          "Jimmy ROONEY",
+          "Jimmy MACKAY",
+          "Adrian ALSTON",
+          "Ernie CAMPBELL",
+          "Branko BULJEVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Wolfgang OVERATH",
+          "minute": "12"
+        },
+        {
+          "team": "West Germany",
+          "player": "Bernd CULLMANN",
+          "minute": "34"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "53"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Bernd HOELZENBEIN",
+          "player_off": "Jupp HEYNCKES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Attila ABONYI",
+          "player_off": "Ernie CAMPBELL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Peter OLLERTON",
+          "player_off": "Branko BULJEVIC",
+          "minute": "61"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Herbert WIMMER",
+          "player_off": "Bernd CULLMANN",
+          "minute": "67"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-18",
+      "stage": "Group A",
+      "venue": "Olympiastadion",
+      "city": "West Berlin",
+      "home_team": "East Germany",
+      "away_team": "Chile",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Juergen CROY",
+          "Bernd BRANSCH",
+          "Konrad WEISE",
+          "Siegmar WAETZLICH",
+          "Gerd KISCHE",
+          "Juergen SPARWASSER",
+          "Harald IRMSCHER",
+          "Wolfgang SEGUIN",
+          "Joachim STREICH",
+          "Eberhard VOGEL",
+          "Martin HOFFMANN"
+        ],
+        "away": [
+          "Leopoldo VALLEJOS",
+          "Rolando GARCIA",
+          "Alberto QUINTANO",
+          "Antonio ARIAS",
+          "Elias FIGUEROA",
+          "Francisco VALDES",
+          "Carlos REINOSO",
+          "Guillermo PAEZ",
+          "Jorge SOCIAS",
+          "Sergio AHUMADA",
+          "Leonardo VELIZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "East Germany",
+          "player": "Martin HOFFMANN",
+          "minute": "55"
+        },
+        {
+          "team": "Chile",
+          "player": "Sergio AHUMADA",
+          "minute": "69"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "East Germany",
+          "player_on": "Peter DUCKE",
+          "player_off": "Wolfgang SEGUIN",
+          "minute": "29"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Guillermo YAVAR",
+          "player_off": "Francisco VALDES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Rogelio FARIAS",
+          "player_off": "Jorge SOCIAS",
+          "minute": "67"
+        },
+        {
+          "team": "East Germany",
+          "player_on": "Hans-Juergen KREISCHE",
+          "player_off": "Eberhard VOGEL",
+          "minute": "72"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-22",
+      "stage": "Group A",
+      "venue": "Olympiastadion",
+      "city": "West Berlin",
+      "home_team": "Australia",
+      "away_team": "Chile",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jack REILLY",
+          "Doug UTJESENOVIC",
+          "Peter WILSON",
+          "Manfred SCHAEFER",
+          "Colin CURRAN",
+          "Ray RICHARDS",
+          "Jimmy ROONEY",
+          "Jimmy MACKAY",
+          "Attila ABONYI",
+          "Adrian ALSTON",
+          "Branko BULJEVIC"
+        ],
+        "away": [
+          "Leopoldo VALLEJOS",
+          "Rolando GARCIA",
+          "Alberto QUINTANO",
+          "Antonio ARIAS",
+          "Elias FIGUEROA",
+          "Francisco VALDES",
+          "Carlos REINOSO",
+          "Guillermo PAEZ",
+          "Carlos CASZELY",
+          "Sergio AHUMADA",
+          "Leonardo VELIZ"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Chile",
+          "player_on": "Rogelio FARIAS",
+          "player_off": "Francisco VALDES",
+          "minute": "57"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Peter OLLERTON",
+          "player_off": "Adrian ALSTON",
+          "minute": "65"
+        },
+        {
+          "team": "Chile",
+          "player_on": "Guillermo YAVAR",
+          "player_off": "Leonardo VELIZ",
+          "minute": "72"
+        },
+        {
+          "team": "Australia",
+          "player_on": "Harry WILLIAMS",
+          "player_off": "Colin CURRAN",
+          "minute": "82"
+        }
+      ],
+      "notes": [
+        "Richards was sent off in the 83rd minute."
+      ]
+    },
+    {
+      "date": "1974-06-22",
+      "stage": "Group A",
+      "venue": "Volksparkstadion",
+      "city": "Hamburg",
+      "home_team": "East Germany",
+      "away_team": "West Germany",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Juergen CROY",
+          "Lothar KURBJUWEIT",
+          "Bernd BRANSCH",
+          "Konrad WEISE",
+          "Siegmar WAETZLICH",
+          "Gerd KISCHE",
+          "Hans-Juergen KREISCHE",
+          "Reinhard LAUCK",
+          "Juergen SPARWASSER",
+          "Harald IRMSCHER",
+          "Martin HOFFMANN"
+        ],
+        "away": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Bernd CULLMANN",
+          "Wolfgang OVERATH",
+          "Uli HOENESS",
+          "Heinz FLOHE",
+          "Juergen GRABOWSKI",
+          "Gerd MUELLER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "East Germany",
+          "player": "Juergen SPARWASSER",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "East Germany",
+          "player_on": "Erich HAMANN",
+          "player_off": "Harald IRMSCHER",
+          "minute": "65"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Horst-Dieter HOETTGES",
+          "player_off": "Hans Georg SCHWARZENBECK",
+          "minute": "68"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Guenter NETZER",
+          "player_off": "Wolfgang OVERATH",
+          "minute": "69"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-13",
+      "stage": "Group B",
+      "venue": "Waldstadion",
+      "city": "Frankfurt",
+      "home_team": "Brazil",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "LUIS PEREIRA",
+          "MARINHO PERES",
+          "WILSON PIAZZA",
+          "MARINHO CHAGAS",
+          "NELINHO",
+          "RIVELLINO",
+          "PAULO CESAR",
+          "JAIRZINHO",
+          "LEIVINHA",
+          "VALDOMIRO"
+        ],
+        "away": [
+          "Enver MARIC",
+          "Ivan BULJAN",
+          "Enver HADZIABDIC",
+          "Drazen MUZINIC",
+          "Josip KATALINSKI",
+          "Vladislav BOGICEVIC",
+          "Ilija PETKOVIC",
+          "Branko OBLAK",
+          "Jovan ACIMOVIC",
+          "Ivica SURJAK",
+          "Dragan DZAJIC"
+        ]
+      },
+      "scorers": [],
+      "substitutions": []
+    },
+    {
+      "date": "1974-06-14",
+      "stage": "Group B",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Scotland",
+      "away_team": "Zaire",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "David HARVEY",
+          "Sandy JARDINE",
+          "Danny McGRAIN",
+          "James HOLTON",
+          "John BLACKLEY",
+          "Billy BREMNER",
+          "Davie HAY",
+          "Kenny DALGLISH",
+          "Joe JORDAN",
+          "Peter LORIMER",
+          "Denis LAW"
+        ],
+        "away": [
+          "Kazadi MUAMBA",
+          "Muepu ILUNGA",
+          "Mwanza Nel MUKOMBO",
+          "Buanga TSHIMEN",
+          "Lobilo BOBA",
+          "Kilasu MASSAMBA",
+          "Mana MAMBUENE",
+          "Kidumu MANTANTU",
+          "Ndaye MULAMBA",
+          "Mayanga MAKU",
+          "Kakoko ETEPE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Scotland",
+          "player": "Peter LORIMER",
+          "minute": "26"
+        },
+        {
+          "team": "Scotland",
+          "player": "Joe JORDAN",
+          "minute": "34"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Zaire",
+          "player_on": "Kembo Uba KEMBO",
+          "player_off": "Mayanga MAKU",
+          "minute": "64"
+        },
+        {
+          "team": "Scotland",
+          "player_on": "Tommy HUTCHISON",
+          "player_off": "Kenny DALGLISH",
+          "minute": "75"
+        },
+        {
+          "team": "Zaire",
+          "player_on": "Kibonge MAFU",
+          "player_off": "Kidumu MANTANTU",
+          "minute": "78"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-18",
+      "stage": "Group B",
+      "venue": "Waldstadion",
+      "city": "Frankfurt",
+      "home_team": "Brazil",
+      "away_team": "Scotland",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "LUIS PEREIRA",
+          "MARINHO PERES",
+          "WILSON PIAZZA",
+          "MARINHO CHAGAS",
+          "NELINHO",
+          "RIVELLINO",
+          "PAULO CESAR",
+          "JAIRZINHO",
+          "LEIVINHA",
+          "MIRANDINHA"
+        ],
+        "away": [
+          "David HARVEY",
+          "Sandy JARDINE",
+          "Danny McGRAIN",
+          "James HOLTON",
+          "Martin BUCHAN",
+          "Billy BREMNER",
+          "Davie HAY",
+          "Kenny DALGLISH",
+          "Joe JORDAN",
+          "Peter LORIMER",
+          "Willie MORGAN"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "CARPEGIANI",
+          "player_off": "LEIVINHA",
+          "minute": "65"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-18",
+      "stage": "Group B",
+      "venue": "Parkstadion",
+      "city": "Gelsenkirchen",
+      "home_team": "Yugoslavia",
+      "away_team": "Zaire",
+      "score": {
+        "home": 9,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Enver MARIC",
+          "Ivan BULJAN",
+          "Enver HADZIABDIC",
+          "Josip KATALINSKI",
+          "Vladislav BOGICEVIC",
+          "Ilija PETKOVIC",
+          "Branko OBLAK",
+          "Jovan ACIMOVIC",
+          "Ivica SURJAK",
+          "Dragan DZAJIC",
+          "Dusan BAJEVIC"
+        ],
+        "away": [
+          "Kazadi MUAMBA",
+          "Muepu ILUNGA",
+          "Mwanza Nel MUKOMBO",
+          "Buanga TSHIMEN",
+          "Lobilo BOBA",
+          "Kilasu MASSAMBA",
+          "Mana MAMBUENE",
+          "Kembo Uba KEMBO",
+          "Kidumu MANTANTU",
+          "Ndaye MULAMBA",
+          "Kakoko ETEPE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Dusan BAJEVIC",
+          "minute": "8"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Dragan DZAJIC",
+          "minute": "14"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Ivica SURJAK",
+          "minute": "18"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Josip KATALINSKI",
+          "minute": "22"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Dusan BAJEVIC",
+          "minute": "30"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Vladislav BOGICEVIC",
+          "minute": "35"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Branko OBLAK",
+          "minute": "61"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Ilija PETKOVIC",
+          "minute": "65"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Dusan BAJEVIC",
+          "minute": "81"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Zaire",
+          "player_on": "Tubilandu NDIMBI",
+          "player_off": "Kazadi MUAMBA",
+          "minute": "21"
+        },
+        {
+          "team": "Zaire",
+          "player_on": "Mayanga MAKU",
+          "player_off": "Kakoko ETEPE",
+          "minute": "45+1"
+        }
+      ],
+      "notes": [
+        "N'daye was sent off in the 23rd minute."
+      ]
+    },
+    {
+      "date": "1974-06-22",
+      "stage": "Group B",
+      "venue": "Waldstadion",
+      "city": "Frankfurt",
+      "home_team": "Scotland",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "David HARVEY",
+          "Sandy JARDINE",
+          "Danny McGRAIN",
+          "James HOLTON",
+          "Martin BUCHAN",
+          "Billy BREMNER",
+          "Davie HAY",
+          "Kenny DALGLISH",
+          "Joe JORDAN",
+          "Peter LORIMER",
+          "Willie MORGAN"
+        ],
+        "away": [
+          "Enver MARIC",
+          "Ivan BULJAN",
+          "Enver HADZIABDIC",
+          "Josip KATALINSKI",
+          "Vladislav BOGICEVIC",
+          "Ilija PETKOVIC",
+          "Branko OBLAK",
+          "Jovan ACIMOVIC",
+          "Ivica SURJAK",
+          "Dragan DZAJIC",
+          "Dusan BAJEVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Stanislav KARASI",
+          "minute": "81"
+        },
+        {
+          "team": "Scotland",
+          "player": "Joe JORDAN",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Scotland",
+          "player_on": "Tommy HUTCHISON",
+          "player_off": "Kenny DALGLISH",
+          "minute": "65"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Stanislav KARASI",
+          "player_off": "Dusan BAJEVIC",
+          "minute": "70"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-22",
+      "stage": "Group B",
+      "venue": "Parkstadion",
+      "city": "Gelsenkirchen",
+      "home_team": "Brazil",
+      "away_team": "Zaire",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "LUIS PEREIRA",
+          "MARINHO PERES",
+          "WILSON PIAZZA",
+          "MARINHO CHAGAS",
+          "NELINHO",
+          "RIVELLINO",
+          "CARPEGIANI",
+          "JAIRZINHO",
+          "LEIVINHA",
+          "EDU"
+        ],
+        "away": [
+          "Kazadi MUAMBA",
+          "Muepu ILUNGA",
+          "Mwanza Nel MUKOMBO",
+          "Buanga TSHIMEN",
+          "Lobilo BOBA",
+          "Tshinabu WA MUNDA",
+          "Mana MAMBUENE",
+          "Kidumu MANTANTU",
+          "Kibonge MAFU",
+          "Mayanga MAKU",
+          "Ntumba KALALA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "12"
+        },
+        {
+          "team": "Brazil",
+          "player": "RIVELLINO",
+          "minute": "66"
+        },
+        {
+          "team": "Brazil",
+          "player": "VALDOMIRO",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "VALDOMIRO",
+          "player_off": "LEIVINHA",
+          "minute": "10"
+        },
+        {
+          "team": "Brazil",
+          "player_on": "MIRANDINHA",
+          "player_off": "WILSON PIAZZA",
+          "minute": "59"
+        },
+        {
+          "team": "Zaire",
+          "player_on": "Kilasu MASSAMBA",
+          "player_off": "Tshinabu WA MUNDA",
+          "minute": "61"
+        },
+        {
+          "team": "Zaire",
+          "player_on": "Kembo Uba KEMBO",
+          "player_off": "Kidumu MANTANTU",
+          "minute": "62"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-15",
+      "stage": "Group C",
+      "venue": "Niedersachsenstadion",
+      "city": "Hannover",
+      "home_team": "Netherlands",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Johan CRUYFF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Baudilio JAUREGUI",
+          "Juan MASNIK",
+          "Pablo FORLAN",
+          "Julio MONTERO",
+          "Ricardo PAVONI",
+          "Luis CUBILLA",
+          "Victor ESPARRAGO",
+          "Pedro ROCHA",
+          "Walter MANTEGAZZA",
+          "Fernando MORENA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "7"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "86"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Denis MILAR",
+          "player_off": "Luis CUBILLA",
+          "minute": "64"
+        }
+      ],
+      "notes": [
+        "Morena was sent off in the 89th minute."
+      ]
+    },
+    {
+      "date": "1974-06-15",
+      "stage": "Group C",
+      "venue": "Rheinstadion",
+      "city": "Düsseldorf",
+      "home_team": "Bulgaria",
+      "away_team": "Sweden",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Rumen GORANOV",
+          "Stefan VELICHKOV",
+          "Dimitar PENEV",
+          "Asparukh NIKODIMOV",
+          "Tsonyo VASILEV",
+          "Kiril IVKOV",
+          "Bozhil KOLEV",
+          "Hristo BONEV",
+          "Voin VOINOV",
+          "Georgi DENEV",
+          "Pavel PANOV"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Jan OLSSON",
+          "Kent KARLSSON",
+          "Bjorn ANDERSSON",
+          "Ove GRAHN",
+          "Bo LARSSON",
+          "Ove KINDVALL",
+          "Staffan TAPPER",
+          "Conny TORSTENSSON",
+          "Ralf EDSTROM",
+          "Roland SANDBERG"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Mladen VASILEV",
+          "player_off": "Pavel PANOV",
+          "minute": "73"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Benno MAGNUSSON",
+          "player_off": "Ove KINDVALL",
+          "minute": "73"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Atanas MIKHAILOV",
+          "player_off": "Voin VOINOV",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-19",
+      "stage": "Group C",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Piet KEIZER",
+          "Johan CRUYFF",
+          "Johnny REP"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Jan OLSSON",
+          "Kent KARLSSON",
+          "Bjorn NORDQVIST",
+          "Bjorn ANDERSSON",
+          "Ove GRAHN",
+          "Bo LARSSON",
+          "Staffan TAPPER",
+          "Inge EJDERSTEDT",
+          "Ralf EDSTROM",
+          "Roland SANDBERG"
+        ]
+      },
+      "scorers": [],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Orjan PERSSON",
+          "player_off": "Staffan TAPPER",
+          "minute": "61"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Theo DE JONG",
+          "player_off": "Wim VAN HANEGEM",
+          "minute": "73"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Roland GRIP",
+          "player_off": "Jan OLSSON",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-19",
+      "stage": "Group C",
+      "venue": "Niedersachsenstadion",
+      "city": "Hannover",
+      "home_team": "Bulgaria",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Rumen GORANOV",
+          "Stefan VELICHKOV",
+          "Dimitar PENEV",
+          "Asparukh NIKODIMOV",
+          "Tsonyo VASILEV",
+          "Kiril IVKOV",
+          "Bozhil KOLEV",
+          "Hristo BONEV",
+          "Voin VOINOV",
+          "Georgi DENEV",
+          "Pavel PANOV"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Baudilio JAUREGUI",
+          "Pablo FORLAN",
+          "Ricardo PAVONI",
+          "Luis GARISTO",
+          "Victor ESPARRAGO",
+          "Pedro ROCHA",
+          "Walter MANTEGAZZA",
+          "Fernando MORENA",
+          "Ruben CORBO",
+          "Denis MILAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Bulgaria",
+          "player": "Hristo BONEV",
+          "minute": "75"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Ricardo PAVONI",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Bulgaria",
+          "player_on": "Atanas MIKHAILOV",
+          "player_off": "Asparukh NIKODIMOV",
+          "minute": "59"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Alberto CARDACCIO",
+          "player_off": "Walter MANTEGAZZA",
+          "minute": "62"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Juan MASNIK",
+          "player_off": "Luis GARISTO",
+          "minute": "73"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-23",
+      "stage": "Group C",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Netherlands",
+      "away_team": "Bulgaria",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Johan CRUYFF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Stefan STAIKOV",
+          "Stefan VELICHKOV",
+          "Dimitar PENEV",
+          "Tsonyo VASILEV",
+          "Kiril IVKOV",
+          "Bozhil KOLEV",
+          "Hristo BONEV",
+          "Ivan STOYANOV",
+          "Voin VOINOV",
+          "Georgi DENEV",
+          "Pavel PANOV"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Johan NEESKENS",
+          "minute": "5",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johan NEESKENS",
+          "minute": "45",
+          "penalty": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "71"
+        },
+        {
+          "team": "Bulgaria",
+          "player": "Ruud KROL",
+          "minute": "78",
+          "own_goal": true
+        },
+        {
+          "team": "Netherlands",
+          "player": "Theo DE JONG",
+          "minute": "88"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Rinus ISRAEL",
+          "player_off": "Wim VAN HANEGEM",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Atanas MIKHAILOV",
+          "player_off": "Ivan STOYANOV",
+          "minute": "45+1"
+        },
+        {
+          "team": "Bulgaria",
+          "player_on": "Krasimir BORISOV",
+          "player_off": "Pavel PANOV",
+          "minute": "55"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Theo DE JONG",
+          "player_off": "Johan NEESKENS",
+          "minute": "79"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-23",
+      "stage": "Group C",
+      "venue": "Rheinstadion",
+      "city": "Düsseldorf",
+      "home_team": "Sweden",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Ronnie HELLSTROM",
+          "Kent KARLSSON",
+          "Bjorn NORDQVIST",
+          "Bjorn ANDERSSON",
+          "Roland GRIP",
+          "Ove GRAHN",
+          "Bo LARSSON",
+          "Ove KINDVALL",
+          "Ralf EDSTROM",
+          "Roland SANDBERG",
+          "Benno MAGNUSSON"
+        ],
+        "away": [
+          "Ladislao MAZURKIEWICZ",
+          "Baudilio JAUREGUI",
+          "Pablo FORLAN",
+          "Ricardo PAVONI",
+          "Luis GARISTO",
+          "Victor ESPARRAGO",
+          "Pedro ROCHA",
+          "Walter MANTEGAZZA",
+          "Fernando MORENA",
+          "Ruben CORBO",
+          "Denis MILAR"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Ralf EDSTROM",
+          "minute": "46"
+        },
+        {
+          "team": "Sweden",
+          "player": "Roland SANDBERG",
+          "minute": "74"
+        },
+        {
+          "team": "Sweden",
+          "player": "Ralf EDSTROM",
+          "minute": "77"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Uruguay",
+          "player_on": "Luis CUBILLA",
+          "player_off": "Ruben CORBO",
+          "minute": "43"
+        },
+        {
+          "team": "Uruguay",
+          "player_on": "Juan MASNIK",
+          "player_off": "Luis GARISTO",
+          "minute": "45+1"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Thomas AHLSTROM",
+          "player_off": "Benno MAGNUSSON",
+          "minute": "60"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Conny TORSTENSSON",
+          "player_off": "Ove KINDVALL",
+          "minute": "76"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-15",
+      "stage": "Group D",
+      "venue": "Olympiastadion",
+      "city": "Munich",
+      "home_team": "Italy",
+      "away_team": "Haiti",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Dino ZOFF",
+          "Luciano SPINOSI",
+          "Giacinto FACCHETTI",
+          "Francesco MORINI",
+          "Tarcisio BURGNICH",
+          "Romeo BENETTI",
+          "Sandro MAZZOLA",
+          "Fabio CAPELLO",
+          "Gianni RIVERA",
+          "Giorgio CHINAGLIA",
+          "Gigi RIVA"
+        ],
+        "away": [
+          "Henry FRANCILLON",
+          "Arsene AUGUSTE",
+          "Pierre BAYONNE",
+          "Ernst JEAN-JOSEPH",
+          "Wilner NAZAIRE",
+          "Philippe VORBE",
+          "Jean Claude DESIR",
+          "Eddy ANTOINE",
+          "Guy FRANCOIS",
+          "Guy SAINT-VIL",
+          "Emmanuel SANON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Haiti",
+          "player": "Emmanuel SANON",
+          "minute": "46"
+        },
+        {
+          "team": "Italy",
+          "player": "Gianni RIVERA",
+          "minute": "52"
+        },
+        {
+          "team": "Italy",
+          "player": "Romeo BENETTI",
+          "minute": "66"
+        },
+        {
+          "team": "Italy",
+          "player": "Pietro ANASTASI",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Haiti",
+          "player_on": "Claude BARTHELEMY",
+          "player_off": "Guy SAINT-VIL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Pietro ANASTASI",
+          "player_off": "Giorgio CHINAGLIA",
+          "minute": "70"
+        }
+      ],
+      "notes": [
+        "Jean-Joseph was expelled from the tournament after a positive antidoping test."
+      ]
+    },
+    {
+      "date": "1974-06-15",
+      "stage": "Group D",
+      "venue": "Neckarstadion",
+      "city": "Stuttgart",
+      "home_team": "Poland",
+      "away_team": "Argentina",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam MUSIAL",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Robert GADOCHA"
+        ],
+        "away": [
+          "Daniel CARNEVALI",
+          "Angel BARGAS",
+          "Ramon HEREDIA",
+          "Roberto PERFUMO",
+          "Francisco SA",
+          "Enrique WOLFF",
+          "Miguel BRINDISI",
+          "Ruben AYALA",
+          "Carlos BABINGTON",
+          "Agustin BALBUENA",
+          "Mario KEMPES"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "7"
+        },
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "8"
+        },
+        {
+          "team": "Argentina",
+          "player": "Ramon HEREDIA",
+          "minute": "60"
+        },
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "62"
+        },
+        {
+          "team": "Argentina",
+          "player": "Carlos BABINGTON",
+          "minute": "66"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Rene HOUSEMAN",
+          "player_off": "Miguel BRINDISI",
+          "minute": "45"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Roberto TELCH",
+          "player_off": "Angel BARGAS",
+          "minute": "67"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Jan DOMARSKI",
+          "player_off": "Andrzej SZARMACH",
+          "minute": "70"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Leslaw CMIKIEWICZ",
+          "player_off": "Robert GADOCHA",
+          "minute": "85"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-19",
+      "stage": "Group D",
+      "venue": "Neckarstadion",
+      "city": "Stuttgart",
+      "home_team": "Argentina",
+      "away_team": "Italy",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Daniel CARNEVALI",
+          "Ramon HEREDIA",
+          "Roberto PERFUMO",
+          "Francisco SA",
+          "Enrique WOLFF",
+          "Roberto TELCH",
+          "Ruben AYALA",
+          "Carlos BABINGTON",
+          "Rene HOUSEMAN",
+          "Mario KEMPES",
+          "Hector YAZALDE"
+        ],
+        "away": [
+          "Dino ZOFF",
+          "Luciano SPINOSI",
+          "Giacinto FACCHETTI",
+          "Francesco MORINI",
+          "Tarcisio BURGNICH",
+          "Romeo BENETTI",
+          "Sandro MAZZOLA",
+          "Fabio CAPELLO",
+          "Gianni RIVERA",
+          "Gigi RIVA",
+          "Pietro ANASTASI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Rene HOUSEMAN",
+          "minute": "19"
+        },
+        {
+          "team": "Italy",
+          "player": "Roberto PERFUMO",
+          "minute": "35",
+          "own_goal": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Ruben GLARIA",
+          "player_off": "Enrique WOLFF",
+          "minute": "60"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe WILSON",
+          "player_off": "Gianni RIVERA",
+          "minute": "66"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Franco CAUSIO",
+          "player_off": "Francesco MORINI",
+          "minute": "66"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Enrique CHAZARRETA",
+          "player_off": "Hector YAZALDE",
+          "minute": "78"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-19",
+      "stage": "Group D",
+      "venue": "Olympiastadion",
+      "city": "Munich",
+      "home_team": "Poland",
+      "away_team": "Haiti",
+      "score": {
+        "home": 7,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam MUSIAL",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Robert GADOCHA"
+        ],
+        "away": [
+          "Henry FRANCILLON",
+          "Arsene AUGUSTE",
+          "Fritz ANDRE",
+          "Pierre BAYONNE",
+          "Wilner NAZAIRE",
+          "Philippe VORBE",
+          "Jean Claude DESIR",
+          "Eddy ANTOINE",
+          "Guy FRANCOIS",
+          "Roger SAINT-VIL",
+          "Emmanuel SANON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "17"
+        },
+        {
+          "team": "Poland",
+          "player": "Kazimierz DEYNA",
+          "minute": "18"
+        },
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "30"
+        },
+        {
+          "team": "Poland",
+          "player": "Jerzy GORGON",
+          "minute": "31"
+        },
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "34"
+        },
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "50"
+        },
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "87"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Haiti",
+          "player_on": "Claude BARTHELEMY",
+          "player_off": "Fritz ANDRE",
+          "minute": "37"
+        },
+        {
+          "team": "Haiti",
+          "player_on": "Serge RACINE",
+          "player_off": "Roger SAINT-VIL",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Leslaw CMIKIEWICZ",
+          "player_off": "Zygmunt MASZCZYK",
+          "minute": "65"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Zbigniew GUT",
+          "player_off": "Adam MUSIAL",
+          "minute": "71"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-23",
+      "stage": "Group D",
+      "venue": "Olympiastadion",
+      "city": "Munich",
+      "home_team": "Argentina",
+      "away_team": "Haiti",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Daniel CARNEVALI",
+          "Ramon HEREDIA",
+          "Roberto PERFUMO",
+          "Francisco SA",
+          "Enrique WOLFF",
+          "Roberto TELCH",
+          "Ruben AYALA",
+          "Carlos BABINGTON",
+          "Rene HOUSEMAN",
+          "Mario KEMPES",
+          "Hector YAZALDE"
+        ],
+        "away": [
+          "Henry FRANCILLON",
+          "Serge DUCOSTE",
+          "Pierre BAYONNE",
+          "Wilner NAZAIRE",
+          "Wilfred LOUIS",
+          "Philippe VORBE",
+          "Jean Claude DESIR",
+          "Eddy ANTOINE",
+          "Serge RACINE",
+          "Guy SAINT-VIL",
+          "Emmanuel SANON"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Argentina",
+          "player": "Hector YAZALDE",
+          "minute": "15"
+        },
+        {
+          "team": "Argentina",
+          "player": "Rene HOUSEMAN",
+          "minute": "18"
+        },
+        {
+          "team": "Argentina",
+          "player": "Ruben AYALA",
+          "minute": "55"
+        },
+        {
+          "team": "Haiti",
+          "player": "Emmanuel SANON",
+          "minute": "63"
+        },
+        {
+          "team": "Argentina",
+          "player": "Hector YAZALDE",
+          "minute": "68"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Haiti",
+          "player_on": "Joseph-Marion LEANDRE",
+          "player_off": "Wilner NAZAIRE",
+          "minute": "25"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Agustin BALBUENA",
+          "player_off": "Mario KEMPES",
+          "minute": "52"
+        },
+        {
+          "team": "Haiti",
+          "player_on": "Fritz LEANDRE",
+          "player_off": "Guy SAINT-VIL",
+          "minute": "52"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Miguel BRINDISI",
+          "player_off": "Rene HOUSEMAN",
+          "minute": "57"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-23",
+      "stage": "Group D",
+      "venue": "Neckarstadion",
+      "city": "Stuttgart",
+      "home_team": "Poland",
+      "away_team": "Italy",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam MUSIAL",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Robert GADOCHA"
+        ],
+        "away": [
+          "Dino ZOFF",
+          "Luciano SPINOSI",
+          "Giacinto FACCHETTI",
+          "Francesco MORINI",
+          "Tarcisio BURGNICH",
+          "Romeo BENETTI",
+          "Sandro MAZZOLA",
+          "Fabio CAPELLO",
+          "Franco CAUSIO",
+          "Giorgio CHINAGLIA",
+          "Pietro ANASTASI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Andrzej SZARMACH",
+          "minute": "38"
+        },
+        {
+          "team": "Poland",
+          "player": "Kazimierz DEYNA",
+          "minute": "44"
+        },
+        {
+          "team": "Italy",
+          "player": "Fabio CAPELLO",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Italy",
+          "player_on": "Giuseppe WILSON",
+          "player_off": "Tarcisio BURGNICH",
+          "minute": "33"
+        },
+        {
+          "team": "Italy",
+          "player_on": "Roberto BONINSEGNA",
+          "player_off": "Giorgio CHINAGLIA",
+          "minute": "45+1"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Leslaw CMIKIEWICZ",
+          "player_off": "Andrzej SZARMACH",
+          "minute": "78"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-26",
+      "stage": "Second-phase Group 1",
+      "venue": "Parkstadion",
+      "city": "Gelsenkirchen",
+      "home_team": "Netherlands",
+      "away_team": "Argentina",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Johan CRUYFF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Daniel CARNEVALI",
+          "Ramon HEREDIA",
+          "Roberto PERFUMO",
+          "Francisco SA",
+          "Carlos SQUEO",
+          "Enrique WOLFF",
+          "Roberto TELCH",
+          "Ruben AYALA",
+          "Agustin BALBUENA",
+          "Rene HOUSEMAN",
+          "Hector YAZALDE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Johan CRUYFF",
+          "minute": "10"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Ruud KROL",
+          "minute": "25"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johnny REP",
+          "minute": "73"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johan CRUYFF",
+          "minute": "90"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Mario KEMPES",
+          "player_off": "Enrique WOLFF",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Rinus ISRAEL",
+          "player_off": "Wim SUURBIER",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-26",
+      "stage": "Second-phase Group 1",
+      "venue": "Niedersachsenstadion",
+      "city": "Hannover",
+      "home_team": "Brazil",
+      "away_team": "East Germany",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "LUIS PEREIRA",
+          "MARINHO PERES",
+          "ZE MARIA",
+          "MARINHO CHAGAS",
+          "RIVELLINO",
+          "PAULO CESAR",
+          "CARPEGIANI",
+          "DIRCEU",
+          "JAIRZINHO",
+          "VALDOMIRO"
+        ],
+        "away": [
+          "Juergen CROY",
+          "Lothar KURBJUWEIT",
+          "Bernd BRANSCH",
+          "Konrad WEISE",
+          "Siegmar WAETZLICH",
+          "Gerd KISCHE",
+          "Reinhard LAUCK",
+          "Juergen SPARWASSER",
+          "Erich HAMANN",
+          "Joachim STREICH",
+          "Martin HOFFMANN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RIVELLINO",
+          "minute": "60"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "East Germany",
+          "player_on": "Harald IRMSCHER",
+          "player_off": "Erich HAMANN",
+          "minute": "45+1"
+        },
+        {
+          "team": "East Germany",
+          "player_on": "Wolfram LOEWE",
+          "player_off": "Reinhard LAUCK",
+          "minute": "64"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-30",
+      "stage": "Second-phase Group 1",
+      "venue": "Parkstadion",
+      "city": "Gelsenkirchen",
+      "home_team": "Netherlands",
+      "away_team": "East Germany",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Johan CRUYFF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "Juergen CROY",
+          "Lothar KURBJUWEIT",
+          "Bernd BRANSCH",
+          "Konrad WEISE",
+          "Gerd KISCHE",
+          "Ruediger SCHNUPHASE",
+          "Juergen POMMERENKE",
+          "Reinhard LAUCK",
+          "Juergen SPARWASSER",
+          "Wolfram LOEWE",
+          "Martin HOFFMANN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Johan NEESKENS",
+          "minute": "7"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Rob RENSENBRINK",
+          "minute": "59"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "East Germany",
+          "player_on": "Peter DUCKE",
+          "player_off": "Wolfram LOEWE",
+          "minute": "54"
+        },
+        {
+          "team": "East Germany",
+          "player_on": "Hans-Juergen KREISCHE",
+          "player_off": "Reinhard LAUCK",
+          "minute": "64"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-30",
+      "stage": "Second-phase Group 1",
+      "venue": "Niedersachsenstadion",
+      "city": "Hannover",
+      "home_team": "Brazil",
+      "away_team": "Argentina",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "LEAO",
+          "LUIS PEREIRA",
+          "MARINHO PERES",
+          "ZE MARIA",
+          "MARINHO CHAGAS",
+          "RIVELLINO",
+          "PAULO CESAR",
+          "CARPEGIANI",
+          "DIRCEU",
+          "JAIRZINHO",
+          "VALDOMIRO"
+        ],
+        "away": [
+          "Daniel CARNEVALI",
+          "Angel BARGAS",
+          "Ruben GLARIA",
+          "Ramon HEREDIA",
+          "Francisco SA",
+          "Carlos SQUEO",
+          "Miguel BRINDISI",
+          "Ruben AYALA",
+          "Carlos BABINGTON",
+          "Agustin BALBUENA",
+          "Mario KEMPES"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "RIVELLINO",
+          "minute": "32"
+        },
+        {
+          "team": "Argentina",
+          "player": "Miguel BRINDISI",
+          "minute": "35"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIRZINHO",
+          "minute": "49"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Argentina",
+          "player_on": "Jorge CARRASCOSA",
+          "player_off": "Mario KEMPES",
+          "minute": "45+1"
+        },
+        {
+          "team": "Argentina",
+          "player_on": "Rene HOUSEMAN",
+          "player_off": "Francisco SA",
+          "minute": "45+1"
+        }
+      ]
+    },
+    {
+      "date": "1974-07-03",
+      "stage": "Second-phase Group 1",
+      "venue": "Westfalenstadion",
+      "city": "Dortmund",
+      "home_team": "Netherlands",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Johan CRUYFF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ],
+        "away": [
+          "LEAO",
+          "LUIS PEREIRA",
+          "MARINHO PERES",
+          "ZE MARIA",
+          "MARINHO CHAGAS",
+          "RIVELLINO",
+          "PAULO CESAR",
+          "CARPEGIANI",
+          "DIRCEU",
+          "JAIRZINHO",
+          "VALDOMIRO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Johan NEESKENS",
+          "minute": "50"
+        },
+        {
+          "team": "Netherlands",
+          "player": "Johan CRUYFF",
+          "minute": "65"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "MIRANDINHA",
+          "player_off": "PAULO CESAR",
+          "minute": "61"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Theo DE JONG",
+          "player_off": "Rob RENSENBRINK",
+          "minute": "67"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Rinus ISRAEL",
+          "player_off": "Johan NEESKENS",
+          "minute": "85"
+        }
+      ],
+      "notes": [
+        "Luis Pereira was sent off in the 84th minute."
+      ]
+    },
+    {
+      "date": "1974-07-03",
+      "stage": "Second-phase Group 1",
+      "venue": "Parkstadion",
+      "city": "Gelsenkirchen",
+      "home_team": "Argentina",
+      "away_team": "East Germany",
+      "score": {
+        "home": 1,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ubaldo FILLOL",
+          "Angel BARGAS",
+          "Jorge CARRASCOSA",
+          "Ramon HEREDIA",
+          "Enrique WOLFF",
+          "Miguel BRINDISI",
+          "Roberto TELCH",
+          "Ruben AYALA",
+          "Carlos BABINGTON",
+          "Rene HOUSEMAN",
+          "Mario KEMPES"
+        ],
+        "away": [
+          "Juergen CROY",
+          "Lothar KURBJUWEIT",
+          "Bernd BRANSCH",
+          "Konrad WEISE",
+          "Gerd KISCHE",
+          "Ruediger SCHNUPHASE",
+          "Juergen POMMERENKE",
+          "Juergen SPARWASSER",
+          "Wolfram LOEWE",
+          "Joachim STREICH",
+          "Martin HOFFMANN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "East Germany",
+          "player": "Joachim STREICH",
+          "minute": "14"
+        },
+        {
+          "team": "Argentina",
+          "player": "Rene HOUSEMAN",
+          "minute": "20"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "East Germany",
+          "player_on": "Eberhard VOGEL",
+          "player_off": "Wolfram LOEWE",
+          "minute": "65"
+        },
+        {
+          "team": "East Germany",
+          "player_on": "Peter DUCKE",
+          "player_off": "Joachim STREICH",
+          "minute": "80"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-26",
+      "stage": "Second-phase Group 2",
+      "venue": "Neckarstadion",
+      "city": "Stuttgart",
+      "home_team": "Poland",
+      "away_team": "Sweden",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Zbigniew GUT",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Robert GADOCHA"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Kent KARLSSON",
+          "Bjorn NORDQVIST",
+          "Bjorn ANDERSSON",
+          "Roland GRIP",
+          "Ove GRAHN",
+          "Bo LARSSON",
+          "Staffan TAPPER",
+          "Conny TORSTENSSON",
+          "Ralf EDSTROM",
+          "Roland SANDBERG"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "43"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Kazimierz KMIECIK",
+          "player_off": "Andrzej SZARMACH",
+          "minute": "60"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Jorgen AUGUSTSSON",
+          "player_off": "Bjorn ANDERSSON",
+          "minute": "60"
+        },
+        {
+          "team": "Sweden",
+          "player_on": "Thomas AHLSTROM",
+          "player_off": "Staffan TAPPER",
+          "minute": "80"
+        }
+      ],
+      "notes": [
+        "Tomaszewski saved Tapper's penalty in the 64th minute."
+      ]
+    },
+    {
+      "date": "1974-06-26",
+      "stage": "Second-phase Group 2",
+      "venue": "Rheinstadion",
+      "city": "Düsseldorf",
+      "home_team": "West Germany",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Herbert WIMMER",
+          "Wolfgang OVERATH",
+          "Rainer BONHOF",
+          "Gerd MUELLER",
+          "Bernd HOELZENBEIN",
+          "Dieter HERZOG"
+        ],
+        "away": [
+          "Enver MARIC",
+          "Ivan BULJAN",
+          "Enver HADZIABDIC",
+          "Drazen MUZINIC",
+          "Josip KATALINSKI",
+          "Branko OBLAK",
+          "Jovan ACIMOVIC",
+          "Ivica SURJAK",
+          "Dragan DZAJIC",
+          "Danilo POPIVODA",
+          "Stanislav KARASI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Paul BREITNER",
+          "minute": "39"
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "West Germany",
+          "player_on": "Uli HOENESS",
+          "player_off": "Herbert WIMMER",
+          "minute": "73"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Heinz FLOHE",
+          "player_off": "Bernd HOELZENBEIN",
+          "minute": "78"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Ilija PETKOVIC",
+          "player_off": "Dragan DZAJIC",
+          "minute": "84"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Jurica JERKOVIC",
+          "player_off": "Branko OBLAK",
+          "minute": "84"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-30",
+      "stage": "Second-phase Group 2",
+      "venue": "Waldstadion",
+      "city": "Frankfurt",
+      "home_team": "Poland",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam MUSIAL",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Robert GADOCHA"
+        ],
+        "away": [
+          "Enver MARIC",
+          "Ivan BULJAN",
+          "Enver HADZIABDIC",
+          "Josip KATALINSKI",
+          "Vladislav BOGICEVIC",
+          "Ilija PETKOVIC",
+          "Branko OBLAK",
+          "Jovan ACIMOVIC",
+          "Ivica SURJAK",
+          "Stanislav KARASI",
+          "Dusan BAJEVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Kazimierz DEYNA",
+          "minute": "24",
+          "penalty": true
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Stanislav KARASI",
+          "minute": "43"
+        },
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "62"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Jurica JERKOVIC",
+          "player_off": "Branko OBLAK",
+          "minute": "16"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Leslaw CMIKIEWICZ",
+          "player_off": "Andrzej SZARMACH",
+          "minute": "57"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Jan DOMARSKI",
+          "player_off": "Kazimierz DEYNA",
+          "minute": "80"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Vladimir PETROVIC",
+          "player_off": "Ilija PETKOVIC",
+          "minute": "81"
+        }
+      ]
+    },
+    {
+      "date": "1974-06-30",
+      "stage": "Second-phase Group 2",
+      "venue": "Rheinstadion",
+      "city": "Düsseldorf",
+      "home_team": "West Germany",
+      "away_team": "Sweden",
+      "score": {
+        "home": 4,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Wolfgang OVERATH",
+          "Uli HOENESS",
+          "Rainer BONHOF",
+          "Gerd MUELLER",
+          "Bernd HOELZENBEIN",
+          "Dieter HERZOG"
+        ],
+        "away": [
+          "Ronnie HELLSTROM",
+          "Jan OLSSON",
+          "Kent KARLSSON",
+          "Bjorn NORDQVIST",
+          "Jorgen AUGUSTSSON",
+          "Ove GRAHN",
+          "Bo LARSSON",
+          "Staffan TAPPER",
+          "Conny TORSTENSSON",
+          "Ralf EDSTROM",
+          "Roland SANDBERG"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Ralf EDSTROM",
+          "minute": "24"
+        },
+        {
+          "team": "West Germany",
+          "player": "Wolfgang OVERATH",
+          "minute": "51"
+        },
+        {
+          "team": "West Germany",
+          "player": "Rainer BONHOF",
+          "minute": "52"
+        },
+        {
+          "team": "Sweden",
+          "player": "Roland SANDBERG",
+          "minute": "53"
+        },
+        {
+          "team": "West Germany",
+          "player": "Juergen GRABOWSKI",
+          "minute": "76"
+        },
+        {
+          "team": "West Germany",
+          "player": "Uli HOENESS",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Sweden",
+          "player_on": "Inge EJDERSTEDT",
+          "player_off": "Bo LARSSON",
+          "minute": "32"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Juergen GRABOWSKI",
+          "player_off": "Dieter HERZOG",
+          "minute": "64"
+        },
+        {
+          "team": "West Germany",
+          "player_on": "Heinz FLOHE",
+          "player_off": "Bernd HOELZENBEIN",
+          "minute": "83"
+        }
+      ]
+    },
+    {
+      "date": "1974-07-03",
+      "stage": "Second-phase Group 2",
+      "venue": "Rheinstadion",
+      "city": "Düsseldorf",
+      "home_team": "Sweden",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ronnie HELLSTROM",
+          "Jan OLSSON",
+          "Kent KARLSSON",
+          "Bjorn NORDQVIST",
+          "Jorgen AUGUSTSSON",
+          "Ove GRAHN",
+          "Staffan TAPPER",
+          "Orjan PERSSON",
+          "Conny TORSTENSSON",
+          "Ralf EDSTROM",
+          "Roland SANDBERG"
+        ],
+        "away": [
+          "Enver MARIC",
+          "Ivan BULJAN",
+          "Enver HADZIABDIC",
+          "Josip KATALINSKI",
+          "Vladislav BOGICEVIC",
+          "Jovan ACIMOVIC",
+          "Jurica JERKOVIC",
+          "Miroslav PAVLOVIC",
+          "Vladimir PETROVIC",
+          "Ivica SURJAK",
+          "Dragan DZAJIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Ivica SURJAK",
+          "minute": "27"
+        },
+        {
+          "team": "Sweden",
+          "player": "Ralf EDSTROM",
+          "minute": "29"
+        },
+        {
+          "team": "Sweden",
+          "player": "Conny TORSTENSSON",
+          "minute": "85"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Yugoslavia",
+          "player_on": "Stanislav KARASI",
+          "player_off": "Vladimir PETROVIC",
+          "minute": "70"
+        },
+        {
+          "team": "Yugoslavia",
+          "player_on": "Luka PERUZOVIC",
+          "player_off": "Miroslav PAVLOVIC",
+          "minute": "78"
+        }
+      ]
+    },
+    {
+      "date": "1974-07-03",
+      "stage": "Second-phase Group 2",
+      "venue": "Waldstadion",
+      "city": "Frankfurt",
+      "home_team": "West Germany",
+      "away_team": "Poland",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Wolfgang OVERATH",
+          "Uli HOENESS",
+          "Rainer BONHOF",
+          "Juergen GRABOWSKI",
+          "Gerd MUELLER",
+          "Bernd HOELZENBEIN"
+        ],
+        "away": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam MUSIAL",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Robert GADOCHA",
+          "Jan DOMARSKI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Poland",
+          "player_on": "Leslaw CMIKIEWICZ",
+          "player_off": "Zygmunt MASZCZYK",
+          "minute": "80"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Kazimierz KMIECIK",
+          "player_off": "Henryk KASPERCZAK",
+          "minute": "80"
+        }
+      ],
+      "notes": [
+        "The match was delayed by half an hour because of an extremely wet pitch.",
+        "Tomaszewski saved Hoeness's penalty in the 53rd minute."
+      ]
+    },
+    {
+      "date": "1974-07-06",
+      "stage": "Third-place match",
+      "venue": "Olympiastadion",
+      "city": "Munich",
+      "home_team": "Poland",
+      "away_team": "Brazil",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Jan TOMASZEWSKI",
+          "Antoni SZYMANOWSKI",
+          "Jerzy GORGON",
+          "Wladyslaw ZMUDA",
+          "Adam MUSIAL",
+          "Kazimierz DEYNA",
+          "Henryk KASPERCZAK",
+          "Zygmunt MASZCZYK",
+          "Grzegorz LATO",
+          "Andrzej SZARMACH",
+          "Robert GADOCHA"
+        ],
+        "away": [
+          "LEAO",
+          "MARINHO PERES",
+          "ZE MARIA",
+          "MARINHO CHAGAS",
+          "ALFREDO",
+          "RIVELLINO",
+          "CARPEGIANI",
+          "ADEMIR DA GUIA",
+          "DIRCEU",
+          "JAIRZINHO",
+          "VALDOMIRO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Poland",
+          "player": "Grzegorz LATO",
+          "minute": "76"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Brazil",
+          "player_on": "MIRANDINHA",
+          "player_off": "ADEMIR DA GUIA",
+          "minute": "66"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Leslaw CMIKIEWICZ",
+          "player_off": "Henryk KASPERCZAK",
+          "minute": "73"
+        },
+        {
+          "team": "Poland",
+          "player_on": "Zdzislaw KAPKA",
+          "player_off": "Andrzej SZARMACH",
+          "minute": "75"
+        }
+      ]
+    },
+    {
+      "date": "1974-07-07",
+      "stage": "Final",
+      "venue": "Olympiastadion",
+      "city": "Munich",
+      "home_team": "West Germany",
+      "away_team": "Netherlands",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Sepp MAIER",
+          "Berti VOGTS",
+          "Paul BREITNER",
+          "Hans Georg SCHWARZENBECK",
+          "Franz BECKENBAUER",
+          "Wolfgang OVERATH",
+          "Uli HOENESS",
+          "Rainer BONHOF",
+          "Juergen GRABOWSKI",
+          "Gerd MUELLER",
+          "Bernd HOELZENBEIN"
+        ],
+        "away": [
+          "Jan JONGBLOED",
+          "Ruud KROL",
+          "Wim RIJSBERGEN",
+          "Wim SUURBIER",
+          "Arie HAAN",
+          "Wim VAN HANEGEM",
+          "Wim JANSEN",
+          "Johan NEESKENS",
+          "Johan CRUYFF",
+          "Rob RENSENBRINK",
+          "Johnny REP"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Netherlands",
+          "player": "Johan NEESKENS",
+          "minute": "2",
+          "penalty": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Paul BREITNER",
+          "minute": "25",
+          "penalty": true
+        },
+        {
+          "team": "West Germany",
+          "player": "Gerd MUELLER",
+          "minute": "43"
+        }
+      ],
+      "substitutions": [
+        {
+          "team": "Netherlands",
+          "player_on": "Rene VAN DE KERKHOF",
+          "player_off": "Rob RENSENBRINK",
+          "minute": "45+1"
+        },
+        {
+          "team": "Netherlands",
+          "player_on": "Theo DE JONG",
+          "player_off": "Wim RIJSBERGEN",
+          "minute": "68"
+        }
+      ],
+      "notes": [
+        "This was the first World Cup final to feature a penalty before the defending champions had touched the ball."
+      ]
+    }
+  ]
+}

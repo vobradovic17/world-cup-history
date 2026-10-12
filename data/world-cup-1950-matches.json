@@ -1,0 +1,1421 @@
+{
+  "tournament": "FIFA World Cup 1950",
+  "host_country": "Brazil",
+  "matches_played": 22,
+  "format": "First-round groups followed by a final round-robin pool; there was no separate final match.",
+  "substitution_policy": "No in-match substitutions were permitted in the 1950 FIFA World Cup, so every match has an empty substitutions array.",
+  "sources": [
+    "https://www.rsssf.org/tables/50full.html",
+    "https://fbref.com/en/comps/1/1950/schedule/1950-World-Cup-Scores-and-Fixtures",
+    "https://github.com/openfootball/worldcup.json/blob/master/1950/worldcup-full.json"
+  ],
+  "matches": [
+    {
+      "date": "1950-06-24",
+      "stage": "Group A",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Brazil",
+      "away_team": "Mexico",
+      "score": {
+        "home": 4,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "BARBOSA",
+          "AUGUSTO",
+          "JUVENAL",
+          "ELY DO AMPARO",
+          "DANILO ALVIM",
+          "BIGODE",
+          "FRIACA",
+          "JAIR",
+          "MANECA",
+          "BALTAZAR",
+          "ADEMIR"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Alfonso MONTEMAYOR",
+          "Jose ROCA",
+          "Rodrigo RUIZ",
+          "Felipe ZETTER",
+          "Mario OCHOA",
+          "Hector ORTIZ",
+          "Horacio CASARIN",
+          "Mario PEREZ",
+          "Carlos SEPTIEN",
+          "Jose VELAZQUEZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "30"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIR",
+          "minute": "65"
+        },
+        {
+          "team": "Brazil",
+          "player": "BALTAZAR",
+          "minute": "71"
+        },
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Match preceded by the World Cup opening ceremony."
+      ]
+    },
+    {
+      "date": "1950-06-25",
+      "stage": "Group A",
+      "venue": "Estádio Sete de Setembro",
+      "city": "Belo Horizonte",
+      "home_team": "Yugoslavia",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 3,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Srdjan MRKUSIC",
+          "Ivan HORVAT",
+          "Branko STANKOVIC",
+          "Predrag DJAJIC",
+          "Miodrag JOVANOVIC",
+          "Stjepan BOBEK",
+          "Rajko MITIC",
+          "Bernard VUKAS",
+          "Zeljko CAJKOVSKI",
+          "Tihomir OGNJANOV",
+          "Kosta TOMASEVIC"
+        ],
+        "away": [
+          "Georges STUBER",
+          "Roger BOCQUET",
+          "Andre NEURY",
+          "Gerhard LUSENTI",
+          "Oliver EGGIMANN",
+          "Roger QUINCHE",
+          "Kiki ANTENEN",
+          "Rene BADER",
+          "Fredy BICKEL",
+          "Jackie FATTON",
+          "Jean TAMINI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Rajko MITIC",
+          "minute": "59"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Kosta TOMASEVIC",
+          "minute": "70"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Tihomir OGNJANOV",
+          "minute": "84"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-25",
+      "stage": "Group B",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "England",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Bert WILLIAMS",
+          "John ASTON",
+          "Alf RAMSEY",
+          "Billy WRIGHT",
+          "Jimmy DICKINSON",
+          "Laurie HUGHES",
+          "Stan MORTENSEN",
+          "Roy BENTLEY",
+          "Tom FINNEY",
+          "Wilf MANNION",
+          "Jimmy MULLEN"
+        ],
+        "away": [
+          "Sergio LIVINGSTONE",
+          "Manuel ALVAREZ",
+          "Arturo FARIAS",
+          "Fernando ROLDAN",
+          "Miguel BUSQUETS",
+          "Hernan CARVALLO",
+          "Atilio CREMASCHI",
+          "Guillermo DIAZ",
+          "Luis MAYANES",
+          "Manuel MUNOZ",
+          "Jorge ROBLEDO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "England",
+          "player": "Stan MORTENSEN",
+          "minute": "39"
+        },
+        {
+          "team": "England",
+          "player": "Wilf MANNION",
+          "minute": "51"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-25",
+      "stage": "Group B",
+      "venue": "Estádio Durival de Britto",
+      "city": "Curitiba",
+      "home_team": "Spain",
+      "away_team": "United States",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Ignacio EIZAGUIRRE",
+          "GABRIEL ALONSO",
+          "GONZALVO II",
+          "ANTUNEZ",
+          "GONZALVO III",
+          "Antonio PUCHADES",
+          "Estanislao BASORA",
+          "GAINZA",
+          "ROSENDO HERNANDEZ",
+          "Silvestre IGOA",
+          "ZARRA"
+        ],
+        "away": [
+          "Frank BORGHI",
+          "Harry KEOUGH",
+          "Joe MACA",
+          "Walter BAHR",
+          "Charlie COLOMBO",
+          "Ed McILVENNY",
+          "John SOUZA",
+          "Joe GAETJENS",
+          "Gino PARIANI",
+          "Frank WALLACE",
+          "Adam WOLANIN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Gino PARIANI",
+          "minute": "17"
+        },
+        {
+          "team": "Spain",
+          "player": "Silvestre IGOA",
+          "minute": "81"
+        },
+        {
+          "team": "Spain",
+          "player": "Estanislao BASORA",
+          "minute": "83"
+        },
+        {
+          "team": "Spain",
+          "player": "ZARRA",
+          "minute": "89"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-28",
+      "stage": "Group A",
+      "venue": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "home_team": "Brazil",
+      "away_team": "Switzerland",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "BARBOSA",
+          "AUGUSTO",
+          "JUVENAL",
+          "BAUER",
+          "RUY",
+          "NORONHA",
+          "FRIACA",
+          "MANECA",
+          "BALTAZAR",
+          "ADEMIR",
+          "ALFREDO II"
+        ],
+        "away": [
+          "Georges STUBER",
+          "Roger BOCQUET",
+          "Gerhard LUSENTI",
+          "Andre NEURY",
+          "Oliver EGGIMANN",
+          "Roger QUINCHE",
+          "Rene BADER",
+          "Fredy BICKEL",
+          "Jackie FATTON",
+          "Hans-Peter FRIEDLAENDER",
+          "Jean TAMINI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ALFREDO II",
+          "minute": "3"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Jackie FATTON",
+          "minute": "17"
+        },
+        {
+          "team": "Brazil",
+          "player": "BALTAZAR",
+          "minute": "32"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Jackie FATTON",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-28",
+      "stage": "Group A",
+      "venue": "Estádio dos Eucaliptos",
+      "city": "Porto Alegre",
+      "home_team": "Yugoslavia",
+      "away_team": "Mexico",
+      "score": {
+        "home": 4,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Srdjan MRKUSIC",
+          "Ivan HORVAT",
+          "Branko STANKOVIC",
+          "Zlatko CAJKOVSKI",
+          "Predrag DJAJIC",
+          "Miodrag JOVANOVIC",
+          "Stjepan BOBEK",
+          "Rajko MITIC",
+          "Zeljko CAJKOVSKI",
+          "Prvoslav MIHAJLOVIC",
+          "Kosta TOMASEVIC"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Gregorio GOMEZ",
+          "Manuel GUTIERREZ",
+          "Jose ROCA",
+          "Samuel CUBURU",
+          "Hector ORTIZ",
+          "Horacio CASARIN",
+          "Mario PEREZ",
+          "Carlos SEPTIEN",
+          "Jose VELAZQUEZ",
+          "Jose NARANJO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Yugoslavia",
+          "player": "Stjepan BOBEK",
+          "minute": "20"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Zeljko CAJKOVSKI",
+          "minute": "23"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Zeljko CAJKOVSKI",
+          "minute": "51"
+        },
+        {
+          "team": "Yugoslavia",
+          "player": "Kosta TOMASEVIC",
+          "minute": "81"
+        },
+        {
+          "team": "Mexico",
+          "player": "Hector ORTIZ",
+          "minute": "89",
+          "penalty": true
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-29",
+      "stage": "Group B",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Spain",
+      "away_team": "Chile",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Antonio RAMALLETS",
+          "GABRIEL ALONSO",
+          "GONZALVO II",
+          "Jose PARRA",
+          "GONZALVO III",
+          "Antonio PUCHADES",
+          "Estanislao BASORA",
+          "GAINZA",
+          "Silvestre IGOA",
+          "Jose PANIZO",
+          "ZARRA"
+        ],
+        "away": [
+          "Sergio LIVINGSTONE",
+          "Manuel ALVAREZ",
+          "Arturo FARIAS",
+          "Fernando ROLDAN",
+          "Miguel BUSQUETS",
+          "Hernan CARVALLO",
+          "Atilio CREMASCHI",
+          "Guillermo DIAZ",
+          "Andres PRIETO",
+          "Jorge ROBLEDO",
+          "Manuel MUNOZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "Estanislao BASORA",
+          "minute": "17"
+        },
+        {
+          "team": "Spain",
+          "player": "ZARRA",
+          "minute": "30"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-29",
+      "stage": "Group B",
+      "venue": "Estádio Mineiro",
+      "city": "Belo Horizonte",
+      "home_team": "United States",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Frank BORGHI",
+          "Harry KEOUGH",
+          "Joe MACA",
+          "Walter BAHR",
+          "Charlie COLOMBO",
+          "Ed McILVENNY",
+          "John SOUZA",
+          "Joe GAETJENS",
+          "Gino PARIANI",
+          "Ed SOUZA",
+          "Frank WALLACE"
+        ],
+        "away": [
+          "Bert WILLIAMS",
+          "John ASTON",
+          "Alf RAMSEY",
+          "Billy WRIGHT",
+          "Jimmy DICKINSON",
+          "Laurie HUGHES",
+          "Stan MORTENSEN",
+          "Roy BENTLEY",
+          "Tom FINNEY",
+          "Wilf MANNION",
+          "Jimmy MULLEN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "United States",
+          "player": "Joe GAETJENS",
+          "minute": "38"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-01",
+      "stage": "Group A",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Brazil",
+      "away_team": "Yugoslavia",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "BARBOSA",
+          "AUGUSTO",
+          "JUVENAL",
+          "BAUER",
+          "DANILO ALVIM",
+          "BIGODE",
+          "ZIZINHO",
+          "JAIR",
+          "CHICO",
+          "MANECA",
+          "ADEMIR"
+        ],
+        "away": [
+          "Srdjan MRKUSIC",
+          "Ivan HORVAT",
+          "Branko STANKOVIC",
+          "Zlatko CAJKOVSKI",
+          "Predrag DJAJIC",
+          "Miodrag JOVANOVIC",
+          "Stjepan BOBEK",
+          "Rajko MITIC",
+          "Bernard VUKAS",
+          "Zeljko CAJKOVSKI",
+          "Kosta TOMASEVIC"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "4"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZIZINHO",
+          "minute": "69"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-02",
+      "stage": "Group A",
+      "venue": "Estádio dos Eucaliptos",
+      "city": "Porto Alegre",
+      "home_team": "Switzerland",
+      "away_team": "Mexico",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Adolphe HUG",
+          "Roger BOCQUET",
+          "Gerhard LUSENTI",
+          "Andre NEURY",
+          "Oliver EGGIMANN",
+          "Roger QUINCHE",
+          "Kiki ANTENEN",
+          "Rene BADER",
+          "Jackie FATTON",
+          "Hans-Peter FRIEDLAENDER",
+          "Jean TAMINI"
+        ],
+        "away": [
+          "Antonio CARBAJAL",
+          "Gregorio GOMEZ",
+          "Manuel GUTIERREZ",
+          "Jose ROCA",
+          "Antonio FLORES",
+          "Mario OCHOA",
+          "Hector ORTIZ",
+          "Horacio CASARIN",
+          "Jose NARANJO",
+          "Jose VELAZQUEZ",
+          "Jose BORBOLLA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Switzerland",
+          "player": "Rene BADER",
+          "minute": "10"
+        },
+        {
+          "team": "Switzerland",
+          "player": "Kiki ANTENEN",
+          "minute": "44"
+        },
+        {
+          "team": "Mexico",
+          "player": "Horacio CASARIN",
+          "minute": "89"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Match was delayed by 25 minutes because of similar team colours and subsequent kit changes."
+      ]
+    },
+    {
+      "date": "1950-07-02",
+      "stage": "Group B",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Spain",
+      "away_team": "England",
+      "score": {
+        "home": 1,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Antonio RAMALLETS",
+          "GABRIEL ALONSO",
+          "GONZALVO II",
+          "Jose PARRA",
+          "GONZALVO III",
+          "Antonio PUCHADES",
+          "Estanislao BASORA",
+          "GAINZA",
+          "Silvestre IGOA",
+          "Jose PANIZO",
+          "ZARRA"
+        ],
+        "away": [
+          "Bert WILLIAMS",
+          "Alf RAMSEY",
+          "Billy WRIGHT",
+          "Bill ECKERSLEY",
+          "Jimmy DICKINSON",
+          "Laurie HUGHES",
+          "Stanley MATTHEWS",
+          "Stan MORTENSEN",
+          "Eddie BAILY",
+          "Tom FINNEY",
+          "Jackie MILBURN"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Spain",
+          "player": "ZARRA",
+          "minute": "48"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-02",
+      "stage": "Group B",
+      "venue": "Estádio Ilha do Retiro",
+      "city": "Recife",
+      "home_team": "Chile",
+      "away_team": "United States",
+      "score": {
+        "home": 5,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Sergio LIVINGSTONE",
+          "Manuel ALVAREZ",
+          "Arturo FARIAS",
+          "Manuel MACHUCA",
+          "Miguel BUSQUETS",
+          "Carlos ROJAS",
+          "Atilio CREMASCHI",
+          "Carlos IBANEZ",
+          "Andres PRIETO",
+          "Fernando RIERA",
+          "Jorge ROBLEDO"
+        ],
+        "away": [
+          "Frank BORGHI",
+          "Harry KEOUGH",
+          "Joe MACA",
+          "Walter BAHR",
+          "Charlie COLOMBO",
+          "Ed McILVENNY",
+          "John SOUZA",
+          "Joe GAETJENS",
+          "Gino PARIANI",
+          "Ed SOUZA",
+          "Frank WALLACE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Chile",
+          "player": "Jorge ROBLEDO",
+          "minute": "16"
+        },
+        {
+          "team": "Chile",
+          "player": "Atilio CREMASCHI",
+          "minute": "32"
+        },
+        {
+          "team": "United States",
+          "player": "Frank WALLACE",
+          "minute": "47"
+        },
+        {
+          "team": "United States",
+          "player": "Joe MACA",
+          "minute": "48",
+          "penalty": true
+        },
+        {
+          "team": "Chile",
+          "player": "Andres PRIETO",
+          "minute": "54"
+        },
+        {
+          "team": "Chile",
+          "player": "Atilio CREMASCHI",
+          "minute": "60"
+        },
+        {
+          "team": "Chile",
+          "player": "Fernando RIERA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some sources award Chile's last goal to Cremaschi instead of Riera."
+      ]
+    },
+    {
+      "date": "1950-06-25",
+      "stage": "Group C",
+      "venue": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "home_team": "Sweden",
+      "away_team": "Italy",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Sune ANDERSSON",
+          "Erik NILSSON",
+          "Lennart SAMUELSSON",
+          "Knut NORDAHL",
+          "Ingvar GARD",
+          "Lennart SKOGLUND",
+          "Hans JEPPSSON",
+          "Stellan NILSSON",
+          "Karl-Erik PALMER",
+          "Stig SUNDQVIST"
+        ],
+        "away": [
+          "Lucidio SENTIMENTI",
+          "Carlo PAROLA",
+          "Zeffiro FURIASSI",
+          "Attilio GIOVANNINI",
+          "Carlo ANNOVAZZI",
+          "Aldo CAMPATELLI",
+          "Augusto MAGLI",
+          "Giampiero BONIPERTI",
+          "Gino CAPPELLO",
+          "Riccardo CARAPELLESE",
+          "Ermes MUCCINELLI"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Riccardo CARAPELLESE",
+          "minute": "7"
+        },
+        {
+          "team": "Sweden",
+          "player": "Hans JEPPSSON",
+          "minute": "25"
+        },
+        {
+          "team": "Sweden",
+          "player": "Sune ANDERSSON",
+          "minute": "34"
+        },
+        {
+          "team": "Sweden",
+          "player": "Hans JEPPSSON",
+          "minute": "69"
+        },
+        {
+          "team": "Italy",
+          "player": "Ermes MUCCINELLI",
+          "minute": "78"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-06-29",
+      "stage": "Group C",
+      "venue": "Estádio dos Eucaliptos",
+      "city": "Porto Alegre",
+      "home_team": "Sweden",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Sune ANDERSSON",
+          "Erik NILSSON",
+          "Lennart SAMUELSSON",
+          "Knut NORDAHL",
+          "Ingvar GARD",
+          "Lennart SKOGLUND",
+          "Hans JEPPSSON",
+          "Egon JONSSON",
+          "Karl-Erik PALMER",
+          "Stig SUNDQVIST"
+        ],
+        "away": [
+          "Marcelino VARGAS",
+          "Casiano CESPEDES",
+          "Manuel GAVILAN",
+          "Alberto GONZALEZ",
+          "Castor CANTERO",
+          "Victoriano LEGUIZAMON",
+          "Leongino UNZAIN",
+          "Enrique AVALOS",
+          "Atilio LOPEZ",
+          "Cesar LOPEZ FRETES",
+          "Dario JARA SAGUIER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Stig SUNDQVIST",
+          "minute": "17"
+        },
+        {
+          "team": "Sweden",
+          "player": "Karl-Erik PALMER",
+          "minute": "26"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Cesar LOPEZ FRETES",
+          "minute": "35"
+        },
+        {
+          "team": "Paraguay",
+          "player": "Atilio LOPEZ",
+          "minute": "74"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-02",
+      "stage": "Group C",
+      "venue": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "home_team": "Italy",
+      "away_team": "Paraguay",
+      "score": {
+        "home": 2,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Giuseppe MORO",
+          "Ivano BLASON",
+          "Zeffiro FURIASSI",
+          "Leandro REMONDINI",
+          "Osvaldo FATTORI",
+          "Giacomo MARI",
+          "Amedeo AMADEI",
+          "Gino CAPPELLO",
+          "Riccardo CARAPELLESE",
+          "Ermes MUCCINELLI",
+          "Egisto PANDOLFINI"
+        ],
+        "away": [
+          "Marcelino VARGAS",
+          "Casiano CESPEDES",
+          "Manuel GAVILAN",
+          "Alberto GONZALEZ",
+          "Castor CANTERO",
+          "Victoriano LEGUIZAMON",
+          "Leongino UNZAIN",
+          "Enrique AVALOS",
+          "Atilio LOPEZ",
+          "Cesar LOPEZ FRETES",
+          "Dario JARA SAGUIER"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Italy",
+          "player": "Riccardo CARAPELLESE",
+          "minute": "12"
+        },
+        {
+          "team": "Italy",
+          "player": "Egisto PANDOLFINI",
+          "minute": "63"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-02",
+      "stage": "Group D",
+      "venue": "Estádio Mineiro",
+      "city": "Belo Horizonte",
+      "home_team": "Uruguay",
+      "away_team": "Bolivia",
+      "score": {
+        "home": 8,
+        "away": 0
+      },
+      "lineup": {
+        "home": [
+          "Roque MASPOLI",
+          "Matias GONZALEZ",
+          "Eusebio TEJERA",
+          "Obdulio VARELA",
+          "Victor RODRIGUEZ ANDRADE",
+          "Juan Carlos GONZALEZ",
+          "Alcides GHIGGIA",
+          "Juan SCHIAFFINO",
+          "Ernesto VIDAL",
+          "Oscar MIGUEZ",
+          "Julio PEREZ"
+        ],
+        "away": [
+          "Eduardo GUTIERREZ",
+          "Alberto ACHA",
+          "Jose BUSTAMANTE-NAVA",
+          "Leonardo FERREL",
+          "Antonio GRECCO",
+          "Antonio VALENCIA",
+          "Victor ALGARANAZ",
+          "Roberto CAPPARELLI",
+          "Benigno GUTIERREZ",
+          "Benjamin MALDONADO",
+          "Victor UGARTE"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "14"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Ernesto VIDAL",
+          "minute": "18"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan SCHIAFFINO",
+          "minute": "23"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "40"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "51"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan SCHIAFFINO",
+          "minute": "54"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Julio PEREZ",
+          "minute": "83"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Alcides GHIGGIA",
+          "minute": "87"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-09",
+      "stage": "Final pool",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Brazil",
+      "away_team": "Sweden",
+      "score": {
+        "home": 7,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "BARBOSA",
+          "AUGUSTO",
+          "JUVENAL",
+          "BAUER",
+          "DANILO ALVIM",
+          "BIGODE",
+          "ZIZINHO",
+          "JAIR",
+          "CHICO",
+          "MANECA",
+          "ADEMIR"
+        ],
+        "away": [
+          "Kalle SVENSSON",
+          "Sune ANDERSSON",
+          "Erik NILSSON",
+          "Lennart SAMUELSSON",
+          "Knut NORDAHL",
+          "Ingvar GARD",
+          "Lennart SKOGLUND",
+          "Hans JEPPSSON",
+          "Stellan NILSSON",
+          "Karl-Erik PALMER",
+          "Stig SUNDQVIST"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "17"
+        },
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "36"
+        },
+        {
+          "team": "Brazil",
+          "player": "CHICO",
+          "minute": "39"
+        },
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "52"
+        },
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "58"
+        },
+        {
+          "team": "Sweden",
+          "player": "Sune ANDERSSON",
+          "minute": "67",
+          "penalty": true
+        },
+        {
+          "team": "Brazil",
+          "player": "MANECA",
+          "minute": "85"
+        },
+        {
+          "team": "Brazil",
+          "player": "CHICO",
+          "minute": "88"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-09",
+      "stage": "Final pool",
+      "venue": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "home_team": "Spain",
+      "away_team": "Uruguay",
+      "score": {
+        "home": 2,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Antonio RAMALLETS",
+          "GABRIEL ALONSO",
+          "GONZALVO II",
+          "Jose PARRA",
+          "GONZALVO III",
+          "Antonio PUCHADES",
+          "Estanislao BASORA",
+          "GAINZA",
+          "Silvestre IGOA",
+          "Luis MOLOWNY",
+          "ZARRA"
+        ],
+        "away": [
+          "Roque MASPOLI",
+          "Matias GONZALEZ",
+          "Eusebio TEJERA",
+          "Obdulio VARELA",
+          "Victor RODRIGUEZ ANDRADE",
+          "Juan Carlos GONZALEZ",
+          "Alcides GHIGGIA",
+          "Juan SCHIAFFINO",
+          "Ernesto VIDAL",
+          "Oscar MIGUEZ",
+          "Julio PEREZ"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Uruguay",
+          "player": "Alcides GHIGGIA",
+          "minute": "29"
+        },
+        {
+          "team": "Spain",
+          "player": "Estanislao BASORA",
+          "minute": "37"
+        },
+        {
+          "team": "Spain",
+          "player": "Estanislao BASORA",
+          "minute": "39"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Obdulio VARELA",
+          "minute": "73"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-13",
+      "stage": "Final pool",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Brazil",
+      "away_team": "Spain",
+      "score": {
+        "home": 6,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "BARBOSA",
+          "AUGUSTO",
+          "JUVENAL",
+          "BAUER",
+          "DANILO ALVIM",
+          "BIGODE",
+          "ZIZINHO",
+          "FRIACA",
+          "JAIR",
+          "CHICO",
+          "ADEMIR"
+        ],
+        "away": [
+          "Antonio RAMALLETS",
+          "GABRIEL ALONSO",
+          "GONZALVO II",
+          "Jose PARRA",
+          "GONZALVO III",
+          "Antonio PUCHADES",
+          "Estanislao BASORA",
+          "GAINZA",
+          "Silvestre IGOA",
+          "Jose PANIZO",
+          "ZARRA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "15"
+        },
+        {
+          "team": "Brazil",
+          "player": "JAIR",
+          "minute": "21"
+        },
+        {
+          "team": "Brazil",
+          "player": "CHICO",
+          "minute": "31"
+        },
+        {
+          "team": "Brazil",
+          "player": "CHICO",
+          "minute": "55"
+        },
+        {
+          "team": "Brazil",
+          "player": "ADEMIR",
+          "minute": "57"
+        },
+        {
+          "team": "Brazil",
+          "player": "ZIZINHO",
+          "minute": "67"
+        },
+        {
+          "team": "Spain",
+          "player": "Silvestre IGOA",
+          "minute": "71"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The first and fifth goals were historically disputed; FIFA later credited both to Ademir."
+      ]
+    },
+    {
+      "date": "1950-07-13",
+      "stage": "Final pool",
+      "venue": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "home_team": "Uruguay",
+      "away_team": "Sweden",
+      "score": {
+        "home": 3,
+        "away": 2
+      },
+      "lineup": {
+        "home": [
+          "Anibal PAZ",
+          "Schubert GAMBETTA",
+          "Matias GONZALEZ",
+          "Eusebio TEJERA",
+          "Obdulio VARELA",
+          "Victor RODRIGUEZ ANDRADE",
+          "Alcides GHIGGIA",
+          "Juan SCHIAFFINO",
+          "Ernesto VIDAL",
+          "Oscar MIGUEZ",
+          "Julio PEREZ"
+        ],
+        "away": [
+          "Kalle SVENSSON",
+          "Sune ANDERSSON",
+          "Gunnar JOHANSSON II",
+          "Erik NILSSON",
+          "Lennart SAMUELSSON",
+          "Ingvar GARD",
+          "Hans JEPPSSON",
+          "Egon JONSSON",
+          "Bror MELLBERG",
+          "Karl-Erik PALMER",
+          "Stig SUNDQVIST"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Karl-Erik PALMER",
+          "minute": "5"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Alcides GHIGGIA",
+          "minute": "39"
+        },
+        {
+          "team": "Sweden",
+          "player": "Stig SUNDQVIST",
+          "minute": "40"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "77"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Oscar MIGUEZ",
+          "minute": "85"
+        }
+      ],
+      "substitutions": []
+    },
+    {
+      "date": "1950-07-16",
+      "stage": "Final pool",
+      "venue": "Estádio do Pacaembu",
+      "city": "São Paulo",
+      "home_team": "Sweden",
+      "away_team": "Spain",
+      "score": {
+        "home": 3,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Kalle SVENSSON",
+          "Sune ANDERSSON",
+          "Lennart SAMUELSSON",
+          "Erik NILSSON",
+          "Gunnar JOHANSSON II",
+          "Ingvar GARD",
+          "Ingvar RYDELL",
+          "Stig SUNDQVIST",
+          "Bror MELLBERG",
+          "Karl-Erik PALMER",
+          "Egon JONSSON"
+        ],
+        "away": [
+          "Ignacio EIZAGUIRRE",
+          "GABRIEL ALONSO",
+          "Vicente ASENSI",
+          "Alfonso SILVA",
+          "Jose PARRA",
+          "Antonio PUCHADES",
+          "ROSENDO HERNANDEZ",
+          "Estanislao BASORA",
+          "ZARRA",
+          "Jose PANIZO",
+          "Jose JUNCOSA"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Sweden",
+          "player": "Stig SUNDQVIST",
+          "minute": "15"
+        },
+        {
+          "team": "Sweden",
+          "player": "Bror MELLBERG",
+          "minute": "33"
+        },
+        {
+          "team": "Sweden",
+          "player": "Karl-Erik PALMER",
+          "minute": "80"
+        },
+        {
+          "team": "Spain",
+          "player": "ZARRA",
+          "minute": "82"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "Some sources award Sweden's first goal to Jönsson instead of Sundqvist."
+      ]
+    },
+    {
+      "date": "1950-07-16",
+      "stage": "Final pool · decisive match",
+      "venue": "Estádio do Maracanã",
+      "city": "Rio de Janeiro",
+      "home_team": "Uruguay",
+      "away_team": "Brazil",
+      "score": {
+        "home": 2,
+        "away": 1
+      },
+      "lineup": {
+        "home": [
+          "Roque MASPOLI",
+          "Matias GONZALEZ",
+          "Eusebio TEJERA",
+          "Schubert GAMBETTA",
+          "Obdulio VARELA",
+          "Victor RODRIGUEZ ANDRADE",
+          "Alcides GHIGGIA",
+          "Oscar MIGUEZ",
+          "Juan SCHIAFFINO",
+          "Ruben MORAN",
+          "Julio PEREZ"
+        ],
+        "away": [
+          "BARBOSA",
+          "AUGUSTO",
+          "JUVENAL",
+          "BAUER",
+          "BIGODE",
+          "DANILO ALVIM",
+          "ZIZINHO",
+          "ADEMIR",
+          "FRIACA",
+          "JAIR",
+          "CHICO"
+        ]
+      },
+      "scorers": [
+        {
+          "team": "Brazil",
+          "player": "FRIACA",
+          "minute": "47"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Juan SCHIAFFINO",
+          "minute": "66"
+        },
+        {
+          "team": "Uruguay",
+          "player": "Alcides GHIGGIA",
+          "minute": "79"
+        }
+      ],
+      "substitutions": [],
+      "notes": [
+        "The final round-robin pool was decided by this match; Uruguay won the tournament."
+      ]
+    }
+  ]
+}
