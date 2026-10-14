@@ -93,9 +93,12 @@
   .team-tournament-link { grid-column: 3; grid-row: 1; }
 }
 @media (max-width: 780px) {
-  .team-row { min-height: 4.06rem; grid-template-columns: minmax(0,1fr) auto; gap: .65rem; padding-inline: 5vw; }
+  .team-row { min-height: 4.06rem; grid-template-columns: minmax(0,36%) minmax(0,1fr) auto; gap: .65rem; padding-inline: 5vw; }
   .team-panel { padding-inline: 5vw; }
-  .team-finish, .team-years { display: none; }
+  .team-finish { display: none; }
+  .team-years { grid-column: 2; grid-row: 1; justify-self: start; min-width: 0; text-align: left; }
+  .team-years:not(:has(.team-year-trophy)) { display: none; }
+  .team-chevron { grid-column: 3; grid-row: 1; }
   .team-name { font-size: clamp(1.25rem, 4.5vw, 2rem); }
 }
 @media (max-width: 650px) {
