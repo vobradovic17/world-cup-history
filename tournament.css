@@ -65,9 +65,7 @@ a:focus-visible { outline: 3px solid #efc874; outline-offset: 4px; }
 .winner-stamp > .champion-trophies { font: 1rem/1.2 var(--sans); letter-spacing: .08em; }
 .winner-stamp strong { overflow-wrap: anywhere; font: 700 clamp(1.35rem, 2vw, 2rem)/1.1 var(--serif); }
 .winner-stamp strong .team-flag { width: 1.25rem; height: .83rem; margin: 0 0 0 .3rem; vertical-align: .02rem; }
-.winner-stamp strong .team-flag-emoji { margin: 0 0 0 .3rem; font-size: .78em; vertical-align: .08em; }
 .team-flag { width: 1rem; height: .67rem; margin-right: .3rem; object-fit: cover; vertical-align: -.04rem; box-shadow: 0 0 0 1px rgba(16, 45, 63, .12); }
-.team-flag-emoji { margin-right: .3rem; font-family: var(--sans); letter-spacing: 0; text-transform: none; }
 .honor-stamp { margin-top: .3rem; }
 .honor-people { display: grid; gap: .7rem; }
 .honor-person { display: grid; gap: .15rem; min-width: 0; }

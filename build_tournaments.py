@@ -9,6 +9,8 @@ import json
 from pathlib import Path
 import re
 
+from build_teams import FLAGS as TEAM_FLAG_CODES
+
 
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / "data"
@@ -18,27 +20,12 @@ PAGE_STORIES = json.loads((DATA / "tournament-page-stories.json").read_text())
 assert set(PAGE_STORIES) == set(YEARS)
 assert all(len(paragraphs) == 5 and all(paragraph.strip() for paragraph in paragraphs) for paragraphs in PAGE_STORIES.values())
 
-TEAM_FLAGS = {
-    "Argentina": "🇦🇷", "Belgium": "🇧🇪", "Brazil": "🇧🇷", "Bulgaria": "🇧🇬",
-    "Chile": "🇨🇱", "China": "🇨🇳", "Colombia": "🇨🇴", "Croatia": "🇭🇷",
-    "Czechoslovakia": "🇨🇿", "England": "🏴󠁧󠁢󠁥󠁮󠁧󠁿", "France": "🇫🇷", "Germany": "🇩🇪",
-    "Hungary": "🇭🇺", "Italy": "🇮🇹", "Mexico": "🇲🇽", "Netherlands": "🇳🇱",
-    "Peru": "🇵🇪", "Poland": "🇵🇱", "Portugal": "🇵🇹", "Russia": "🇷🇺",
-    "Spain": "🇪🇸", "United States": "🇺🇸", "Uruguay": "🇺🇾",
-    "West Germany": "🇩🇪",
-}
 WINNER_CANONICAL = {"West Germany": "Germany"}
 
 
 def team_flag_markup(team: str) -> str:
-    historic_flags = {
-        "Soviet Union": "flag-soviet-union.svg",
-        "Yugoslavia": "flag-yugoslavia.svg",
-    }
-    if team in historic_flags:
-        return f'<img class="team-flag" src="assets/{historic_flags[team]}" alt="">'
-    flag = TEAM_FLAGS.get(team, "")
-    return f'<span class="team-flag-emoji" aria-hidden="true">{h(flag)}</span> ' if flag else ""
+    flag = TEAM_FLAG_CODES.get(WINNER_CANONICAL.get(team, team))
+    return f'<img class="team-flag" src="assets/team-flags/{flag}.svg" alt="">' if flag else ""
 
 
 def world_title_count(year: str, winner: str) -> int:
