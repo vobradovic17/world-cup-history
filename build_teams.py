@@ -119,7 +119,10 @@ def build() -> None:
                     **{key: tour[key] for key in ("year", "best_placement", "matches_played", "wins", "draws", "losses", "goals_for", "goals_against")},
                     "host": hosts[tour["year"]],
                     "matches": [
-                        {key: match[key] for key in ("date", "stage", "opponent", "score", "result", "penalty_shootout") if key in match}
+                        {key: match[key] for key in (
+                            "date", "stage", "opponent", "score", "result",
+                            "penalty_shootout", "home_away", "lineup", "substitutions", "scorers",
+                        ) if key in match}
                         for match in tour["matches"]
                     ],
                 }

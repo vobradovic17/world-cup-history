@@ -1,5 +1,6 @@
 const teamButtons = [...document.querySelectorAll('.team-row[data-team]')];
 let profilesPromise;
+let lineupPanelId = 0;
 
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, (character) => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;',
@@ -33,21 +34,66 @@ function getProfiles() {
   return profilesPromise;
 }
 
+function renderMatchSide(name, venue, players, substitutions, scorers) {
+  const starters = players.map((player) => `<li>${escapeHtml(player)}</li>`).join('');
+  const goals = scorers.length
+    ? `<ul class="team-lineup-scorers">${scorers.map((scorer) => `<li><span class="team-lineup-minute">${escapeHtml(scorer.minute)}′</span><span><strong>${escapeHtml(scorer.player)}</strong>${scorer.penalty ? ' (pen.)' : ''}${scorer.own_goal ? ' (own goal)' : ''}</span></li>`).join('')}</ul>`
+    : '<p class="team-lineup-none">No scorers</p>';
+  const changes = substitutions.length
+    ? `<ul class="team-lineup-substitutions">${substitutions.map((substitution) => `<li><span class="team-lineup-minute">${escapeHtml(substitution.minute)}′</span><span><strong>${escapeHtml(substitution.player_on)}</strong> on <span class="team-lineup-off">· ${escapeHtml(substitution.player_off)} off</span></span></li>`).join('')}</ul>`
+    : '<p class="team-lineup-none">No substitutions</p>';
+  return `<section class="team-lineup-side">
+    <h4><span>${escapeHtml(venue)}</span>${escapeHtml(name)}</h4>
+    <h5>Scorers</h5>
+    ${goals}
+    <h5>Starting lineup</h5>
+    <ul class="team-lineup-starters">${starters}</ul>
+    <h5>Substitutions</h5>
+    ${changes}
+  </section>`;
+}
+
 function renderMatch(match, teamName) {
   const date = new Date(`${match.date}T12:00:00Z`).toLocaleDateString('en-GB', {
     day: 'numeric', month: 'short', timeZone: 'UTC',
   });
   const result = match.result;
   const shootout = match.penalty_shootout;
+  const penaltyOutcome = shootout?.result === 'win' ? 'Won' : 'Lost';
   const penaltyNote = shootout
-    ? `<span class="team-match-penalties">${escapeHtml(shootout.result === 'win' ? 'Won' : 'Lost')} ${escapeHtml(shootout.score.for)}–${escapeHtml(shootout.score.against)} on penalties</span>`
+    ? `<span class="team-match-penalties team-match-penalties--full">${penaltyOutcome} ${escapeHtml(shootout.score.for)}–${escapeHtml(shootout.score.against)} on penalties</span><span class="team-match-penalties team-match-penalties--short">${penaltyOutcome} (${escapeHtml(shootout.score.for)}-${escapeHtml(shootout.score.against)} p.)</span>`
     : '';
+  const homeName = match.home_away === 'home' ? teamName : match.opponent;
+  const awayName = match.home_away === 'away' ? teamName : match.opponent;
+  const teamSide = match.home_away;
+  const opponentSide = teamSide === 'home' ? 'away' : 'home';
+  const available = { home: new Set(match.lineup.home), away: new Set(match.lineup.away) };
+  const substitutions = { home: [], away: [] };
+  for (const substitution of match.substitutions) {
+    const side = available.home.has(substitution.player_off) ? 'home'
+      : available.away.has(substitution.player_off) ? 'away'
+      : substitution.team === homeName ? 'home' : 'away';
+    substitutions[side].push(substitution);
+    available[side].add(substitution.player_on);
+  }
+  const scorers = { home: [], away: [] };
+  for (const scorer of match.scorers) {
+    const playerSide = available.home.has(scorer.player) ? 'home' : 'away';
+    const creditedSide = scorer.own_goal ? (playerSide === 'home' ? 'away' : 'home') : playerSide;
+    scorers[creditedSide].push(scorer);
+  }
+  const panelId = `team-lineup-${++lineupPanelId}`;
   return `<li class="team-match">
     <time datetime="${escapeHtml(match.date)}">${escapeHtml(date)}</time>
     <span class="team-match-opponent">${escapeHtml(match.opponent)}</span>
     <strong class="team-match-score" aria-label="${escapeHtml(teamName)} ${escapeHtml(match.score.for)}, ${escapeHtml(match.opponent)} ${escapeHtml(match.score.against)}">${escapeHtml(match.score.for)}–${escapeHtml(match.score.against)}</strong>
     <span class="team-match-outcome team-match-outcome--${escapeHtml(result)}">${escapeHtml(result)}</span>
-    <span class="team-match-context">${escapeHtml(match.stage)}${penaltyNote}</span>
+    <span class="team-match-context"><span class="team-match-stage">${escapeHtml(match.stage)}</span>${penaltyNote}</span>
+    <button class="team-lineup-toggle" type="button" aria-expanded="false" aria-controls="${panelId}" aria-label="Details for ${escapeHtml(teamName)} vs ${escapeHtml(match.opponent)}, ${escapeHtml(date)}"><span class="team-lineup-chevron" aria-hidden="true">▸</span><span>Details</span></button>
+    <div class="team-match-lineup-panel" id="${panelId}" hidden>
+      ${renderMatchSide(teamName, teamSide, match.lineup[teamSide], substitutions[teamSide], scorers[teamSide])}
+      ${renderMatchSide(match.opponent, opponentSide, match.lineup[opponentSide], substitutions[opponentSide], scorers[opponentSide])}
+    </div>
   </li>`;
 }
 
@@ -169,4 +215,12 @@ teamButtons.forEach((button, index) => {
       closeTeam(button);
     }
   });
+});
+
+document.querySelector('.team-list').addEventListener('click', (event) => {
+  const button = event.target.closest('.team-lineup-toggle');
+  if (!button) return;
+  const expanded = button.getAttribute('aria-expanded') === 'true';
+  button.setAttribute('aria-expanded', String(!expanded));
+  document.getElementById(button.getAttribute('aria-controls')).hidden = expanded;
 });

@@ -99,6 +99,24 @@ a:focus-visible { outline: 3px solid #efc874; outline-offset: 4px; }
 .match-scorers .away-scorers { grid-column: 3; text-align: right; }
 .match-scorers li { overflow-wrap: anywhere; font-size: .75rem; line-height: 1.45; }
 .match-scorers li span { color: var(--green); white-space: nowrap; }
+.match-lineup { grid-column: 1 / -1; margin-top: .35rem; }
+.match-lineup summary { width: fit-content; padding: .15rem .2rem; color: var(--green); font-size: .8rem; font-weight: 700; cursor: pointer; }
+.match-lineup summary::marker { color: var(--green); }
+.match-lineup summary:focus-visible { outline: 3px solid #c48a27; outline-offset: 2px; }
+.match-lineup-panel { position: relative; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; margin: .8rem 0 0 7.4rem; }
+.match-lineup-panel::before { content: ''; position: absolute; z-index: 1; top: 0; left: -7.4rem; width: calc(100% + 7.4rem); border-top: 2px solid #86b79b; }
+.match-lineup-side { min-width: 0; padding: 1rem; border-top: 2px solid #86b79b; background: #e5eee8; }
+.match-lineup-side h4 { margin: 0 0 1rem; color: var(--deep); font: 700 1.12rem/1.2 var(--serif); }
+.match-lineup-side h4 span { margin-left: .6rem; color: var(--muted); font: 600 .65rem/1.2 var(--mono); text-transform: uppercase; letter-spacing: .08em; white-space: nowrap; }
+.match-lineup-side h5 { margin: 1rem 0 .55rem; color: var(--green); font: 700 .68rem/1.2 var(--mono); text-transform: uppercase; letter-spacing: .06em; }
+.match-lineup-starters, .match-lineup-substitutions { margin: 0; padding: 0; list-style: none; }
+.match-lineup-starters { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .4rem 1rem; }
+.match-lineup-starters li { min-width: 0; color: var(--deep); font-size: .8rem; line-height: 1.35; overflow-wrap: anywhere; }
+.match-lineup-substitutions { display: grid; gap: .45rem; }
+.match-lineup-substitutions li { display: flex; align-items: baseline; gap: .5rem; color: #456571; font-size: .76rem; line-height: 1.4; }
+.match-lineup-substitutions strong { color: var(--deep); font-weight: 600; }
+.match-lineup-minute { flex: none; color: var(--green); font: 600 .7rem/1.4 var(--mono); }
+.match-lineup-none { margin: 0; color: var(--muted); font-size: .76rem; }
 .empty-state { padding: 3rem; border: 1px solid var(--line); }
 .empty-state h3 { margin-top: 0; font: 600 2rem var(--serif); }
 
@@ -162,6 +180,9 @@ a:focus-visible { outline: 3px solid #efc874; outline-offset: 4px; }
   .match-row { grid-template-columns: 1fr; gap: .5rem; }
   .match-date { font-size: .61rem; }
   .match-scorers, .match-fixture { gap: .5rem; }
+  .match-lineup { grid-column: 1; }
+  .match-lineup-panel { grid-template-columns: 1fr; margin-left: 0; }
+  .match-lineup-panel::before { display: none; }
   .site-footer { font-size: .62rem; }
 }
 

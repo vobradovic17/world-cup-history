@@ -20,6 +20,22 @@ PAGE_STORIES = json.loads((DATA / "tournament-page-stories.json").read_text())
 assert set(PAGE_STORIES) == set(YEARS)
 assert all(len(paragraphs) == 5 and all(paragraph.strip() for paragraph in paragraphs) for paragraphs in PAGE_STORIES.values())
 
+# The team history file is the source for match lineups and substitutions.
+# Player lists disambiguate matches that share a date, score, or historical team name.
+TEAM_MATCH_DETAILS = {}
+for team in json.loads((DATA / "world-cup-teams.json").read_text()):
+    for tournament in team["tournaments"]:
+        for match in tournament["matches"]:
+            key = (
+                tournament["year"], match["date"],
+                tuple(match["lineup"]["home"]), tuple(match["lineup"]["away"]),
+            )
+            details = {field: match[field] for field in ("lineup", "substitutions")}
+            if key in TEAM_MATCH_DETAILS:
+                assert TEAM_MATCH_DETAILS[key] == details, key
+            else:
+                TEAM_MATCH_DETAILS[key] = details
+
 WINNER_CANONICAL = {"West Germany": "Germany"}
 
 
@@ -170,7 +186,47 @@ def match_scorers(match: dict) -> str:
     return f'<div class="match-scorers">{"".join(columns)}</div>'
 
 
-def match_row(match: dict, grouped: bool = False, final_venue: str = "") -> str:
+def match_lineup(match: dict, year: str) -> str:
+    key = (
+        int(year), match["date"],
+        tuple(match["lineup"]["home"]), tuple(match["lineup"]["away"]),
+    )
+    details = TEAM_MATCH_DETAILS[key]
+    lineup = details["lineup"]
+    available = {side: set(lineup[side]) for side in ("home", "away")}
+    substitutions = {"home": [], "away": []}
+    for substitution in details["substitutions"]:
+        sides = [side for side in ("home", "away") if substitution["player_off"] in available[side]]
+        if len(sides) != 1:
+            raise ValueError(f"Cannot assign substitution in {year} {match['date']}: {substitution}")
+        side = sides[0]
+        substitutions[side].append(substitution)
+        available[side].add(substitution["player_on"])
+
+    columns = []
+    for side in ("home", "away"):
+        starters = "".join(f"<li>{h(player)}</li>" for player in lineup[side])
+        changes = (
+            '<ul class="match-lineup-substitutions">' + "".join(
+                f'<li><span class="match-lineup-minute">{h(sub["minute"])}′</span>'
+                f'<span><strong>{h(sub["player_on"])}</strong> on · {h(sub["player_off"])} off</span></li>'
+                for sub in substitutions[side]
+            ) + "</ul>"
+            if substitutions[side] else '<p class="match-lineup-none">No substitutions</p>'
+        )
+        columns.append(
+            f'<section class="match-lineup-side"><h4>{h(match[f"{side}_team"])}<span>{side.title()}</span></h4>'
+            f'<h5>Starting lineup</h5><ul class="match-lineup-starters">{starters}</ul>'
+            f'<h5>Substitutions</h5>{changes}</section>'
+        )
+    label = f"Details for {match['home_team']} versus {match['away_team']}"
+    return (
+        f'<details class="match-lineup"><summary aria-label="{h(label)}">Details</summary>'
+        f'<div class="match-lineup-panel">{"".join(columns)}</div></details>'
+    )
+
+
+def match_row(match: dict, year: str, grouped: bool = False, final_venue: str = "") -> str:
     score = match["score"]
     venue = match.get("venue") or (final_venue if match["stage"] == "Final" else "")
     city = match.get("city") or ""
@@ -194,12 +250,13 @@ def match_row(match: dict, grouped: bool = False, final_venue: str = "") -> str:
         {context_html}
         {match_scorers(match)}
       </div>
+      {match_lineup(match, year)}
     </li>'''
 
 
-def stage_rows(name: str, rows: list[dict], index: int, final_venue: str) -> str:
+def stage_rows(name: str, rows: list[dict], index: int, final_venue: str, year: str) -> str:
     if name not in {"Group stage", "Second round"}:
-        return f'<ol class="match-list">{"".join(match_row(m, final_venue=final_venue) for m in rows)}</ol>'
+        return f'<ol class="match-list">{"".join(match_row(m, year, final_venue=final_venue) for m in rows)}</ol>'
     groups: dict[str, list[dict]] = defaultdict(list)
     for match in rows:
         group = group_name(match["stage"], name)
@@ -211,7 +268,7 @@ def stage_rows(name: str, rows: list[dict], index: int, final_venue: str) -> str
         group_rows = groups[group]
         sections.append(f'''<section class="match-group" aria-labelledby="group-title-{index}-{group.split()[-1]}">
         <div class="group-heading"><h4 id="group-title-{index}-{group.split()[-1]}">{h(group)}</h4></div>
-        <ol class="match-list">{''.join(match_row(m, grouped=True) for m in group_rows)}</ol>
+        <ol class="match-list">{''.join(match_row(m, year, grouped=True) for m in group_rows)}</ol>
       </section>''')
     return "".join(sections)
 
@@ -232,7 +289,7 @@ def build(year: str) -> None:
     stage_nav = "".join(f'<a href="#stage-{i}">{h(name)}</a>' for i, (name, rows) in enumerate(stages.items()))
     sections = "".join(f'''<section class="match-stage" id="stage-{i}" aria-labelledby="stage-title-{i}">
       <div class="stage-heading"><h3 id="stage-title-{i}">{h(name)}</h3></div>
-      {stage_rows(name, rows, i, final_venue)}
+      {stage_rows(name, rows, i, final_venue, year)}
     </section>''' for i, (name, rows) in enumerate(stages.items()))
     if not sections:
         sections = '<section class="empty-state"><h3>Matches still to come</h3><p>The 2030 tournament has not been played. Results will be added when the matches take place.</p></section>'
