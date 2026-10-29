@@ -1,3 +1,7 @@
+:root {
+  --blue-pale: #d9e8ee;
+}
+
 .players-page { background: #f2f5ef; }
 .players-page .site-header { position: relative; z-index: 2; }
 .players-intro { display: flex; justify-content: space-between; gap: 2rem; padding: 3vh max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)) 2.2vh; color: #102944; background: #eef3ec; }
