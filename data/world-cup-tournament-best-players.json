@@ -1,0 +1,140 @@
+[
+  {
+    "year": 1930,
+    "name": "José Nasazzi",
+    "team": "Uruguay",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1934,
+    "name": "Giuseppe Meazza",
+    "team": "Italy",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1938,
+    "name": "Leônidas",
+    "team": "Brazil",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1950,
+    "name": "Zizinho",
+    "team": "Brazil",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1954,
+    "name": "Ferenc Puskás",
+    "team": "Hungary",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1958,
+    "name": "Didi",
+    "team": "Brazil",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1962,
+    "name": "Garrincha",
+    "team": "Brazil",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1966,
+    "name": "Bobby Charlton",
+    "team": "England",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1970,
+    "name": "Pelé",
+    "team": "Brazil",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1974,
+    "name": "Johan Cruyff",
+    "team": "Netherlands",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1978,
+    "name": "Mario Kempes",
+    "team": "Argentina",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 1982,
+    "name": "Paolo Rossi",
+    "team": "Italy",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 1986,
+    "name": "Diego Maradona",
+    "team": "Argentina",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 1990,
+    "name": "Salvatore Schillaci",
+    "team": "Italy",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 1994,
+    "name": "Romário",
+    "team": "Brazil",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 1998,
+    "name": "Ronaldo",
+    "team": "Brazil",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2002,
+    "name": "Oliver Kahn",
+    "team": "Germany",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2006,
+    "name": "Zinédine Zidane",
+    "team": "France",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2010,
+    "name": "Diego Forlán",
+    "team": "Uruguay",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2014,
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2018,
+    "name": "Luka Modrić",
+    "team": "Croatia",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2022,
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "selection": "golden_ball"
+  },
+  {
+    "year": 2026,
+    "name": "Rodri",
+    "team": "Spain",
+    "selection": "golden_ball"
+  }
+]

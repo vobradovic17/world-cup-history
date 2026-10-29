@@ -1,0 +1,140 @@
+[
+  {
+    "year": 1930,
+    "name": null,
+    "team": null,
+    "selection": null
+  },
+  {
+    "year": 1934,
+    "name": null,
+    "team": null,
+    "selection": null
+  },
+  {
+    "year": 1938,
+    "name": null,
+    "team": null,
+    "selection": null
+  },
+  {
+    "year": 1950,
+    "name": null,
+    "team": null,
+    "selection": null
+  },
+  {
+    "year": 1954,
+    "name": null,
+    "team": null,
+    "selection": null
+  },
+  {
+    "year": 1958,
+    "name": "Pelé",
+    "team": "Brazil",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1962,
+    "name": "Flórián Albert",
+    "team": "Hungary",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1966,
+    "name": "Franz Beckenbauer",
+    "team": "West Germany",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1970,
+    "name": "Teófilo Cubillas",
+    "team": "Peru",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1974,
+    "name": "Władysław Żmuda",
+    "team": "Poland",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1978,
+    "name": "Antonio Cabrini",
+    "team": "Italy",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1982,
+    "name": "Manuel Amorós",
+    "team": "France",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1986,
+    "name": "Enzo Scifo",
+    "team": "Belgium",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1990,
+    "name": "Robert Prosinečki",
+    "team": "Yugoslavia",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1994,
+    "name": "Marc Overmars",
+    "team": "Netherlands",
+    "selection": "retrospective"
+  },
+  {
+    "year": 1998,
+    "name": "Michael Owen",
+    "team": "England",
+    "selection": "retrospective"
+  },
+  {
+    "year": 2002,
+    "name": "Landon Donovan",
+    "team": "United States",
+    "selection": "retrospective"
+  },
+  {
+    "year": 2006,
+    "name": "Lukas Podolski",
+    "team": "Germany",
+    "selection": "official"
+  },
+  {
+    "year": 2010,
+    "name": "Thomas Müller",
+    "team": "Germany",
+    "selection": "official"
+  },
+  {
+    "year": 2014,
+    "name": "Paul Pogba",
+    "team": "France",
+    "selection": "official"
+  },
+  {
+    "year": 2018,
+    "name": "Kylian Mbappé",
+    "team": "France",
+    "selection": "official"
+  },
+  {
+    "year": 2022,
+    "name": "Enzo Fernández",
+    "team": "Argentina",
+    "selection": "official"
+  },
+  {
+    "year": 2026,
+    "name": "Pau Cubarsí",
+    "team": "Spain",
+    "selection": "official"
+  }
+]

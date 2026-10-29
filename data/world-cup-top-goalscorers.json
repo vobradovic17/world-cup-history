@@ -1,0 +1,68 @@
+[
+  {
+    "rank": 1,
+    "name": "Kylian Mbappé",
+    "team": "France",
+    "goals": 22
+  },
+  {
+    "rank": 2,
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "goals": 21
+  },
+  {
+    "rank": 3,
+    "name": "Miroslav Klose",
+    "team": "Germany",
+    "goals": 16
+  },
+  {
+    "rank": 4,
+    "name": "Ronaldo",
+    "team": "Brazil",
+    "goals": 15
+  },
+  {
+    "rank": 5,
+    "name": "Harry Kane",
+    "team": "England",
+    "goals": 14
+  },
+  {
+    "rank": 5,
+    "name": "Gerd Müller",
+    "team": "West Germany",
+    "goals": 14
+  },
+  {
+    "rank": 7,
+    "name": "Just Fontaine",
+    "team": "France",
+    "goals": 13
+  },
+  {
+    "rank": 8,
+    "name": "Pelé",
+    "team": "Brazil",
+    "goals": 12
+  },
+  {
+    "rank": 9,
+    "name": "Cristiano Ronaldo",
+    "team": "Portugal",
+    "goals": 11
+  },
+  {
+    "rank": 9,
+    "name": "Jürgen Klinsmann",
+    "team": "West Germany / Germany",
+    "goals": 11
+  },
+  {
+    "rank": 9,
+    "name": "Sándor Kocsis",
+    "team": "Hungary",
+    "goals": 11
+  }
+]

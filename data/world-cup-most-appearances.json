@@ -1,0 +1,86 @@
+[
+  {
+    "rank": 1,
+    "name": "Lionel Messi",
+    "team": "Argentina",
+    "matches": 34
+  },
+  {
+    "rank": 2,
+    "name": "Cristiano Ronaldo",
+    "team": "Portugal",
+    "matches": 27
+  },
+  {
+    "rank": 3,
+    "name": "Lothar Matthäus",
+    "team": "Germany",
+    "matches": 25
+  },
+  {
+    "rank": 4,
+    "name": "Miroslav Klose",
+    "team": "Germany",
+    "matches": 24
+  },
+  {
+    "rank": 5,
+    "name": "Paolo Maldini",
+    "team": "Italy",
+    "matches": 23
+  },
+  {
+    "rank": 5,
+    "name": "Luka Modrić",
+    "team": "Croatia",
+    "matches": 23
+  },
+  {
+    "rank": 5,
+    "name": "Manuel Neuer",
+    "team": "Germany",
+    "matches": 23
+  },
+  {
+    "rank": 8,
+    "name": "Kylian Mbappé",
+    "team": "France",
+    "matches": 22
+  },
+  {
+    "rank": 9,
+    "name": "Thibaut Courtois",
+    "team": "Belgium",
+    "matches": 21
+  },
+  {
+    "rank": 9,
+    "name": "Diego Maradona",
+    "team": "Argentina",
+    "matches": 21
+  },
+  {
+    "rank": 9,
+    "name": "Nicolás Otamendi",
+    "team": "Argentina",
+    "matches": 21
+  },
+  {
+    "rank": 9,
+    "name": "Ivan Perišić",
+    "team": "Croatia",
+    "matches": 21
+  },
+  {
+    "rank": 9,
+    "name": "Uwe Seeler",
+    "team": "West Germany",
+    "matches": 21
+  },
+  {
+    "rank": 9,
+    "name": "Władysław Żmuda",
+    "team": "Poland",
+    "matches": 21
+  }
+]

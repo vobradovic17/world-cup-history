@@ -1,0 +1,268 @@
+[
+  {
+    "year": 1930,
+    "goals": 8,
+    "players": [
+      {
+        "name": "Guillermo Stábile",
+        "team": "Argentina"
+      }
+    ]
+  },
+  {
+    "year": 1934,
+    "goals": 5,
+    "players": [
+      {
+        "name": "Oldřich Nejedlý",
+        "team": "Czechoslovakia"
+      }
+    ]
+  },
+  {
+    "year": 1938,
+    "goals": 7,
+    "players": [
+      {
+        "name": "Leônidas",
+        "team": "Brazil"
+      }
+    ]
+  },
+  {
+    "year": 1950,
+    "goals": 9,
+    "players": [
+      {
+        "name": "Ademir de Menezes",
+        "team": "Brazil"
+      }
+    ]
+  },
+  {
+    "year": 1954,
+    "goals": 11,
+    "players": [
+      {
+        "name": "Sándor Kocsis",
+        "team": "Hungary"
+      }
+    ]
+  },
+  {
+    "year": 1958,
+    "goals": 13,
+    "players": [
+      {
+        "name": "Just Fontaine",
+        "team": "France"
+      }
+    ]
+  },
+  {
+    "year": 1962,
+    "goals": 4,
+    "players": [
+      {
+        "name": "Flórián Albert",
+        "team": "Hungary"
+      },
+      {
+        "name": "Garrincha",
+        "team": "Brazil"
+      },
+      {
+        "name": "Valentin Ivanov",
+        "team": "Soviet Union"
+      },
+      {
+        "name": "Dražan Jerković",
+        "team": "Yugoslavia"
+      },
+      {
+        "name": "Leonel Sánchez",
+        "team": "Chile"
+      },
+      {
+        "name": "Vavá",
+        "team": "Brazil"
+      }
+    ]
+  },
+  {
+    "year": 1966,
+    "goals": 9,
+    "players": [
+      {
+        "name": "Eusébio",
+        "team": "Portugal"
+      }
+    ]
+  },
+  {
+    "year": 1970,
+    "goals": 10,
+    "players": [
+      {
+        "name": "Gerd Müller",
+        "team": "West Germany"
+      }
+    ]
+  },
+  {
+    "year": 1974,
+    "goals": 7,
+    "players": [
+      {
+        "name": "Grzegorz Lato",
+        "team": "Poland"
+      }
+    ]
+  },
+  {
+    "year": 1978,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Mario Kempes",
+        "team": "Argentina"
+      }
+    ]
+  },
+  {
+    "year": 1982,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Paolo Rossi",
+        "team": "Italy"
+      }
+    ]
+  },
+  {
+    "year": 1986,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Gary Lineker",
+        "team": "England"
+      }
+    ]
+  },
+  {
+    "year": 1990,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Salvatore Schillaci",
+        "team": "Italy"
+      }
+    ]
+  },
+  {
+    "year": 1994,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Oleg Salenko",
+        "team": "Russia"
+      },
+      {
+        "name": "Hristo Stoichkov",
+        "team": "Bulgaria"
+      }
+    ]
+  },
+  {
+    "year": 1998,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Davor Šuker",
+        "team": "Croatia"
+      }
+    ]
+  },
+  {
+    "year": 2002,
+    "goals": 8,
+    "players": [
+      {
+        "name": "Ronaldo",
+        "team": "Brazil"
+      }
+    ]
+  },
+  {
+    "year": 2006,
+    "goals": 5,
+    "players": [
+      {
+        "name": "Miroslav Klose",
+        "team": "Germany"
+      }
+    ]
+  },
+  {
+    "year": 2010,
+    "goals": 5,
+    "players": [
+      {
+        "name": "Thomas Müller",
+        "team": "Germany"
+      },
+      {
+        "name": "Wesley Sneijder",
+        "team": "Netherlands"
+      },
+      {
+        "name": "David Villa",
+        "team": "Spain"
+      },
+      {
+        "name": "Diego Forlán",
+        "team": "Uruguay"
+      }
+    ]
+  },
+  {
+    "year": 2014,
+    "goals": 6,
+    "players": [
+      {
+        "name": "James Rodríguez",
+        "team": "Colombia"
+      }
+    ]
+  },
+  {
+    "year": 2018,
+    "goals": 6,
+    "players": [
+      {
+        "name": "Harry Kane",
+        "team": "England"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "goals": 8,
+    "players": [
+      {
+        "name": "Kylian Mbappé",
+        "team": "France"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "goals": 10,
+    "players": [
+      {
+        "name": "Kylian Mbappé",
+        "team": "France"
+      }
+    ]
+  }
+]

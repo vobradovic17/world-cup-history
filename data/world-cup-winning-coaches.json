@@ -1,0 +1,117 @@
+[
+  {
+    "year": 1930,
+    "team": "Uruguay",
+    "coach": "Alberto Suppici"
+  },
+  {
+    "year": 1934,
+    "team": "Italy",
+    "coach": "Vittorio Pozzo"
+  },
+  {
+    "year": 1938,
+    "team": "Italy",
+    "coach": "Vittorio Pozzo"
+  },
+  {
+    "year": 1950,
+    "team": "Uruguay",
+    "coach": "Juan López Fontana"
+  },
+  {
+    "year": 1954,
+    "team": "West Germany",
+    "coach": "Sepp Herberger"
+  },
+  {
+    "year": 1958,
+    "team": "Brazil",
+    "coach": "Vicente Feola"
+  },
+  {
+    "year": 1962,
+    "team": "Brazil",
+    "coach": "Aymoré Moreira"
+  },
+  {
+    "year": 1966,
+    "team": "England",
+    "coach": "Alf Ramsey"
+  },
+  {
+    "year": 1970,
+    "team": "Brazil",
+    "coach": "Mário Zagallo"
+  },
+  {
+    "year": 1974,
+    "team": "West Germany",
+    "coach": "Helmut Schön"
+  },
+  {
+    "year": 1978,
+    "team": "Argentina",
+    "coach": "César Luis Menotti"
+  },
+  {
+    "year": 1982,
+    "team": "Italy",
+    "coach": "Enzo Bearzot"
+  },
+  {
+    "year": 1986,
+    "team": "Argentina",
+    "coach": "Carlos Bilardo"
+  },
+  {
+    "year": 1990,
+    "team": "West Germany",
+    "coach": "Franz Beckenbauer"
+  },
+  {
+    "year": 1994,
+    "team": "Brazil",
+    "coach": "Carlos Alberto Parreira"
+  },
+  {
+    "year": 1998,
+    "team": "France",
+    "coach": "Aimé Jacquet"
+  },
+  {
+    "year": 2002,
+    "team": "Brazil",
+    "coach": "Luiz Felipe Scolari"
+  },
+  {
+    "year": 2006,
+    "team": "Italy",
+    "coach": "Marcello Lippi"
+  },
+  {
+    "year": 2010,
+    "team": "Spain",
+    "coach": "Vicente del Bosque"
+  },
+  {
+    "year": 2014,
+    "team": "Germany",
+    "coach": "Joachim Löw"
+  },
+  {
+    "year": 2018,
+    "team": "France",
+    "coach": "Didier Deschamps"
+  },
+  {
+    "year": 2022,
+    "team": "Argentina",
+    "coach": "Lionel Scaloni"
+  },
+  {
+    "year": 2026,
+    "team": "Spain",
+    "coach": "Luis de la Fuente"
+  }
+]

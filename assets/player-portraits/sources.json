@@ -1,0 +1,322 @@
+{
+  "Kylian Mbappé": {
+    "file": "assets/player-portraits/01.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/960px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9"
+  },
+  "Rodri": {
+    "file": "assets/player-portraits/02.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg/960px-Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Rodri"
+  },
+  "Ferran Torres": {
+    "file": "assets/player-portraits/03.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Ferran_Torres_France_v_Spain_7.24.26-237_%28cropped%29.jpg/960px-Ferran_Torres_France_v_Spain_7.24.26-237_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Ferran_Torres"
+  },
+  "Lionel Messi": {
+    "file": "assets/player-portraits/04.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/960px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Lionel_Messi"
+  },
+  "Enzo Fernández": {
+    "file": "assets/player-portraits/05.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg/960px-Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez"
+  },
+  "Harry Kane": {
+    "file": "assets/player-portraits/06.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg/960px-Harry_Kane_England_v_Ghana_23_June_2026-024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Harry_Kane"
+  },
+  "Luka Modrić": {
+    "file": "assets/player-portraits/07.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg/960px-Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Luka_Modri%C4%87"
+  },
+  "Paul Pogba": {
+    "file": "assets/player-portraits/08.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Paul_Pogba_in_2018.jpg/500px-Paul_Pogba_in_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3APaul_Pogba_in_2018.jpg"
+  },
+  "Thibaut Courtois": {
+    "file": "assets/player-portraits/09.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_%28cropped%29.jpg/960px-Thibaut_Courtois_Belgium_v_USA_6_July_2026-076_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Thibaut_Courtois"
+  },
+  "James Rodríguez": {
+    "file": "assets/player-portraits/10.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Argentina_-_Colombia_2022_%2828%29_%28cropped_2%29.jpg/960px-Argentina_-_Colombia_2022_%2828%29_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez"
+  },
+  "Thomas Müller": {
+    "file": "assets/player-portraits/11.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/FIFA_WC-qualification_2014_-_Austria_vs._Germany_2012-09-11_-_Thomas_M%C3%BCller_01_edit.JPG/500px-FIFA_WC-qualification_2014_-_Austria_vs._Germany_2012-09-11_-_Thomas_M%C3%BCller_01_edit.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFIFA_WC-qualification_2014_-_Austria_vs._Germany_2012-09-11_-_Thomas_M%C3%BCller_01_edit.JPG"
+  },
+  "Manuel Neuer": {
+    "file": "assets/player-portraits/12.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg/960px-Manuel_Neuer_Ecuador_v_Germany_25_June_2026-148.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/Manuel_Neuer"
+  },
+  "David Villa": {
+    "file": "assets/player-portraits/13.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Spain-Tahiti%2C_Confederations_Cup_2013_%2802%29_%28Villa_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/David_Villa"
+  },
+  "Andrés Iniesta": {
+    "file": "assets/player-portraits/14.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Spain_-_Chile_-_10-09-2013_-_Geneva_-_Andres_Iniesta_4.jpg/500px-Spain_-_Chile_-_10-09-2013_-_Geneva_-_Andres_Iniesta_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ASpain_-_Chile_-_10-09-2013_-_Geneva_-_Andres_Iniesta_4.jpg"
+  },
+  "Diego Forlán": {
+    "file": "assets/player-portraits/15.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Diego_Forl%C3%A1n_51775.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3ADiego_Forl%C3%A1n_51775.jpg"
+  },
+  "Wesley Sneijder": {
+    "file": "assets/player-portraits/16.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/NED-DEN_Euro_2012_%2807%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NED-DEN_Euro_2012_(07).jpg"
+  },
+  "Miroslav Klose": {
+    "file": "assets/player-portraits/17.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/FIFA_WC-qualification_2014_-_Austria_vs._Germany_2012-09-11_-_Miroslav_Klose_01.JPG/500px-FIFA_WC-qualification_2014_-_Austria_vs._Germany_2012-09-11_-_Miroslav_Klose_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFIFA_WC-qualification_2014_-_Austria_vs._Germany_2012-09-11_-_Miroslav_Klose_01.JPG"
+  },
+  "Fabio Cannavaro": {
+    "file": "assets/player-portraits/18.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Fabio_Cannavaro_in_world_cup_2006.jpg/500px-Fabio_Cannavaro_in_world_cup_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AFabio_Cannavaro_in_world_cup_2006.jpg"
+  },
+  "Gianluigi Buffon": {
+    "file": "assets/player-portraits/19.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Italy_vs_France_-_FIFA_World_Cup_2006_final_-_Gianluigi_Buffon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3AItaly_vs_France_-_FIFA_World_Cup_2006_final_-_Gianluigi_Buffon.jpg"
+  },
+  "Ronaldo": {
+    "file": "assets/player-portraits/20.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Ronaldo_2002_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARonaldo_2002_cropped.jpg"
+  },
+  "Ronaldinho": {
+    "file": "assets/player-portraits/21.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ronaldinho061115-01.jpg/500px-Ronaldinho061115-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ARonaldinho061115-01.jpg"
+  },
+  "Oliver Kahn": {
+    "file": "https://assets.goal.com/images/v3/blte7a76c64d667c180/b0b7b9c9e77645c8c4ca196e7fb05faaa16c27d3.jpg",
+    "source": "https://assets.goal.com/images/v3/blte7a76c64d667c180/b0b7b9c9e77645c8c4ca196e7fb05faaa16c27d3.jpg",
+    "page": "https://www.goal.com/es/noticias/el-xi-ideal-del-mundial-2002/kkynpxdt3dun1hcm23afry8fo"
+  },
+  "Zinédine Zidane": {
+    "file": "assets/player-portraits/23.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Zinedine_zidane_wcf_2006-edit.jpg/500px-Zinedine_zidane_wcf_2006-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AZinedine_zidane_wcf_2006-edit.jpg"
+  },
+  "Davor Šuker": {
+    "file": "https://www.croatia.eu/images/07-07/NL_1625.jpg",
+    "source": "https://www.croatia.eu/images/07-07/NL_1625.jpg",
+    "page": "https://www.croatia.eu/index.php/en/home-en/society-and-way-of-life/sport"
+  },
+  "Fabien Barthez": {
+    "file": "https://static.foxdeportes.com/2022/11/29/barthez2.jpg",
+    "source": "https://static.foxdeportes.com/2022/11/29/barthez2.jpg",
+    "page": "https://www.foxdeportes.com/mundial/nota/el-record-mundial-que-inmortalizo-a-fabien-barthez"
+  },
+  "Hristo Stoichkov": {
+    "file": "https://digitalhub.fifa.com/transform/1d2338b6-76f0-4301-84d4-c3f49e84f591/Hristo-Stoichkov-celebrates-scoring-against-Germany-at-the-1994-FIFA-World-Cup?io=transform%3Afill%2Caspectratio%3A16x9%2Cwidth%3A1400&quality=100&format=avif",
+    "source": "https://digitalhub.fifa.com/transform/1d2338b6-76f0-4301-84d4-c3f49e84f591/Hristo-Stoichkov-celebrates-scoring-against-Germany-at-the-1994-FIFA-World-Cup?io=transform%3Afill%2Caspectratio%3A16x9%2Cwidth%3A1400&quality=100&format=avif",
+    "page": "https://inside.fifa.com/campaigns/football-unites-the-world/news/hristo-stoichkov-the-world-cup-cup-is-a-family-party"
+  },
+  "Romário": {
+    "file": "https://digitalhub.fifa.com/transform/117f7dce-0706-4041-b5f5-67fc51950926/Romario-celebrates-scoring-for-Brazil-against-the-Netherlands-in-the-USA-1994-quarter-finals?&io=transform:fill,width:1024&quality=75",
+    "source": "https://digitalhub.fifa.com/transform/117f7dce-0706-4041-b5f5-67fc51950926/Romario-celebrates-scoring-for-Brazil-against-the-Netherlands-in-the-USA-1994-quarter-finals?&io=transform:fill,width:1024&quality=75",
+    "page": "https://www.fifa.com/en/tournaments/mens/worldcup/articles/netherlands-brazil-dallas-usa-1994"
+  },
+  "Roberto Baggio": {
+    "file": "https://digitalhub.fifa.com/transform/03b4c9f0-1fdf-4979-8009-85f206577b37/1994_R16_Baggio_1-1_NGA_ITA?&io=transform:fill,width:1024&quality=75",
+    "source": "https://digitalhub.fifa.com/transform/03b4c9f0-1fdf-4979-8009-85f206577b37/1994_R16_Baggio_1-1_NGA_ITA?&io=transform:fill,width:1024&quality=75",
+    "page": "https://www.fifa.com/es/tournaments/mens/worldcup/articles/roberto-baggio-estados-unidos-1994-copa-mundial-fifa-italia"
+  },
+  "Salvatore Schillaci": {
+    "file": "https://cdn-s-www.ledauphine.com/images/6669C844-D776-4476-B9DC-86132B5C3222/NW_raw/l-attaquant-italien-salvatore-schillaci-photo-afp-1726664262.jpg",
+    "source": "https://cdn-s-www.ledauphine.com/images/6669C844-D776-4476-B9DC-86132B5C3222/NW_raw/l-attaquant-italien-salvatore-schillaci-photo-afp-1726664262.jpg",
+    "page": "https://www.ledauphine.com/sport/2024/09/18/deces-de-toto-schillaci-heros-du-mondial-1990"
+  },
+  "Andreas Brehme": {
+    "file": "https://www.vkz.de/fileadmin/artikel_stn/2024/02/20/media.imagefile.415adbf9-c19e-4cb6-ac5c-92f64666eb3c.original.jpg",
+    "source": "https://www.vkz.de/fileadmin/artikel_stn/2024/02/20/media.imagefile.415adbf9-c19e-4cb6-ac5c-92f64666eb3c.original.jpg",
+    "page": "https://www.vkz.de/detailansicht/artikel/wm-finaltor-traenen-triumphe-brehmes-magische-momente-220906/"
+  },
+  "Gary Lineker": {
+    "file": "assets/player-portraits/31.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lineker_Nederland_1-3%2C_Bestanddeelnr_934-2662_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALineker_Nederland_1-3%2C_Bestanddeelnr_934-2662_%28cropped%29.jpg"
+  },
+  "Diego Maradona": {
+    "file": "assets/player-portraits/32.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Diego_Maradona"
+  },
+  "Jorge Burruchaga": {
+    "file": "assets/player-portraits/33.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/30/Burruchaga_final_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Jorge_Burruchaga"
+  },
+  "Paolo Rossi": {
+    "file": "assets/player-portraits/34.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Paolo_Rossi_at_the_1982_FIFA_World_Cup_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3APaolo_Rossi_at_the_1982_FIFA_World_Cup_%28cropped%29.jpg"
+  },
+  "Mario Kempes": {
+    "file": "assets/player-portraits/35.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Mario_Kempes_Argentina_vs._Holanda.JPG/500px-Mario_Kempes_Argentina_vs._Holanda.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMario_Kempes_Argentina_vs._Holanda.JPG"
+  },
+  "Johan Cruyff": {
+    "file": "assets/player-portraits/36.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Perfumo_cruyff_1974.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File%3APerfumo_cruyff_1974.jpg"
+  },
+  "Gerd Müller": {
+    "file": "assets/player-portraits/37.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Muller%2C_Beckenbauer_en_trainer_Schon_1974.jpg/500px-Muller%2C_Beckenbauer_en_trainer_Schon_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AMuller%2C_Beckenbauer_en_trainer_Schon_1974.jpg"
+  },
+  "Franz Beckenbauer": {
+    "file": "assets/player-portraits/38.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Franz_Beckenbauer_%281975%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Franz_Beckenbauer"
+  },
+  "Pelé": {
+    "file": "assets/player-portraits/39.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Pel%C3%A9"
+  },
+  "Eusébio": {
+    "file": "assets/player-portraits/40.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Eusebio_en_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Eus%C3%A9bio"
+  },
+  "Bobby Charlton": {
+    "file": "assets/player-portraits/41.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Bobby_Charlton_en_1966_160.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABobby_Charlton_en_1966_160.jpg"
+  },
+  "Geoff Hurst": {
+    "file": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/07/29/10/1966hurstequaliser2907a.jpg?auto=webp&quality=75&width=1500",
+    "source": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2016/07/29/10/1966hurstequaliser2907a.jpg?auto=webp&quality=75&width=1500",
+    "page": "https://www.standard.co.uk/sport/football/england-1966-team-world-cup-final-gordon-banks-a4064196.html"
+  },
+  "Garrincha": {
+    "file": "assets/player-portraits/43.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Manoel_Francisco_dos_Santos-Garrincha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Garrincha"
+  },
+  "Vavá": {
+    "file": "assets/player-portraits/44.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Vav%C3%A1_en_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Vav%C3%A1"
+  },
+  "Just Fontaine": {
+    "file": "assets/player-portraits/45.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Just_Fontaine_en_1958.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Just_Fontaine"
+  },
+  "Ferenc Puskás": {
+    "file": "assets/player-portraits/46.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Les_deux_capitaines_de_la_finale_de_Coupe_du_monde_de_football_1954_%28G._Walter%2C_D._Puskas%2C_arbitre_Orlandini%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File%3ALes_deux_capitaines_de_la_finale_de_Coupe_du_monde_de_football_1954_%28G._Walter%2C_D._Puskas%2C_arbitre_Orlandini%29.jpg"
+  },
+  "Sándor Kocsis": {
+    "file": "assets/player-portraits/47.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Kocsis_S%C3%A1ndor_Fortepan_261526.jpg/960px-Kocsis_S%C3%A1ndor_Fortepan_261526.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "page": "https://en.wikipedia.org/wiki/S%C3%A1ndor_Kocsis"
+  },
+  "Ademir de Menezes": {
+    "file": "assets/player-portraits/48.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/80/Ademir_de_Menezes_%281950%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ademir_de_Menezes_(1950).jpg"
+  },
+  "Alcides Ghiggia": {
+    "file": "assets/player-portraits/49.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ghiggia_con_la_Copa_Jules_Rimet%2C_Estadio%2C_1950-07-29_%28376%29.jpg/500px-Ghiggia_con_la_Copa_Jules_Rimet%2C_Estadio%2C_1950-07-29_%28376%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3AGhiggia_con_la_Copa_Jules_Rimet%2C_Estadio%2C_1950-07-29_%28376%29.jpg"
+  },
+  "Oldřich Nejedlý": {
+    "file": "assets/player-portraits/51.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Nejedly.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Old%C5%99ich_Nejedl%C3%BD"
+  },
+  "Guillermo Stábile": {
+    "file": "assets/player-portraits/52.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Guillermo_stabile_hincado.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "page": "https://en.wikipedia.org/wiki/Guillermo_St%C3%A1bile"
+  },
+  "Leônidas": {
+    "file": "assets/player-portraits/50.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Brazil_v_Poland_WC_1938_%283%29.jpg/500px-Brazil_v_Poland_WC_1938_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File%3ABrazil_v_Poland_WC_1938_%283%29.jpg"
+  },
+  "Cafu": {
+    "file": "assets/player-portraits/54.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Cafu_brazil.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cafu_brazil.jpg"
+  },
+  "Lothar Matthäus": {
+    "file": "assets/player-portraits/53.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Lothar_Matth%C3%A4us.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lothar_Matth%C3%A4us.jpg"
+  },
+  "Oleg Salenko": {
+    "file": "assets/player-portraits/55.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d3/O.Salenko.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:O.Salenko.JPG"
+  },
+  "Grzegorz Lato": {
+    "file": "assets/player-portraits/56.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/V.l.n.r._Lato%2C_Boniek_en_trainer_Kulesza%2C_Bestanddeelnr_930-4929_%28Lato_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:V.l.n.r._Lato,_Boniek_en_trainer_Kulesza,_Bestanddeelnr_930-4929_(Lato_cropped).jpg"
+  },
+  "Flórián Albert": {
+    "file": "assets/player-portraits/57.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Fl%C3%B3ri%C3%A1n_Albert_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fl%C3%B3ri%C3%A1n_Albert_cropped.jpg"
+  },
+  "Valentin Ivanov": {
+    "file": "assets/player-portraits/58.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Valentin_Kozmich_Ivanov.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Valentin_Kozmich_Ivanov.jpg"
+  },
+  "Dražan Jerković": {
+    "file": "assets/player-portraits/59.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Dra%C5%BEan_Jerkovi%C4%87_e_D%C5%BEemil_%C5%A0arac_1964-1965.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dra%C5%BEan_Jerkovi%C4%87_e_D%C5%BEemil_%C5%A0arac_1964-1965.jpg"
+  },
+  "Leonel Sánchez": {
+    "file": "assets/player-portraits/60.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Leonel_S%C3%A1nchez_%282%29_%28cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leonel_S%C3%A1nchez_(2)_(cropped).jpg"
+  },
+  "Didi": {
+    "file": "assets/player-portraits/61.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Waldir_Pereira_1958.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Waldir_Pereira_1958.jpg"
+  },
+  "Zizinho": {
+    "file": "assets/player-portraits/62.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Zizinho_1944_flamengo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zizinho_1944_flamengo.jpg"
+  },
+  "Giuseppe Meazza": {
+    "file": "assets/player-portraits/63.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Giuseppe_Meazza_1935.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giuseppe_Meazza_1935.jpg"
+  },
+  "José Nasazzi": {
+    "file": "assets/player-portraits/64.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jose_nasazzi_urug.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jose_nasazzi_urug.jpg"
+  }
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "year": 1930,
+    "team": "Uruguay",
+    "captain": "José Nasazzi"
+  },
+  {
+    "year": 1934,
+    "team": "Italy",
+    "captain": "Gianpiero Combi"
+  },
+  {
+    "year": 1938,
+    "team": "Italy",
+    "captain": "Giuseppe Meazza"
+  },
+  {
+    "year": 1950,
+    "team": "Uruguay",
+    "captain": "Obdulio Varela"
+  },
+  {
+    "year": 1954,
+    "team": "West Germany",
+    "captain": "Fritz Walter"
+  },
+  {
+    "year": 1958,
+    "team": "Brazil",
+    "captain": "Bellini"
+  },
+  {
+    "year": 1962,
+    "team": "Brazil",
+    "captain": "Mauro Ramos"
+  },
+  {
+    "year": 1966,
+    "team": "England",
+    "captain": "Bobby Moore"
+  },
+  {
+    "year": 1970,
+    "team": "Brazil",
+    "captain": "Carlos Alberto Torres"
+  },
+  {
+    "year": 1974,
+    "team": "West Germany",
+    "captain": "Franz Beckenbauer"
+  },
+  {
+    "year": 1978,
+    "team": "Argentina",
+    "captain": "Daniel Passarella"
+  },
+  {
+    "year": 1982,
+    "team": "Italy",
+    "captain": "Dino Zoff"
+  },
+  {
+    "year": 1986,
+    "team": "Argentina",
+    "captain": "Diego Maradona"
+  },
+  {
+    "year": 1990,
+    "team": "West Germany",
+    "captain": "Lothar Matthäus"
+  },
+  {
+    "year": 1994,
+    "team": "Brazil",
+    "captain": "Dunga"
+  },
+  {
+    "year": 1998,
+    "team": "France",
+    "captain": "Didier Deschamps"
+  },
+  {
+    "year": 2002,
+    "team": "Brazil",
+    "captain": "Cafu"
+  },
+  {
+    "year": 2006,
+    "team": "Italy",
+    "captain": "Fabio Cannavaro"
+  },
+  {
+    "year": 2010,
+    "team": "Spain",
+    "captain": "Iker Casillas"
+  },
+  {
+    "year": 2014,
+    "team": "Germany",
+    "captain": "Philipp Lahm"
+  },
+  {
+    "year": 2018,
+    "team": "France",
+    "captain": "Hugo Lloris"
+  },
+  {
+    "year": 2022,
+    "team": "Argentina",
+    "captain": "Lionel Messi"
+  },
+  {
+    "year": 2026,
+    "team": "Spain",
+    "captain": "Rodri"
+  }
+]
