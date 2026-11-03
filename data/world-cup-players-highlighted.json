@@ -2,6 +2,15 @@
   {
     "name": "Kylian Mbappé",
     "latest_highlight_year": 2026,
+    "world_cups_played": 3,
+    "matches_played": 22,
+    "goals_scored": 22,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2018
+      ]
+    },
     "awards": [
       {
         "year": 2026,
@@ -61,11 +70,21 @@
   {
     "name": "Rodri",
     "latest_highlight_year": 2026,
+    "world_cups_played": 3,
+    "matches_played": 14,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2026
+      ]
+    },
     "awards": [
       {
         "year": 2026,
         "award": "Best player",
-        "team": "Spain"
+        "team": "Spain",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [],
@@ -74,6 +93,15 @@
   {
     "name": "Ferran Torres",
     "latest_highlight_year": 2026,
+    "world_cups_played": 2,
+    "matches_played": 12,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2026
+      ]
+    },
     "awards": [],
     "final_goals": [
       {
@@ -94,16 +122,27 @@
   {
     "name": "Lionel Messi",
     "latest_highlight_year": 2022,
+    "world_cups_played": 6,
+    "matches_played": 34,
+    "goals_scored": 21,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2022
+      ]
+    },
     "awards": [
       {
         "year": 2022,
         "award": "Best player",
-        "team": "Argentina"
+        "team": "Argentina",
+        "selection": "golden_ball"
       },
       {
         "year": 2014,
         "award": "Best player",
-        "team": "Argentina"
+        "team": "Argentina",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [
@@ -129,6 +168,15 @@
   {
     "name": "Enzo Fernández",
     "latest_highlight_year": 2022,
+    "world_cups_played": 2,
+    "matches_played": 14,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2022
+      ]
+    },
     "awards": [
       {
         "year": 2022,
@@ -143,6 +191,15 @@
   {
     "name": "Harry Kane",
     "latest_highlight_year": 2018,
+    "world_cups_played": 3,
+    "matches_played": 18,
+    "goals_scored": 14,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        2026
+      ]
+    },
     "awards": [
       {
         "year": 2018,
@@ -157,11 +214,21 @@
   {
     "name": "Luka Modrić",
     "latest_highlight_year": 2018,
+    "world_cups_played": 5,
+    "matches_played": 23,
+    "goals_scored": 2,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        2018
+      ]
+    },
     "awards": [
       {
         "year": 2018,
         "award": "Best player",
-        "team": "Croatia"
+        "team": "Croatia",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [],
@@ -170,6 +237,15 @@
   {
     "name": "Paul Pogba",
     "latest_highlight_year": 2018,
+    "world_cups_played": 2,
+    "matches_played": 11,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2018
+      ]
+    },
     "awards": [
       {
         "year": 2014,
@@ -197,6 +273,16 @@
   {
     "name": "Thibaut Courtois",
     "latest_highlight_year": 2018,
+    "world_cups_played": 4,
+    "matches_played": 21,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        2018
+      ]
+    },
+    "clean_sheets": 8,
     "awards": [
       {
         "year": 2018,
@@ -210,6 +296,15 @@
   {
     "name": "James Rodríguez",
     "latest_highlight_year": 2014,
+    "world_cups_played": 3,
+    "matches_played": 13,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        2014
+      ]
+    },
     "awards": [
       {
         "year": 2014,
@@ -224,6 +319,15 @@
   {
     "name": "Thomas Müller",
     "latest_highlight_year": 2010,
+    "world_cups_played": 4,
+    "matches_played": 19,
+    "goals_scored": 10,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2014
+      ]
+    },
     "awards": [
       {
         "year": 2010,
@@ -244,6 +348,16 @@
   {
     "name": "Manuel Neuer",
     "latest_highlight_year": 2014,
+    "world_cups_played": 5,
+    "matches_played": 23,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2014
+      ]
+    },
+    "clean_sheets": 7,
     "awards": [
       {
         "year": 2014,
@@ -257,6 +371,15 @@
   {
     "name": "David Villa",
     "latest_highlight_year": 2010,
+    "world_cups_played": 3,
+    "matches_played": 12,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2010
+      ]
+    },
     "awards": [
       {
         "year": 2010,
@@ -271,6 +394,15 @@
   {
     "name": "Andrés Iniesta",
     "latest_highlight_year": 2010,
+    "world_cups_played": 4,
+    "matches_played": 14,
+    "goals_scored": 2,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2010
+      ]
+    },
     "awards": [],
     "final_goals": [
       {
@@ -291,6 +423,15 @@
   {
     "name": "Wesley Sneijder",
     "latest_highlight_year": 2010,
+    "world_cups_played": 3,
+    "matches_played": 17,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        2010
+      ]
+    },
     "awards": [
       {
         "year": 2010,
@@ -305,11 +446,21 @@
   {
     "name": "Diego Forlán",
     "latest_highlight_year": 2010,
+    "world_cups_played": 3,
+    "matches_played": 10,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        2010
+      ]
+    },
     "awards": [
       {
         "year": 2010,
         "award": "Best player",
-        "team": "Uruguay"
+        "team": "Uruguay",
+        "selection": "golden_ball"
       },
       {
         "year": 2010,
@@ -324,6 +475,15 @@
   {
     "name": "Miroslav Klose",
     "latest_highlight_year": 2006,
+    "world_cups_played": 4,
+    "matches_played": 24,
+    "goals_scored": 16,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2014
+      ]
+    },
     "awards": [
       {
         "year": 2006,
@@ -338,6 +498,15 @@
   {
     "name": "Fabio Cannavaro",
     "latest_highlight_year": 2006,
+    "world_cups_played": 4,
+    "matches_played": 18,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2006
+      ]
+    },
     "awards": [],
     "final_goals": [],
     "world_cup_highlights": [
@@ -353,6 +522,16 @@
   {
     "name": "Gianluigi Buffon",
     "latest_highlight_year": 2006,
+    "world_cups_played": 4,
+    "matches_played": 14,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2006
+      ]
+    },
+    "clean_sheets": 6,
     "awards": [
       {
         "year": 2006,
@@ -366,6 +545,15 @@
   {
     "name": "Ronaldo",
     "latest_highlight_year": 2002,
+    "world_cups_played": 3,
+    "matches_played": 19,
+    "goals_scored": 15,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2002
+      ]
+    },
     "awards": [
       {
         "year": 2002,
@@ -376,7 +564,8 @@
       {
         "year": 1998,
         "award": "Best player",
-        "team": "Brazil"
+        "team": "Brazil",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [
@@ -401,6 +590,15 @@
   {
     "name": "Ronaldinho",
     "latest_highlight_year": 2002,
+    "world_cups_played": 2,
+    "matches_played": 10,
+    "goals_scored": 2,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2002
+      ]
+    },
     "awards": [],
     "final_goals": [],
     "world_cup_highlights": [
@@ -416,6 +614,16 @@
   {
     "name": "Oliver Kahn",
     "latest_highlight_year": 2002,
+    "world_cups_played": 2,
+    "matches_played": 8,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        2002
+      ]
+    },
+    "clean_sheets": 5,
     "awards": [
       {
         "year": 2002,
@@ -425,7 +633,8 @@
       {
         "year": 2002,
         "award": "Best player",
-        "team": "Germany"
+        "team": "Germany",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [],
@@ -434,11 +643,21 @@
   {
     "name": "Zinédine Zidane",
     "latest_highlight_year": 2006,
+    "world_cups_played": 3,
+    "matches_played": 12,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1998
+      ]
+    },
     "awards": [
       {
         "year": 2006,
         "award": "Best player",
-        "team": "France"
+        "team": "France",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [
@@ -476,6 +695,15 @@
   {
     "name": "Davor Šuker",
     "latest_highlight_year": 1998,
+    "world_cups_played": 2,
+    "matches_played": 8,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1998
+      ]
+    },
     "awards": [
       {
         "year": 1998,
@@ -490,6 +718,16 @@
   {
     "name": "Fabien Barthez",
     "latest_highlight_year": 1998,
+    "world_cups_played": 3,
+    "matches_played": 17,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1998
+      ]
+    },
+    "clean_sheets": 10,
     "awards": [
       {
         "year": 1998,
@@ -503,6 +741,15 @@
   {
     "name": "Hristo Stoichkov",
     "latest_highlight_year": 1994,
+    "world_cups_played": 2,
+    "matches_played": 10,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        1994
+      ]
+    },
     "awards": [
       {
         "year": 1994,
@@ -517,6 +764,15 @@
   {
     "name": "Oleg Salenko",
     "latest_highlight_year": 1994,
+    "world_cups_played": 1,
+    "matches_played": 3,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Group stage",
+      "years": [
+        1994
+      ]
+    },
     "awards": [
       {
         "year": 1994,
@@ -531,11 +787,21 @@
   {
     "name": "Romário",
     "latest_highlight_year": 1994,
+    "world_cups_played": 2,
+    "matches_played": 8,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1994
+      ]
+    },
     "awards": [
       {
         "year": 1994,
         "award": "Best player",
-        "team": "Brazil"
+        "team": "Brazil",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [],
@@ -544,6 +810,16 @@
   {
     "name": "Cafu",
     "latest_highlight_year": 2002,
+    "world_cups_played": 4,
+    "matches_played": 20,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1994,
+        2002
+      ]
+    },
     "awards": [],
     "final_goals": [],
     "world_cup_highlights": [
@@ -559,6 +835,15 @@
   {
     "name": "Roberto Baggio",
     "latest_highlight_year": 1994,
+    "world_cups_played": 3,
+    "matches_played": 16,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1994
+      ]
+    },
     "awards": [],
     "final_goals": [],
     "world_cup_highlights": [
@@ -574,11 +859,21 @@
   {
     "name": "Salvatore Schillaci",
     "latest_highlight_year": 1990,
+    "world_cups_played": 1,
+    "matches_played": 7,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1990
+      ]
+    },
     "awards": [
       {
         "year": 1990,
         "award": "Best player",
-        "team": "Italy"
+        "team": "Italy",
+        "selection": "golden_ball"
       },
       {
         "year": 1990,
@@ -593,6 +888,15 @@
   {
     "name": "Lothar Matthäus",
     "latest_highlight_year": 1990,
+    "world_cups_played": 5,
+    "matches_played": 25,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1990
+      ]
+    },
     "awards": [],
     "final_goals": [],
     "world_cup_highlights": [
@@ -608,6 +912,15 @@
   {
     "name": "Andreas Brehme",
     "latest_highlight_year": 1990,
+    "world_cups_played": 3,
+    "matches_played": 16,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1990
+      ]
+    },
     "awards": [],
     "final_goals": [
       {
@@ -629,6 +942,15 @@
   {
     "name": "Gary Lineker",
     "latest_highlight_year": 1986,
+    "world_cups_played": 2,
+    "matches_played": 12,
+    "goals_scored": 10,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        1990
+      ]
+    },
     "awards": [
       {
         "year": 1986,
@@ -643,11 +965,21 @@
   {
     "name": "Diego Maradona",
     "latest_highlight_year": 1986,
+    "world_cups_played": 4,
+    "matches_played": 21,
+    "goals_scored": 8,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1986
+      ]
+    },
     "awards": [
       {
         "year": 1986,
         "award": "Best player",
-        "team": "Argentina"
+        "team": "Argentina",
+        "selection": "golden_ball"
       }
     ],
     "final_goals": [],
@@ -656,6 +988,15 @@
   {
     "name": "Jorge Burruchaga",
     "latest_highlight_year": 1986,
+    "world_cups_played": 2,
+    "matches_played": 14,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1986
+      ]
+    },
     "awards": [],
     "final_goals": [
       {
@@ -676,11 +1017,21 @@
   {
     "name": "Paolo Rossi",
     "latest_highlight_year": 1982,
+    "world_cups_played": 2,
+    "matches_played": 14,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1982
+      ]
+    },
     "awards": [
       {
         "year": 1982,
         "award": "Best player",
-        "team": "Italy"
+        "team": "Italy",
+        "selection": "golden_ball"
       },
       {
         "year": 1982,
@@ -708,11 +1059,21 @@
   {
     "name": "Mario Kempes",
     "latest_highlight_year": 1978,
+    "world_cups_played": 3,
+    "matches_played": 18,
+    "goals_scored": 6,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1978
+      ]
+    },
     "awards": [
       {
         "year": 1978,
         "award": "Best player",
-        "team": "Argentina"
+        "team": "Argentina",
+        "selection": "golden_ball"
       },
       {
         "year": 1978,
@@ -743,7 +1104,23 @@
   {
     "name": "Johan Cruyff",
     "latest_highlight_year": 1974,
-    "awards": [],
+    "world_cups_played": 1,
+    "matches_played": 7,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1974
+      ]
+    },
+    "awards": [
+      {
+        "year": 1974,
+        "award": "Best player",
+        "team": "Netherlands",
+        "selection": "retrospective"
+      }
+    ],
     "final_goals": [],
     "world_cup_highlights": [
       {
@@ -758,6 +1135,16 @@
   {
     "name": "Grzegorz Lato",
     "latest_highlight_year": 1974,
+    "world_cups_played": 3,
+    "matches_played": 20,
+    "goals_scored": 10,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1974,
+        1982
+      ]
+    },
     "awards": [
       {
         "year": 1974,
@@ -772,6 +1159,15 @@
   {
     "name": "Gerd Müller",
     "latest_highlight_year": 1974,
+    "world_cups_played": 2,
+    "matches_played": 13,
+    "goals_scored": 14,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1974
+      ]
+    },
     "awards": [
       {
         "year": 1970,
@@ -798,7 +1194,16 @@
   },
   {
     "name": "Franz Beckenbauer",
-    "latest_highlight_year": 1966,
+    "latest_highlight_year": 1990,
+    "world_cups_played": 3,
+    "matches_played": 18,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1974
+      ]
+    },
     "awards": [
       {
         "year": 1966,
@@ -813,7 +1218,24 @@
   {
     "name": "Pelé",
     "latest_highlight_year": 1970,
+    "world_cups_played": 4,
+    "matches_played": 14,
+    "goals_scored": 12,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1958,
+        1962,
+        1970
+      ]
+    },
     "awards": [
+      {
+        "year": 1970,
+        "award": "Best player",
+        "team": "Brazil",
+        "selection": "retrospective"
+      },
       {
         "year": 1958,
         "award": "Best young player",
@@ -855,6 +1277,15 @@
   {
     "name": "Eusébio",
     "latest_highlight_year": 1966,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1966
+      ]
+    },
     "awards": [
       {
         "year": 1966,
@@ -869,7 +1300,23 @@
   {
     "name": "Bobby Charlton",
     "latest_highlight_year": 1966,
-    "awards": [],
+    "world_cups_played": 3,
+    "matches_played": 14,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1966
+      ]
+    },
+    "awards": [
+      {
+        "year": 1966,
+        "award": "Best player",
+        "team": "England",
+        "selection": "retrospective"
+      }
+    ],
     "final_goals": [],
     "world_cup_highlights": [
       {
@@ -884,6 +1331,15 @@
   {
     "name": "Geoff Hurst",
     "latest_highlight_year": 1966,
+    "world_cups_played": 2,
+    "matches_played": 6,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1966
+      ]
+    },
     "awards": [],
     "final_goals": [
       {
@@ -910,12 +1366,28 @@
   {
     "name": "Garrincha",
     "latest_highlight_year": 1962,
+    "world_cups_played": 3,
+    "matches_played": 12,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1958,
+        1962
+      ]
+    },
     "awards": [
       {
         "year": 1962,
         "award": "Top scorer",
         "team": "Brazil",
         "goals": 4
+      },
+      {
+        "year": 1962,
+        "award": "Best player",
+        "team": "Brazil",
+        "selection": "retrospective"
       }
     ],
     "final_goals": [],
@@ -924,6 +1396,16 @@
   {
     "name": "Vavá",
     "latest_highlight_year": 1962,
+    "world_cups_played": 2,
+    "matches_played": 10,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1958,
+        1962
+      ]
+    },
     "awards": [
       {
         "year": 1962,
@@ -966,6 +1448,16 @@
   {
     "name": "Flórián Albert",
     "latest_highlight_year": 1962,
+    "world_cups_played": 2,
+    "matches_played": 7,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        1962,
+        1966
+      ]
+    },
     "awards": [
       {
         "year": 1962,
@@ -986,6 +1478,16 @@
   {
     "name": "Valentin Ivanov",
     "latest_highlight_year": 1962,
+    "world_cups_played": 2,
+    "matches_played": 9,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        1958,
+        1962
+      ]
+    },
     "awards": [
       {
         "year": 1962,
@@ -1000,6 +1502,15 @@
   {
     "name": "Dražan Jerković",
     "latest_highlight_year": 1962,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        1962
+      ]
+    },
     "awards": [
       {
         "year": 1962,
@@ -1014,6 +1525,15 @@
   {
     "name": "Leonel Sánchez",
     "latest_highlight_year": 1962,
+    "world_cups_played": 2,
+    "matches_played": 9,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1962
+      ]
+    },
     "awards": [
       {
         "year": 1962,
@@ -1028,6 +1548,15 @@
   {
     "name": "Just Fontaine",
     "latest_highlight_year": 1958,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 13,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1958
+      ]
+    },
     "awards": [
       {
         "year": 1958,
@@ -1042,6 +1571,16 @@
   {
     "name": "Didi",
     "latest_highlight_year": 1958,
+    "world_cups_played": 3,
+    "matches_played": 15,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1958,
+        1962
+      ]
+    },
     "awards": [
       {
         "year": 1958,
@@ -1056,7 +1595,23 @@
   {
     "name": "Ferenc Puskás",
     "latest_highlight_year": 1954,
-    "awards": [],
+    "world_cups_played": 2,
+    "matches_played": 6,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1954
+      ]
+    },
+    "awards": [
+      {
+        "year": 1954,
+        "award": "Best player",
+        "team": "Hungary",
+        "selection": "retrospective"
+      }
+    ],
     "final_goals": [
       {
         "year": 1954,
@@ -1076,6 +1631,15 @@
   {
     "name": "Sándor Kocsis",
     "latest_highlight_year": 1954,
+    "world_cups_played": 1,
+    "matches_played": 5,
+    "goals_scored": 11,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1954
+      ]
+    },
     "awards": [
       {
         "year": 1954,
@@ -1090,6 +1654,15 @@
   {
     "name": "Ademir de Menezes",
     "latest_highlight_year": 1950,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1950
+      ]
+    },
     "awards": [
       {
         "year": 1950,
@@ -1104,6 +1677,15 @@
   {
     "name": "Zizinho",
     "latest_highlight_year": 1950,
+    "world_cups_played": 1,
+    "matches_played": 4,
+    "goals_scored": 2,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1950
+      ]
+    },
     "awards": [
       {
         "year": 1950,
@@ -1118,6 +1700,15 @@
   {
     "name": "Alcides Ghiggia",
     "latest_highlight_year": 1950,
+    "world_cups_played": 1,
+    "matches_played": 4,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1950
+      ]
+    },
     "awards": [],
     "final_goals": [
       {
@@ -1138,12 +1729,27 @@
   {
     "name": "Leônidas",
     "latest_highlight_year": 1938,
+    "world_cups_played": 2,
+    "matches_played": 5,
+    "goals_scored": 8,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1938
+      ]
+    },
     "awards": [
       {
         "year": 1938,
         "award": "Top scorer",
         "team": "Brazil",
         "goals": 7
+      },
+      {
+        "year": 1938,
+        "award": "Best player",
+        "team": "Brazil",
+        "selection": "retrospective"
       }
     ],
     "final_goals": [],
@@ -1152,6 +1758,15 @@
   {
     "name": "Oldřich Nejedlý",
     "latest_highlight_year": 1934,
+    "world_cups_played": 2,
+    "matches_played": 6,
+    "goals_scored": 7,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1934
+      ]
+    },
     "awards": [
       {
         "year": 1934,
@@ -1166,6 +1781,16 @@
   {
     "name": "Giuseppe Meazza",
     "latest_highlight_year": 1938,
+    "world_cups_played": 2,
+    "matches_played": 9,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1934,
+        1938
+      ]
+    },
     "awards": [
       {
         "year": 1934,
@@ -1180,6 +1805,15 @@
   {
     "name": "Guillermo Stábile",
     "latest_highlight_year": 1930,
+    "world_cups_played": 1,
+    "matches_played": 4,
+    "goals_scored": 8,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1930
+      ]
+    },
     "awards": [
       {
         "year": 1930,
@@ -1207,6 +1841,15 @@
   {
     "name": "José Nasazzi",
     "latest_highlight_year": 1930,
+    "world_cups_played": 1,
+    "matches_played": 4,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1930
+      ]
+    },
     "awards": [
       {
         "year": 1930,
@@ -1217,5 +1860,935 @@
     ],
     "final_goals": [],
     "profile": "José Nasazzi was born in Montevideo and became a defender in Uruguay's domestic game. He played for Bella Vista and later Nacional, earning a reputation for firm tackling and leadership.\n\nFrom the back, Nasazzi organised teammates and gave Uruguay a steady presence under pressure. He had already captained the national side through major international success before the first World Cup.\n\nNasazzi captained Uruguay at the inaugural World Cup in 1930. The hosts won all four matches and beat Argentina 4–2 in the final at the Estadio Centenario. His leadership of that champion side brought him retrospective recognition as the tournament's best player."
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "latest_highlight_year": 2026,
+    "world_cups_played": 6,
+    "matches_played": 27,
+    "goals_scored": 11,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        2006
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Cristiano Ronaldo is a Portuguese forward whose movement, finishing and aerial ability made him a long-standing national-team focal point.\n\nHe rose through Sporting CP before playing for Manchester United, Real Madrid and Juventus. Across those clubs he developed from a winger into a prolific forward who could score from a wide range of positions.\n\nFrom 2006 through 2026, Ronaldo made 27 World Cup appearances and scored 11 goals. Portugal’s best finish during those tournaments was fourth place in 2006."
+  },
+  {
+    "name": "Ivan Perišić",
+    "latest_highlight_year": 2026,
+    "world_cups_played": 4,
+    "matches_played": 21,
+    "goals_scored": 7,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        2018
+      ]
+    },
+    "awards": [],
+    "final_goals": [
+      {
+        "year": 2018,
+        "date": "2018-07-15",
+        "stage": "Final",
+        "team": "Croatia",
+        "opponent": "France",
+        "goals": [
+          {
+            "minute": "28"
+          }
+        ]
+      }
+    ],
+    "profile": "Ivan Perišić is a Croatian winger who has combined direct running with goals in major matches. He has played club football in Germany, Italy and England.\n\nPerišić played for Borussia Dortmund, Wolfsburg and Inter before joining Tottenham. His ability to attack from either flank and finish chances helped him remain a regular for Croatia across several tournaments.\n\nPerišić made 21 World Cup appearances through 2026. He scored in the 2018 final as Croatia finished runner-up and was part of the side that placed third in 2022."
+  },
+  {
+    "name": "Luis de la Fuente",
+    "latest_highlight_year": 2026,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Luis de la Fuente developed players across Spain’s youth national teams before becoming senior-team coach. His side won the European Championship in 2024.\n\nHe coached Spain at youth level before taking the senior job in 2022. He led the team to the 2023 Nations League and UEFA EURO 2024 titles while bringing younger players into the squad.\n\nDe la Fuente led Spain to the 2026 World Cup title. Spain beat Argentina 1–0 after extra time in the final and conceded only once during the tournament."
+  },
+  {
+    "name": "Nicolás Otamendi",
+    "latest_highlight_year": 2026,
+    "world_cups_played": 4,
+    "matches_played": 21,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2022
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Nicolás Otamendi is an Argentine central defender whose club career has included Manchester City and Benfica. His tackling and positioning brought experience to the national side.\n\nOtamendi played for Porto, Valencia and Manchester City before moving to Benfica. He combined physical defending with leadership as his club and international career continued into his late thirties.\n\nOtamendi played 21 World Cup matches through 2026. He was part of Argentina’s 2022 title-winning defence and the team that reached the 2026 final."
+  },
+  {
+    "name": "Pau Cubarsí",
+    "latest_highlight_year": 2026,
+    "world_cups_played": 1,
+    "matches_played": 8,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2026
+      ]
+    },
+    "awards": [
+      {
+        "year": 2026,
+        "award": "Best young player",
+        "team": "Spain",
+        "selection": "official"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Pau Cubarsí is a Spanish centre-back who established himself at Barcelona while still a teenager. His composure on the ball and reading of play helped him earn a national-team place.\n\nCubarsí rose through Barcelona’s youth system and entered the first team as a teenager. His passing and calm positioning from centre-back made him a regular for club and country.\n\nCubarsí started all eight of Spain’s matches at the 2026 World Cup. Spain won the title, kept seven clean sheets, and he received the official Best Young Player award."
+  },
+  {
+    "name": "Unai Simón",
+    "latest_highlight_year": 2026,
+    "world_cups_played": 2,
+    "matches_played": 12,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2026
+      ]
+    },
+    "clean_sheets": 9,
+    "awards": [
+      {
+        "year": 2026,
+        "award": "Best goalkeeper",
+        "team": "Spain"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Unai Simón is a Spanish goalkeeper who developed at Athletic Club. His command of the penalty area and ability with the ball suited Spain’s approach.\n\nSimón came through Athletic Club’s development system and became its first-choice goalkeeper. He built a reputation for reliable shot-stopping and for helping his team play out from the back.\n\nSimón won the Golden Glove at the 2026 World Cup as Spain claimed the title. He kept seven clean sheets in eight matches, including the 1–0 final win over Argentina."
+  },
+  {
+    "name": "Emiliano Martínez",
+    "latest_highlight_year": 2022,
+    "world_cups_played": 2,
+    "matches_played": 15,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2022
+      ]
+    },
+    "clean_sheets": 5,
+    "awards": [
+      {
+        "year": 2022,
+        "award": "Best goalkeeper",
+        "team": "Argentina"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Emiliano Martínez is an Argentine goalkeeper who became a central figure in the national team after establishing himself in the English Premier League.\n\nAfter years on Arsenal’s books and several loan spells, Martínez became a first-choice goalkeeper at Aston Villa. His confidence in one-on-one situations and penalty shootouts became a distinctive part of his game.\n\nMartínez won the Golden Glove at the 2022 World Cup as Argentina became champion. His late save against France and his work in the final shootout were crucial to the victory."
+  },
+  {
+    "name": "Lionel Scaloni",
+    "latest_highlight_year": 2022,
+    "world_cups_played": 1,
+    "matches_played": 1,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        2006
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Lionel Scaloni was an Argentine player before moving into coaching. He took charge of Argentina’s senior national team and built a balanced side around Lionel Messi.\n\nScaloni played in Spain and Italy before moving into coaching. After working within Argentina’s national-team setup, he became head coach and assembled a cohesive squad around experienced and emerging players.\n\nScaloni guided Argentina to the 2022 World Cup title. The team beat France on penalties after a 3–3 final and ended a 36-year wait for another world crown."
+  },
+  {
+    "name": "Didier Deschamps",
+    "latest_highlight_year": 2018,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1998
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Didier Deschamps is a French former midfielder and manager. He was known as an organiser and leader during his playing career.\n\nAs a player, Deschamps represented Nantes, Marseille, Juventus and Chelsea. He later managed Monaco, Juventus and Marseille before taking charge of France in 2012.\n\nDeschamps captained France to the 1998 title and coached the country to another in 2018. The latter team beat Croatia 4–2 in the final."
+  },
+  {
+    "name": "Hugo Lloris",
+    "latest_highlight_year": 2018,
+    "world_cups_played": 4,
+    "matches_played": 20,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2018
+      ]
+    },
+    "clean_sheets": 8,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Hugo Lloris was a French goalkeeper and long-serving captain who spent much of his club career at Tottenham Hotspur. His shot-stopping anchored France’s defence.\n\nLloris established himself at Nice and Lyon before a long spell with Tottenham. His quick reactions, distribution and steady leadership made him France’s goalkeeper and captain for many years.\n\nLloris captained France to the 2018 World Cup title, lifting the trophy after the 4–2 final win over Croatia. He also led the team to the 2022 final."
+  },
+  {
+    "name": "Joachim Löw",
+    "latest_highlight_year": 2014,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Joachim Löw joined Germany’s coaching staff before taking charge of the national team in 2006. His sides used patient possession and quick movement in attack.\n\nLöw worked as Jürgen Klinsmann’s assistant before becoming Germany coach in 2006. He developed a team comfortable with possession, quick combinations and flexible attacking positions.\n\nLöw coached Germany to the 2014 World Cup title. The team beat Brazil 7–1 in the semi-final and Argentina 1–0 after extra time in the final."
+  },
+  {
+    "name": "Philipp Lahm",
+    "latest_highlight_year": 2014,
+    "world_cups_played": 3,
+    "matches_played": 20,
+    "goals_scored": 1,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2014
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Philipp Lahm was a German full-back and midfielder whose club career was centred on Bayern Munich. His positioning and passing gave Germany flexibility.\n\nLahm spent most of his club career at Bayern Munich, apart from a loan at Stuttgart. He played on both sides of defence and in midfield, using positioning and passing to control games.\n\nLahm captained Germany to the 2014 World Cup title. The team beat Argentina 1–0 after extra time in the final in Rio de Janeiro."
+  },
+  {
+    "name": "Iker Casillas",
+    "latest_highlight_year": 2010,
+    "world_cups_played": 4,
+    "matches_played": 17,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2010
+      ]
+    },
+    "clean_sheets": 7,
+    "awards": [
+      {
+        "year": 2010,
+        "award": "Best goalkeeper",
+        "team": "Spain"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Iker Casillas was a goalkeeper for Real Madrid and Spain whose reflexes and leadership were central to both teams. He captained Spain during its most successful period.\n\nCasillas came through Real Madrid’s academy and became the club’s goalkeeper while still a teenager. He won major domestic and European honours and provided Spain with a dependable last line of defence.\n\nCasillas led Spain to the 2010 World Cup title and received the tournament’s Golden Glove. He kept a clean sheet in the 1–0 final win over the Netherlands."
+  },
+  {
+    "name": "Vicente del Bosque",
+    "latest_highlight_year": 2010,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Vicente del Bosque was a Spanish coach who had previously managed Real Madrid. He gave Spain continuity and a settled midfield at international level.\n\nDel Bosque managed Real Madrid to league and European success before becoming Spain coach. He retained the team’s passing foundation and helped it win the 2012 European Championship after the 2010 World Cup.\n\nDel Bosque coached Spain to its first World Cup title in 2010. Spain beat the Netherlands 1–0 after extra time in the final."
+  },
+  {
+    "name": "Lukas Podolski",
+    "latest_highlight_year": 2006,
+    "world_cups_played": 3,
+    "matches_played": 15,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        2014
+      ]
+    },
+    "awards": [
+      {
+        "year": 2006,
+        "award": "Best young player",
+        "team": "Germany",
+        "selection": "official"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Lukas Podolski was a German forward with a powerful left foot. He began his club career at Köln and became an important attacking option for Germany.\n\nPodolski broke through at Köln and later played for Bayern Munich and Arsenal. His left-footed shooting and willingness to run directly at defenders made him a regular in Germany’s attack.\n\nPodolski won the official Best Young Player award at the 2006 World Cup, where Germany finished third. He scored twice against Sweden in the round of 16."
+  },
+  {
+    "name": "Marcello Lippi",
+    "latest_highlight_year": 2006,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Marcello Lippi built a successful club coaching career in Italy, most notably with Juventus, before taking charge of the national team.\n\nLippi won domestic and European honours with Juventus before taking the Italy job. He was known for organising strong defences while giving creative players room to decide matches.\n\nLippi led Italy to the 2006 World Cup title. His side conceded only two goals during the tournament and beat France on penalties after a 1–1 final."
+  },
+  {
+    "name": "Landon Donovan",
+    "latest_highlight_year": 2002,
+    "world_cups_played": 3,
+    "matches_played": 12,
+    "goals_scored": 5,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        2002
+      ]
+    },
+    "awards": [
+      {
+        "year": 2002,
+        "award": "Best young player",
+        "team": "United States",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Landon Donovan was an American attacking midfielder and forward who became one of the national team’s leading players. He combined pace with an eye for the final pass.\n\nDonovan built his club career primarily in Major League Soccer, especially with San Jose and LA Galaxy. His pace, movement and final pass made him a central figure in the United States attack.\n\nDonovan helped the United States reach the 2002 World Cup quarter-finals and appears in retrospective young-player selections for that edition. He later scored a stoppage-time winner against Algeria in 2010."
+  },
+  {
+    "name": "Luiz Felipe Scolari",
+    "latest_highlight_year": 2002,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Luiz Felipe Scolari is a Brazilian coach whose teams have been known for strong organisation and clear attacking roles. He took charge of Brazil before the 2002 World Cup.\n\nScolari coached clubs in Brazil before taking charge of national teams. He emphasised a strong team structure that could support technically gifted forwards.\n\nScolari led Brazil to its fifth title in 2002. The team won all seven matches and beat Germany 2–0 in the final, with Ronaldo scoring both goals."
+  },
+  {
+    "name": "Paolo Maldini",
+    "latest_highlight_year": 2002,
+    "world_cups_played": 4,
+    "matches_played": 23,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1994
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Paolo Maldini was an Italian defender who spent his entire senior club career with AC Milan. He excelled at both left-back and centre-back.\n\nMaldini became a long-serving AC Milan captain and won major domestic and European titles. He combined precise tackling with positional awareness, first at left-back and later at centre-back.\n\nMaldini made 23 World Cup appearances across four tournaments from 1990 to 2002. Italy finished third in 1990 and reached the final in 1994 during that span."
+  },
+  {
+    "name": "Aimé Jacquet",
+    "latest_highlight_year": 1998,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Aimé Jacquet was a French midfielder before moving into management. He coached clubs in France and took charge of the national team in the 1990s.\n\nJacquet managed French clubs before leading the national side. He built a settled group with a strong defensive base and a midfield capable of controlling the pace of a match.\n\nJacquet led France to its first World Cup title on home soil in 1998. His side combined a strong defence with midfield control and beat Brazil 3–0 in the final."
+  },
+  {
+    "name": "Jürgen Klinsmann",
+    "latest_highlight_year": 1998,
+    "world_cups_played": 3,
+    "matches_played": 17,
+    "goals_scored": 11,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1990
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Jürgen Klinsmann was a German striker known for movement and finishing. His club career included spells in Germany, Italy, France and England.\n\nKlinsmann played for Stuttgart, Inter, Tottenham and Bayern Munich among other clubs. His movement across the front line and sharp finishing made him a consistent scoring threat.\n\nKlinsmann scored 11 World Cup goals across the 1990, 1994 and 1998 tournaments. He was part of the West Germany team that won the 1990 title."
+  },
+  {
+    "name": "Michael Owen",
+    "latest_highlight_year": 1998,
+    "world_cups_played": 3,
+    "matches_played": 12,
+    "goals_scored": 4,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        2002,
+        2006
+      ]
+    },
+    "awards": [
+      {
+        "year": 1998,
+        "award": "Best young player",
+        "team": "England",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Michael Owen was an English forward whose pace and finishing brought him to prominence as a teenager at Liverpool.\n\nOwen became a prolific Liverpool striker while still young and later played for Real Madrid, Newcastle and Manchester United. His acceleration helped him break behind defenders and finish quickly.\n\nOwen scored a memorable solo goal against Argentina at the 1998 World Cup. He is listed in retrospective selections of that tournament’s best young players."
+  },
+  {
+    "name": "Carlos Alberto Parreira",
+    "latest_highlight_year": 1994,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Carlos Alberto Parreira built a long coaching career with national teams across several continents. He took charge of Brazil for the 1994 World Cup.\n\nParreira held national-team coaching jobs in several countries before and after his Brazil spell. He built the 1994 side around defensive organisation and the attacking partnership of Romário and Bebeto.\n\nParreira guided Brazil to its fourth title in 1994. His balanced side reached the final against Italy and won the trophy after a goalless match and penalty shootout."
+  },
+  {
+    "name": "Dunga",
+    "latest_highlight_year": 1994,
+    "world_cups_played": 3,
+    "matches_played": 18,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1994
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Dunga was a Brazilian defensive midfielder known for positioning, passing and leadership. He became captain of a side built around a strong collective structure.\n\nDunga played club football in Brazil, Italy, Germany and Japan. In midfield he protected the defence, moved the ball efficiently and set a demanding standard for teammates.\n\nDunga captained Brazil to the 1994 World Cup title. The final against Italy ended 0–0, and Brazil won the penalty shootout."
+  },
+  {
+    "name": "Marc Overmars",
+    "latest_highlight_year": 1994,
+    "world_cups_played": 2,
+    "matches_played": 11,
+    "goals_scored": 1,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        1998
+      ]
+    },
+    "awards": [
+      {
+        "year": 1994,
+        "award": "Best young player",
+        "team": "Netherlands",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Marc Overmars was a Dutch winger known for acceleration and direct running. His club career included major spells with Ajax, Arsenal and Barcelona.\n\nOvermars played for Ajax, Arsenal and Barcelona. His acceleration down the wing created chances for others and made him difficult to contain in open space.\n\nOvermars helped the Netherlands reach the 1994 World Cup quarter-finals. He appears in retrospective selections of that edition’s best young players."
+  },
+  {
+    "name": "Michel Preud'homme",
+    "latest_highlight_year": 1994,
+    "world_cups_played": 2,
+    "matches_played": 8,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Round of 16",
+      "years": [
+        1990,
+        1994
+      ]
+    },
+    "clean_sheets": 3,
+    "awards": [
+      {
+        "year": 1994,
+        "award": "Best goalkeeper",
+        "team": "Belgium"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Michel Preud’homme was a Belgian goalkeeper known for reflex saves and positioning. He played for Standard Liège, Mechelen and Benfica.\n\nPreud’homme represented Standard Liège, Mechelen and Benfica. His reflexes and command of the penalty area made him one of Belgium’s leading goalkeepers.\n\nPreud’homme received the Yashin Award as the best goalkeeper of the 1994 World Cup. Belgium reached the round of 16 in the United States."
+  },
+  {
+    "name": "Robert Prosinečki",
+    "latest_highlight_year": 1990,
+    "world_cups_played": 3,
+    "matches_played": 9,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1998
+      ]
+    },
+    "awards": [
+      {
+        "year": 1990,
+        "award": "Best young player",
+        "team": "Yugoslavia",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Robert Prosinečki was a midfielder known for close control and passing. He played club football for Red Star Belgrade, Real Madrid and Barcelona.\n\nProsinečki played for Red Star Belgrade, Real Madrid and Barcelona. His control and passing helped teams move through midfield, and he later moved into coaching.\n\nProsinečki helped Yugoslavia reach the 1990 World Cup quarter-finals and appears in retrospective young-player selections for that edition. He later represented Croatia at World Cups."
+  },
+  {
+    "name": "Carlos Bilardo",
+    "latest_highlight_year": 1986,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Carlos Bilardo was an Argentine coach who organised his teams around tactical discipline and flexibility. He became national-team manager before the 1986 World Cup.\n\nBilardo played and coached at Estudiantes before taking the Argentina job. As a manager he used carefully planned formations and asked players to adapt to different opponents.\n\nBilardo guided Argentina to the 1986 title, with Diego Maradona central to the campaign. Argentina beat West Germany 3–2 in the final and reached another final under him in 1990."
+  },
+  {
+    "name": "Enzo Scifo",
+    "latest_highlight_year": 1986,
+    "world_cups_played": 4,
+    "matches_played": 17,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Fourth place",
+      "years": [
+        1986
+      ]
+    },
+    "awards": [
+      {
+        "year": 1986,
+        "award": "Best young player",
+        "team": "Belgium",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Enzo Scifo was a creative Belgian midfielder who began his senior club career at Anderlecht. His passing and close control helped Belgium progress through major tournaments.\n\nScifo developed at Anderlecht and later played in Italy and France. He directed attacks with close control and passing while remaining a regular in Belgium’s midfield.\n\nScifo helped Belgium reach the 1986 World Cup semi-finals, its best finish at the time. He appears in retrospective selections of that tournament’s best young players."
+  },
+  {
+    "name": "Władysław Żmuda",
+    "latest_highlight_year": 1986,
+    "world_cups_played": 4,
+    "matches_played": 21,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1974,
+        1982
+      ]
+    },
+    "awards": [
+      {
+        "year": 1974,
+        "award": "Best young player",
+        "team": "Poland",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Władysław Żmuda was a Polish central defender known for his consistency across four World Cups. He played much of his club football in Poland.\n\nŻmuda played in Poland and later in Italy. His positioning and consistency at centre-back helped Poland maintain a strong defensive core across multiple tournament squads.\n\nŻmuda made 21 World Cup appearances from 1974 to 1986. Poland finished third in 1974 and 1982, and he appears in retrospective young-player selections for the 1974 edition."
+  },
+  {
+    "name": "Dino Zoff",
+    "latest_highlight_year": 1982,
+    "world_cups_played": 3,
+    "matches_played": 17,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1982
+      ]
+    },
+    "clean_sheets": 5,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Dino Zoff was an Italian goalkeeper whose calm handling and consistency defined a long international career. He was also a mainstay for Juventus.\n\nZoff played for Udinese, Mantova, Napoli and Juventus. His calm handling and concentration helped him remain at the top level for an unusually long time for a goalkeeper.\n\nAt 40, Zoff captained Italy to the 1982 World Cup title. Italy beat West Germany 3–1 in the final, completing a run that also included victories over Argentina and Brazil."
+  },
+  {
+    "name": "Enzo Bearzot",
+    "latest_highlight_year": 1982,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Enzo Bearzot was an Italian coach who led the national team across three World Cups. He placed trust in a settled group even when results brought pressure.\n\nBearzot moved from club football into the Italian national-team setup. As head coach, he trusted an established group and kept faith with Paolo Rossi despite criticism before the 1982 tournament.\n\nBearzot guided Italy to the 1982 title. After a slow group stage, his team beat Argentina, Brazil, Poland and West Germany, winning the final 3–1."
+  },
+  {
+    "name": "Manuel Amorós",
+    "latest_highlight_year": 1982,
+    "world_cups_played": 2,
+    "matches_played": 12,
+    "goals_scored": 1,
+    "best_placement": {
+      "placement": "Third place",
+      "years": [
+        1986
+      ]
+    },
+    "awards": [
+      {
+        "year": 1982,
+        "award": "Best young player",
+        "team": "France",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Manuel Amorós was a French full-back who played much of his club football for Monaco and Marseille. His pace allowed him to support attacks from defence.\n\nAmorós represented Monaco and Marseille during his club career. Comfortable on either flank, he could defend deep and then advance to support France’s attacks.\n\nAmorós played for France at the 1982 World Cup, when the team reached the semi-finals. He is included in retrospective young-player selections for that tournament."
+  },
+  {
+    "name": "Antonio Cabrini",
+    "latest_highlight_year": 1978,
+    "world_cups_played": 3,
+    "matches_played": 18,
+    "goals_scored": 1,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1982
+      ]
+    },
+    "awards": [
+      {
+        "year": 1978,
+        "award": "Best young player",
+        "team": "Italy",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Antonio Cabrini was an Italian left-back known for his ability to defend and join attacks. He spent much of his club career with Juventus.\n\nCabrini became a regular for Juventus and Italy. His ability to move up the left flank while maintaining defensive discipline gave both teams balance.\n\nCabrini emerged with Italy at the 1978 World Cup and is listed in retrospective young-player selections for that tournament. He later helped Italy win the 1982 World Cup."
+  },
+  {
+    "name": "César Luis Menotti",
+    "latest_highlight_year": 1978,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "César Luis Menotti was an Argentine coach associated with an attacking style and technically gifted players. He took charge of the national team before its home World Cup.\n\nMenotti coached Huracán before taking charge of Argentina. He favoured a side that could keep the ball and create chances through technical play.\n\nMenotti led Argentina to its first World Cup title in 1978. His side beat the Netherlands 3–1 after extra time in the final in Buenos Aires."
+  },
+  {
+    "name": "Daniel Passarella",
+    "latest_highlight_year": 1978,
+    "world_cups_played": 2,
+    "matches_played": 12,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1978
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Daniel Passarella was an Argentine central defender who also contributed goals and played a leading role at River Plate. He captained the national team in the late 1970s.\n\nPassarella was a leading defender for River Plate and later played in Italy. He contributed goals as well as defensive strength and became a commanding presence in Argentina’s back line.\n\nPassarella led Argentina to its first World Cup title in 1978. The hosts defeated the Netherlands 3–1 after extra time in the final."
+  },
+  {
+    "name": "Helmut Schön",
+    "latest_highlight_year": 1974,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Helmut Schön coached West Germany through several major tournaments and helped maintain a strong national side across the 1960s and 1970s.\n\nSchön guided West Germany through the 1966 and 1970 World Cups before winning the European Championship in 1972. His teams combined individual talent with a reliable collective structure.\n\nSchön led West Germany to the 1974 World Cup title at home. His team recovered from a first-round loss to East Germany and beat the Netherlands 2–1 in the final."
+  },
+  {
+    "name": "Carlos Alberto Torres",
+    "latest_highlight_year": 1970,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 1,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1970
+      ]
+    },
+    "awards": [],
+    "final_goals": [
+      {
+        "year": 1970,
+        "date": "1970-06-21",
+        "stage": "Final",
+        "team": "Brazil",
+        "opponent": "Italy",
+        "goals": [
+          {
+            "minute": "86"
+          }
+        ]
+      }
+    ],
+    "profile": "Carlos Alberto Torres was an attacking right-back who played for Santos and became one of Brazil’s best-known captains. He brought width and composure to the side.\n\nCarlos Alberto played for Santos and later the New York Cosmos. He attacked from right-back with well-timed runs while remaining a composed defender and leader.\n\nHe captained Brazil to the 1970 World Cup title and scored the final goal in its 4–1 victory over Italy. The move leading to his goal remains a celebrated example of the team’s passing play."
+  },
+  {
+    "name": "Mário Zagallo",
+    "latest_highlight_year": 1970,
+    "world_cups_played": 2,
+    "matches_played": 12,
+    "goals_scored": 2,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1958,
+        1962
+      ]
+    },
+    "awards": [],
+    "final_goals": [
+      {
+        "year": 1958,
+        "date": "1958-06-29",
+        "stage": "Final",
+        "team": "Brazil",
+        "opponent": "Sweden",
+        "goals": [
+          {
+            "minute": "68"
+          }
+        ]
+      }
+    ],
+    "profile": "Mário Zagallo was a Brazilian winger who became a coach after his playing career. His influence spans several generations of Brazilian football.\n\nZagallo played for Flamengo and Botafogo before becoming a coach. He gave his teams tactical balance, working hard as a winger and later organising talented attacking players from the touchline.\n\nZagallo scored in Brazil’s 1958 final victory over Sweden and coached Brazil to the 1970 title in Mexico, becoming the first person to win the World Cup as both player and coach. Brazil beat Italy 4–1 in the final."
+  },
+  {
+    "name": "Teófilo Cubillas",
+    "latest_highlight_year": 1970,
+    "world_cups_played": 3,
+    "matches_played": 13,
+    "goals_scored": 10,
+    "best_placement": {
+      "placement": "Quarter-finals",
+      "years": [
+        1970
+      ]
+    },
+    "awards": [
+      {
+        "year": 1970,
+        "award": "Best young player",
+        "team": "Peru",
+        "selection": "retrospective"
+      }
+    ],
+    "final_goals": [],
+    "profile": "Teófilo Cubillas was a Peruvian attacking midfielder and forward known for his shooting and technique. He played a leading role in Peru’s strong 1970s teams.\n\nCubillas built his club career with Alianza Lima and also played abroad, including at Porto. His control, shooting and movement from midfield made him a frequent scorer for Peru.\n\nCubillas scored five goals at the 1970 World Cup as Peru reached the quarter-finals and is listed in retrospective young-player selections for that edition. He added five more World Cup goals in 1978."
+  },
+  {
+    "name": "Uwe Seeler",
+    "latest_highlight_year": 1970,
+    "world_cups_played": 4,
+    "matches_played": 21,
+    "goals_scored": 9,
+    "best_placement": {
+      "placement": "Runner-up",
+      "years": [
+        1966
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Uwe Seeler was a West German forward who spent his club career at Hamburg. His movement and finishing made him a regular for the national team.\n\nSeeler remained with Hamburg throughout his senior club career. He was a prolific centre-forward whose work rate and finishing helped him lead West Germany’s attack for many years.\n\nSeeler made 21 World Cup appearances across four tournaments from 1958 to 1970. West Germany reached the 1966 final and finished third in 1970."
+  },
+  {
+    "name": "Alf Ramsey",
+    "latest_highlight_year": 1966,
+    "world_cups_played": 1,
+    "matches_played": 3,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Group stage",
+      "years": [
+        1950
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Alf Ramsey played for England and later became a successful club manager before taking charge of the national team. He favoured a compact, disciplined side.\n\nRamsey played for Tottenham and England before becoming a manager. He led Ipswich Town to the English league title and then took charge of the national side.\n\nRamsey guided England to its only World Cup title in 1966. The hosts beat West Germany 4–2 after extra time in the final at Wembley."
+  },
+  {
+    "name": "Bobby Moore",
+    "latest_highlight_year": 1966,
+    "world_cups_played": 3,
+    "matches_played": 14,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1966
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Bobby Moore was a composed central defender and a long-serving West Ham United player. His reading of the game made him a key figure for England.\n\nMoore spent most of his club career with West Ham United and later played for Fulham. He relied on timing, positioning and measured passing rather than physical force alone.\n\nMoore captained England to the 1966 World Cup title at home. He led the defence throughout the tournament and supplied a pass for Geoff Hurst’s final goal against West Germany."
+  },
+  {
+    "name": "Aymoré Moreira",
+    "latest_highlight_year": 1962,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Aymoré Moreira was a Brazilian coach who worked with the national team during its early World Cup successes. He took charge of the side for the 1962 tournament.\n\nMoreira worked in Brazilian club and national-team football. He took over a squad that already had world champions and kept it competitive despite the loss of Pelé to injury during the tournament.\n\nMoreira led Brazil to a second successive title in Chile in 1962. Brazil beat Czechoslovakia 3–1 in the final after progressing without the injured Pelé for much of the competition."
+  },
+  {
+    "name": "Mauro Ramos",
+    "latest_highlight_year": 1962,
+    "world_cups_played": 1,
+    "matches_played": 6,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1962
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Mauro Ramos was a Brazilian central defender whose club career included Santos. He helped give Brazil’s back line stability alongside its celebrated attack.\n\nMauro played for São Paulo and Santos. As a central defender he offered disciplined marking and leadership behind a Brazil attack filled with creative players.\n\nMauro captained Brazil to the 1962 World Cup title in Chile. The team beat Czechoslovakia 3–1 in the final."
+  },
+  {
+    "name": "Bellini",
+    "latest_highlight_year": 1958,
+    "world_cups_played": 2,
+    "matches_played": 8,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1958
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Hilderaldo Bellini was a central defender who played much of his club football for Vasco da Gama. He was a leader in the Brazil side of the late 1950s.\n\nBellini played for Vasco da Gama and São Paulo. His strength in central defence and his leadership helped Brazil’s younger attacking players play with confidence.\n\nBellini captained Brazil to its first World Cup title in 1958. The team defeated Sweden 5–2 in the final, and he lifted the trophy as Brazil’s captain."
+  },
+  {
+    "name": "Vicente Feola",
+    "latest_highlight_year": 1958,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Vicente Feola was a Brazilian coach who took the national team to the 1958 World Cup. His squad blended experienced players with emerging talents such as Pelé.\n\nFeola coached São Paulo before leading Brazil. He brought together an experienced core and young attackers, giving Pelé and Garrincha room to influence matches.\n\nFeola led Brazil to its first title in Sweden in 1958. Brazil beat the hosts 5–2 in the final."
+  },
+  {
+    "name": "Fritz Walter",
+    "latest_highlight_year": 1954,
+    "world_cups_played": 2,
+    "matches_played": 11,
+    "goals_scored": 3,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1954
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Fritz Walter was an attacking midfielder whose club career was closely tied to Kaiserslautern. His influence on the pitch made him West Germany’s captain.\n\nWalter spent his club career at Kaiserslautern, where he became a symbol of the team. His passing, organisation and understanding with teammates shaped West Germany’s attack.\n\nWalter led West Germany to the 1954 World Cup title. The team came from behind to defeat Hungary 3–2 in the final in Bern."
+  },
+  {
+    "name": "Sepp Herberger",
+    "latest_highlight_year": 1954,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Sepp Herberger was a long-serving German national-team coach. He shaped the West Germany side that returned to World Cup competition after the Second World War.\n\nHerberger held a long tenure as German national-team coach. He rebuilt the side after the war and placed trust in a group led on the field by Fritz Walter.\n\nHerberger led West Germany to the 1954 title. His side came from two goals down to beat Hungary 3–2 in the final in Bern."
+  },
+  {
+    "name": "Juan López Fontana",
+    "latest_highlight_year": 1950,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Juan López Fontana was a Uruguayan coach who led the national team during the 1950 World Cup in Brazil.\n\nLópez worked with Uruguay’s national team during a period when the country remained a major force in South American football. He oversaw the squad through its 1950 campaign.\n\nUnder López, Uruguay won its second World Cup title. The team beat host Brazil 2–1 in the decisive final-round match at the Maracanã."
+  },
+  {
+    "name": "Obdulio Varela",
+    "latest_highlight_year": 1950,
+    "world_cups_played": 2,
+    "matches_played": 7,
+    "goals_scored": 2,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1950
+      ]
+    },
+    "awards": [],
+    "final_goals": [],
+    "profile": "Obdulio Varela was a Uruguayan midfielder and captain whose leadership became a defining part of the national team’s identity.\n\nVarela played much of his club football for Peñarol. A forceful midfielder, he set the tone for Uruguay through tackling, organisation and leadership.\n\nVarela captained Uruguay to the 1950 World Cup title. His side came from behind to beat host Brazil 2–1 in the decisive match at the Maracanã."
+  },
+  {
+    "name": "Vittorio Pozzo",
+    "latest_highlight_year": 1938,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Vittorio Pozzo was the Italian coach who oversaw the national team in the 1930s. He remains the only coach to win two men’s World Cups.\n\nPozzo managed Italy over a long period and also led the country to Olympic gold in 1936. He was known for detailed preparation and a settled approach to team selection.\n\nPozzo led Italy to titles in 1934 and 1938. His teams beat Czechoslovakia and Hungary in the two finals, respectively."
+  },
+  {
+    "name": "Gianpiero Combi",
+    "latest_highlight_year": 1934,
+    "world_cups_played": 1,
+    "matches_played": 5,
+    "goals_scored": 0,
+    "best_placement": {
+      "placement": "Champion",
+      "years": [
+        1934
+      ]
+    },
+    "clean_sheets": 2,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Gianpiero Combi was a goalkeeper who spent his club career with Juventus. He was a steady presence behind Italy’s defence in the early 1930s.\n\nCombi played his entire club career at Juventus, winning multiple Italian league titles. His shot-stopping and authority made him an important part of Italy’s defence.\n\nCombi captained Italy at the 1934 World Cup on home soil. Italy beat Czechoslovakia 2–1 after extra time in the final to claim its first title."
+  },
+  {
+    "name": "Alberto Suppici",
+    "latest_highlight_year": 1930,
+    "world_cups_played": 0,
+    "matches_played": 0,
+    "goals_scored": 0,
+    "best_placement": null,
+    "awards": [],
+    "final_goals": [],
+    "profile": "Alberto Suppici was the coach of Uruguay when the country hosted the first World Cup. His work with the national side came during an era of major Uruguayan success.\n\nSuppici coached Uruguay before and after the inaugural World Cup. He organised a side that included players already experienced in major international matches.\n\nUruguay won the inaugural tournament in 1930 under Suppici, defeating Argentina 4–2 in the final in Montevideo. He became the first coach to win the World Cup."
   }
 ]

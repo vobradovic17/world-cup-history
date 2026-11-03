@@ -446,5 +446,383 @@
     "license": "Public domain",
     "license_url": "",
     "usage_terms": "Public domain"
+  },
+  "Cristiano Ronaldo": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Ivan Perišić": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Ivan_Perisic_Croatia_v_Portugal_2_July_2026-033.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Luis de la Fuente": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Luis_de_la_Fuente_Argentina_v_Spain_19_July_2026-271_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Nicolás Otamendi": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Nicolas_Otamendi_Argentina_v_Spain_19_July_2026-059_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Pau Cubarsí": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Unai Simón": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Unai_Simon_Argentina_v_Spain_19_July_2026-078_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Emiliano Martínez": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Lionel Scaloni": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lionel_Scaloni_Argentina_v_Spain_19_July_2026-239_(cropped).jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Didier Deschamps": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Didier_Deschamps_France_v_Senegal_16_June_2026-294.jpg",
+    "artist": "Bryan Berlin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Hugo Lloris": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lloris_2018_(cropped).jpg",
+    "artist": "Кирилл Венедиктов",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "CC BY-SA 3.0"
+  },
+  "Joachim Löw": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:20180602_FIFA_Friendly_Match_Austria_vs._Germany_Jogi_L%C3%B6w_850_1386.jpg",
+    "artist": "Granada",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Philipp Lahm": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Philipp_Lahm_auf_der_Berlinale_2024,_Ausschnitt.jpg",
+    "artist": "Elena Ternovaja",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "CC BY-SA 3.0"
+  },
+  "Iker Casillas": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Iker-Casillas-SportsTrade-2021-cropped.jpg",
+    "artist": "Web Summit",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "usage_terms": "CC BY 2.0"
+  },
+  "Vicente del Bosque": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vicente_del_Bosque_Euro_2012_final.jpg",
+    "artist": "Илья Хохлов",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "CC BY-SA 3.0"
+  },
+  "Lukas Podolski": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Lukas_Podolski_2023.jpg",
+    "artist": "Jacek Stanislawek",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Marcello Lippi": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Marcello_Lippi_at_China-Iran_press_conference_20190123.jpg",
+    "artist": "Mojnews",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "usage_terms": "CC BY 4.0"
+  },
+  "Landon Donovan": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_SD_Wave_(Oct_2024)_045.jpg",
+    "artist": "Hameltion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Luiz Felipe Scolari": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Felip%C3%A3o_cropped.jpg",
+    "artist": "Danilo Borges",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "usage_terms": "CC BY 3.0"
+  },
+  "Paolo Maldini": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Paolo_Maldini_AC_Milan_Technical_director_2018.jpg",
+    "artist": "GOAL TV",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "usage_terms": "CC BY 3.0"
+  },
+  "Aimé Jacquet": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aime_Jacquet_portrait.jpg",
+    "artist": "David Monniaux",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "usage_terms": "CC BY-SA 3.0"
+  },
+  "Jürgen Klinsmann": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg",
+    "artist": "M. Sadegh Nikgostar",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "usage_terms": "CC BY 4.0"
+  },
+  "Michael Owen": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Michael_Owen.jpg",
+    "artist": "David Seow",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Carlos Alberto Parreira": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Carlos_Alberto_Parreira_at_University_of_the_Witwatersrand_2010-06-04_4.jpg",
+    "artist": "Marcello Casal Jr/ABr",
+    "license": "CC BY 3.0 br",
+    "license_url": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+    "usage_terms": "CC BY 3.0 br"
+  },
+  "Dunga": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aecio_Neves_e_Dunga_-_17-06-2008_(8368243127)_(cropped).jpg",
+    "artist": "Aécio Neves from Brasília, Brasil",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "usage_terms": "CC BY 2.0"
+  },
+  "Marc Overmars": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Marc_Overmars.jpg",
+    "artist": "David Holt",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "usage_terms": "CC BY-SA 2.0"
+  },
+  "Michel Preud'homme": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Michel_Preud%27homme_2.JPG",
+    "artist": "CrucialFriend",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Robert Prosinečki": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Prosinecki_in_2025.jpg",
+    "artist": "Kyrgyz Sport TV @kyrgyzsporttv312 YouTube video (screenshot)",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "usage_terms": "CC BY 3.0"
+  },
+  "Carlos Bilardo": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Narig%C3%B3n_Bilardo_1986.jpg",
+    "artist": "El Gráfico magazine",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Enzo Scifo": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Enzo_scifo_belgium.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Władysław Żmuda": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Wladyslaw_Zmuda.jpg",
+    "artist": "Sławek",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "usage_terms": "CC BY-SA 2.0"
+  },
+  "Dino Zoff": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Dino_Zoff_(1974).jpg",
+    "artist": "Bert Verhoeff for Anefo",
+    "license": "CC BY-SA 3.0 nl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "usage_terms": "CC BY-SA 3.0 nl"
+  },
+  "Enzo Bearzot": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Enzo_Bearzot_1982.jpg",
+    "artist": "Presidenza della Repubblica",
+    "license": "Attribution",
+    "license_url": "",
+    "usage_terms": "Attribution required; see source page"
+  },
+  "Manuel Amorós": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Manuel_amoros_france_1986.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Antonio Cabrini": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Cabrini_sez.JPG",
+    "artist": "Elena Torre",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "usage_terms": "CC BY-SA 2.0"
+  },
+  "César Luis Menotti": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:C%C3%A9sar_Luis_Menotti_in_Recoleta.jpg",
+    "artist": "\"Photos: RICARDO ALFIERI (son), ANTONIO CARRERA/TAO (Madrid) and \"EL GRAFICO\" ARCHIVE\"",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Daniel Passarella": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Passarella_copa_mundo.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Helmut Schön": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fu%C3%9Fball-Bundestrainer_Helmut_Sch%C3%B6n_(Kiel_87.306).jpg",
+    "artist": "Magnussen, Friedrich (1914-1987)",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "usage_terms": "CC BY-SA 3.0 de"
+  },
+  "Carlos Alberto Torres": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Carlos_alberto_cosmos.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Mário Zagallo": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:M%C3%A1rio_Zagallo_1974.jpg",
+    "artist": "Mieremet, Rob / Anefo",
+    "license": "CC BY-SA 3.0 nl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "usage_terms": "CC BY-SA 3.0 nl"
+  },
+  "Teófilo Cubillas": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Te%C3%B3filo_Cubillas_1978.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Uwe Seeler": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Uwe_Seeler_1966_(cropped).jpg",
+    "artist": "Joop van Bilsen for Anefo",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "usage_terms": "CC0"
+  },
+  "Alf Ramsey": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Alf_Ramsey_(1969).jpg",
+    "artist": "Bert Verhoeff for Anefo",
+    "license": "CC BY-SA 3.0 nl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "usage_terms": "CC BY-SA 3.0 nl"
+  },
+  "Bobby Moore": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Bobby_moore_elgrafico_1970.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Aymoré Moreira": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Aymor%C3%A9_Moreira_(1963).png",
+    "artist": "Hugo van Gelderen / Anefo",
+    "license": "CC BY-SA 3.0 nl",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en",
+    "usage_terms": "CC BY-SA 3.0 nl"
+  },
+  "Mauro Ramos": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Mauro_Ramos_en_1962.jpg",
+    "artist": "Edizioni Astra, Milano (chiusura 1986)",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Bellini": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Hilderaldo_Lu%C3%ADs_Bellini_en_1966.jpg",
+    "artist": "Palazzi ed. Edizioni Astra, Milano (chiusura 1986)",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Vicente Feola": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vicente_feola_julesrimet.jpg",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Fritz Walter": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fritz_Walter_cropped_2.JPG",
+    "artist": "Bundesarchiv_Bild_183-41853-0008,_SC_Wismut_gegen_1._FC_Kaiserslautern.jpg: Franck/Opitz derivative work: IgorMagic (talk)",
+    "license": "CC BY-SA 3.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "usage_terms": "CC BY-SA 3.0 de"
+  },
+  "Sepp Herberger": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Sepp_Herberger,_Duitse_bondstrainer_op_tribune,_Bestanddeelnr_908-4125_(cropped).jpg",
+    "artist": "Wim van Rossem for Anefo",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "usage_terms": "CC0"
+  },
+  "Juan López Fontana": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Fontana.png",
+    "artist": "Bildbyrån",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "usage_terms": "CC BY-SA 4.0"
+  },
+  "Obdulio Varela": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Obdulio_varela_uruguay.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Vittorio Pozzo": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Vittorio_Pozzo_allenatore.jpg",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Gianpiero Combi": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Gianpiero_Combi_1920s_Juve.jpg",
+    "artist": "Unknown author",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
+  },
+  "Alberto Suppici": {
+    "file_page": "https://commons.wikimedia.org/wiki/File:Suppici.jpg",
+    "artist": "El Grafico",
+    "license": "Public domain",
+    "license_url": "",
+    "usage_terms": "Public domain"
   }
 }

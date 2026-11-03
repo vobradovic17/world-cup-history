@@ -38,42 +38,83 @@ def record_flag(team):
     return f'<img class="record-flag" src="assets/team-flags/{TEAM_FLAGS[team]}.svg" alt="{esc(team)} flag" width="22" height="15">'
 
 
-def preview_person(name, team, extra="", prefix=""):
+def preview_person(name, team, extra=""):
     flag = f'<img class="record-preview-flag" src="assets/team-flags/{TEAM_FLAGS[team]}.svg" alt="{esc(team)} flag" width="22" height="15">'
     suffix = f'<span>{esc(extra)}</span>' if extra else ""
-    return f'<span class="record-preview-person">{esc(prefix)}{esc(name)}{flag}</span>{suffix}'
+    return f'<span class="record-preview-person">{esc(name)}{flag}</span>{suffix}'
 
 
-def featured_team(player):
-    if player["awards"]:
-        return player["awards"][0]["team"]
-    if player["final_goals"]:
-        return player["final_goals"][0]["team"]
-    return player["world_cup_highlights"][0]["team"]
+PLAYER_BY_NAME = {player["name"]: player for player in PLAYERS}
+
+
+def record_profiles(people):
+    profiles = []
+    for name, team in people:
+        if not name:
+            profiles.append('<div class="record-profile"><p>No player was selected for this edition.</p></div>')
+            continue
+        player = PLAYER_BY_NAME.get(name)
+        if not player:
+            raise ValueError(f"Missing record profile: {name}")
+        photo = SOURCES.get(name)
+        image_file = photo["file"] if photo else "assets/player-portraits/fallback.svg"
+        image_alt = "" if photo else f"Illustrated placeholder for {name}"
+        image = f'<img class="record-profile-image" src="{esc(image_file)}" alt="{esc(image_alt)}" loading="lazy" width="240" height="270">'
+        source = f'<a class="record-profile-source" href="{esc(photo["page"])}" target="_blank" rel="noopener noreferrer">Image source ↗</a>' if photo else ""
+        stats = [("World cups", player["world_cups_played"]), ("Matches", player["matches_played"])]
+        if "clean_sheets" in player:
+            stats.append(("Clean sheets", player["clean_sheets"]))
+        else:
+            stats.append(("Goals", player["goals_scored"]))
+        stats_items = ''.join(f'<div><dt>{label}</dt><dd>{esc(value)}</dd></div>' for label, value in stats)
+        stats_html = f'<dl class="record-profile-stats" aria-label="World Cup playing record">{stats_items}</dl>' if any(value for _, value in stats) else ''
+        best_placement = player["best_placement"]
+        if best_placement:
+            years = ", ".join(str(year) for year in best_placement["years"])
+            placement_tone = {
+                "Champion": "gold",
+                "Runner-up": "silver",
+                "Third place": "bronze",
+            }.get(best_placement["placement"])
+            placement_class = "record-profile-award"
+            if placement_tone:
+                placement_class += f" record-profile-placement--{placement_tone}"
+            placement = f'<span class="{placement_class}">{esc(best_placement["placement"])} · {esc(years)}</span>'
+            placement_html = f'<div class="record-profile-awards record-profile-placement"><span class="record-profile-awards-label">Best placement</span><div class="record-profile-awards-list">{placement}</div></div>'
+        else:
+            placement_html = ''
+        awards = ''.join(
+            f'<span class="record-profile-award">{esc(award["award"])} · {award["year"]}'
+            f'{" · retrospective" if award.get("selection") == "retrospective" else ""}</span>'
+            for award in player["awards"]
+        )
+        awards_html = f'<div class="record-profile-awards"><span class="record-profile-awards-label">Awards</span><div class="record-profile-awards-list">{awards}</div></div>' if awards else ''
+        parts = [part.strip() for part in player["profile"].split("\n\n") if part.strip()]
+        full_profile = ''.join(f'<p>{esc(part)}</p>' for part in parts)
+        paragraphs = f'''<details class="record-profile-more"><summary><span class="more-closed">Show more</span><span class="more-open">Show less</span><span aria-hidden="true">⌄</span></summary><div class="record-profile-extra">{full_profile}</div></details>'''
+        profiles.append(f'''<article class="record-profile"><div class="record-profile-media">{image}{source}</div><div class="record-profile-copy"><div class="record-profile-lead"><h3>{esc(name)} {record_flag(team)}</h3>{stats_html}</div><div class="record-profile-details">{awards_html}{placement_html}<div class="record-profile-text">{paragraphs}</div></div></div></article>''')
+    return f'<div class="record-entry-panel"><div class="record-profile-list">{"".join(profiles)}</div></div>'
 
 
 def record_list(records, number_key, unit):
     rows = []
     for record in records:
         name = record["name"]
-        player_index = next((i for i, item in enumerate(PLAYERS, 1) if item["name"] == name), None)
-        name_html = f'<a href="#player-{player_index}">{esc(name)}</a>' if player_index else esc(name)
+        name_html = esc(name)
         rows.append(
-            f'<li><span class="record-rank">{record["rank"]:02d}</span>'
+            f'<li class="record-item"><details class="record-entry" name="record-{number_key}">'
+            f'<summary class="record-entry-heading"><span class="record-rank">{record["rank"]:02d}</span>'
             f'<span class="record-person"><strong>{name_html}</strong>{record_flag(record["team"])}</span>'
-            f'<span class="record-number" aria-label="{esc(record[number_key])} {unit}">{esc(record[number_key])}<small>{unit}</small></span></li>'
+            f'<span class="record-entry-meta"><span class="record-number" aria-label="{esc(record[number_key])} {unit}">{esc(record[number_key])}<small>{unit}</small></span><span class="record-entry-chevron" aria-hidden="true">⌄</span></span></summary>'
+            f'{record_profiles([(name, record["team"])])}</details></li>'
         )
     return "\n".join(rows)
-
-
-PLAYER_INDEX = {player["name"]: index for index, player in enumerate(PLAYERS, 1)}
 
 
 def record_person(name, team):
     if not name:
         return '<span class="record-person record-person-empty"><strong>Not awarded</strong></span>'
-    index = PLAYER_INDEX.get(name)
-    label = f'<a href="#player-{index}">{esc(name)}</a>' if index else esc(name)
+    label = esc(name)
     return f'<span class="record-person"><strong>{label}</strong>{record_flag(team)}</span>'
 
 
@@ -82,10 +123,12 @@ def tournament_record_list(records, kind):
     for record in reversed(records):
         if kind == "scorers":
             people = "".join(record_person(player["name"], player["team"]) for player in record["players"])
+            profile_people = [(player["name"], player["team"]) for player in record["players"]]
             meta = f'<span class="record-number" aria-label="{record["goals"]} goals">{record["goals"]}<small>goals</small></span>'
         else:
             field = "captain" if kind == "captains" else "coach" if kind == "coaches" else "name"
             people = record_person(record[field], record["team"])
+            profile_people = [(record[field], record["team"])]
             if kind == "best_players":
                 label = "Golden Ball" if record["selection"] == "golden_ball" else "Retrospective"
             elif kind == "young_players":
@@ -97,8 +140,10 @@ def tournament_record_list(records, kind):
             meta = f'<span class="record-edition-note">{esc(label)}</span>' if label else ""
         row_class = "record-edition-row" + (" record-edition-row--plain" if not meta else "")
         rows.append(
-            f'<li class="{row_class}"><span class="record-year">{record["year"]}</span>'
-            f'<span class="record-people">{people}</span>{meta}</li>'
+            f'<li class="record-item"><details class="record-entry" name="record-{kind}">'
+            f'<summary class="record-entry-heading {row_class}"><span class="record-year">{record["year"]}</span>'
+            f'<span class="record-people">{people}</span><span class="record-entry-meta">{meta}<span class="record-entry-chevron" aria-hidden="true">⌄</span></span></summary>'
+            f'{record_profiles(profile_people)}</details></li>'
         )
     return "\n".join(rows)
 
@@ -124,31 +169,6 @@ tournament_disclosures = "\n".join([
 ])
 
 
-cards = []
-for index, player in enumerate(PLAYERS, 1):
-    paragraphs = [part.strip() for part in player["profile"].split("\n\n") if part.strip()]
-    first = paragraphs[0] if paragraphs else ""
-    rest = paragraphs[1:]
-    team = featured_team(player)
-    flag = f'<img class="player-flag" src="assets/team-flags/{TEAM_FLAGS[team]}.svg" alt="{esc(team)} flag" width="32" height="22">'
-    photo = SOURCES.get(player["name"])
-    image = esc(photo["file"]) if photo else "assets/player-portraits/fallback.svg"
-    credit = CREDITS.get(player["name"], {})
-    source_page = credit.get("file_page", photo["page"] if photo else "")
-    photo_link = f'<a class="photo-source" href="{esc(source_page)}" target="_blank" rel="noopener noreferrer" aria-label="Image source for {esc(player["name"])}">Image source ↗</a>' if photo else ""
-    more = ""
-    if rest:
-        extra = "".join(f'<p>{esc(part)}</p>' for part in rest)
-        more = f'<details class="player-more"><summary><span class="more-closed">Read full profile</span><span class="more-open">Show less</span><span aria-hidden="true">↗</span></summary><div class="player-extra">{extra}</div></details>'
-    cards.append(f'''<section class="player-card" id="player-{index}" aria-labelledby="player-title-{index}">
-      <div class="player-image-wrap"><img src="{image}" alt="{esc(player['name'])}" loading="lazy" width="680" height="760">{photo_link}</div>
-      <div class="player-copy">
-        <h2 id="player-title-{index}">{esc(player['name'])} {flag}</h2>
-        <p class="player-intro">{esc(first)}</p>
-        {more}
-      </div>
-    </section>''')
-
 credit_rows = []
 for player in PLAYERS:
     credit = CREDITS.get(player["name"])
@@ -156,7 +176,9 @@ for player in PLAYERS:
         continue
     artist = credit["artist"] or "Creator listed on source page"
     license_name = credit["license"] or "See source page"
-    credit_rows.append(f'<li><a href="{esc(credit["file_page"])}" target="_blank" rel="noopener noreferrer">{esc(player["name"])}</a><span>{esc(artist)} · {esc(license_name)}</span></li>')
+    license_url = credit.get("license_url")
+    license_html = f'<a href="{esc(license_url)}" target="_blank" rel="noopener noreferrer">{esc(license_name)}</a>' if license_url else esc(license_name)
+    credit_rows.append(f'<li><a href="{esc(credit["file_page"])}" target="_blank" rel="noopener noreferrer">{esc(player["name"])}</a><span>{esc(artist)} · {license_html}</span></li>')
 
 
 page = f'''<!doctype html>
@@ -165,7 +187,7 @@ page = f'''<!doctype html>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#0c354a">
-  <meta name="description" content="Meet {len(PLAYERS)} players whose performances shaped World Cup history and explore records, awards, captains and coaches across the tournaments.">
+  <meta name="description" content="Explore World Cup player records, awards, winning captains and coaches across the tournaments.">
   <title>Players | World Cup History</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -174,7 +196,7 @@ page = f'''<!doctype html>
   <link rel="stylesheet" href="players.css">
 </head>
 <body class="players-page">
-  <a class="skip-link" href="#player-list">Skip to players</a>
+  <a class="skip-link" href="#player-records">Skip to player records</a>
   <header class="site-header">
     <a class="wordmark" href="index.html#top" aria-label="World Cup History home"><span class="wordmark-mark" aria-hidden="true">◒</span><span>world cup<br><em>history</em></span></a>
     <nav class="site-nav" aria-label="Primary navigation"><a href="index.html">Tournaments</a><a href="teams.html">Teams</a><a class="is-current" aria-current="page" href="players.html">Players</a></nav>
@@ -185,10 +207,11 @@ page = f'''<!doctype html>
         <p class="players-kicker"><span class="players-kicker-line" aria-hidden="true"></span><span>A century of football <span class="players-kicker-years">(1930 - 2030)</span></span></p>
         <h1 id="page-title">The players<br><em>across the eras.</em></h1>
       </div>
-      <div class="players-intro-note"><p>Explore each tournament's standout players, winning captains and coaches, all-time records, and profiles from across the eras.</p></div>
+      <!-- <div class="players-intro-note"><p>Explore each tournament's standout players, winning captains and coaches, all-time records, and profiles from across the eras.</p></div> -->
+      <div class="players-intro-note"><p>Explore each tournament's standout players, winning captains and coaches, and all-time records.</p></div>
     </section>
     <div class="players-layout">
-      <section class="player-records" aria-label="World Cup player records">
+      <section class="player-records" id="player-records" aria-label="World Cup player records">
         {tournament_disclosures}
         <details class="record-disclosure" name="player-records">
           <summary><span class="record-row-inner"><span class="record-title">Top goalscorers <small>(All time)</small></span><span class="record-preview">{preview_person(SCORERS[0]['name'], SCORERS[0]['team'], f'· {SCORERS[0]["goals"]} goals')}</span><span class="record-count">{len(SCORERS)} players</span><span class="record-chevron" aria-hidden="true">⌄</span></span></summary>
@@ -198,26 +221,11 @@ page = f'''<!doctype html>
           <summary><span class="record-row-inner"><span class="record-title">Most appearances</span><span class="record-preview">{preview_person(APPEARANCES[0]['name'], APPEARANCES[0]['team'], f'· {APPEARANCES[0]["matches"]} matches')}</span><span class="record-count">{len(APPEARANCES)} players</span><span class="record-chevron" aria-hidden="true">⌄</span></span></summary>
           <div class="record-panel"><ol class="record-list">{record_list(APPEARANCES, 'matches', 'matches')}</ol></div>
         </details>
-        <details class="record-disclosure" name="player-records" id="prominent-players">
-          <summary id="player-list"><span class="record-row-inner"><span class="record-title">Prominent players</span><span class="record-preview">{preview_person(PLAYERS[0]['name'], featured_team(PLAYERS[0]), prefix='From ')}{preview_person(PLAYERS[-1]['name'], featured_team(PLAYERS[-1]), prefix='to ')}</span><span class="record-count">{len(PLAYERS)} players</span><span class="record-chevron" aria-hidden="true">⌄</span></span></summary>
-          <div class="players-main"><div class="player-list">{''.join(cards)}</div></div>
-        </details>
       </section>
     </div>
-    <details class="photo-credits"><summary>Photo credits <span aria-hidden="true">↗</span></summary><p>Select a name for its image source and usage details. Local images were converted to WebP for this page; some match photographs are served by their publishers.</p><ul>{''.join(credit_rows)}</ul></details>
+    <details class="photo-credits"><summary>Photo credits <span aria-hidden="true">↗</span></summary><p>Select a name for its image source and usage details. Local images were converted to WebP, and some were cropped; some match photographs are served by their publishers.</p><ul>{''.join(credit_rows)}</ul></details>
   </main>
   <footer class="site-footer"><span>World Cup History © 2026</span><span>Made for the curious</span><a href="index.html#tournament-timeline">Explore tournaments ↑</a></footer>
-  <script>
-    function revealPlayerFromHash() {{
-      if (!/^#player-[0-9]+$/.test(location.hash)) return;
-      const player = document.getElementById(location.hash.slice(1));
-      if (!player) return;
-      document.getElementById('prominent-players').open = true;
-      requestAnimationFrame(() => player.scrollIntoView());
-    }}
-    window.addEventListener('hashchange', revealPlayerFromHash);
-    revealPlayerFromHash();
-  </script>
 </body>
 </html>
 '''

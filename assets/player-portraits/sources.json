@@ -318,5 +318,275 @@
     "file": "assets/player-portraits/64.webp",
     "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jose_nasazzi_urug.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Jose_nasazzi_urug.jpg"
+  },
+  "Cristiano Ronaldo": {
+    "file": "assets/player-portraits/65.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg"
+  },
+  "Ivan Perišić": {
+    "file": "assets/player-portraits/66.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Ivan_Perisic_Croatia_v_Portugal_2_July_2026-033.jpg/500px-Ivan_Perisic_Croatia_v_Portugal_2_July_2026-033.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Ivan_Perisic_Croatia_v_Portugal_2_July_2026-033.jpg"
+  },
+  "Luis de la Fuente": {
+    "file": "assets/player-portraits/67.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Luis_de_la_Fuente_Argentina_v_Spain_19_July_2026-271_%28cropped%29.jpg/500px-Luis_de_la_Fuente_Argentina_v_Spain_19_July_2026-271_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Luis_de_la_Fuente_Argentina_v_Spain_19_July_2026-271_(cropped).jpg"
+  },
+  "Nicolás Otamendi": {
+    "file": "assets/player-portraits/68.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Nicolas_Otamendi_Argentina_v_Spain_19_July_2026-059_%28cropped%29.jpg/500px-Nicolas_Otamendi_Argentina_v_Spain_19_July_2026-059_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Nicolas_Otamendi_Argentina_v_Spain_19_July_2026-059_(cropped).jpg"
+  },
+  "Pau Cubarsí": {
+    "file": "assets/player-portraits/69.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg/500px-Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Pau_Cubarsi_Argentina_v_Spain_19_July_2026-181_(cropped).jpg"
+  },
+  "Unai Simón": {
+    "file": "assets/player-portraits/70.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Unai_Simon_Argentina_v_Spain_19_July_2026-078_%28cropped%29.jpg/500px-Unai_Simon_Argentina_v_Spain_19_July_2026-078_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Unai_Simon_Argentina_v_Spain_19_July_2026-078_(cropped).jpg"
+  },
+  "Emiliano Martínez": {
+    "file": "assets/player-portraits/71.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg/500px-Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Emiliano_Martinez_Argentina_v_Spain_19_July_2026-269.jpg"
+  },
+  "Lionel Scaloni": {
+    "file": "assets/player-portraits/72.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Lionel_Scaloni_Argentina_v_Spain_19_July_2026-239_%28cropped%29.jpg/500px-Lionel_Scaloni_Argentina_v_Spain_19_July_2026-239_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lionel_Scaloni_Argentina_v_Spain_19_July_2026-239_(cropped).jpg"
+  },
+  "Didier Deschamps": {
+    "file": "assets/player-portraits/73.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Didier_Deschamps_France_v_Senegal_16_June_2026-294.jpg/500px-Didier_Deschamps_France_v_Senegal_16_June_2026-294.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Didier_Deschamps_France_v_Senegal_16_June_2026-294.jpg"
+  },
+  "Hugo Lloris": {
+    "file": "assets/player-portraits/74.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Lloris_2018_%28cropped%29.jpg/500px-Lloris_2018_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lloris_2018_(cropped).jpg"
+  },
+  "Joachim Löw": {
+    "file": "assets/player-portraits/75.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/20180602_FIFA_Friendly_Match_Austria_vs._Germany_Jogi_L%C3%B6w_850_1386.jpg/500px-20180602_FIFA_Friendly_Match_Austria_vs._Germany_Jogi_L%C3%B6w_850_1386.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:20180602_FIFA_Friendly_Match_Austria_vs._Germany_Jogi_L%C3%B6w_850_1386.jpg"
+  },
+  "Philipp Lahm": {
+    "file": "assets/player-portraits/76.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Philipp_Lahm_auf_der_Berlinale_2024%2C_Ausschnitt.jpg/500px-Philipp_Lahm_auf_der_Berlinale_2024%2C_Ausschnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Philipp_Lahm_auf_der_Berlinale_2024,_Ausschnitt.jpg"
+  },
+  "Iker Casillas": {
+    "file": "assets/player-portraits/77.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Iker-Casillas-SportsTrade-2021-cropped.jpg/500px-Iker-Casillas-SportsTrade-2021-cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Iker-Casillas-SportsTrade-2021-cropped.jpg"
+  },
+  "Vicente del Bosque": {
+    "file": "assets/player-portraits/78.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Vicente_del_Bosque_Euro_2012_final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Vicente_del_Bosque_Euro_2012_final.jpg"
+  },
+  "Lukas Podolski": {
+    "file": "assets/player-portraits/79.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Lukas_Podolski_2023.jpg/500px-Lukas_Podolski_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Lukas_Podolski_2023.jpg"
+  },
+  "Marcello Lippi": {
+    "file": "assets/player-portraits/80.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Marcello_Lippi_at_China-Iran_press_conference_20190123.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Marcello_Lippi_at_China-Iran_press_conference_20190123.jpg"
+  },
+  "Landon Donovan": {
+    "file": "assets/player-portraits/81.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NC_Courage_vs_SD_Wave_%28Oct_2024%29_045.jpg/500px-NC_Courage_vs_SD_Wave_%28Oct_2024%29_045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_SD_Wave_(Oct_2024)_045.jpg"
+  },
+  "Luiz Felipe Scolari": {
+    "file": "assets/player-portraits/82.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Felip%C3%A3o_cropped.jpg/500px-Felip%C3%A3o_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Felip%C3%A3o_cropped.jpg"
+  },
+  "Paolo Maldini": {
+    "file": "assets/player-portraits/83.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Paolo_Maldini_AC_Milan_Technical_director_2018.jpg/500px-Paolo_Maldini_AC_Milan_Technical_director_2018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Paolo_Maldini_AC_Milan_Technical_director_2018.jpg"
+  },
+  "Aimé Jacquet": {
+    "file": "assets/player-portraits/84.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Aime_Jacquet_portrait.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Aime_Jacquet_portrait.jpg"
+  },
+  "Jürgen Klinsmann": {
+    "file": "assets/player-portraits/85.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg/500px-J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:J%C3%BCrgen_Klinsmann_14021113000678638425063004371092_64131.jpg"
+  },
+  "Michael Owen": {
+    "file": "assets/player-portraits/86.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Michael_Owen.jpg/500px-Michael_Owen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Michael_Owen.jpg"
+  },
+  "Carlos Alberto Parreira": {
+    "file": "assets/player-portraits/87.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Carlos_Alberto_Parreira_at_University_of_the_Witwatersrand_2010-06-04_4.jpg/500px-Carlos_Alberto_Parreira_at_University_of_the_Witwatersrand_2010-06-04_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_Alberto_Parreira_at_University_of_the_Witwatersrand_2010-06-04_4.jpg"
+  },
+  "Dunga": {
+    "file": "assets/player-portraits/88.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Aecio_Neves_e_Dunga_-_17-06-2008_%288368243127%29_%28cropped%29.jpg/500px-Aecio_Neves_e_Dunga_-_17-06-2008_%288368243127%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Aecio_Neves_e_Dunga_-_17-06-2008_(8368243127)_(cropped).jpg"
+  },
+  "Marc Overmars": {
+    "file": "assets/player-portraits/89.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Marc_Overmars.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Marc_Overmars.jpg"
+  },
+  "Michel Preud'homme": {
+    "file": "assets/player-portraits/90.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Michel_Preud%27homme_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Michel_Preud%27homme_2.JPG"
+  },
+  "Robert Prosinečki": {
+    "file": "assets/player-portraits/91.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Prosinecki_in_2025.jpg/500px-Prosinecki_in_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Prosinecki_in_2025.jpg"
+  },
+  "Carlos Bilardo": {
+    "file": "assets/player-portraits/92.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Narig%C3%B3n_Bilardo_1986.jpg/500px-Narig%C3%B3n_Bilardo_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Narig%C3%B3n_Bilardo_1986.jpg"
+  },
+  "Enzo Scifo": {
+    "file": "assets/player-portraits/93.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Enzo_scifo_belgium.jpg/500px-Enzo_scifo_belgium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Enzo_scifo_belgium.jpg"
+  },
+  "Władysław Żmuda": {
+    "file": "assets/player-portraits/94.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wladyslaw_Zmuda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Wladyslaw_Zmuda.jpg"
+  },
+  "Dino Zoff": {
+    "file": "assets/player-portraits/95.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Dino_Zoff_%281974%29.jpg/500px-Dino_Zoff_%281974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Dino_Zoff_(1974).jpg"
+  },
+  "Enzo Bearzot": {
+    "file": "assets/player-portraits/96.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Enzo_Bearzot_1982.jpg/500px-Enzo_Bearzot_1982.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Enzo_Bearzot_1982.jpg"
+  },
+  "Manuel Amorós": {
+    "file": "assets/player-portraits/97.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Manuel_amoros_france_1986.jpg/500px-Manuel_amoros_france_1986.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Manuel_amoros_france_1986.jpg"
+  },
+  "Antonio Cabrini": {
+    "file": "assets/player-portraits/98.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Cabrini_sez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Cabrini_sez.JPG"
+  },
+  "César Luis Menotti": {
+    "file": "assets/player-portraits/99.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/C%C3%A9sar_Luis_Menotti_in_Recoleta.jpg/500px-C%C3%A9sar_Luis_Menotti_in_Recoleta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:C%C3%A9sar_Luis_Menotti_in_Recoleta.jpg"
+  },
+  "Daniel Passarella": {
+    "file": "assets/player-portraits/100.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Passarella_copa_mundo.jpg/500px-Passarella_copa_mundo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Passarella_copa_mundo.jpg"
+  },
+  "Helmut Schön": {
+    "file": "assets/player-portraits/101.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Fu%C3%9Fball-Bundestrainer_Helmut_Sch%C3%B6n_%28Kiel_87.306%29.jpg/500px-Fu%C3%9Fball-Bundestrainer_Helmut_Sch%C3%B6n_%28Kiel_87.306%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Fu%C3%9Fball-Bundestrainer_Helmut_Sch%C3%B6n_(Kiel_87.306).jpg"
+  },
+  "Carlos Alberto Torres": {
+    "file": "assets/player-portraits/102.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Carlos_alberto_cosmos.jpg/500px-Carlos_alberto_cosmos.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Carlos_alberto_cosmos.jpg"
+  },
+  "Mário Zagallo": {
+    "file": "assets/player-portraits/103.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/M%C3%A1rio_Zagallo_1974.jpg/500px-M%C3%A1rio_Zagallo_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:M%C3%A1rio_Zagallo_1974.jpg"
+  },
+  "Teófilo Cubillas": {
+    "file": "assets/player-portraits/104.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Te%C3%B3filo_Cubillas_1978.jpg/500px-Te%C3%B3filo_Cubillas_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Te%C3%B3filo_Cubillas_1978.jpg"
+  },
+  "Uwe Seeler": {
+    "file": "assets/player-portraits/105.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Uwe_Seeler_1966_%28cropped%29.jpg/500px-Uwe_Seeler_1966_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Uwe_Seeler_1966_(cropped).jpg"
+  },
+  "Alf Ramsey": {
+    "file": "assets/player-portraits/106.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Alf_Ramsey_%281969%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Alf_Ramsey_(1969).jpg"
+  },
+  "Bobby Moore": {
+    "file": "assets/player-portraits/107.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Bobby_moore_elgrafico_1970.jpg/500px-Bobby_moore_elgrafico_1970.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Bobby_moore_elgrafico_1970.jpg"
+  },
+  "Aymoré Moreira": {
+    "file": "assets/player-portraits/108.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Aymor%C3%A9_Moreira_%281963%29.png/330px-Aymor%C3%A9_Moreira_%281963%29.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Aymor%C3%A9_Moreira_(1963).png"
+  },
+  "Mauro Ramos": {
+    "file": "assets/player-portraits/109.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Mauro_Ramos_en_1962.jpg/250px-Mauro_Ramos_en_1962.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mauro_Ramos_en_1962.jpg"
+  },
+  "Bellini": {
+    "file": "assets/player-portraits/110.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Hilderaldo_Lu%C3%ADs_Bellini_en_1966.jpg/500px-Hilderaldo_Lu%C3%ADs_Bellini_en_1966.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Hilderaldo_Lu%C3%ADs_Bellini_en_1966.jpg"
+  },
+  "Vicente Feola": {
+    "file": "assets/player-portraits/111.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Vicente_feola_julesrimet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Vicente_feola_julesrimet.jpg"
+  },
+  "Fritz Walter": {
+    "file": "assets/player-portraits/112.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Fritz_Walter_cropped_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Fritz_Walter_cropped_2.JPG"
+  },
+  "Sepp Herberger": {
+    "file": "assets/player-portraits/113.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Sepp_Herberger%2C_Duitse_bondstrainer_op_tribune%2C_Bestanddeelnr_908-4125_%28cropped%29.jpg/500px-Sepp_Herberger%2C_Duitse_bondstrainer_op_tribune%2C_Bestanddeelnr_908-4125_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Sepp_Herberger,_Duitse_bondstrainer_op_tribune,_Bestanddeelnr_908-4125_(cropped).jpg"
+  },
+  "Juan López Fontana": {
+    "file": "assets/player-portraits/114.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Fontana.png/120px-Fontana.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Fontana.png"
+  },
+  "Obdulio Varela": {
+    "file": "assets/player-portraits/115.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Obdulio_varela_uruguay.jpg/330px-Obdulio_varela_uruguay.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Obdulio_varela_uruguay.jpg"
+  },
+  "Vittorio Pozzo": {
+    "file": "assets/player-portraits/116.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Vittorio_Pozzo_allenatore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Vittorio_Pozzo_allenatore.jpg"
+  },
+  "Gianpiero Combi": {
+    "file": "assets/player-portraits/117.webp",
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Gianpiero_Combi_1920s_Juve.jpg/500px-Gianpiero_Combi_1920s_Juve.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Gianpiero_Combi_1920s_Juve.jpg"
+  },
+  "Alberto Suppici": {
+    "file": "assets/player-portraits/118.webp",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Suppici.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "page": "https://commons.wikimedia.org/wiki/File:Suppici.jpg"
   }
 }

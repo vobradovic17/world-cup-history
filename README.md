@@ -2,6 +2,22 @@
 
 This is a companion repo for the [worldcuphistory.com](https://worldcuphistory.com/) website.
 
+## Player record profiles
+
+`data/world-cup-players-highlighted.json` retains all 118 player and coach profiles. The visible record sections use these profiles by name; eight profiles remain in the data file even though no current record row references them. Every entry uses the same `name`, `latest_highlight_year`, `awards`, `final_goals`, and `profile` fields. Run `python3 build_players.py` after editing this file.
+
+Every profile also has `world_cups_played`, `matches_played`, and `goals_scored`. Run `python3 update_player_stats.py` to recalculate these totals from the `world-cup-YYYY-matches.json` files. A World Cup counts when the person played in at least one match; match totals include starts and substitute appearances; goal totals exclude own goals and shootouts. These are playing statistics, so coaches with no World Cup match as a player have zeroes.
+
+`best_placement` uses the same `{ "placement", "years" }` format as the team directory, restricted to tournaments in which the person played. Coach-only profiles have `null` because this field describes playing results.
+
+Goalkeeper profiles also have `clean_sheets`, counting matches they played in which their team conceded no goals. The updater identifies goalkeepers from the first lineup position and follows goalkeeper substitutions.
+
+Player and coach portraits are indexed in `assets/player-portraits/sources.json`; creator and license details are stored in `assets/player-portraits/credits.json` and listed in the page's Photo credits section. The local portraits are WebP conversions of the linked source files; some are cropped to keep faces visible.
+
+The record profiles were checked against the tournament and award files in `data/` and FIFA's [World Cup champions history](https://www.fifa.com/en/tournaments/mens/worldcup/articles/world-cup-champions-1930-1978-uruguay-italy-germany-brazil-england-argentina), [all-time scoring list](https://www.fifa.com/en/id/mens/worldcup/articles/fifa-world-cup-all-time-leading-scorers), [appearance records](https://www.fifa.com/en/tournaments/mens/worldcup/articles/players-most-appearances-games-matches-history), [Golden Glove winners](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/unai-simon-adidas-golden-glove), and [2026 award winners](https://www.fifa.com/mens/articles/award-winners). Young-player entries before 2006 are retrospective selections, as recorded in the local award data.
+
+`awards` mirrors the local tournament top scorer, best player, best young player, and best goalkeeper lists for every profile. Retrospective and Golden Ball selections retain their source tags. Winning captains and coaches have their own record sections and are not counted as individual awards. `final_goals` records goals by [Zagallo in 1958](https://www.fifa.com/pt/tournaments/mens/worldcup/articles/brasil-suecia-final-copa-1958), [Carlos Alberto in 1970](https://www.fifa.com/es/tournaments/mens/worldcup/canadamexicousa2026/articles/carlos-alberto-brasil-italia-1970-copa-del-mundo), and [Ivan Perišić in 2018](https://inside.fifa.com/fr/tournaments/mens/worldcup/2018russia/news/les-bleus-decrochent-leur-deuxieme-etoile). Empty arrays mean that no achievement or final goal of these types is recorded for that person.
+
 ## Tournament pages
 
 Each edition has a standalone `tournament-YYYY.html` page. Match results, dates, and scores come from its file in `data/`. `data/tournament-editorial.json` holds the short editorial summaries and page facts; `data/tournament-page-stories.json` holds the five-paragraph narratives shown only on the tournament pages. The landing-page summaries remain in `script.js`. Run `python3 build_tournaments.py` after changing page data or stories to rebuild all pages. The 2030 file records an upcoming edition with no results.
