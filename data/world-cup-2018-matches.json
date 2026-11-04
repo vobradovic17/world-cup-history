@@ -299,7 +299,8 @@
         {
           "team": "Portugal",
           "player": "CRISTIANO RONALDO",
-          "minute": "4"
+          "minute": "4",
+          "penalty": true
         },
         {
           "team": "Spain",
@@ -408,12 +409,14 @@
         {
           "team": "France",
           "player": "Antoine GRIEZMANN",
-          "minute": "58"
+          "minute": "58",
+          "penalty": true
         },
         {
           "team": "Australia",
           "player": "Mile JEDINAK",
-          "minute": "62"
+          "minute": "62",
+          "penalty": true
         },
         {
           "team": "France",
@@ -682,7 +685,8 @@
         {
           "team": "Croatia",
           "player": "Luka MODRIC",
-          "minute": "71"
+          "minute": "71",
+          "penalty": true
         }
       ],
       "substitutions": [
@@ -1024,7 +1028,8 @@
         {
           "team": "Sweden",
           "player": "Andreas GRANQVIST",
-          "minute": "65"
+          "minute": "65",
+          "penalty": true
         }
       ],
       "substitutions": [
@@ -1208,7 +1213,8 @@
         {
           "team": "Tunisia",
           "player": "Ferjani SASSI",
-          "minute": "35"
+          "minute": "35",
+          "penalty": true
         },
         {
           "team": "England",
@@ -1393,7 +1399,8 @@
         {
           "team": "Japan",
           "player": "Shinji KAGAWA",
-          "minute": "6"
+          "minute": "6",
+          "penalty": true
         },
         {
           "team": "Colombia",
@@ -1503,7 +1510,8 @@
         {
           "team": "Egypt",
           "player": "MOHAMED SALAH",
-          "minute": "73"
+          "minute": "73",
+          "penalty": true
         }
       ],
       "substitutions": [
@@ -1845,7 +1853,8 @@
         {
           "team": "Australia",
           "player": "Mile JEDINAK",
-          "minute": "38"
+          "minute": "38",
+          "penalty": true
         }
       ],
       "substitutions": [
@@ -2368,7 +2377,8 @@
         {
           "team": "Belgium",
           "player": "Eden HAZARD",
-          "minute": "6"
+          "minute": "6",
+          "penalty": true
         },
         {
           "team": "Belgium",
@@ -2482,7 +2492,8 @@
         {
           "team": "Mexico",
           "player": "Carlos VELA",
-          "minute": "26"
+          "minute": "26",
+          "penalty": true
         },
         {
           "team": "Mexico",
@@ -2676,7 +2687,8 @@
         {
           "team": "England",
           "player": "Harry KANE",
-          "minute": "22"
+          "minute": "22",
+          "penalty": true
         },
         {
           "team": "England",
@@ -2691,7 +2703,8 @@
         {
           "team": "England",
           "player": "Harry KANE",
-          "minute": "45+1"
+          "minute": "45+1",
+          "penalty": true
         },
         {
           "team": "England",
@@ -3078,7 +3091,8 @@
         {
           "team": "Saudi Arabia",
           "player": "SALMAN ALFARAJ",
-          "minute": "45+6"
+          "minute": "45+6",
+          "penalty": true
         },
         {
           "team": "Saudi Arabia",
@@ -3166,7 +3180,8 @@
         {
           "team": "Iran",
           "player": "Karim ANSARIFARD",
-          "minute": "90+3"
+          "minute": "90+3",
+          "penalty": true
         }
       ],
       "substitutions": [
@@ -3523,7 +3538,8 @@
         {
           "team": "Nigeria",
           "player": "Victor MOSES",
-          "minute": "51"
+          "minute": "51",
+          "penalty": true
         },
         {
           "team": "Argentina",
@@ -3617,7 +3633,8 @@
         {
           "team": "Iceland",
           "player": "Gylfi SIGURDSSON",
-          "minute": "76"
+          "minute": "76",
+          "penalty": true
         },
         {
           "team": "Croatia",
@@ -3800,7 +3817,8 @@
         {
           "team": "Sweden",
           "player": "Andreas GRANQVIST",
-          "minute": "62"
+          "minute": "62",
+          "penalty": true
         },
         {
           "team": "Sweden",
@@ -4408,7 +4426,8 @@
         {
           "team": "France",
           "player": "Antoine GRIEZMANN",
-          "minute": "13"
+          "minute": "13",
+          "penalty": true
         },
         {
           "team": "Argentina",
@@ -4628,7 +4647,8 @@
         {
           "team": "Russia",
           "player": "Artem DZYUBA",
-          "minute": "41"
+          "minute": "41",
+          "penalty": true
         }
       ],
       "substitutions": [
@@ -5093,7 +5113,8 @@
         {
           "team": "England",
           "player": "Harry KANE",
-          "minute": "57"
+          "minute": "57",
+          "penalty": true
         },
         {
           "team": "Colombia",
@@ -5865,7 +5886,8 @@
         {
           "team": "France",
           "player": "Antoine GRIEZMANN",
-          "minute": "38"
+          "minute": "38",
+          "penalty": true
         },
         {
           "team": "France",
