@@ -3,6 +3,7 @@
 import html
 import json
 from pathlib import Path
+from build_player_pages import build_all_player_pages, player_filename
 
 
 ROOT = Path(__file__).resolve().parent
@@ -89,10 +90,8 @@ def record_profiles(people):
             for award in player["awards"]
         )
         awards_html = f'<div class="record-profile-awards"><span class="record-profile-awards-label">Awards</span><div class="record-profile-awards-list">{awards}</div></div>' if awards else ''
-        parts = [part.strip() for part in player["profile"].split("\n\n") if part.strip()]
-        full_profile = ''.join(f'<p>{esc(part)}</p>' for part in parts)
-        paragraphs = f'''<details class="record-profile-more"><summary><span class="more-closed">Show more</span><span class="more-open">Show less</span><span aria-hidden="true">⌄</span></summary><div class="record-profile-extra">{full_profile}</div></details>'''
-        profiles.append(f'''<article class="record-profile"><div class="record-profile-media">{image}{source}</div><div class="record-profile-copy"><div class="record-profile-lead"><h3>{esc(name)} {record_flag(team)}</h3>{stats_html}</div><div class="record-profile-details">{awards_html}{placement_html}<div class="record-profile-text">{paragraphs}</div></div></div></article>''')
+        profile_link = f'<a class="record-profile-link" href="{player_filename(name)}" aria-label="View {esc(name)} profile">View full profile <span aria-hidden="true">↗</span></a>'
+        profiles.append(f'''<article class="record-profile"><div class="record-profile-media">{image}{source}</div><div class="record-profile-copy"><div class="record-profile-lead"><h3>{esc(name)} {record_flag(team)}</h3>{stats_html}</div><div class="record-profile-details">{awards_html}{placement_html}<div class="record-profile-text">{profile_link}</div></div></div></article>''')
     return f'<div class="record-entry-panel"><div class="record-profile-list">{"".join(profiles)}</div></div>'
 
 
@@ -225,9 +224,10 @@ page = f'''<!doctype html>
     </div>
     <details class="photo-credits"><summary>Photo credits <span aria-hidden="true">↗</span></summary><p>Select a name for its image source and usage details. Local images were converted to WebP, and some were cropped; some match photographs are served by their publishers.</p><ul>{''.join(credit_rows)}</ul></details>
   </main>
-  <footer class="site-footer"><span>World Cup History © 2026</span><span>Made for the curious</span><a href="index.html#tournament-timeline">Explore tournaments ↑</a></footer>
+  <footer class="site-footer archive-footer"><span>World Cup History © 2026</span><span>Built with AI - Made for the curious</span><span>Get in touch - Comming soon</span></footer>
 </body>
 </html>
 '''
 (ROOT / "players.html").write_text(page)
 print(f"Built players.html with {len(PLAYERS)} profiles, {len(SCORERS)} scorers and {len(APPEARANCES)} appearance records")
+build_all_player_pages()

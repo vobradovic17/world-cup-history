@@ -58,6 +58,7 @@ def main():
             name_index[key] = profile["name"]
 
     matches = defaultdict(set)
+    match_details = defaultdict(dict)
     tournaments = defaultdict(set)
     goals = defaultdict(int)
     clean_sheets = defaultdict(set)
@@ -69,15 +70,31 @@ def main():
             for side in ("home", "away"):
                 team = match[f"{side}_team"]
                 opponent_side = "away" if side == "home" else "home"
-                participants = [
-                    *match["lineup"][side],
-                    *(sub["player_on"] for sub in match.get("substitutions", []) if sub["team"] == team),
-                ]
-                for raw_name in participants:
+                participants = [(raw_name, True, None) for raw_name in match["lineup"][side]]
+                participants.extend(
+                    (sub["player_on"], False, sub["minute"])
+                    for sub in match.get("substitutions", []) if sub["team"] == team
+                )
+                for raw_name, started, substitution_minute in participants:
                     name = name_index.get(normalize(raw_name))
                     if name:
                         matches[name].add(match_id)
                         tournaments[name].add((year, team))
+                        detail = {
+                            "year": year,
+                            "date": match["date"],
+                            "stage": match["stage"],
+                            "home_team": match["home_team"],
+                            "away_team": match["away_team"],
+                            "score": match["score"],
+                            "started": started,
+                            "lineup": match["lineup"],
+                            "substitutions": match["substitutions"],
+                            "scorers": match["scorers"],
+                        }
+                        if not started:
+                            detail["substitution_minute"] = substitution_minute
+                        match_details[name].setdefault(match_id, detail)
 
                 # The first starter is the goalkeeper. Follow any substitutions
                 # for that position so a replacement is counted as well.
@@ -114,6 +131,11 @@ def main():
     updated = []
     for profile in profiles:
         name = profile["name"]
+        if len(match_details[name]) != len(matches[name]):
+            raise ValueError(
+                f"{name}: found {len(match_details[name])} match details "
+                f"for {len(matches[name])} appearances"
+            )
         years = {year for year, _ in matches[name]}
         finishes = [
             (year, placements[TEAM_ALIASES.get(team, team)][year])
@@ -132,6 +154,7 @@ def main():
             "latest_highlight_year": profile["latest_highlight_year"],
             "world_cups_played": len(years),
             "matches_played": len(matches[name]),
+            "matches": [match_details[name][match_id] for match_id in sorted(matches[name])],
             "goals_scored": goals[name],
             "best_placement": best_placement,
         }

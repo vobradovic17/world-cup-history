@@ -8,6 +8,7 @@ from html import escape
 import json
 from pathlib import Path
 import re
+import sys
 
 from build_teams import FLAGS as TEAM_FLAG_CODES
 
@@ -375,6 +376,10 @@ def build(year: str) -> None:
     (ROOT / f"tournament-{year}.html").write_text(html)
 
 
-for edition in YEARS:
-    build(edition)
-print(f"Built {len(YEARS)} tournament pages")
+if __name__ == "__main__":
+    editions = sys.argv[1:] or YEARS
+    if any(edition not in YEARS for edition in editions):
+        raise SystemExit(f"Unknown tournament edition: {', '.join(edition for edition in editions if edition not in YEARS)}")
+    for edition in editions:
+        build(edition)
+    print(f"Built {len(editions)} tournament page{'s' if len(editions) != 1 else ''}")
