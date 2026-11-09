@@ -59,14 +59,14 @@ const list = document.querySelector('#tournament-list');
 list.innerHTML = tournamentData.map((item, index) => {
   const [year, host, flag, winner, teams, matches, title, titleAccent, story, home, homeScore, awayScore, away, location, finalLabel] = item;
   const isFuture = year === '2030';
-  const bandHeader = `
+  const bandHeader = (deferImages = false) => `
     <div class="band-title"><span class="band-year">${year}</span><span class="band-country">${host}</span></div>
-    <div class="band-winner"><span class="winner-label">${isFuture ? 'Next up' : 'Winner'}</span>${isFuture ? '<span><span class="trophy-icon" role="img" aria-label="World Cup trophy">🏆</span></span>' : `<span class="winner-name"><img class="winner-flag" src="${flag}" alt=""> ${winner}</span>`}</div>
+    <div class="band-winner"><span class="winner-label">${isFuture ? 'Next up' : 'Winner'}</span>${isFuture ? '<span><span class="trophy-icon" role="img" aria-label="World Cup trophy">🏆</span></span>' : `<span class="winner-name"><img class="winner-flag" ${deferImages ? 'data-src' : 'src'}="${flag}" alt=""> ${winner}</span>`}</div>
     <div class="band-stat"><span>${teams} teams</span><span>${matches} matches</span></div>
     <div class="band-arrow" aria-hidden="true"></div>`;
   const detail = `
     <div class="tournament-detail" inert aria-hidden="true">
-      <div class="detail-header"><div class="band-row">${bandHeader}</div></div>
+      <div class="detail-header"><div class="band-row">${bandHeader(true)}</div></div>
       <div class="detail-body">
         <div class="detail-image image-${year}" role="img" aria-label="${year === '1998' ? 'France’s 1998 World Cup winners celebrate on an open-top parade bus' : year === '1962' ? 'Garrincha dribbles the ball during the 1962 World Cup' : year === '2030' ? 'The FIFA World Cup trophy on display in Toronto' : `Editorial football photograph from the ${year} World Cup in ${host}`}"></div>
         <div class="detail-copy">
@@ -79,7 +79,7 @@ list.innerHTML = tournamentData.map((item, index) => {
       </div>
     </div>`;
   return `<article class="tournament" id="tournament-${year}" role="listitem" tabindex="0" data-index="${index}" data-year="${year}" aria-label="${year} ${host} World Cup, ${isFuture ? 'upcoming' : `winner ${winner}`}" aria-current="false">
-    <div class="band-row">${bandHeader}</div>
+    <div class="band-row">${bandHeader()}</div>
     ${detail}
   </article>`;
 }).join('');
@@ -95,6 +95,12 @@ function setActiveTournament(index) {
     tournament.classList.toggle('is-active', active);
     tournament.setAttribute('aria-current', active ? 'true' : 'false');
     const detail = tournament.querySelector('.tournament-detail');
+    if (active) {
+      detail.querySelectorAll('img[data-src]').forEach((image) => {
+        image.src = image.dataset.src;
+        delete image.dataset.src;
+      });
+    }
     detail.inert = !active;
     detail.setAttribute('aria-hidden', String(!active));
   });
