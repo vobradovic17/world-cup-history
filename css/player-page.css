@@ -53,7 +53,7 @@
 .player-hero-success .player-awards span { color: #f7f8ef; }
 .player-hero-success .player-awards small { color: #c4e1d0; }
 .player-hero-success .player-coach-honour { flex: 0 0 100%; margin: 0; padding: 0; border: 0; }
-.player-campaigns { --blue-pale: #d9e8ee; --blue: #103e70; --ink-soft: #557087; padding-block: clamp(3.5rem, 6vw, 6.5rem); }
+.player-campaigns { --blue-pale: #d9e8ee; --blue: #103e70; padding-block: clamp(3.5rem, 6vw, 6.5rem); }
 #world-cups { padding-top: 0; }
 .player-coach-runs { padding-top: 0; }
 .player-campaigns-heading { display: flex; justify-content: space-between; align-items: end; gap: 2rem; max-width: var(--content-max); margin: 0 auto 2.2rem; padding-inline: var(--gutter); }

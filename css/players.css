@@ -27,8 +27,8 @@
 .record-preview { display: flex; align-items: center; flex-wrap: wrap; gap: .2rem .4rem; color: #365566; font-size: 18px; font-weight: 500; line-height: 1.25; }
 .record-preview-person { display: inline-flex; align-items: center; gap: .35rem; white-space: nowrap; }
 .record-preview-flag { display: inline-block; flex: none; width: 22px; height: 15px; object-fit: cover; box-shadow: 0 0 0 1px rgba(16, 45, 63, .12); }
-.record-count { color: var(--green); font: 500 .72rem/1.4 var(--mono); white-space: nowrap; }
-.record-chevron { color: var(--green); font: 1.4rem/1 var(--sans); transition: transform .2s ease; }
+.record-count { color: var(--brand-green); font: 500 .72rem/1.4 var(--mono); white-space: nowrap; }
+.record-chevron { color: var(--brand-green); font: 1.4rem/1 var(--sans); transition: transform .2s ease; }
 .record-disclosure[open] > summary .record-preview { visibility: hidden; }
 .record-disclosure[open] .record-count, .record-disclosure[open] .record-chevron { color: var(--mint); }
 .record-disclosure[open] .record-chevron { transform: rotate(180deg); }
