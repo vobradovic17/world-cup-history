@@ -6,11 +6,11 @@
 .players-page .site-header { position: relative; z-index: 2; }
 .players-intro { display: flex; justify-content: space-between; gap: 2rem; padding: 3vh max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)) 2.2vh; color: #102944; background: #eef3ec; }
 .players-kicker { font: 500 .68rem/1.5 var(--mono); letter-spacing: .085em; text-transform: uppercase; }
-.players-kicker { display: flex; align-items: center; gap: .7rem; margin: 0 0 1.1rem; color: #16815c; font-family: var(--mono); font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: .09em; text-transform: uppercase; }
+.players-kicker { display: flex; align-items: center; gap: .7rem; margin: 0 0 1.1rem; color: var(--brand-green); font-family: var(--mono); font-size: 16px; font-weight: 400; line-height: 1.5; letter-spacing: .09em; text-transform: uppercase; }
 .players-kicker-line { display: inline-block; flex: 0 0 28px; height: 1px; background: currentColor; }
 .players-kicker-years { white-space: nowrap; }
 .players-intro h1 { max-width: 720px; margin: 0; font: 700 clamp(2.6rem, 5.5vw, 5.9rem)/.91 var(--serif); letter-spacing: -.06em; }
-.players-intro h1 em { color: #16815c; }
+.players-intro h1 em { color: var(--brand-green); }
 .players-intro-note { width: min(28rem, 31vw); align-self: end; padding-bottom: .25rem; }
 .players-intro-note p { margin: 0 0 1rem; color: #557087; font-size: 13px; line-height: 1.5; }
 .players-layout { background: var(--blue-pale); }
