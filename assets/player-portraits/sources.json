@@ -86,8 +86,8 @@
   },
   "Fabio Cannavaro": {
     "file": "assets/player-portraits/18.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Fabio_Cannavaro_in_world_cup_2006.jpg/500px-Fabio_Cannavaro_in_world_cup_2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File%3AFabio_Cannavaro_in_world_cup_2006.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Cannavaro%2C_Buffon%2C_Italia-Paraguay_1998.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cannavaro,_Buffon,_Italia-Paraguay_1998.jpg"
   },
   "Gianluigi Buffon": {
     "file": "assets/player-portraits/19.webp",
@@ -111,7 +111,8 @@
   },
   "Zinédine Zidane": {
     "file": "assets/player-portraits/23.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Zinedine_zidane_wcf_2006-edit.jpg/500px-Zinedine_zidane_wcf_2006-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "alt": "Zinédine Zidane in France's kit at the 2006 World Cup final",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Zinedine_zidane_wcf_2006-edit.jpg",
     "page": "https://commons.wikimedia.org/wiki/File%3AZinedine_zidane_wcf_2006-edit.jpg"
   },
   "Davor Šuker": {
@@ -151,8 +152,8 @@
   },
   "Gary Lineker": {
     "file": "assets/player-portraits/31.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Lineker_Nederland_1-3%2C_Bestanddeelnr_934-2662_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File%3ALineker_Nederland_1-3%2C_Bestanddeelnr_934-2662_%28cropped%29.jpg"
+    "source": "https://i.guim.co.uk/img/media/9ba3dbffd64219153af58a62a882081bbef717a0/0_0_1540_1770/master/1540.jpg?crop=none&dpr=1&s=none&width=720",
+    "page": "https://www.theguardian.com/commentisfree/2025/may/21/gary-lineker-was-once-my-rival-i-feel-no-shame-in-saying-i-was-beaten-by-the-best"
   },
   "Diego Maradona": {
     "file": "assets/player-portraits/32.webp",
@@ -176,13 +177,14 @@
   },
   "Johan Cruyff": {
     "file": "assets/player-portraits/36.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Perfumo_cruyff_1974.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File%3APerfumo_cruyff_1974.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Johan_Cruyff_1974c.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Johan_Cruyff_1974c.jpg",
+    "alt": "Johan Cruyff wearing the Netherlands shirt in 1974"
   },
   "Gerd Müller": {
     "file": "assets/player-portraits/37.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Muller%2C_Beckenbauer_en_trainer_Schon_1974.jpg/500px-Muller%2C_Beckenbauer_en_trainer_Schon_1974.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File%3AMuller%2C_Beckenbauer_en_trainer_Schon_1974.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/61/Gerd_M%C3%BCller_M%C3%A9xico_70.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Gerd_M%C3%BCller_M%C3%A9xico_70.png"
   },
   "Franz Beckenbauer": {
     "file": "assets/player-portraits/38.webp",
@@ -226,8 +228,9 @@
   },
   "Ferenc Puskás": {
     "file": "assets/player-portraits/46.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Les_deux_capitaines_de_la_finale_de_Coupe_du_monde_de_football_1954_%28G._Walter%2C_D._Puskas%2C_arbitre_Orlandini%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File%3ALes_deux_capitaines_de_la_finale_de_Coupe_du_monde_de_football_1954_%28G._Walter%2C_D._Puskas%2C_arbitre_Orlandini%29.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Puskas_1954.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Puskas_1954.png",
+    "alt": "Ferenc Puskás playing for Hungary in 1954"
   },
   "Sándor Kocsis": {
     "file": "assets/player-portraits/47.webp",
@@ -276,18 +279,21 @@
   },
   "Grzegorz Lato": {
     "file": "assets/player-portraits/56.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/V.l.n.r._Lato%2C_Boniek_en_trainer_Kulesza%2C_Bestanddeelnr_930-4929_%28Lato_cropped%29.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:V.l.n.r._Lato,_Boniek_en_trainer_Kulesza,_Bestanddeelnr_930-4929_(Lato_cropped).jpg"
+    "alt": "Grzegorz Lato in Poland's kit against Brazil at the 1974 World Cup",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Bundesarchiv_Bild_183-N0706-0040%2C_Fu%C3%9Fball-WM%2C_VR_Polen_-_Brasilien_1-0.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bundesarchiv_Bild_183-N0706-0040,_Fu%C3%9Fball-WM,_VR_Polen_-_Brasilien_1-0.jpg"
   },
   "Flórián Albert": {
     "file": "assets/player-portraits/57.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Fl%C3%B3ri%C3%A1n_Albert_cropped.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fl%C3%B3ri%C3%A1n_Albert_cropped.jpg"
+    "alt": "Flórián Albert in Hungary team sportswear in 1966",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Florian_Albert_en_1966.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Florian_Albert_en_1966.jpg"
   },
   "Valentin Ivanov": {
     "file": "assets/player-portraits/58.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Valentin_Kozmich_Ivanov.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Valentin_Kozmich_Ivanov.jpg"
+    "alt": "Valentin Ivanov wearing a Soviet Union football jersey during his playing career",
+    "source": "https://olympedia-photos.s3.us-east-1.amazonaws.com/27581.jpg",
+    "page": "https://www.olympedia.org/athletes/27581"
   },
   "Dražan Jerković": {
     "file": "assets/player-portraits/59.webp",
@@ -301,8 +307,9 @@
   },
   "Didi": {
     "file": "assets/player-portraits/61.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/0/01/Waldir_Pereira_1958.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Waldir_Pereira_1958.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Didi_pela_Sele%C3%A7%C3%A3o_Brasileira.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Didi_pela_Sele%C3%A7%C3%A3o_Brasileira.jpg",
+    "alt": "Didi wearing Brazil's national team shirt in 1958"
   },
   "Zizinho": {
     "file": "assets/player-portraits/62.webp",
@@ -376,13 +383,13 @@
   },
   "Philipp Lahm": {
     "file": "assets/player-portraits/76.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Philipp_Lahm_auf_der_Berlinale_2024%2C_Ausschnitt.jpg/500px-Philipp_Lahm_auf_der_Berlinale_2024%2C_Ausschnitt.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Philipp_Lahm_auf_der_Berlinale_2024,_Ausschnitt.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Philipp_Lahm%2C_Germany_national_football_team_%2806%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Philipp_Lahm,_Germany_national_football_team_(06).jpg"
   },
   "Iker Casillas": {
     "file": "assets/player-portraits/77.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Iker-Casillas-SportsTrade-2021-cropped.jpg/500px-Iker-Casillas-SportsTrade-2021-cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Iker-Casillas-SportsTrade-2021-cropped.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Casillas_Spain_vs_England_cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Casillas_Spain_vs_England_cropped.jpg"
   },
   "Vicente del Bosque": {
     "file": "assets/player-portraits/78.webp",
@@ -401,8 +408,9 @@
   },
   "Landon Donovan": {
     "file": "assets/player-portraits/81.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/NC_Courage_vs_SD_Wave_%28Oct_2024%29_045.jpg/500px-NC_Courage_vs_SD_Wave_%28Oct_2024%29_045.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:NC_Courage_vs_SD_Wave_(Oct_2024)_045.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Landon_Donovan_-_USA_vs_Algeria.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Landon_Donovan_-_USA_vs_Algeria.jpg",
+    "alt": "Landon Donovan playing for the United States against Algeria at the 2010 World Cup"
   },
   "Luiz Felipe Scolari": {
     "file": "assets/player-portraits/82.webp",
@@ -446,8 +454,8 @@
   },
   "Michel Preud'homme": {
     "file": "assets/player-portraits/90.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/1/17/Michel_Preud%27homme_2.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Michel_Preud%27homme_2.JPG"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Michel_Preud.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Michel_Preud.JPG"
   },
   "Robert Prosinečki": {
     "file": "assets/player-portraits/91.webp",
@@ -466,13 +474,13 @@
   },
   "Władysław Żmuda": {
     "file": "assets/player-portraits/94.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wladyslaw_Zmuda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Wladyslaw_Zmuda.jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/7/70/W%C5%82adys%C5%82aw_%C5%BBmuda%2C_Wim_Jansen_%28%C5%BBmuda_cropped%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:W%C5%82adys%C5%82aw_%C5%BBmuda,_Wim_Jansen_(%C5%BBmuda_cropped).jpg"
   },
   "Dino Zoff": {
     "file": "assets/player-portraits/95.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Dino_Zoff_%281974%29.jpg/500px-Dino_Zoff_%281974%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Dino_Zoff_(1974).jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/50/Dino_zoff_elgrafico_1978.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dino_zoff_elgrafico_1978.jpg"
   },
   "Enzo Bearzot": {
     "file": "assets/player-portraits/96.webp",
@@ -486,8 +494,8 @@
   },
   "Antonio Cabrini": {
     "file": "assets/player-portraits/98.webp",
-    "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Cabrini_sez.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
-    "page": "https://commons.wikimedia.org/wiki/File:Cabrini_sez.JPG"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/Argentina_v_italy_1982_04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Argentina_v_italy_1982_04.jpg"
   },
   "César Luis Menotti": {
     "file": "assets/player-portraits/99.webp",
@@ -521,8 +529,8 @@
   },
   "Uwe Seeler": {
     "file": "assets/player-portraits/105.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Uwe_Seeler_1966_%28cropped%29.jpg/500px-Uwe_Seeler_1966_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
-    "page": "https://commons.wikimedia.org/wiki/File:Uwe_Seeler_1966_(cropped).jpg"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Uwe_Seeler_M%C3%A9xico_70.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Uwe_Seeler_M%C3%A9xico_70.png"
   },
   "Alf Ramsey": {
     "file": "assets/player-portraits/106.webp",
@@ -566,8 +574,8 @@
   },
   "Juan López Fontana": {
     "file": "assets/player-portraits/114.webp",
-    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Fontana.png/120px-Fontana.png",
-    "page": "https://commons.wikimedia.org/wiki/File:Fontana.png"
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/L%C3%B3pez_y_Rimet%2C_Estadio%2C_1950-07-29_%28376%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:L%C3%B3pez_y_Rimet,_Estadio,_1950-07-29_(376).jpg"
   },
   "Obdulio Varela": {
     "file": "assets/player-portraits/115.webp",

@@ -34,8 +34,10 @@ Every played match has `lineup.home` and `lineup.away` arrays of eleven starters
 
 The tournament hero images in `assets/tournament-YYYY-hero.webp` are AI-generated illustrative reconstructions of specific editions. They are labelled as such on the pages and should not be presented as archival photographs.
 
-The 1998 victory parade photograph is [“France 98 2” by Philippe Roos](https://commons.wikimedia.org/wiki/File:France_98_2_(32090133764).jpg), licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The original file is used unmodified; the page crops it to fit the image panel.
+The landing page editorial photographs are local WebP files in `assets/tournament-YYYY-editorial.webp`, each under 100 kB. Their original source URLs are recorded in `assets/tournament-editorial-sources.json`. The files were resized and converted to WebP; the landing page crops them to fit the image panels.
+
+The 1998 victory parade photograph is [“France 98 2” by Philippe Roos](https://commons.wikimedia.org/wiki/File:France_98_2_(32090133764).jpg), licensed under [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). The landing page uses a resized WebP conversion.
 
 The 1962 World Cup photograph shows Garrincha and is from the [Arquivo Nacional collection](https://commons.wikimedia.org/wiki/File:Garrincha_na_copa_de_1962_(cropped).jpg), public domain.
 
-The 2030 image is “FIFA World Cup Trophy photo” by Djuradj Vujcic, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The original file is used unmodified; the page crops it to fit the image panel. [Source](https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg).
+The 2030 image is “FIFA World Cup Trophy photo” by Djuradj Vujcic, licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). The landing page uses a resized WebP conversion; the tournament detail page retains the original JPEG. [Source](https://commons.wikimedia.org/wiki/File:FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg).

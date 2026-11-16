@@ -19,6 +19,7 @@
 .player-profile { display: grid; grid-template-columns: minmax(13rem, 20rem) minmax(0, 1fr); gap: clamp(1.5rem, 3.5vw, 4rem); align-items: start; max-width: var(--content-max); margin-inline: auto; padding: clamp(3.5rem, 6vw, 6.5rem) var(--gutter); border-bottom: 1px solid #c8d9cf; }
 .player-photo { min-width: 0; }
 .player-photo > img { display: block; width: 100%; aspect-ratio: 4/4.8; object-fit: cover; object-position: center top; background: #d9e7dc; }
+.player-photo > img[src*="Hristo-Stoichkov-celebrates"] { object-position: 92% center; }
 .player-photo-credit { display: flex; flex-wrap: wrap; gap: .15rem .6rem; margin-top: .65rem; color: #56736a; font: 500 .66rem/1.5 var(--mono); }
 .player-photo-credit a { color: #18694e; text-underline-offset: .18em; }
 .player-section-label { margin: 0 0 .8rem; color: #187858; }

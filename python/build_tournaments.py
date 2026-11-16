@@ -308,7 +308,7 @@ def build(year: str) -> None:
     hero_all_link = f'<a class="hero-all" href="index.html#tournament-{year}" aria-label="All tournaments; return to {year} on the timeline"><span aria-hidden="true">←</span> All tournaments</a>'
     hero_previous_link = f'<a class="hero-previous" href="world-cup-{previous}.html" aria-label="Previous tournament: {h(tournament_text(previous))}"><span aria-hidden="true">←</span> {h(tournament_text(previous))}</a>' if previous else ""
     hero_following_link = f'<a class="hero-next" href="world-cup-{following}.html" aria-label="Next tournament: {h(tournament_text(following))}">{h(tournament_text(following))} <span aria-hidden="true">→</span></a>' if following else ""
-    photo = f"assets/tournament-{year}-hero.webp" if not is_future else "assets/world-cup-trophy-2030.jpg"
+    photo = f"assets/tournament-{year}-hero.webp" if not is_future else "assets/tournament-2030-editorial.webp"
     caption = f"Illustrative reconstruction of the {year} World Cup" if not is_future else "The World Cup trophy on display"
     hosts = ", ".join(archive.get("host_countries", [])) or archive.get("host_country", host)
     stats = [

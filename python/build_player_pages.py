@@ -186,7 +186,7 @@ def profile_page(profile, sources, credits, coach_wins, placements, tournament_m
     latest_team = list(campaigns)[-1][1] if campaigns else (profile["awards"][0]["team"] if profile["awards"] else "")
     source = sources.get(name)
     image_file = source["file"] if source else "assets/player-portraits/fallback.svg"
-    image_alt = f"Portrait of {name}" if source else f"Illustrated placeholder for {name}"
+    image_alt = source.get("alt", f"Portrait of {name}") if source else f"Illustrated placeholder for {name}"
     credit = credits.get(name)
     photo_credit = ""
     if source:
@@ -274,9 +274,7 @@ def profile_page(profile, sources, credits, coach_wins, placements, tournament_m
   <meta name="theme-color" content="#0c354a">
   <meta name="description" content="{esc(name)} at the World Cup: statistics, honours, match results, lineups and scorers.">
   <title>{esc(name)} | World Cup History</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="fonts.css">
   <link rel="stylesheet" href="tournament.css">
   <link rel="stylesheet" href="player-page.css">
 </head>

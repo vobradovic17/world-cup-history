@@ -113,6 +113,10 @@
 .record-profile:first-child { padding-top: 0; border-top: 0; }
 .record-profile-media { min-width: 0; }
 .record-profile-image { display: block; width: 100%; aspect-ratio: 4/4.5; object-fit: cover; background: #c7dacf; }
+.record-profile-image[src$="/61.webp"] { object-position: center top; }
+.record-profile-image[src$="/46.webp"] { object-position: center top; }
+.record-profile-image[src$="/81.webp"] { object-position: center top; }
+.record-profile-image[src*="Hristo-Stoichkov-celebrates"] { object-position: 92% center; }
 .record-profile-copy h3 { display: flex; align-items: center; gap: .5rem; margin: 0 0 .75rem; color: var(--deep); font: 700 clamp(1.45rem, 2vw, 2rem)/1.1 var(--serif); }
 .record-profile-stats { display: flex; flex-wrap: wrap; gap: .75rem clamp(1.5rem, 3vw, 3rem); width: fit-content; max-width: 100%; margin: 0; padding: .85rem 0; border-top: 1px solid #c4d8ca; }
 .record-profile-stats > div { flex: none; }
