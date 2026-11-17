@@ -84,7 +84,7 @@
 @media (max-width: 500px) {
   .players-page .site-header { gap: .5rem; }
   .players-page .wordmark { gap: .5rem; font-size: .82rem; }
-  .players-page .wordmark-mark { width: 30px; height: 30px; font-size: 1.55rem; flex: none; }
+  .players-page .wordmark-mark { width: 30px; height: 30px; }
   .players-page .site-nav { gap: .5rem; font-size: 12px; }
 }
 @media (prefers-reduced-motion: reduce) {

@@ -174,7 +174,7 @@
 @media (max-width: 480px) {
   .player-page .site-header { gap: .5rem; }
   .player-page .wordmark { gap: .5rem; font-size: .82rem; }
-  .player-page .wordmark-mark { width: 30px; height: 30px; font-size: 1.55rem; flex: none; }
+  .player-page .wordmark-mark { width: 30px; height: 30px; }
   .player-page .site-nav { gap: .5rem; font-size: 12px; }
   .player-hero { min-height: 33rem; }
   .player-hero h1 { font-size: clamp(2.55rem, 11vw, 4rem); }

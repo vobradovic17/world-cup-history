@@ -339,9 +339,7 @@ def build(year: str) -> None:
   <meta name="description" content="{'Preview the 2030 World Cup centenary edition and its six host nations.' if is_future else f'Explore the {year} World Cup in {h(host)}: {h(winner)}, key moments and every match result.'}">
   <title>{h(title)}</title>
   <link rel="icon" type="image/svg+xml" href="assets/logo-football.svg">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="fonts.css">
   <link rel="stylesheet" href="tournament.css">
 </head>
 <body>
