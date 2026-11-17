@@ -25,7 +25,7 @@ a:focus-visible { outline: 3px solid #efc874; outline-offset: 4px; }
 .site-header { min-height: 78px; padding: 12px max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)); display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid rgba(16, 41, 68, .17); color: #102944; background: #eef3ec; }
 .wordmark { display: inline-flex; align-items: center; gap: .8rem; text-decoration: none; font: 700 1.08rem/.84 var(--serif); letter-spacing: -.02em; text-transform: uppercase; }
 .wordmark em { color: var(--brand-green); font-style: normal; }
-.wordmark-mark { display: grid; place-items: center; width: 40px; height: 40px; border: 2px solid #102944; border-radius: 50%; font-size: 2.1rem; line-height: .7; transform: rotate(-24deg); }
+.wordmark-mark { display: block; flex: none; width: 40px; height: 40px; background: url("../assets/logo-football.svg") center / contain no-repeat; }
 .site-nav { display: flex; align-items: center; gap: 2rem; font: 18px var(--mono); letter-spacing: .09em; text-transform: uppercase; }
 .site-nav a { color: #557087; text-decoration: none; }
 .site-nav a:hover, .site-nav a:focus-visible { color: var(--brand-green); }

@@ -26,7 +26,7 @@ button { cursor: pointer; }
 .site-header { min-height: 78px; padding: 12px max(var(--content-gutter), calc((100vw - var(--content-max)) / 2)); display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--line); }
 .wordmark { display: inline-flex; align-items: center; gap: .8rem; text-decoration: none; font: 700 1.08rem/ .84 var(--serif); letter-spacing: -.02em; text-transform: uppercase; }
 .wordmark em { color: var(--brand-green); font-style: normal; }
-.wordmark-mark { display: grid; place-items: center; width: 40px; height: 40px; border: 2px solid var(--ink); border-radius: 50%; font-size: 2.1rem; line-height: .7; transform: rotate(-24deg); }
+.wordmark-mark { display: block; flex: none; width: 40px; height: 40px; background: url("../assets/logo-football.svg") center / contain no-repeat; }
 .band-stat, .timeline-heading, .site-footer, .detail-topline, .detail-footer, .eyebrow, .site-nav { font-family: var(--mono); font-size: 10px; text-transform: uppercase; letter-spacing: .09em; }
 .site-nav { display: flex; align-items: center; gap: 2rem; font-size: 18px; }
 .site-nav a { color: var(--ink-soft); text-decoration: none; }

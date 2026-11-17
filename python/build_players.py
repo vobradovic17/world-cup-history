@@ -188,6 +188,7 @@ page = f'''<!doctype html>
   <meta name="theme-color" content="#0c354a">
   <meta name="description" content="Explore World Cup player records, awards, winning captains and coaches across the tournaments.">
   <title>Players | World Cup History</title>
+  <link rel="icon" type="image/svg+xml" href="assets/logo-football.svg">
   <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/tournament.css">
   <link rel="stylesheet" href="css/players.css">
@@ -195,7 +196,7 @@ page = f'''<!doctype html>
 <body class="players-page">
   <a class="skip-link" href="#player-records">Skip to player records</a>
   <header class="site-header">
-    <a class="wordmark" href="index.html#top" aria-label="World Cup History home"><span class="wordmark-mark" aria-hidden="true">◒</span><span>world cup<br><em>history</em></span></a>
+    <a class="wordmark" href="index.html#top" aria-label="World Cup History home"><span class="wordmark-mark" aria-hidden="true"></span><span>world cup<br><em>history</em></span></a>
     <nav class="site-nav" aria-label="Primary navigation"><a href="index.html">Tournaments</a><a href="teams.html">Teams</a><a class="is-current" aria-current="page" href="players.html">Players</a></nav>
   </header>
   <main>

@@ -338,6 +338,7 @@ def build(year: str) -> None:
   <meta name="theme-color" content="#0c354a">
   <meta name="description" content="{'Preview the 2030 World Cup centenary edition and its six host nations.' if is_future else f'Explore the {year} World Cup in {h(host)}: {h(winner)}, key moments and every match result.'}">
   <title>{h(title)}</title>
+  <link rel="icon" type="image/svg+xml" href="assets/logo-football.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600;1,700&display=swap" rel="stylesheet">
@@ -346,7 +347,7 @@ def build(year: str) -> None:
 <body>
   <a class="skip-link" href="#story">Skip to tournament story</a>
   <header class="site-header">
-    <a class="wordmark" href="index.html#top" aria-label="World Cup History home"><span class="wordmark-mark" aria-hidden="true">◒</span><span>world cup<br><em>history</em></span></a>
+    <a class="wordmark" href="index.html#top" aria-label="World Cup History home"><span class="wordmark-mark" aria-hidden="true"></span><span>world cup<br><em>history</em></span></a>
     <nav class="site-nav" aria-label="Primary navigation"><a class="is-current" href="index.html">Tournaments</a><a href="teams.html">Teams</a><a href="players.html">Players</a></nav>
   </header>
   <main>
