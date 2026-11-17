@@ -1,6 +1,6 @@
 # World Cup History Repo
 
-This is a companion repo for the [worldcuphistory.com](https://worldcuphistory.com/) website.
+This is a companion repo for the [world-cup-history.org](https://world-cup-history.org/) website.
 
 ## Player record profiles
 
